@@ -233,6 +233,8 @@
       <div class="bg-surface-container-lowest border border-outline-variant rounded-xl divide-y divide-surface-container shadow-sm overflow-hidden" id="gamesList"></div>
     </div>
 
+    <div id="liveDayResults" class="mt-12"></div>
+
     <div id="emptyState" class="hidden text-center py-16">
       <span class="material-symbols-outlined text-5xl text-on-surface-variant/40 block mb-4">event_busy</span>
       <h3 class="font-headline font-semibold text-lg text-on-surface">Sin partidos pendientes</h3>
@@ -272,6 +274,10 @@
     </div>
 
     <div id="registroSummary" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 mb-6"></div>
+    <div class="flex flex-wrap items-center gap-2 mb-2">
+      <label class="font-label-sm text-label-sm text-on-surface-variant uppercase" for="registroFecha">Fecha</label>
+      <select id="registroFecha" class="bg-surface-container-lowest border border-outline-variant rounded-lg px-3 py-1.5 font-label-md text-label-md text-on-surface focus:border-primary focus:ring-1 focus:ring-primary appearance-none cursor-pointer"></select>
+    </div>
     <div class="flex items-center gap-2 mb-2 overflow-x-auto pb-1" id="registroFilters"></div>
     <div class="flex items-center gap-2 mb-4 overflow-x-auto pb-2" id="registroEstadoFilters"></div>
 

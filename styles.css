@@ -288,6 +288,7 @@
 .estado-ganado { background: rgba(5,150,105,0.10); color: #047857; }
 .estado-perdido { background: rgba(185,28,28,0.08); color: #B91C1C; }
 .estado-pendiente { background: rgba(212,160,23,0.12); color: #8a6d00; }
+.estado-anulado { background: rgba(107,114,128,0.10); color: #4b5563; }
 
 .win-big { font-family: 'JetBrains Mono', monospace; font-variant-numeric: tabular-nums; }
 .win-big.good { color: #059669; }

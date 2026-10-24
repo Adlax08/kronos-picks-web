@@ -135,11 +135,11 @@
     else if (t.includes("DESTACADO")) { cls = "bg-surface-container border-outline-variant text-on-surface-variant"; dot = "#7e7576"; }
     return `<span class="inline-flex items-center gap-1 px-2 py-0.5 rounded border font-label-sm text-[10px] font-semibold uppercase tracking-wider ${cls}"><span class="w-1.5 h-1.5 rounded-full" style="background:${dot}"></span>${esc(tier)}</span>`;
   }
-  function pickCardHTML(p) {
+  function pickCardHTML(p, estado) {
     return `
       <div class="flex items-center justify-between gap-2 mb-4">
         <span class="font-label-sm text-[11px] text-on-surface-variant tracking-wider uppercase">${esc(p.market)}${p.league_label ? ` · ${esc(p.league_label)}` : ""}</span>
-        ${tierBadge(p.tier)}
+        <span class="flex items-center gap-1.5">${tierBadge(p.tier)}${estado ? estadoBadge(estado) : ""}</span>
       </div>
       <h3 class="font-headline-md text-[17px] leading-snug font-bold text-primary mb-2">${esc(p.match)}</h3>
       <p class="font-body-md text-[14px] text-on-surface-variant font-medium mb-5">Pick: <span class="text-primary font-semibold">${esc(p.pick)}</span></p>
@@ -208,7 +208,7 @@
     });
     return predictions.length;
   }
-  function renderPicks(picks, container, countEl) {
+  function renderPicks(picks, container, countEl, resultsMap) {
     container.innerHTML = "";
     if (!picks || !picks.length) {
       if (countEl) countEl.textContent = "";
@@ -219,14 +219,15 @@
     shown.forEach((p) => {
       const card = document.createElement("div");
       card.className = `pick-card ${tierClass(p.tier)} bg-surface-container-lowest border border-outline-variant rounded-xl p-6 flex flex-col justify-between hover:border-outline transition-colors relative`;
-      card.innerHTML = pickCardHTML(p);
+      const estado = resultsMap ? resultsMap[`${p.match}|${p.market}|${p.pick}`] : null;
+      card.innerHTML = pickCardHTML(p, estado);
       container.appendChild(card);
     });
     animateIn(container);
     countUpAll(container);
     return shown.length;
   }
-  function attachTierFilter(picks, grid, countEl) {
+  function attachTierFilter(picks, grid, countEl, resultsMap) {
     /* Chips para filtrar por clasificación (TOP / MUY BUENO / BUENO / DESTACADO). */
     const scope = grid.parentElement;
     if (!scope) return;
@@ -248,7 +249,7 @@
         chips.forEach((x) => x.classList.remove("on"));
         b.classList.add("on");
         const sub = tier ? picks.filter((p) => tierName(p.tier) === tier) : picks;
-        renderPicks(sub, grid, countEl);
+        renderPicks(sub, grid, countEl, resultsMap);
       });
       return b;
     };
@@ -269,8 +270,11 @@
   /* ═══════════ REGISTRO DE PICKS (últimos 30 días) ═══════════ */
 
   const SPORT_NAMES = { beisbol: "Béisbol", tenis: "Tenis", futbol: "Fútbol", amfut: "NFL/NCAAF", basquet: "Básquetbol" };
-  const ESTADO_CLASS = { GANADO: "estado-ganado", PERDIDO: "estado-perdido", PENDIENTE: "estado-pendiente" };
-  const registroState = { data: null, sport: "ALL", estado: "ALL", prev: null, loading: false };
+  const ESTADO_CLASS = {
+    GANADO: "estado-ganado", PERDIDO: "estado-perdido",
+    PENDIENTE: "estado-pendiente", ANULADO: "estado-anulado",
+  };
+  const registroState = { data: null, sport: "ALL", estado: "ALL", fecha: "ALL", prev: null, loading: false };
 
   function estadoBadge(estado) {
     const cls = ESTADO_CLASS[estado] || "estado-pendiente";
@@ -283,7 +287,7 @@
     return `<div class="bg-surface-container-lowest border border-outline-variant rounded-lg p-3.5">
       <span class="block font-label-sm text-label-sm text-on-surface-variant">${esc(label)}</span>
       <span class="win-big ${big ? "text-[26px]" : "text-[22px]"} font-bold ${cls}">${pct}</span>
-      <span class="block font-label-sm text-[10px] text-on-surface-variant mt-1">${c.ganados || 0}G · ${c.perdidos || 0}P${c.pendientes ? ` · ${c.pendientes} pend.` : ""}</span>
+      <span class="block font-label-sm text-[10px] text-on-surface-variant mt-1">${c.ganados || 0}G · ${c.perdidos || 0}P${c.anulados ? ` · ${c.anulados}A` : ""}${c.pendientes ? ` · ${c.pendientes} pend.` : ""}</span>
     </div>`;
   }
 
@@ -302,7 +306,27 @@
   }
 
   function _picksPorDeporte(d) {
-    return (d.picks || []).filter((p) => registroState.sport === "ALL" || p.deporte === registroState.sport);
+    return (d.picks || []).filter(
+      (p) => (registroState.sport === "ALL" || p.deporte === registroState.sport)
+        && (registroState.fecha === "ALL" || p.fecha === registroState.fecha));
+  }
+
+  function renderRegistroFechas(d) {
+    const sel = $("registroFecha");
+    if (!sel) return;
+    const fechas = [...new Set((d.picks || []).map((p) => p.fecha).filter(Boolean))].sort().reverse();
+    sel.innerHTML = "";
+    sel.add(new Option("Todas las fechas", "ALL"));
+    fechas.forEach((f) => sel.add(new Option(f, f)));
+    sel.value = registroState.fecha;
+    if (!sel.dataset.wired) {
+      sel.addEventListener("change", () => {
+        registroState.fecha = sel.value;
+        renderRegistroFilters(registroState.data);
+        renderRegistroRows();
+      });
+      sel.dataset.wired = "1";
+    }
   }
 
   function _chip(key, label, active, onClick) {
@@ -344,6 +368,9 @@
     }));
     estadoBar.appendChild(_chip("PENDIENTE", `Pendientes (${n("PENDIENTE")})`, registroState.estado === "PENDIENTE", () => {
       registroState.estado = "PENDIENTE"; renderRegistroFilters(d); renderRegistroRows();
+    }));
+    estadoBar.appendChild(_chip("ANULADO", `Anulados (${n("ANULADO")})`, registroState.estado === "ANULADO", () => {
+      registroState.estado = "ANULADO"; renderRegistroFilters(d); renderRegistroRows();
     }));
   }
 
@@ -391,6 +418,7 @@
     let html = registroCard("Total", d.total, true);
     Object.keys(d.by_sport).forEach((s) => { html += registroCard(SPORT_NAMES[s] || s, d.by_sport[s], false); });
     sum.innerHTML = html;
+    renderRegistroFechas(d);
     renderRegistroFilters(d);
     renderRegistroRows();
     const excel = $("btnExcel");
@@ -450,6 +478,81 @@
     if (location.hash === "#registro") openRegistro();
   }
 
+  /* ═══════════ RESULTADOS DE LA JORNADA ═══════════ */
+
+  function _resultsMap(data) {
+    const map = {};
+    ((data && data.picks) || []).forEach((p) => {
+      map[`${p.partido}|${p.mercado}|${p.pick}`] = p.estado;
+    });
+    return map;
+  }
+
+  async function fetchDayResults(day) {
+    try {
+      const r = await api(`/api/resultados?day=${encodeURIComponent(day)}`);
+      if (r && r.ok) return r;
+    } catch (e) { /* modo estático */ }
+    try {
+      const r = await fetch(`data/resultados-${day}.json`);
+      if (r.ok) return await r.json();
+    } catch (e) { /* sin archivo */ }
+    return null;
+  }
+
+  function renderDayResults(container, data) {
+    if (!container) return;
+    const head = `<div class="flex items-center gap-2">
+      <span class="material-symbols-outlined text-primary text-[22px]">fact_check</span>
+      <h2 class="font-headline-lg text-headline-lg font-bold text-primary">Resultados de la Jornada</h2>
+    </div>`;
+    if (!data || !(data.picks || []).length) {
+      container.innerHTML = `<header class="mb-3">${head}
+        <p class="font-label-sm text-label-sm text-on-surface-variant mt-1">Sin picks registrados para esta fecha.</p></header>`;
+      return;
+    }
+    const t = data.total || {};
+    const card = (label, value, cls) => `<div class="bg-surface-container-lowest border border-outline-variant rounded-lg p-3.5">
+      <span class="block font-label-sm text-label-sm text-on-surface-variant">${label}</span>
+      <span class="win-big text-[22px] font-bold ${cls}">${value || 0}</span>
+      <span class="block font-label-sm text-[10px] text-on-surface-variant mt-1">picks</span>
+    </div>`;
+    const rows = (data.picks || []).map((p) => `
+      <tr class="hover:bg-surface-bright transition-colors">
+        <td class="py-2.5 px-4 text-on-surface font-medium col-optional">${esc(SPORT_NAMES[p.deporte] || p.deporte)}</td>
+        <td class="py-2.5 px-4 text-primary font-semibold">${esc(p.partido)}</td>
+        <td class="py-2.5 px-4 text-on-surface-variant font-label-sm text-label-sm col-optional">${esc(p.mercado)}</td>
+        <td class="py-2.5 px-4 font-label-sm text-label-sm font-semibold text-primary">${esc(p.pick)}</td>
+        <td class="py-2.5 px-4 font-label-md text-label-md text-right text-primary">${fmtOdds(p.cuota)}</td>
+        <td class="py-2.5 px-4 font-label-md text-label-md text-right text-primary font-medium">${fmtProb(p.prob)}</td>
+        <td class="py-2.5 px-4 text-center whitespace-nowrap">${estadoBadge(p.estado)}</td>
+      </tr>`).join("");
+    container.innerHTML = `
+      <header class="mb-4">${head}
+        <p class="font-label-sm text-label-sm text-on-surface-variant mt-1">${esc(data.day)} · ${t.n || 0} picks</p>
+      </header>
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-4">
+        ${card("Ganados", t.ganados, "text-accent-emerald")}
+        ${card("Perdidos", t.perdidos, "text-accent-crimson")}
+        ${card("Anulados", t.anulados, "text-on-surface")}
+        ${card("Pendientes", t.pendientes, "text-on-surface")}
+      </div>
+      <div class="bg-surface-container-lowest border border-outline-variant rounded-xl overflow-x-auto shadow-sm">
+        <table class="reg-table w-full text-left border-collapse">
+          <thead><tr class="border-b border-outline-variant bg-surface-bright">
+            <th class="py-2.5 px-4 font-label-sm text-label-sm text-on-surface-variant font-semibold col-optional">DEPORTE</th>
+            <th class="py-2.5 px-4 font-label-sm text-label-sm text-on-surface-variant font-semibold">PARTIDO</th>
+            <th class="py-2.5 px-4 font-label-sm text-label-sm text-on-surface-variant font-semibold col-optional">MERCADO</th>
+            <th class="py-2.5 px-4 font-label-sm text-label-sm text-on-surface-variant font-semibold">PICK</th>
+            <th class="py-2.5 px-4 font-label-sm text-label-sm text-on-surface-variant font-semibold text-right">CUOTA</th>
+            <th class="py-2.5 px-4 font-label-sm text-label-sm text-on-surface-variant font-semibold text-right">PROB.</th>
+            <th class="py-2.5 px-4 font-label-sm text-label-sm text-on-surface-variant font-semibold text-center">ESTADO</th>
+          </tr></thead>
+          <tbody class="divide-y divide-surface-container">${rows}</tbody>
+        </table>
+      </div>`;
+  }
+
   /* ═══════════ MODO EN VIVO ═══════════ */
 
   function renderSportPills() {
@@ -493,8 +596,11 @@
       });
       els.loadingSection.classList.add("hidden");
       els.resultsSection.classList.remove("hidden");
-      renderPicks(data.picks || [], els.picksGrid, els.picksCount);
-      attachTierFilter(data.picks || [], els.picksGrid, els.picksCount);
+      const results = await fetchDayResults(els.dateInput.value);
+      const rmap = _resultsMap(results);
+      renderPicks(data.picks || [], els.picksGrid, els.picksCount, rmap);
+      attachTierFilter(data.picks || [], els.picksGrid, els.picksCount, rmap);
+      renderDayResults($("liveDayResults"), results);
       const n = renderGames(data.predictions || [], els.gamesList);
       if (n === 0) els.emptyState.classList.remove("hidden"); else els.emptyState.classList.add("hidden");
       els.gamesCount.textContent = n ? `(${n})` : "";
@@ -777,6 +883,7 @@
       <div class="font-label-sm text-label-sm text-on-surface-variant mb-6" id="staticDayInfo"></div>
       <div id="staticPanels"></div>
       <div id="staticEmpty" class="hidden"></div>
+      <div id="staticDayResults" class="mt-12"></div>
       <div id="statsSection"></div>`;
 
     const tabs = $("staticDayTabs");
@@ -884,6 +991,9 @@
   async function loadDayAndRender(date) {
     let day = null;
     try { const r = await fetch(`data/picks-${date}.json`); if (r.ok) day = await r.json(); } catch (e) {}
+    let results = null;
+    try { const rr = await fetch(`data/resultados-${date}.json`); if (rr.ok) results = await rr.json(); } catch (e) {}
+    const rmap = _resultsMap(results);
     const info = $("staticDayInfo");
     const panels = $("staticPanels");
     const empty = $("staticEmpty");
@@ -943,11 +1053,12 @@
       const r = res[k] || {};
       const picksEl = panels.querySelector(`[data-picks="${k}"]`);
       const picksCountEl = panels.querySelector(`[data-pickcount="${k}"]`);
-      renderPicks(r.picks || [], picksEl, picksCountEl);
-      attachTierFilter(r.picks || [], picksEl, picksCountEl);
+      renderPicks(r.picks || [], picksEl, picksCountEl, rmap);
+      attachTierFilter(r.picks || [], picksEl, picksCountEl, rmap);
       const n = renderGames(r.predictions || [], panels.querySelector(`[data-games="${k}"]`));
       panels.querySelector(`[data-gamecount="${k}"]`).textContent = n ? `(${n})` : "(sin partidos)";
     });
+    renderDayResults($("staticDayResults"), results);
 
     // Tabs por deporte (solo los que tienen contenido)
     const sportTabs = document.createElement("div");
