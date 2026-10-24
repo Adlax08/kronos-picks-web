@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-24T11:22:51",
- "sports_total": "87 partidos",
+ "generated_at": "2026-10-24T12:25:43",
+ "sports_total": "92 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -286,15 +286,15 @@
     }
    ],
    "message": "1 partidos proyectados",
-   "elapsed_s": 18.1
+   "elapsed_s": 19.4
   },
   "tenis": {
    "ok": true,
    "date": "2026-10-25",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 32,
-   "message": "32 partidos proyectados",
+   "n": 37,
+   "message": "37 partidos proyectados",
    "picks": [
     {
      "match": "Jacob Fearnley vs Lorenzo Sonego",
@@ -528,10 +528,10 @@
      "prob": 0.721,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": "",
+     "note": "EV +4.5% · momio 1.45",
      "edge": null,
-     "ev": null,
-     "odds": null,
+     "ev": 0.045449999999999935,
+     "odds": 1.45,
      "line": null,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
@@ -563,6 +563,21 @@
      "ev": 0.22130000000000005,
      "odds": 1.8,
      "line": null,
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour"
+    },
+    {
+     "match": "Coleman Wong vs Tristan Schoolkate",
+     "market": "SET1 JUEGOS",
+     "pick": "UNDER 9.5",
+     "prob": 0.6706,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": "EV +50.9% · momio 2.25",
+     "edge": 0.28269999999999995,
+     "ev": 0.5088499999999999,
+     "odds": 2.25,
+     "line": 9.5,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
     },
@@ -653,13 +668,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Daniil Medvedev",
-       "prob": 0.6464,
-       "detail": "Daniil Medvedev -0.5 (ref.) · 65%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Nikoloz Basilashvili",
        "prob": 0.5031,
@@ -699,13 +707,6 @@
        "pick": "UNDER",
        "prob": 0.5434,
        "detail": "UNDER 23.5 · 54% · Proyectado 23.3",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Lorenzo Musetti",
-       "prob": 0.5944,
-       "detail": "Lorenzo Musetti +1.5 (ref.) · 59%",
        "strong": false
       },
       {
@@ -751,13 +752,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Lorenzo Sonego",
-       "prob": 0.5229,
-       "detail": "Lorenzo Sonego -1.5 (ref.) · 52%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Lorenzo Sonego",
        "prob": 0.8341000000000001,
@@ -797,13 +791,6 @@
        "pick": "UNDER",
        "prob": 0.529,
        "detail": "UNDER 23.5 · 53% · Proyectado 23.6",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Titouan Droguet",
-       "prob": 0.5198,
-       "detail": "Titouan Droguet -1.5 (ref.) · 52%",
        "strong": false
       },
       {
@@ -849,13 +836,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Tomas Machac",
-       "prob": 0.6676,
-       "detail": "Tomas Machac +0.5 (ref.) · 67%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Tomas Machac",
        "prob": 0.7863,
@@ -895,13 +875,6 @@
        "pick": "OVER",
        "prob": 0.5167,
        "detail": "OVER 23.5 · 52% · Proyectado 24.2",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Yannick Hanfmann",
-       "prob": 0.5081,
-       "detail": "Yannick Hanfmann -0.5 (ref.) · 51%",
        "strong": false
       },
       {
@@ -947,13 +920,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Juan Manuel Cerundolo",
-       "prob": 0.5692,
-       "detail": "Juan Manuel Cerundolo +0.5 (ref.) · 57%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Juan Manuel Cerundolo",
        "prob": 0.7818,
@@ -993,13 +959,6 @@
        "pick": "OVER",
        "prob": 0.5339,
        "detail": "OVER 23.5 · 53% · Proyectado 24.6",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Giovanni Mpetshi Perricard",
-       "prob": 0.5563,
-       "detail": "Giovanni Mpetshi Perricard -0.5 (ref.) · 56%",
        "strong": false
       },
       {
@@ -1045,13 +1004,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Remy Bertola",
-       "prob": 0.5988,
-       "detail": "Remy Bertola +0.5 (ref.) · 60%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Remy Bertola",
        "prob": 0.7639,
@@ -1091,13 +1043,6 @@
        "pick": "OVER",
        "prob": 0.5083,
        "detail": "OVER 22.5 · 51% · Proyectado 22.3",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Katerina Siniakova",
-       "prob": 0.6217,
-       "detail": "Katerina Siniakova +0.5 (ref.) · 62%",
        "strong": false
       },
       {
@@ -1143,13 +1088,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Elena Rybakina",
-       "prob": 0.7394,
-       "detail": "Elena Rybakina -2.5 (ref.) · 74%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Elena Rybakina",
        "prob": 0.7316,
@@ -1189,13 +1127,6 @@
        "pick": "UNDER",
        "prob": 0.5235000000000001,
        "detail": "UNDER 21.5 · 52% · Proyectado 21.4",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Joanna Garland",
-       "prob": 0.5612,
-       "detail": "Joanna Garland -2.5 (ref.) · 56%",
        "strong": false
       },
       {
@@ -1241,13 +1172,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Emerson Jones",
-       "prob": 0.5477,
-       "detail": "Emerson Jones +1.5 (ref.) · 55%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Emerson Jones",
        "prob": 0.6740999999999999,
@@ -1287,13 +1211,6 @@
        "pick": "UNDER",
        "prob": 0.5019,
        "detail": "UNDER 21.5 · 50% · Proyectado 21.9",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Mei Yamaguchi",
-       "prob": 0.5036,
-       "detail": "Mei Yamaguchi -0.5 (ref.) · 50%",
        "strong": false
       },
       {
@@ -1339,13 +1256,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Teodora Kostovic",
-       "prob": 0.5553,
-       "detail": "Teodora Kostovic +3.5 (ref.) · 56%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Teodora Kostovic",
        "prob": 0.5307999999999999,
@@ -1385,13 +1295,6 @@
        "pick": "OVER",
        "prob": 0.5149,
        "detail": "OVER 21.5 · 51% · Proyectado 22.5",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Yulia Putintseva",
-       "prob": 0.599,
-       "detail": "Yulia Putintseva -0.5 (ref.) · 60%",
        "strong": false
       },
       {
@@ -1437,13 +1340,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Kokoro Isomura",
-       "prob": 0.5635,
-       "detail": "Kokoro Isomura -0.5 (ref.) · 56%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Shintaro Imai",
        "prob": 0.6151,
@@ -1483,13 +1379,6 @@
        "pick": "OVER",
        "prob": 0.5254,
        "detail": "OVER 22.5 · 53% · Proyectado 23.7",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Woobin Shin",
-       "prob": 0.73,
-       "detail": "Woobin Shin +2.5 (ref.) · 73%",
        "strong": false
       },
       {
@@ -1535,13 +1424,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Alibek Kachmazov",
-       "prob": 0.6317,
-       "detail": "Alibek Kachmazov -3.5 (ref.) · 63%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Alibek Kachmazov",
        "prob": 0.7879,
@@ -1581,13 +1463,6 @@
        "pick": "UNDER",
        "prob": 0.5638000000000001,
        "detail": "UNDER 23.5 · 56% · Proyectado 22.5",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Alexander Donski",
-       "prob": 0.7643,
-       "detail": "Alexander Donski -0.5 (ref.) · 76%",
        "strong": false
       },
       {
@@ -1648,9 +1523,9 @@
       },
       {
        "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.6054,
-       "detail": "OVER 9.5 · 61% · Proyectado 9.9",
+       "pick": "UNDER",
+       "prob": 0.6706,
+       "detail": "UNDER 9.5 · 67% · Proyectado 9.9",
        "strong": false
       }
      ],
@@ -1679,13 +1554,6 @@
        "pick": "UNDER",
        "prob": 0.5176000000000001,
        "detail": "UNDER 22.5 · 52% · Proyectado 23.6",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Semen Pankin",
-       "prob": 0.5128,
-       "detail": "Semen Pankin -1.5 (ref.) · 51%",
        "strong": false
       },
       {
@@ -1731,13 +1599,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Yusuke Takahashi",
-       "prob": 0.508,
-       "detail": "Yusuke Takahashi +0.5 (ref.) · 51%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Yusuke Takahashi",
        "prob": 0.6408,
@@ -1777,13 +1638,6 @@
        "pick": "UNDER",
        "prob": 0.5332,
        "detail": "UNDER 22.5 · 53% · Proyectado 22.5",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Naoya Honda",
-       "prob": 0.5833,
-       "detail": "Naoya Honda -1.5 (ref.) · 58%",
        "strong": false
       },
       {
@@ -1829,13 +1683,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Yuta Kikuchi",
-       "prob": 0.5639,
-       "detail": "Yuta Kikuchi -0.5 (ref.) · 56%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Yuta Kikuchi",
        "prob": 0.8004,
@@ -1875,13 +1722,6 @@
        "pick": "UNDER",
        "prob": 0.5357000000000001,
        "detail": "UNDER 22.5 · 54% · Proyectado 22.5",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Mitsuki Wei Kang Leong",
-       "prob": 0.6516,
-       "detail": "Mitsuki Wei Kang Leong -1.5 (ref.) · 65%",
        "strong": false
       },
       {
@@ -1927,13 +1767,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Hiroki Moriya",
-       "prob": 0.6645,
-       "detail": "Hiroki Moriya -0.5 (ref.) · 66%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Taisei Ichikawa",
        "prob": 0.5339,
@@ -1973,13 +1806,6 @@
        "pick": "OVER",
        "prob": 0.5484,
        "detail": "OVER 21.5 · 55% · Proyectado 23.1",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Yaroslav Demin",
-       "prob": 0.6614,
-       "detail": "Yaroslav Demin +2.5 (ref.) · 66%",
        "strong": false
       },
       {
@@ -2025,13 +1851,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Yusuke Kusuhara",
-       "prob": 0.5013,
-       "detail": "Yusuke Kusuhara +2.5 (ref.) · 50%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Luca Castelnuovo",
        "prob": 0.5189,
@@ -2074,13 +1893,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Saba Purtseladze",
-       "prob": 0.5502,
-       "detail": "Saba Purtseladze +1.5 (ref.) · 55%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Saba Purtseladze",
        "prob": 0.6248,
@@ -2097,6 +1909,48 @@
      ],
      "convergence": true,
      "momentum_ok": false
+    },
+    {
+     "home": "Leo Raquillet",
+     "away": "Michael Geerts",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "ATP Challenger Brest, France Men Singles, Hard, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Michael Geerts",
+       "prob": 0.8662,
+       "detail": "Leo Raquillet 13% · Michael Geerts 87%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.5346,
+       "detail": "UNDER 20.5 · 53% · Proyectado 21.3",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Michael Geerts",
+       "prob": 0.8965,
+       "detail": "Hándicap Sets -1.5 · 10% · (+866)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "UNDER",
+       "prob": 0.5503,
+       "detail": "UNDER 9.5 · 55% · Proyectado 9.5",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": true
     },
     {
      "home": "Filippo Romano",
@@ -2120,13 +1974,6 @@
        "pick": "OVER",
        "prob": 0.5323,
        "detail": "OVER 23.5 · 53% · Proyectado 24.1",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Filippo Romano",
-       "prob": 0.5595,
-       "detail": "Filippo Romano -0.5 (ref.) · 56%",
        "strong": false
       },
       {
@@ -2168,14 +2015,14 @@
        "label": "Total Juegos O/U",
        "pick": "OVER",
        "prob": 0.5035,
-       "detail": "OVER 23.5 · 50% · Proyectado 23.6",
+       "detail": "OVER 22.5 · 50% · Proyectado 23.6",
        "strong": false
       },
       {
        "label": "Hándicap Juegos",
        "pick": "Alexander Ritschard",
        "prob": 0.5043,
-       "detail": "Alexander Ritschard -1.5 (ref.) · 50%",
+       "detail": "Alexander Ritschard -1.5 (mercado) · 50%",
        "strong": false
       },
       {
@@ -2195,9 +2042,177 @@
      ],
      "convergence": true,
      "momentum_ok": false
+    },
+    {
+     "home": "Mickael Kaouk",
+     "away": "Moez Echargui",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "ATP Challenger Brest, France Men Singles, Hard, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Moez Echargui",
+       "prob": 0.7709,
+       "detail": "Mickael Kaouk 23% · Moez Echargui 77%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.5415,
+       "detail": "UNDER 22.5 · 54% · Proyectado 21.7",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Moez Echargui",
+       "prob": 0.8349,
+       "detail": "Hándicap Sets -1.5 · 17% · (+506)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5384,
+       "detail": "OVER 9.5 · 54% · Proyectado 9.6",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": false
+    },
+    {
+     "home": "Dimitar Kuzmanov",
+     "away": "Robin Catry",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "ATP Challenger Brest, France Men Singles, Hard, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Dimitar Kuzmanov",
+       "prob": 0.5611,
+       "detail": "Dimitar Kuzmanov 56% · Robin Catry 44%",
+       "strong": false
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "OVER",
+       "prob": 0.5072,
+       "detail": "OVER 22.5 · 51% · Proyectado 23.5",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Robin Catry",
+       "prob": 0.6877,
+       "detail": "Hándicap Sets -1.5 · 31% · (+220)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5566,
+       "detail": "OVER 9.5 · 56% · Proyectado 9.9",
+       "strong": false
+      }
+     ],
+     "convergence": false,
+     "momentum_ok": true
+    },
+    {
+     "home": "Benjamin Hassan",
+     "away": "Ryan Peniston",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "ATP Challenger Brest, France Men Singles, Hard, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Ryan Peniston",
+       "prob": 0.5588,
+       "detail": "Benjamin Hassan 44% · Ryan Peniston 56%",
+       "strong": false
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "OVER",
+       "prob": 0.528,
+       "detail": "OVER 22.5 · 53% · Proyectado 23.9",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Ryan Peniston",
+       "prob": 0.7435,
+       "detail": "Hándicap Sets -1.5 · 26% · (+290)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5398,
+       "detail": "OVER 9.5 · 54% · Proyectado 9.8",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": false
+    },
+    {
+     "home": "Lucas Poullain",
+     "away": "Timeo Trufelli",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "ATP Challenger Brest, France Men Singles, Hard, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Lucas Poullain",
+       "prob": 0.7109,
+       "detail": "Lucas Poullain 71% · Timeo Trufelli 29%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.5166,
+       "detail": "UNDER 23.5 · 52% · Proyectado 22.9",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Timeo Trufelli",
+       "prob": 0.513,
+       "detail": "Hándicap Sets -1.5 · 49% · (+105)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.578,
+       "detail": "OVER 9.5 · 58% · Proyectado 9.9",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": true
     }
    ],
-   "elapsed_s": 61.1,
+   "elapsed_s": 77.6,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true
@@ -5048,7 +5063,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 88.5,
+   "elapsed_s": 88.3,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true
@@ -5073,46 +5088,13 @@
      "league_label": "NFL"
     },
     {
-     "match": "San Francisco 49ers @ Atlanta Falcons",
-     "market": "Totales",
-     "pick": "TOTAL: UNDER 49.5",
-     "prob": 0.6319,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=63% · linea 49.5",
-     "league_code": "NFL",
-     "league_label": "NFL"
-    },
-    {
-     "match": "Cleveland Browns @ Tennessee Titans",
-     "market": "Totales",
-     "pick": "TOTAL: OVER 36.5",
-     "prob": 0.6168,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=62% · linea 36.5",
-     "league_code": "NFL",
-     "league_label": "NFL"
-    },
-    {
-     "match": "Cincinnati Bengals @ Baltimore Ravens",
-     "market": "Spread",
-     "pick": "SPREAD: HOME 1.5",
-     "prob": 0.6052,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=61% · linea 1.5",
-     "league_code": "NFL",
-     "league_label": "NFL"
-    },
-    {
      "match": "New York Giants @ Houston Texans",
      "market": "Spread",
-     "pick": "SPREAD: AWAY 10.0",
-     "prob": 0.7898,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=79% · linea -10",
+     "pick": "SPREAD: New York Giants +10",
+     "prob": 0.6565,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=66% · New York Giants +10 · momio 1.95238 · EV +28.2%",
      "league_code": "NFL",
      "league_label": "NFL"
     },
@@ -5124,39 +5106,6 @@
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=74% · momio 1.43478 · EV +5.8%",
-     "league_code": "NFL",
-     "league_label": "NFL"
-    },
-    {
-     "match": "Denver Broncos @ Arizona Cardinals",
-     "market": "Spread",
-     "pick": "SPREAD: AWAY -4.5",
-     "prob": 0.6637,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=66% · linea 4.5",
-     "league_code": "NFL",
-     "league_label": "NFL"
-    },
-    {
-     "match": "Denver Broncos @ Arizona Cardinals",
-     "market": "Totales",
-     "pick": "TOTAL: OVER 43.5",
-     "prob": 0.6499,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=65% · linea 43.5",
-     "league_code": "NFL",
-     "league_label": "NFL"
-    },
-    {
-     "match": "Green Bay Packers @ Detroit Lions",
-     "market": "Totales",
-     "pick": "TOTAL: UNDER 53.5",
-     "prob": 0.6629,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=66% · linea 53.5",
      "league_code": "NFL",
      "league_label": "NFL"
     },
@@ -5192,16 +5141,16 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.5051493961212039,
-       "detail": "Línea 3 · LOCAL 51%",
+       "pick": "New Orleans Saints",
+       "prob": 0.5025747516836384,
+       "detail": "New Orleans Saints +3 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5397114196790319,
-       "detail": "Línea 44.5 · OVER 54% / UNDER 46%",
+       "prob": 0.5198803789885278,
+       "detail": "Línea 44.5 · OVER 52% / UNDER 48%",
        "strong": false
       },
       {
@@ -5234,16 +5183,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.554073105817076,
-       "detail": "Línea 2.5 · VISITANTE 55%",
+       "pick": "San Francisco 49ers",
+       "prob": 0.5270989994601208,
+       "detail": "San Francisco 49ers -2.5 · 53%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.6319239679800426,
-       "detail": "Línea 49.5 · OVER 37% / UNDER 63%",
+       "prob": 0.566895854754123,
+       "detail": "Línea 49.5 · OVER 43% / UNDER 57%",
        "strong": false
       },
       {
@@ -5276,16 +5225,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5387978881702832,
-       "detail": "Línea 2.5 · VISITANTE 54%",
+       "pick": "Cleveland Browns",
+       "prob": 0.5194219463573226,
+       "detail": "Cleveland Browns -2.5 · 52%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.6167543046047572,
-       "detail": "Línea 36.5 · OVER 62% / UNDER 38%",
+       "prob": 0.5590194774300543,
+       "detail": "Línea 36.5 · OVER 56% / UNDER 44%",
        "strong": false
       },
       {
@@ -5318,16 +5267,16 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.5127592278040676,
-       "detail": "Línea -6.5 · LOCAL 51%",
+       "pick": "Minnesota Vikings",
+       "prob": 0.5063804298677623,
+       "detail": "Minnesota Vikings -6.5 · 51%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5185966193390439,
-       "detail": "Línea 41.5 · OVER 52% / UNDER 48%",
+       "prob": 0.5093008369704244,
+       "detail": "Línea 41.5 · OVER 51% / UNDER 49%",
        "strong": false
       },
       {
@@ -5360,16 +5309,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5335849527240575,
-       "detail": "Línea -4.5 · VISITANTE 53%",
+       "pick": "Miami Dolphins",
+       "prob": 0.5168073856749078,
+       "detail": "Miami Dolphins +4.5 · 52%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5594896022445905,
-       "detail": "Línea 39.5 · OVER 56% / UNDER 44%",
+       "prob": 0.5298280575024914,
+       "detail": "Línea 39.5 · OVER 53% / UNDER 47%",
        "strong": false
       },
       {
@@ -5402,16 +5351,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5639628072906951,
-       "detail": "Línea -3 · VISITANTE 56%",
+       "pick": "Tampa Bay Buccaneers",
+       "prob": 0.532085002128477,
+       "detail": "Tampa Bay Buccaneers +3 · 53%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5698190644192043,
-       "detail": "Línea 44.5 · OVER 57% / UNDER 43%",
+       "prob": 0.5350444814323481,
+       "detail": "Línea 44.5 · OVER 54% / UNDER 46%",
        "strong": false
       },
       {
@@ -5444,16 +5393,16 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.6051999831124862,
-       "detail": "Línea 1.5 · LOCAL 61%",
+       "pick": "Baltimore Ravens",
+       "prob": 0.5530674138017333,
+       "detail": "Baltimore Ravens +1.5 · 55%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5411627937249275,
-       "detail": "Línea 47.5 · OVER 46% / UNDER 54%",
+       "prob": 0.5206088772629247,
+       "detail": "Línea 47.5 · OVER 48% / UNDER 52%",
        "strong": false
       },
       {
@@ -5486,15 +5435,15 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.7898215645341771,
-       "detail": "Línea -10 · VISITANTE 79%",
+       "pick": "New York Giants",
+       "prob": 0.6564895212073754,
+       "detail": "New York Giants +10 · 66%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5001352671068449,
+       "prob": 0.5000676335543943,
        "detail": "Línea 42.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
@@ -5528,16 +5477,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.6636809864957618,
-       "detail": "Línea 4.5 · VISITANTE 66%",
+       "pick": "Denver Broncos",
+       "prob": 0.5836598021854525,
+       "detail": "Denver Broncos -4.5 · 58%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.6499056461603324,
-       "detail": "Línea 43.5 · OVER 65% / UNDER 35%",
+       "prob": 0.5763375891432283,
+       "detail": "Línea 43.5 · OVER 58% / UNDER 42%",
        "strong": false
       },
       {
@@ -5570,16 +5519,16 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.5216767938366311,
-       "detail": "Línea -3 · LOCAL 52%",
+       "pick": "Detroit Lions",
+       "prob": 0.510842400475203,
+       "detail": "Detroit Lions -3 · 51%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.662934188358753,
-       "detail": "Línea 53.5 · OVER 34% / UNDER 66%",
+       "prob": 0.58326067764593,
+       "detail": "Línea 53.5 · OVER 42% / UNDER 58%",
        "strong": false
       },
       {
@@ -5612,16 +5561,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5688530489385661,
-       "detail": "Línea 3 · VISITANTE 57%",
+       "pick": "Los Angeles Rams",
+       "prob": 0.5345559148193728,
+       "detail": "Los Angeles Rams -3 · 53%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5761181368836629,
-       "detail": "Línea 48.5 · OVER 42% / UNDER 58%",
+       "prob": 0.5382342586346606,
+       "detail": "Línea 48.5 · OVER 46% / UNDER 54%",
        "strong": false
       },
       {
@@ -5654,16 +5603,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.508462206997519,
-       "detail": "Línea -3 · VISITANTE 51%",
+       "pick": "Kansas City Chiefs",
+       "prob": 0.5042313414959825,
+       "detail": "Kansas City Chiefs +3 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5654168498070229,
-       "detail": "Línea 42.5 · OVER 43% / UNDER 57%",
+       "prob": 0.5328192918910605,
+       "detail": "Línea 42.5 · OVER 47% / UNDER 53%",
        "strong": false
       },
       {
@@ -5678,7 +5627,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 18.0,
+   "elapsed_s": 18.1,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true
@@ -5778,9 +5727,9 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
+       "pick": "Utah Jazz",
        "prob": 0.5001794770392134,
-       "detail": "Línea 10.1 · LOCAL 50%",
+       "detail": "Utah Jazz +10.1 · 50%",
        "strong": false
       },
       {
@@ -5820,9 +5769,9 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
+       "pick": "Indiana Pacers",
        "prob": 0.5001494793941227,
-       "detail": "Línea 6.1 · VISITANTE 50%",
+       "detail": "Indiana Pacers -6.1 · 50%",
        "strong": false
       },
       {
@@ -5862,9 +5811,9 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
+       "pick": "Orlando Magic",
        "prob": 0.5000442588116796,
-       "detail": "Línea -9.8 · VISITANTE 50%",
+       "detail": "Orlando Magic +9.8 · 50%",
        "strong": false
       },
       {
@@ -5904,9 +5853,9 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
+       "pick": "Toronto Raptors",
        "prob": 0.5007941453737086,
-       "detail": "Línea 0.8 · VISITANTE 50%",
+       "detail": "Toronto Raptors -0.8 · 50%",
        "strong": false
       },
       {
@@ -5946,9 +5895,9 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
+       "pick": "Oklahoma City Thunder",
        "prob": 0.5005904392689616,
-       "detail": "Línea -7.9 · LOCAL 50%",
+       "detail": "Oklahoma City Thunder -7.9 · 50%",
        "strong": false
       },
       {
@@ -5988,9 +5937,9 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
+       "pick": "Philadelphia 76ers",
        "prob": 0.5006234996255938,
-       "detail": "Línea 6.1 · LOCAL 50%",
+       "detail": "Philadelphia 76ers +6.1 · 50%",
        "strong": false
       },
       {
@@ -6030,9 +5979,9 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
+       "pick": "Sacramento Kings",
        "prob": 0.5004043246952297,
-       "detail": "Línea -9.7 · LOCAL 50%",
+       "detail": "Sacramento Kings -9.7 · 50%",
        "strong": false
       },
       {
@@ -6054,7 +6003,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 25.8,
+   "elapsed_s": 26.4,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true

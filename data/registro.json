@@ -1,33 +1,34 @@
 {
- "generated_at": "2026-10-24T12:04:43",
+ "generated_at": "2026-10-24T12:25:43",
  "days": 30,
+ "solo_verificables": true,
  "total": {
   "ganados": 144,
   "perdidos": 104,
-  "pendientes": 141,
-  "n": 389,
+  "pendientes": 130,
+  "n": 378,
   "win_pct": 0.581
  },
  "by_sport": {
   "amfut": {
    "ganados": 28,
    "perdidos": 35,
-   "pendientes": 32,
-   "n": 95,
+   "pendientes": 35,
+   "n": 98,
    "win_pct": 0.444
   },
   "basquet": {
    "ganados": 3,
    "perdidos": 0,
-   "pendientes": 18,
-   "n": 21,
+   "pendientes": 24,
+   "n": 27,
    "win_pct": 1.0
   },
   "beisbol": {
    "ganados": 34,
    "perdidos": 21,
-   "pendientes": 5,
-   "n": 60,
+   "pendientes": 0,
+   "n": 55,
    "win_pct": 0.618
   },
   "futbol": {
@@ -40,8 +41,8 @@
   "tenis": {
    "ganados": 13,
    "perdidos": 12,
-   "pendientes": 34,
-   "n": 59,
+   "pendientes": 19,
+   "n": 44,
    "win_pct": 0.52
   }
  },
@@ -49,6 +50,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Baltimore Ravens",
    "visitante": "Cincinnati Bengals",
@@ -63,6 +65,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Tennessee Titans",
    "visitante": "Cleveland Browns",
@@ -77,6 +80,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Arizona Cardinals",
    "visitante": "Denver Broncos",
@@ -91,6 +95,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Arizona Cardinals",
    "visitante": "Denver Broncos",
@@ -105,6 +110,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Arizona Cardinals",
    "visitante": "Denver Broncos",
@@ -119,6 +125,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Detroit Lions",
    "visitante": "Green Bay Packers",
@@ -133,6 +140,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Las Vegas Raiders",
    "visitante": "Los Angeles Rams",
@@ -147,6 +155,22 @@
   {
    "fecha": "2026-10-25",
    "deporte": "amfut",
+   "liga": "NFL",
+   "liga_nombre": "NFL",
+   "local": "Houston Texans",
+   "visitante": "New York Giants",
+   "partido": "New York Giants @ Houston Texans",
+   "mercado": "Spread",
+   "pick": "SPREAD: New York Giants +10",
+   "cuota": null,
+   "prob": 0.6565,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-25",
+   "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Houston Texans",
    "visitante": "New York Giants",
@@ -161,6 +185,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Atlanta Falcons",
    "visitante": "San Francisco 49ers",
@@ -175,6 +200,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Atlanta Falcons",
    "visitante": "San Francisco 49ers",
@@ -189,6 +215,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Philadelphia 76ers",
    "visitante": "Detroit Pistons",
@@ -203,6 +230,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Brooklyn Nets",
    "visitante": "Indiana Pacers",
@@ -217,6 +245,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Oklahoma City Thunder",
    "visitante": "LA Clippers",
@@ -231,6 +260,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Utah Jazz",
    "visitante": "Los Angeles Lakers",
@@ -245,6 +275,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Sacramento Kings",
    "visitante": "Memphis Grizzlies",
@@ -259,6 +290,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "New York Knicks",
    "visitante": "Orlando Magic",
@@ -272,35 +304,8 @@
   },
   {
    "fecha": "2026-10-25",
-   "deporte": "beisbol",
-   "liga_nombre": "Nippon Professional Baseball",
-   "local": "Yokohama BayStars",
-   "visitante": "SoftBank Hawks",
-   "partido": "SoftBank Hawks @ Yokohama BayStars",
-   "mercado": "Run Line",
-   "pick": "RL: HOME 1.5",
-   "cuota": null,
-   "prob": 0.5862,
-   "tier": "DESTACADO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "beisbol",
-   "liga_nombre": "Nippon Professional Baseball",
-   "local": "Yokohama BayStars",
-   "visitante": "SoftBank Hawks",
-   "partido": "SoftBank Hawks @ Yokohama BayStars",
-   "mercado": "Totales",
-   "pick": "TOTAL: UNDER 7.5",
-   "cuota": null,
-   "prob": 0.5639,
-   "tier": "DESTACADO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "FRA",
    "liga_nombre": "Ligue 1",
    "local": "AJ Auxerre",
    "visitante": "Le Mans",
@@ -315,6 +320,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "NED",
    "liga_nombre": "Eredivisie",
    "local": "AZ Alkmaar",
    "visitante": "FC Twente",
@@ -329,6 +335,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "América",
    "visitante": "Pachuca",
@@ -343,6 +350,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "FRA",
    "liga_nombre": "Ligue 1",
    "local": "Angers",
    "visitante": "Lorient",
@@ -357,6 +365,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ITA",
    "liga_nombre": "Serie A",
    "local": "Atalanta",
    "visitante": "Frosinone",
@@ -371,6 +380,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ESP",
    "liga_nombre": "La Liga",
    "local": "Athletic Bilbao",
    "visitante": "Getafe",
@@ -385,6 +395,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Atlas",
    "visitante": "Puebla",
@@ -399,6 +410,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ESP",
    "liga_nombre": "La Liga",
    "local": "Barcelona",
    "visitante": "Real Madrid",
@@ -413,6 +425,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "POR",
    "liga_nombre": "Primeira Liga",
    "local": "C.D. Nacional",
    "visitante": "Braga",
@@ -427,6 +440,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ESP",
    "liga_nombre": "La Liga",
    "local": "Celta Vigo",
    "visitante": "Real Betis",
@@ -441,6 +455,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ENG",
    "liga_nombre": "Premier League",
    "local": "Crystal Palace",
    "visitante": "Newcastle United",
@@ -455,6 +470,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "POR",
    "liga_nombre": "Primeira Liga",
    "local": "Estoril",
    "visitante": "Moreirense",
@@ -469,6 +485,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "NED",
    "liga_nombre": "Eredivisie",
    "local": "Fortuna Sittard",
    "visitante": "Excelsior",
@@ -483,6 +500,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ITA",
    "liga_nombre": "Serie A",
    "local": "Genoa",
    "visitante": "Venezia",
@@ -497,6 +515,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ENG",
    "liga_nombre": "Premier League",
    "local": "Hull City",
    "visitante": "Brentford",
@@ -511,6 +530,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ITA",
    "liga_nombre": "Serie A",
    "local": "Inter",
    "visitante": "Fiorentina",
@@ -525,6 +545,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ITA",
    "liga_nombre": "Serie A",
    "local": "Lecce",
    "visitante": "Juventus",
@@ -539,6 +560,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ENG",
    "liga_nombre": "Premier League",
    "local": "Liverpool",
    "visitante": "Brighton & Hove Albion",
@@ -553,6 +575,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ENG",
    "liga_nombre": "Premier League",
    "local": "Manchester United",
    "visitante": "AFC Bournemouth",
@@ -567,6 +590,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "FRA",
    "liga_nombre": "Ligue 1",
    "local": "Marseille",
    "visitante": "Le Havre AC",
@@ -581,6 +605,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "FRA",
    "liga_nombre": "Ligue 1",
    "local": "Monaco",
    "visitante": "Lille",
@@ -595,6 +620,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "NED",
    "liga_nombre": "Eredivisie",
    "local": "NEC Nijmegen",
    "visitante": "FC Groningen",
@@ -609,6 +635,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "NED",
    "liga_nombre": "Eredivisie",
    "local": "PSV Eindhoven",
    "visitante": "Feyenoord Rotterdam",
@@ -623,6 +650,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Querétaro",
    "visitante": "Cruz Azul",
@@ -637,6 +665,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ESP",
    "liga_nombre": "La Liga",
    "local": "Real Sociedad",
    "visitante": "Levante",
@@ -651,6 +680,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "POR",
    "liga_nombre": "Primeira Liga",
    "local": "Rio Ave",
    "visitante": "FC Famalicao",
@@ -665,6 +695,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "GER",
    "liga_nombre": "Bundesliga",
    "local": "SC Freiburg",
    "visitante": "Bayern Munich",
@@ -679,6 +710,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "NED",
    "liga_nombre": "Eredivisie",
    "local": "Sparta Rotterdam",
    "visitante": "Ajax Amsterdam",
@@ -693,6 +725,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "POR",
    "liga_nombre": "Primeira Liga",
    "local": "Sporting CP",
    "visitante": "Académico de Viseu",
@@ -707,6 +740,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "FRA",
    "liga_nombre": "Ligue 1",
    "local": "Stade Rennais",
    "visitante": "Strasbourg",
@@ -721,6 +755,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ENG",
    "liga_nombre": "Premier League",
    "local": "Sunderland",
    "visitante": "Leeds United",
@@ -735,6 +770,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "GER",
    "liga_nombre": "Bundesliga",
    "local": "TSG Hoffenheim",
    "visitante": "Bayer Leverkusen",
@@ -749,6 +785,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Tijuana",
    "visitante": "Santos",
@@ -763,6 +800,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "FRA",
    "liga_nombre": "Ligue 1",
    "local": "Toulouse",
    "visitante": "Troyes",
@@ -777,6 +815,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "futbol",
+   "liga": "ITA",
    "liga_nombre": "Serie A",
    "local": "Udinese",
    "visitante": "AC Milan",
@@ -791,34 +830,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Alexander Donski",
-   "visitante": "Yun Seong Chung",
-   "partido": "Alexander Donski vs Yun Seong Chung",
-   "mercado": "ML",
-   "pick": "Alexander Donski",
-   "cuota": 1.63,
-   "prob": 0.8239,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Alexander Ritschard",
-   "visitante": "Svyatoslav Gulin",
-   "partido": "Alexander Ritschard vs Svyatoslav Gulin",
-   "mercado": "ML",
-   "pick": "Alexander Ritschard",
-   "cuota": null,
-   "prob": 0.721,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Anastasia Zakharova",
    "visitante": "Teodora Kostovic",
@@ -833,6 +845,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Daniel Altmaier",
    "visitante": "Juan Manuel Cerundolo",
@@ -847,6 +860,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Daniil Medvedev",
    "visitante": "Nikoloz Basilashvili",
@@ -861,20 +875,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Dimitris Sakellaridis",
-   "visitante": "Yuta Kikuchi",
-   "partido": "Dimitris Sakellaridis vs Yuta Kikuchi",
-   "mercado": "ML",
-   "pick": "Yuta Kikuchi",
-   "cuota": 2.37,
-   "prob": 0.6825,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Elena Rybakina",
    "visitante": "Leylah Fernandez",
@@ -889,34 +890,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Filip Peliwo",
-   "visitante": "Saba Purtseladze",
-   "partido": "Filip Peliwo vs Saba Purtseladze",
-   "mercado": "ML",
-   "pick": "Filip Peliwo",
-   "cuota": null,
-   "prob": 0.6118,
-   "tier": "BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Filippo Romano",
-   "visitante": "Michele Ribecai",
-   "partido": "Filippo Romano vs Michele Ribecai",
-   "mercado": "ML",
-   "pick": "Filippo Romano",
-   "cuota": null,
-   "prob": 0.6667,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Harriet Dart",
    "visitante": "Mei Yamaguchi",
@@ -931,20 +905,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Hiroki Moriya",
-   "visitante": "Taisei Ichikawa",
-   "partido": "Hiroki Moriya vs Taisei Ichikawa",
-   "mercado": "ML",
-   "pick": "Hiroki Moriya",
-   "cuota": null,
-   "prob": 0.7925,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Jacob Fearnley",
    "visitante": "Lorenzo Sonego",
@@ -959,6 +920,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Joanna Garland",
    "visitante": "Tatiana Prozorova",
@@ -973,34 +935,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Kokoro Isomura",
-   "visitante": "Shintaro Imai",
-   "partido": "Kokoro Isomura vs Shintaro Imai",
-   "mercado": "ML",
-   "pick": "Kokoro Isomura",
-   "cuota": 1.8,
-   "prob": 0.6785,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Luca Castelnuovo",
-   "visitante": "Yusuke Kusuhara",
-   "partido": "Luca Castelnuovo vs Yusuke Kusuhara",
-   "mercado": "ML",
-   "pick": "Luca Castelnuovo",
-   "cuota": null,
-   "prob": 0.7743,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Lukas Neumayer",
    "visitante": "Titouan Droguet",
@@ -1015,62 +950,7 @@
   {
    "fecha": "2026-10-25",
    "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Martin Borisiouk",
-   "visitante": "Yaroslav Demin",
-   "partido": "Martin Borisiouk vs Yaroslav Demin",
-   "mercado": "ML",
-   "pick": "Yaroslav Demin",
-   "cuota": null,
-   "prob": 0.5404,
-   "tier": "DESTACADO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Maxim Zhukov",
-   "visitante": "Semen Pankin",
-   "partido": "Maxim Zhukov vs Semen Pankin",
-   "mercado": "ML",
-   "pick": "Semen Pankin",
-   "cuota": null,
-   "prob": 0.7691,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Mitsuki Wei Kang Leong",
-   "visitante": "Qian Sun",
-   "partido": "Mitsuki Wei Kang Leong vs Qian Sun",
-   "mercado": "ML",
-   "pick": "Mitsuki Wei Kang Leong",
-   "cuota": null,
-   "prob": 0.8647,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Naoya Honda",
-   "visitante": "Ryuki Matsuda",
-   "partido": "Naoya Honda vs Ryuki Matsuda",
-   "mercado": "ML",
-   "pick": "Naoya Honda",
-   "cuota": null,
-   "prob": 0.8426,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Rinky Hijikata",
    "visitante": "Yannick Hanfmann",
@@ -1083,22 +963,9 @@
    "estado": "PENDIENTE"
   },
   {
-   "fecha": "2026-10-25",
-   "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Thomas Fancutt",
-   "visitante": "Woobin Shin",
-   "partido": "Thomas Fancutt vs Woobin Shin",
-   "mercado": "ML",
-   "pick": "Woobin Shin",
-   "cuota": 2.75,
-   "prob": 0.5827,
-   "tier": "DESTACADO",
-   "estado": "PENDIENTE"
-  },
-  {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "UCF Knights",
    "visitante": "BYU Cougars",
@@ -1113,6 +980,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Georgia Tech Yellow Jackets",
    "visitante": "Boston College Eagles",
@@ -1127,6 +995,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Oklahoma State Cowboys",
    "visitante": "Colorado Buffaloes",
@@ -1141,6 +1010,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Oklahoma State Cowboys",
    "visitante": "Colorado Buffaloes",
@@ -1155,6 +1025,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Michigan Wolverines",
    "visitante": "Indiana Hoosiers",
@@ -1169,6 +1040,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Minnesota Golden Gophers",
    "visitante": "Iowa Hawkeyes",
@@ -1183,6 +1055,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Arizona Wildcats",
    "visitante": "Iowa State Cyclones",
@@ -1197,6 +1070,22 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
+   "liga_nombre": "NCAAF (College)",
+   "local": "UCLA Bruins",
+   "visitante": "Michigan State Spartans",
+   "partido": "Michigan State Spartans @ UCLA Bruins",
+   "mercado": "Spread",
+   "pick": "SPREAD: Michigan State Spartans +16.5",
+   "cuota": null,
+   "prob": 0.6003,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-24",
+   "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "UCLA Bruins",
    "visitante": "Michigan State Spartans",
@@ -1211,6 +1100,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "UCLA Bruins",
    "visitante": "Michigan State Spartans",
@@ -1225,6 +1115,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Mississippi State Bulldogs",
    "visitante": "Oklahoma Sooners",
@@ -1239,6 +1130,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Mississippi State Bulldogs",
    "visitante": "Oklahoma Sooners",
@@ -1253,6 +1145,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "South Carolina Gamecocks",
    "visitante": "Tennessee Volunteers",
@@ -1267,6 +1160,22 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
+   "liga_nombre": "NCAAF (College)",
+   "local": "South Carolina Gamecocks",
+   "visitante": "Tennessee Volunteers",
+   "partido": "Tennessee Volunteers @ South Carolina Gamecocks",
+   "mercado": "Spread",
+   "pick": "SPREAD: Tennessee Volunteers +2.5",
+   "cuota": null,
+   "prob": 0.6052,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-24",
+   "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "South Carolina Gamecocks",
    "visitante": "Tennessee Volunteers",
@@ -1281,6 +1190,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Alabama Crimson Tide",
    "visitante": "Texas A&M Aggies",
@@ -1295,6 +1205,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Cincinnati Bearcats",
    "visitante": "Texas Tech Red Raiders",
@@ -1309,6 +1220,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Cincinnati Bearcats",
    "visitante": "Texas Tech Red Raiders",
@@ -1323,6 +1235,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Cincinnati Bearcats",
    "visitante": "Texas Tech Red Raiders",
@@ -1337,6 +1250,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Kentucky Wildcats",
    "visitante": "Vanderbilt Commodores",
@@ -1351,6 +1265,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Kentucky Wildcats",
    "visitante": "Vanderbilt Commodores",
@@ -1365,6 +1280,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Clemson Tigers",
    "visitante": "Virginia Tech Hokies",
@@ -1379,6 +1295,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "TCU Horned Frogs",
    "visitante": "West Virginia Mountaineers",
@@ -1393,6 +1310,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "WNBA",
    "liga_nombre": "WNBA",
    "local": "Atlanta Dream",
    "visitante": "Golden State Valkyries",
@@ -1407,6 +1325,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "WNBA",
    "liga_nombre": "WNBA",
    "local": "Atlanta Dream",
    "visitante": "Golden State Valkyries",
@@ -1421,6 +1340,22 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Phoenix Suns",
+   "visitante": "Golden State Warriors",
+   "partido": "Golden State Warriors @ Phoenix Suns",
+   "mercado": "Spread",
+   "pick": "SPREAD: Golden State Warriors +9.5",
+   "cuota": null,
+   "prob": 0.6293,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-24",
+   "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Phoenix Suns",
    "visitante": "Golden State Warriors",
@@ -1435,6 +1370,22 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Atlanta Hawks",
+   "visitante": "Houston Rockets",
+   "partido": "Houston Rockets @ Atlanta Hawks",
+   "mercado": "Spread",
+   "pick": "SPREAD: Houston Rockets +1.5",
+   "cuota": null,
+   "prob": 0.6423,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-24",
+   "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Atlanta Hawks",
    "visitante": "Houston Rockets",
@@ -1449,6 +1400,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Charlotte Hornets",
    "visitante": "Miami Heat",
@@ -1463,6 +1415,22 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Charlotte Hornets",
+   "visitante": "Miami Heat",
+   "partido": "Miami Heat @ Charlotte Hornets",
+   "mercado": "Spread",
+   "pick": "SPREAD: Charlotte Hornets +3.5",
+   "cuota": null,
+   "prob": 0.7416,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-24",
+   "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Charlotte Hornets",
    "visitante": "Miami Heat",
@@ -1477,6 +1445,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Charlotte Hornets",
    "visitante": "Miami Heat",
@@ -1491,6 +1460,22 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Philadelphia 76ers",
+   "visitante": "Milwaukee Bucks",
+   "partido": "Milwaukee Bucks @ Philadelphia 76ers",
+   "mercado": "Spread",
+   "pick": "SPREAD: Milwaukee Bucks +12.5",
+   "cuota": null,
+   "prob": 0.6601,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-24",
+   "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Philadelphia 76ers",
    "visitante": "Milwaukee Bucks",
@@ -1505,6 +1490,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Philadelphia 76ers",
    "visitante": "Milwaukee Bucks",
@@ -1519,6 +1505,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Denver Nuggets",
    "visitante": "New Orleans Pelicans",
@@ -1533,6 +1520,22 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Dallas Mavericks",
+   "visitante": "San Antonio Spurs",
+   "partido": "San Antonio Spurs @ Dallas Mavericks",
+   "mercado": "Spread",
+   "pick": "SPREAD: Dallas Mavericks +13.5",
+   "cuota": null,
+   "prob": 0.6052,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-24",
+   "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Chicago Bulls",
    "visitante": "Washington Wizards",
@@ -1547,6 +1550,22 @@
   {
    "fecha": "2026-10-24",
    "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Chicago Bulls",
+   "visitante": "Washington Wizards",
+   "partido": "Washington Wizards @ Chicago Bulls",
+   "mercado": "Spread",
+   "pick": "SPREAD: Chicago Bulls -2.5",
+   "cuota": null,
+   "prob": 0.6171,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-24",
+   "deporte": "basquet",
+   "liga": "NBA",
    "liga_nombre": "NBA",
    "local": "Chicago Bulls",
    "visitante": "Washington Wizards",
@@ -1560,35 +1579,8 @@
   },
   {
    "fecha": "2026-10-24",
-   "deporte": "beisbol",
-   "liga_nombre": "Nippon Professional Baseball",
-   "local": "Yokohama BayStars",
-   "visitante": "SoftBank Hawks",
-   "partido": "SoftBank Hawks @ Yokohama BayStars",
-   "mercado": "Run Line",
-   "pick": "RL: HOME 1.5",
-   "cuota": null,
-   "prob": 0.5862,
-   "tier": "DESTACADO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-24",
-   "deporte": "beisbol",
-   "liga_nombre": "Nippon Professional Baseball",
-   "local": "Yokohama BayStars",
-   "visitante": "SoftBank Hawks",
-   "partido": "SoftBank Hawks @ Yokohama BayStars",
-   "mercado": "Totales",
-   "pick": "TOTAL: UNDER 7.5",
-   "cuota": null,
-   "prob": 0.5639,
-   "tier": "DESTACADO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "NED",
    "liga_nombre": "Eredivisie",
    "local": "ADO Den Haag",
    "visitante": "Heerenveen",
@@ -1603,6 +1595,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "KSA",
    "liga_nombre": "Saudi Pro League",
    "local": "Al Kholood",
    "visitante": "Al Ettifaq",
@@ -1617,6 +1610,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "KSA",
    "liga_nombre": "Saudi Pro League",
    "local": "Al Riyadh",
    "visitante": "Al Taawoun",
@@ -1631,6 +1625,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "POR",
    "liga_nombre": "Primeira Liga",
    "local": "Alverca",
    "visitante": "Arouca",
@@ -1645,6 +1640,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "ESP",
    "liga_nombre": "La Liga",
    "local": "Atletico Madrid",
    "visitante": "Deportivo",
@@ -1659,6 +1655,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "GER",
    "liga_nombre": "Bundesliga",
    "local": "Borussia Dortmund",
    "visitante": "Eintracht Frankfurt",
@@ -1673,6 +1670,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "ENG",
    "liga_nombre": "Premier League",
    "local": "Chelsea",
    "visitante": "Tottenham Hotspur",
@@ -1687,6 +1685,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "POR",
    "liga_nombre": "Primeira Liga",
    "local": "Gil Vicente",
    "visitante": "FC Porto",
@@ -1701,6 +1700,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "ITA",
    "liga_nombre": "Serie A",
    "local": "Lazio",
    "visitante": "Parma",
@@ -1715,6 +1715,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "FRA",
    "liga_nombre": "Ligue 1",
    "local": "Lens",
    "visitante": "Paris FC",
@@ -1729,6 +1730,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "León",
    "visitante": "Toluca",
@@ -1736,13 +1738,14 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8272815087911296,
+   "prob": 0.8269769752832106,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Monterrey",
    "visitante": "Guadalajara",
@@ -1750,13 +1753,14 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8290141059370673,
+   "prob": 0.8285297974156578,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "ITA",
    "liga_nombre": "Serie A",
    "local": "Napoli",
    "visitante": "Roma",
@@ -1771,6 +1775,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Pumas UNAM",
    "visitante": "Tigres UANL",
@@ -1778,13 +1783,14 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.7758683495596057,
+   "prob": 0.7753276198154451,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "ESP",
    "liga_nombre": "La Liga",
    "local": "Valencia",
    "visitante": "Villarreal",
@@ -1799,6 +1805,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "futbol",
+   "liga": "NED",
    "liga_nombre": "Eredivisie",
    "local": "Willem II",
    "visitante": "SC Cambuur",
@@ -1813,6 +1820,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Adrian Mannarino",
    "visitante": "Thiago Agustin Tirante",
@@ -1827,6 +1835,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Adrian Mannarino",
    "visitante": "Thiago Agustin Tirante",
@@ -1841,6 +1850,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Alevtina Ibragimova",
    "visitante": "Polina Iatcenko",
@@ -1855,6 +1865,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Alycia Parks",
    "visitante": "Heather Watson",
@@ -1869,6 +1880,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Carol Young Suh Lee",
    "visitante": "Elena Pridankina",
@@ -1883,34 +1895,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Felipe Meligeni Alves",
-   "visitante": "Valerio Aboian",
-   "partido": "Felipe Meligeni Alves vs Valerio Aboian",
-   "mercado": "ML",
-   "pick": "Felipe Meligeni Alves",
-   "cuota": null,
-   "prob": 0.8183,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-24",
-   "deporte": "tenis",
-   "liga_nombre": "ATP Challenger Tour",
-   "local": "Gustavo Heide",
-   "visitante": "Matheus Pucinelli De Almeida",
-   "partido": "Gustavo Heide vs Matheus Pucinelli De Almeida",
-   "mercado": "ML",
-   "pick": "Gustavo Heide",
-   "cuota": null,
-   "prob": 0.8362,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-24",
-   "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Jakub Paul",
    "visitante": "Remy Bertola",
@@ -1925,6 +1910,7 @@
   {
    "fecha": "2026-10-24",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Mai Hontama",
    "visitante": "Maya Joint",
@@ -1939,6 +1925,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "San Francisco 49ers",
    "visitante": "Arizona Cardinals",
@@ -1953,6 +1940,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "San Francisco 49ers",
    "visitante": "Arizona Cardinals",
@@ -1967,6 +1955,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "San Francisco 49ers",
    "visitante": "Arizona Cardinals",
@@ -1981,6 +1970,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Dallas Cowboys",
    "visitante": "Baltimore Ravens",
@@ -1995,6 +1985,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Dallas Cowboys",
    "visitante": "Baltimore Ravens",
@@ -2009,6 +2000,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Indianapolis Colts",
    "visitante": "Houston Texans",
@@ -2023,6 +2015,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Indianapolis Colts",
    "visitante": "Houston Texans",
@@ -2037,6 +2030,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Indianapolis Colts",
    "visitante": "Houston Texans",
@@ -2051,6 +2045,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Miami Dolphins",
    "visitante": "Kansas City Chiefs",
@@ -2065,6 +2060,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Miami Dolphins",
    "visitante": "Kansas City Chiefs",
@@ -2079,6 +2075,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "New Orleans Saints",
    "visitante": "Las Vegas Raiders",
@@ -2093,6 +2090,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Buffalo Bills",
    "visitante": "Los Angeles Chargers",
@@ -2107,6 +2105,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Buffalo Bills",
    "visitante": "Los Angeles Chargers",
@@ -2121,6 +2120,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Buffalo Bills",
    "visitante": "Los Angeles Chargers",
@@ -2135,6 +2135,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Jacksonville Jaguars",
    "visitante": "New England Patriots",
@@ -2149,6 +2150,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "Detroit Lions",
    "visitante": "New York Jets",
@@ -2163,6 +2165,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "New York Giants",
    "visitante": "Tennessee Titans",
@@ -2177,6 +2180,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "New York Giants",
    "visitante": "Tennessee Titans",
@@ -2191,6 +2195,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "amfut",
+   "liga": "NFL",
    "liga_nombre": "NFL",
    "local": "New York Giants",
    "visitante": "Tennessee Titans",
@@ -2205,6 +2210,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "basquet",
+   "liga": "WNBA",
    "liga_nombre": "WNBA",
    "local": "Las Vegas Aces",
    "visitante": "Indiana Fever",
@@ -2219,6 +2225,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "basquet",
+   "liga": "WNBA",
    "liga_nombre": "WNBA",
    "local": "Minnesota Lynx",
    "visitante": "New York Liberty",
@@ -2233,6 +2240,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "basquet",
+   "liga": "WNBA",
    "liga_nombre": "WNBA",
    "local": "Atlanta Dream",
    "visitante": "Washington Mystics",
@@ -2247,6 +2255,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "San Diego Padres",
    "visitante": "Arizona Diamondbacks",
@@ -2261,6 +2270,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Toronto Blue Jays",
    "visitante": "Cincinnati Reds",
@@ -2275,6 +2285,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Chicago White Sox",
    "visitante": "Colorado Rockies",
@@ -2289,6 +2300,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "KBO",
    "liga_nombre": "KBO League",
    "local": "Lotte Giants",
    "visitante": "Hanwha Eagles",
@@ -2303,6 +2315,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Yokohama BayStars",
    "visitante": "Hiroshima Carp",
@@ -2317,6 +2330,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "KBO",
    "liga_nombre": "KBO League",
    "local": "Doosan Bears",
    "visitante": "KT Wiz",
@@ -2331,6 +2345,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "KBO",
    "liga_nombre": "KBO League",
    "local": "NC Dinos",
    "visitante": "Kiwoom Heroes",
@@ -2345,20 +2360,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
-   "liga_nombre": "KBO League",
-   "local": "Kia Tigers",
-   "visitante": "LG Twins",
-   "partido": "LG Twins @ Kia Tigers",
-   "mercado": "Moneyline",
-   "pick": "LG Twins",
-   "cuota": null,
-   "prob": 0.5941000000000001,
-   "tier": "DESTACADO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-09-27",
-   "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Seattle Mariners",
    "visitante": "Los Angeles Angels",
@@ -2373,6 +2375,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Washington Nationals",
    "visitante": "New York Mets",
@@ -2387,6 +2390,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Lotte Marines",
    "visitante": "Nippon-Ham Fighters",
@@ -2401,6 +2405,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Lotte Marines",
    "visitante": "Nippon-Ham Fighters",
@@ -2415,6 +2420,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "SoftBank Hawks",
    "visitante": "Orix Buffaloes",
@@ -2429,6 +2435,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "SoftBank Hawks",
    "visitante": "Orix Buffaloes",
@@ -2443,6 +2450,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Seibu Lions",
    "visitante": "Rakuten Golden Eagles",
@@ -2457,6 +2465,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Milwaukee Brewers",
    "visitante": "St. Louis Cardinals",
@@ -2471,6 +2480,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Minnesota Twins",
    "visitante": "Texas Rangers",
@@ -2485,6 +2495,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Yomiuri Giants",
    "visitante": "Yakult Swallows",
@@ -2499,6 +2510,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Yomiuri Giants",
    "visitante": "Yakult Swallows",
@@ -2513,6 +2525,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "CDR",
    "liga_nombre": "Copa del Rey",
    "local": "Auriense Cented Academy",
    "visitante": "CD San José",
@@ -2527,6 +2540,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Austria",
    "visitante": "Kosovo",
@@ -2541,6 +2555,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Bolivia",
    "visitante": "Paraguay",
@@ -2555,6 +2570,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "CDR",
    "liga_nombre": "Copa del Rey",
    "local": "CF San Rafael",
    "visitante": "AE Prat",
@@ -2569,6 +2585,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "CDR",
    "liga_nombre": "Copa del Rey",
    "local": "CP Talayuela",
    "visitante": "Sporting de Alcázar",
@@ -2583,6 +2600,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "China",
    "visitante": "New Zealand",
@@ -2597,6 +2615,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Cook Islands",
    "visitante": "Tahiti",
@@ -2611,6 +2630,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
    "local": "Curaçao",
    "visitante": "Nicaragua",
@@ -2625,6 +2645,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Denmark",
    "visitante": "Wales",
@@ -2639,6 +2660,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
    "local": "Dominica",
    "visitante": "Puerto Rico",
@@ -2653,6 +2675,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Fiji",
    "visitante": "Papua New Guinea",
@@ -2667,6 +2690,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Germany",
    "visitante": "Greece",
@@ -2681,6 +2705,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Gibraltar",
    "visitante": "Andorra",
@@ -2695,6 +2720,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
    "local": "Guyana",
    "visitante": "Cayman Islands",
@@ -2709,6 +2735,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
    "local": "Haiti",
    "visitante": "Costa Rica",
@@ -2723,6 +2750,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Israel",
    "visitante": "Republic of Ireland",
@@ -2737,6 +2765,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Jordan",
    "visitante": "Syria",
@@ -2751,6 +2780,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Kyrgyz Republic",
    "visitante": "Maldives",
@@ -2765,6 +2795,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "León",
    "visitante": "FC Juarez",
@@ -2779,6 +2810,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Lithuania",
    "visitante": "Azerbaijan",
@@ -2793,6 +2825,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Malta",
    "visitante": "Liechtenstein",
@@ -2807,6 +2840,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "CDR",
    "liga_nombre": "Copa del Rey",
    "local": "Maracena",
    "visitante": "Tavernes de la Valldigna",
@@ -2821,6 +2855,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Necaxa",
    "visitante": "América",
@@ -2835,6 +2870,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Norway",
    "visitante": "Portugal",
@@ -2849,6 +2885,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Pumas UNAM",
    "visitante": "Atlético de San Luis",
@@ -2863,6 +2900,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Serbia",
    "visitante": "Netherlands",
@@ -2877,6 +2915,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Seychelles",
    "visitante": "Sri Lanka",
@@ -2891,6 +2930,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "CDR",
    "liga_nombre": "Copa del Rey",
    "local": "Sporting Hortaleza",
    "visitante": "Atlético Unión Güímar",
@@ -2905,6 +2945,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
    "local": "Trinidad and Tobago",
    "visitante": "Dominican Republic",
@@ -2919,6 +2960,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Vanuatu",
    "visitante": "New Caledonia",
@@ -2933,6 +2975,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Alejandro Davidovich Fokina",
    "visitante": "Alexandre Muller",
@@ -2947,6 +2990,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Anastasia Tikhonova",
    "visitante": "Viktoria Hruncakova",
@@ -2961,6 +3005,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Berfu Cengiz",
    "visitante": "Teodora Kostovic",
@@ -2975,6 +3020,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Chak Lam Coleman Wong",
    "visitante": "Daniil Medvedev",
@@ -2989,6 +3035,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Elena Micic",
    "visitante": "Erika Andreeva",
@@ -3003,6 +3050,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Fiona Crawley",
    "visitante": "Lois Boisson",
@@ -3017,6 +3065,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Hubert Hurkacz",
    "visitante": "Lloyd Harris",
@@ -3031,6 +3080,7 @@
   {
    "fecha": "2026-09-27",
    "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Jenson Brooksby",
    "visitante": "Nikoloz Basilashvili",
@@ -3045,6 +3095,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Washington State Cougars",
    "visitante": "Arizona Wildcats",
@@ -3059,6 +3110,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Pittsburgh Panthers",
    "visitante": "Bucknell Bison",
@@ -3073,6 +3125,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Pittsburgh Panthers",
    "visitante": "Bucknell Bison",
@@ -3087,6 +3140,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Florida State Seminoles",
    "visitante": "Central Arkansas Bears",
@@ -3101,6 +3155,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Florida State Seminoles",
    "visitante": "Central Arkansas Bears",
@@ -3115,6 +3170,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Virginia Cavaliers",
    "visitante": "Delaware Blue Hens",
@@ -3129,6 +3185,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Georgia Southern Eagles",
    "visitante": "Houston Cougars",
@@ -3143,6 +3200,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Georgia Southern Eagles",
    "visitante": "Houston Cougars",
@@ -3157,6 +3215,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Ohio State Buckeyes",
    "visitante": "Illinois Fighting Illini",
@@ -3171,6 +3230,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Ohio State Buckeyes",
    "visitante": "Illinois Fighting Illini",
@@ -3185,6 +3245,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Michigan Wolverines",
    "visitante": "Iowa Hawkeyes",
@@ -3199,6 +3260,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Michigan Wolverines",
    "visitante": "Iowa Hawkeyes",
@@ -3213,6 +3275,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Mississippi State Bulldogs",
    "visitante": "Missouri Tigers",
@@ -3227,6 +3290,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Mississippi State Bulldogs",
    "visitante": "Missouri Tigers",
@@ -3241,6 +3305,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Mississippi State Bulldogs",
    "visitante": "Missouri Tigers",
@@ -3255,6 +3320,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Georgia Bulldogs",
    "visitante": "Oklahoma Sooners",
@@ -3269,6 +3335,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "West Virginia Mountaineers",
    "visitante": "Oklahoma State Cowboys",
@@ -3283,6 +3350,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "West Virginia Mountaineers",
    "visitante": "Oklahoma State Cowboys",
@@ -3297,6 +3365,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "West Virginia Mountaineers",
    "visitante": "Oklahoma State Cowboys",
@@ -3311,6 +3380,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Florida Gators",
    "visitante": "Ole Miss Rebels",
@@ -3325,6 +3395,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Florida Gators",
    "visitante": "Ole Miss Rebels",
@@ -3339,6 +3410,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Florida Gators",
    "visitante": "Ole Miss Rebels",
@@ -3353,6 +3425,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "USC Trojans",
    "visitante": "Oregon Ducks",
@@ -3367,6 +3440,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Texas Tech Red Raiders",
    "visitante": "Sam Houston Bearkats",
@@ -3381,6 +3455,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Texas Tech Red Raiders",
    "visitante": "Sam Houston Bearkats",
@@ -3395,6 +3470,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Kentucky Wildcats",
    "visitante": "South Alabama Jaguars",
@@ -3409,6 +3485,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Alabama Crimson Tide",
    "visitante": "South Carolina Gamecocks",
@@ -3423,6 +3500,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "LSU Tigers",
    "visitante": "Texas A&M Aggies",
@@ -3437,6 +3515,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "LSU Tigers",
    "visitante": "Texas A&M Aggies",
@@ -3451,6 +3530,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Maryland Terrapins",
    "visitante": "UCLA Bruins",
@@ -3465,6 +3545,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Maryland Terrapins",
    "visitante": "UCLA Bruins",
@@ -3479,6 +3560,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Miami (OH) RedHawks",
    "visitante": "UConn Huskies",
@@ -3493,6 +3575,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Miami (OH) RedHawks",
    "visitante": "UConn Huskies",
@@ -3507,6 +3590,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Iowa State Cyclones",
    "visitante": "Utah Utes",
@@ -3521,6 +3605,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Auburn Tigers",
    "visitante": "Vanderbilt Commodores",
@@ -3535,6 +3620,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Auburn Tigers",
    "visitante": "Vanderbilt Commodores",
@@ -3549,6 +3635,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Boston College Eagles",
    "visitante": "Virginia Tech Hokies",
@@ -3563,6 +3650,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Louisville Cardinals",
    "visitante": "Wake Forest Demon Deacons",
@@ -3577,6 +3665,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Louisville Cardinals",
    "visitante": "Wake Forest Demon Deacons",
@@ -3591,6 +3680,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Duke Blue Devils",
    "visitante": "William & Mary Tribe",
@@ -3605,6 +3695,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Duke Blue Devils",
    "visitante": "William & Mary Tribe",
@@ -3619,6 +3710,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Penn State Nittany Lions",
    "visitante": "Wisconsin Badgers",
@@ -3633,6 +3725,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "amfut",
+   "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
    "local": "Penn State Nittany Lions",
    "visitante": "Wisconsin Badgers",
@@ -3647,6 +3740,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Yakult Swallows",
    "visitante": "Chunichi Dragons",
@@ -3661,6 +3755,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Yakult Swallows",
    "visitante": "Chunichi Dragons",
@@ -3675,6 +3770,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Toronto Blue Jays",
    "visitante": "Cincinnati Reds",
@@ -3689,6 +3785,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Yokohama BayStars",
    "visitante": "Hanshin Tigers",
@@ -3703,6 +3800,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "KT Wiz",
    "visitante": "Kiwoom Heroes",
@@ -3717,6 +3815,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Seattle Mariners",
    "visitante": "Los Angeles Angels",
@@ -3731,6 +3830,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Seibu Lions",
    "visitante": "Lotte Marines",
@@ -3745,6 +3845,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Seibu Lions",
    "visitante": "Lotte Marines",
@@ -3759,6 +3860,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Orix Buffaloes",
    "visitante": "Nippon-Ham Fighters",
@@ -3773,6 +3875,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Orix Buffaloes",
    "visitante": "Nippon-Ham Fighters",
@@ -3787,6 +3890,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Detroit Tigers",
    "visitante": "Pittsburgh Pirates",
@@ -3801,6 +3905,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "SoftBank Hawks",
    "visitante": "Rakuten Golden Eagles",
@@ -3815,6 +3920,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "SoftBank Hawks",
    "visitante": "Rakuten Golden Eagles",
@@ -3829,6 +3935,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Albania",
    "visitante": "Belarus",
@@ -3843,6 +3950,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "CDR",
    "liga_nombre": "Copa del Rey",
    "local": "Anaitasuna",
    "visitante": "CD Tedeón",
@@ -3857,6 +3965,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
    "local": "Antigua and Barbuda",
    "visitante": "Anguilla",
@@ -3871,6 +3980,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "CDR",
    "liga_nombre": "Copa del Rey",
    "local": "Atlético Calatayud",
    "visitante": "CD Baztán",
@@ -3885,6 +3995,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "CDR",
    "liga_nombre": "Copa del Rey",
    "local": "Atlético Pinatarense",
    "visitante": "Atlético Melilla",
@@ -3899,6 +4010,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Bulgaria",
    "visitante": "Luxembourg",
@@ -3913,6 +4025,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Canada",
    "visitante": "Chile",
@@ -3927,6 +4040,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Cruz Azul",
    "visitante": "Toluca",
@@ -3941,6 +4055,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Czechia",
    "visitante": "Croatia",
@@ -3955,6 +4070,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Faroe Islands",
    "visitante": "Kazakhstan",
@@ -3969,6 +4085,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Guadalajara",
    "visitante": "Querétaro",
@@ -3983,6 +4100,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Iceland",
    "visitante": "Estonia",
@@ -3997,6 +4115,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Kenya",
    "visitante": "Eritrea",
@@ -4011,6 +4130,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Mexico",
    "visitante": "Colombia",
@@ -4025,6 +4145,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
    "local": "Montserrat",
    "visitante": "British Virgin Islands",
@@ -4039,6 +4160,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "CDR",
    "liga_nombre": "Copa del Rey",
    "local": "Ribadesella",
    "visitante": "SD Noja",
@@ -4053,6 +4175,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "San Marino",
    "visitante": "Finland",
@@ -4067,6 +4190,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Santos",
    "visitante": "Pachuca",
@@ -4081,6 +4205,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
    "local": "Sint Maarten",
    "visitante": "Belize",
@@ -4095,6 +4220,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "UNL",
    "liga_nombre": "UEFA Nations League",
    "local": "Slovakia",
    "visitante": "Moldova",
@@ -4109,6 +4235,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Slovenia",
    "visitante": "Scotland",
@@ -4123,6 +4250,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "South Africa",
    "visitante": "Guinea",
@@ -4137,6 +4265,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
    "local": "St. Martin",
    "visitante": "US Virgin Islands",
@@ -4151,6 +4280,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
    "local": "St. Vincent and the Grenadines",
    "visitante": "French Guiana",
@@ -4165,6 +4295,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Tigres UANL",
    "visitante": "Puebla",
@@ -4179,6 +4310,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "CDR",
    "liga_nombre": "Copa del Rey",
    "local": "UB Lebrijana",
    "visitante": "Ceuta 6 de Junio",
@@ -4193,6 +4325,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "United States",
    "visitante": "Peru",
@@ -4207,6 +4340,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "tenis",
+   "liga": "ATP",
    "liga_nombre": "ATP Tour",
    "local": "Adolfo Daniel Vallejo",
    "visitante": "Chak Lam Coleman Wong",
@@ -4221,6 +4355,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Alejandro Davidovich Fokina",
    "visitante": "Juan Manuel Cerundolo",
@@ -4235,6 +4370,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Alina Korneeva",
    "visitante": "Maya Joint",
@@ -4249,6 +4385,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Guiomar Maristany Zuleta De Reales",
    "visitante": "Jessica Pieri",
@@ -4263,6 +4400,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Leylah Fernandez",
    "visitante": "Maja Chwalinska",
@@ -4277,6 +4415,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Lloyd Harris",
    "visitante": "Valentin Vacherot",
@@ -4291,6 +4430,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Maria Timofeeva",
    "visitante": "Mia Pohankova",
@@ -4305,6 +4445,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Polina Iatcenko",
    "visitante": "Teodora Kostovic",
@@ -4319,6 +4460,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Quentin Halys",
    "visitante": "Roman Safiullin",
@@ -4333,6 +4475,7 @@
   {
    "fecha": "2026-09-26",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Talia Gibson",
    "visitante": "Tatiana Prozorova",
@@ -4347,6 +4490,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "amfut",
+   "liga": null,
    "liga_nombre": null,
    "local": "Rutgers Scarlet Knights",
    "visitante": "Howard Bison",
@@ -4361,6 +4505,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "amfut",
+   "liga": null,
    "liga_nombre": null,
    "local": "Rutgers Scarlet Knights",
    "visitante": "Howard Bison",
@@ -4375,6 +4520,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "San Diego Padres",
    "visitante": "Arizona Diamondbacks",
@@ -4389,6 +4535,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "New York Yankees",
    "visitante": "Baltimore Orioles",
@@ -4403,6 +4550,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Yakult Swallows",
    "visitante": "Chunichi Dragons",
@@ -4417,6 +4565,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Yakult Swallows",
    "visitante": "Chunichi Dragons",
@@ -4431,6 +4580,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Toronto Blue Jays",
    "visitante": "Cincinnati Reds",
@@ -4445,6 +4595,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Yokohama BayStars",
    "visitante": "Hanshin Tigers",
@@ -4459,6 +4610,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Yokohama BayStars",
    "visitante": "Hanshin Tigers",
@@ -4473,6 +4625,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Yokohama BayStars",
    "visitante": "Hanshin Tigers",
@@ -4487,6 +4640,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Seibu Lions",
    "visitante": "Lotte Marines",
@@ -4501,6 +4655,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Seibu Lions",
    "visitante": "Lotte Marines",
@@ -4515,6 +4670,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Washington Nationals",
    "visitante": "New York Mets",
@@ -4529,6 +4685,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Orix Buffaloes",
    "visitante": "SoftBank Hawks",
@@ -4543,6 +4700,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Orix Buffaloes",
    "visitante": "SoftBank Hawks",
@@ -4557,6 +4715,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Orix Buffaloes",
    "visitante": "SoftBank Hawks",
@@ -4571,6 +4730,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Milwaukee Brewers",
    "visitante": "St. Louis Cardinals",
@@ -4585,6 +4745,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Hiroshima Carp",
    "visitante": "Yomiuri Giants",
@@ -4599,6 +4760,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "beisbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Hiroshima Carp",
    "visitante": "Yomiuri Giants",
@@ -4613,6 +4775,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Algeria",
    "visitante": "Zambia",
@@ -4627,6 +4790,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Armenia",
    "visitante": "Latvia",
@@ -4641,6 +4805,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Atlante",
    "visitante": "Monterrey",
@@ -4655,6 +4820,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Australia",
    "visitante": "Brazil",
@@ -4669,6 +4835,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Barbados",
    "visitante": "St. Lucia",
@@ -4683,6 +4850,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Bermuda",
    "visitante": "Guadeloupe",
@@ -4697,6 +4865,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Bonaire",
    "visitante": "St. Kitts and Nevis",
@@ -4711,6 +4880,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Burkina Faso",
    "visitante": "Benin",
@@ -4725,6 +4895,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Egypt",
    "visitante": "Angola",
@@ -4739,6 +4910,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
    "local": "El Salvador",
    "visitante": "Martinique",
@@ -4753,6 +4925,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Gambia",
    "visitante": "Somalia",
@@ -4767,6 +4940,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Georgia",
    "visitante": "Northern Ireland",
@@ -4781,6 +4955,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Grenada",
    "visitante": "Cuba",
@@ -4795,6 +4970,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Honduras",
    "visitante": "Suriname",
@@ -4809,6 +4985,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Hungary",
    "visitante": "Ukraine",
@@ -4823,6 +5000,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "India",
    "visitante": "Panama",
@@ -4837,6 +5015,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Italy",
    "visitante": "Belgium",
@@ -4851,6 +5030,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Jamaica",
    "visitante": "Guatemala",
@@ -4865,6 +5045,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Malawi",
    "visitante": "South Sudan",
@@ -4879,6 +5060,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Montenegro",
    "visitante": "Cyprus",
@@ -4893,6 +5075,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Morocco",
    "visitante": "Gabon",
@@ -4907,6 +5090,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Mozambique",
    "visitante": "Senegal",
@@ -4921,6 +5105,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Niger",
    "visitante": "Lesotho",
@@ -4935,6 +5120,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Nigeria",
    "visitante": "Madagascar",
@@ -4949,6 +5135,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Poland",
    "visitante": "Bosnia-Herzegovina",
@@ -4963,6 +5150,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Rwanda",
    "visitante": "Liberia",
@@ -4977,6 +5165,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Sudan",
    "visitante": "Ethiopia",
@@ -4991,6 +5180,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Sweden",
    "visitante": "Romania",
@@ -5005,6 +5195,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Tanzania",
    "visitante": "Guinea-Bissau",
@@ -5019,6 +5210,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": "MEX",
    "liga_nombre": "Liga MX",
    "local": "Tijuana",
    "visitante": "Atlas",
@@ -5033,6 +5225,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Togo",
    "visitante": "Burundi",
@@ -5047,6 +5240,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "futbol",
+   "liga": null,
    "liga_nombre": null,
    "local": "Türkiye",
    "visitante": "France",
@@ -5061,6 +5255,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Adrian Mannarino",
    "visitante": "Alejandro Tabilo",
@@ -5075,6 +5270,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Amelia Rajecki",
    "visitante": "Hiroko Kuwata",
@@ -5089,6 +5285,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Elise Mertens",
    "visitante": "Maja Chwalinska",
@@ -5103,6 +5300,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Fabian Marozsan",
    "visitante": "Taro Daniel",
@@ -5117,6 +5315,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Guiomar Maristany Zuleta De Reales",
    "visitante": "Rebeka Masarova",
@@ -5131,6 +5330,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Jessica Pieri",
    "visitante": "Mia Ristic",
@@ -5145,6 +5345,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Julia Grabher",
    "visitante": "Nuria Brancaccio",
@@ -5159,6 +5360,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Katie Swan",
    "visitante": "Mia Pohankova",
@@ -5173,6 +5375,7 @@
   {
    "fecha": "2026-09-25",
    "deporte": "tenis",
+   "liga": null,
    "liga_nombre": null,
    "local": "Leylah Fernandez",
    "visitante": "Mirra Andreeva",
@@ -5187,6 +5390,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Boston Red Sox",
    "visitante": "Cleveland Guardians",
@@ -5201,6 +5405,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Texas Rangers",
    "visitante": "New York Mets",
@@ -5215,6 +5420,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Nippon-Ham Fighters",
    "visitante": "Rakuten Golden Eagles",
@@ -5229,6 +5435,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Nippon-Ham Fighters",
    "visitante": "Rakuten Golden Eagles",
@@ -5243,6 +5450,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "beisbol",
+   "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "New York Yankees",
    "visitante": "Tampa Bay Rays",
@@ -5257,6 +5465,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Hiroshima Carp",
    "visitante": "Yomiuri Giants",
@@ -5271,6 +5480,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "beisbol",
+   "liga": "NPB",
    "liga_nombre": "Nippon Professional Baseball",
    "local": "Hiroshima Carp",
    "visitante": "Yomiuri Giants",
@@ -5285,6 +5495,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AFQ",
    "liga_nombre": "Clasificatoria AFCON",
    "local": "Cameroon",
    "visitante": "Comoros",
@@ -5299,6 +5510,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "China",
    "visitante": "Maldives",
@@ -5313,6 +5525,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AFQ",
    "liga_nombre": "Clasificatoria AFCON",
    "local": "Congo DR",
    "visitante": "Equatorial Guinea",
@@ -5327,6 +5540,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AFQ",
    "liga_nombre": "Clasificatoria AFCON",
    "local": "Ivory Coast",
    "visitante": "Ghana",
@@ -5341,6 +5555,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Japan",
    "visitante": "Uruguay",
@@ -5355,6 +5570,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AFQ",
    "liga_nombre": "Clasificatoria AFCON",
    "local": "Libya",
    "visitante": "Botswana",
@@ -5369,6 +5585,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AFQ",
    "liga_nombre": "Clasificatoria AFCON",
    "local": "Mauritania",
    "visitante": "Central African Republic",
@@ -5383,6 +5600,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AFQ",
    "liga_nombre": "Clasificatoria AFCON",
    "local": "Namibia",
    "visitante": "Congo",
@@ -5397,6 +5615,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Palestine",
    "visitante": "New Zealand",
@@ -5411,6 +5630,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Papua New Guinea",
    "visitante": "New Caledonia",
@@ -5425,6 +5645,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AFQ",
    "liga_nombre": "Clasificatoria AFCON",
    "local": "Sierra Leone",
    "visitante": "Zimbabwe",
@@ -5439,6 +5660,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Solomon Islands",
    "visitante": "Vanuatu",
@@ -5453,6 +5675,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AFQ",
    "liga_nombre": "Clasificatoria AFCON",
    "local": "Tunisia",
    "visitante": "Uganda",
@@ -5467,6 +5690,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "futbol",
+   "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
    "local": "Uzbekistan",
    "visitante": "Iran",
@@ -5481,6 +5705,7 @@
   {
    "fecha": "2026-09-24",
    "deporte": "tenis",
+   "liga": "WTA",
    "liga_nombre": "WTA Tour",
    "local": "Katie Volynets",
    "visitante": "Kimberly Birrell",

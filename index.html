@@ -258,6 +258,7 @@
           <h2 class="font-headline-lg text-headline-lg font-bold text-primary">Registro de Picks</h2>
         </div>
         <p class="font-label-sm text-label-sm text-on-surface-variant mt-1" id="registroMeta">Últimos 30 días</p>
+        <p class="font-label-sm text-[10px] text-on-surface-variant/80 mt-1 max-w-xl">Solo competiciones con resultados verificables (fútbol, NBA/WNBA, ATP/WTA, MLB, NFL/NCAAF). Los pendientes de otras ligas no se muestran.</p>
       </div>
       <div class="flex items-center gap-2">
         <a id="btnExcel" class="inline-flex items-center gap-2 px-3.5 py-2 bg-surface-container-lowest border border-outline-variant rounded-lg font-label-sm text-label-sm text-primary hover:bg-surface-container-low transition-colors shadow-sm" href="data/picks.xlsx" download>
@@ -271,7 +272,8 @@
     </div>
 
     <div id="registroSummary" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 mb-6"></div>
-    <div class="flex items-center gap-2 mb-4 overflow-x-auto pb-2" id="registroFilters"></div>
+    <div class="flex items-center gap-2 mb-2 overflow-x-auto pb-1" id="registroFilters"></div>
+    <div class="flex items-center gap-2 mb-4 overflow-x-auto pb-2" id="registroEstadoFilters"></div>
 
     <div class="bg-surface-container-lowest border border-outline-variant rounded-xl overflow-x-auto shadow-sm">
       <table class="reg-table it-table w-full text-left border-collapse">

@@ -270,7 +270,7 @@
 
   const SPORT_NAMES = { beisbol: "Béisbol", tenis: "Tenis", futbol: "Fútbol", amfut: "NFL/NCAAF", basquet: "Básquetbol" };
   const ESTADO_CLASS = { GANADO: "estado-ganado", PERDIDO: "estado-perdido", PENDIENTE: "estado-pendiente" };
-  const registroState = { data: null, sport: "ALL", prev: null, loading: false };
+  const registroState = { data: null, sport: "ALL", estado: "ALL", prev: null, loading: false };
 
   function estadoBadge(estado) {
     const cls = ESTADO_CLASS[estado] || "estado-pendiente";
@@ -301,23 +301,50 @@
     return data;
   }
 
+  function _picksPorDeporte(d) {
+    return (d.picks || []).filter((p) => registroState.sport === "ALL" || p.deporte === registroState.sport);
+  }
+
+  function _chip(key, label, active, onClick) {
+    const b = document.createElement("button");
+    b.className = "chip" + (active ? " on" : "");
+    b.textContent = label;
+    b.addEventListener("click", onClick);
+    return b;
+  }
+
   function renderRegistroFilters(d) {
     const bar = $("registroFilters");
     bar.innerHTML = "";
     const mk = (key, label) => {
       const n = key === "ALL" ? d.total.n : (d.by_sport[key] || {}).n || 0;
-      const b = document.createElement("button");
-      b.className = "chip" + (registroState.sport === key ? " on" : "");
-      b.textContent = `${label} (${n})`;
-      b.addEventListener("click", () => {
+      return _chip(key, `${label} (${n})`, registroState.sport === key, () => {
         registroState.sport = key;
+        registroState.estado = "ALL";
         renderRegistroFilters(d);
         renderRegistroRows();
       });
-      return b;
     };
     bar.appendChild(mk("ALL", "Todos"));
     Object.keys(d.by_sport).forEach((s) => bar.appendChild(mk(s, SPORT_NAMES[s] || s)));
+
+    const estadoBar = $("registroEstadoFilters");
+    if (!estadoBar) return;
+    estadoBar.innerHTML = "";
+    const base = _picksPorDeporte(d);
+    const n = (e) => base.filter((p) => p.estado === e).length;
+    estadoBar.appendChild(_chip("ALL", `Todos (${base.length})`, registroState.estado === "ALL", () => {
+      registroState.estado = "ALL"; renderRegistroFilters(d); renderRegistroRows();
+    }));
+    estadoBar.appendChild(_chip("GANADO", `Ganados (${n("GANADO")})`, registroState.estado === "GANADO", () => {
+      registroState.estado = "GANADO"; renderRegistroFilters(d); renderRegistroRows();
+    }));
+    estadoBar.appendChild(_chip("PERDIDO", `Perdidos (${n("PERDIDO")})`, registroState.estado === "PERDIDO", () => {
+      registroState.estado = "PERDIDO"; renderRegistroFilters(d); renderRegistroRows();
+    }));
+    estadoBar.appendChild(_chip("PENDIENTE", `Pendientes (${n("PENDIENTE")})`, registroState.estado === "PENDIENTE", () => {
+      registroState.estado = "PENDIENTE"; renderRegistroFilters(d); renderRegistroRows();
+    }));
   }
 
   function renderRegistroRows() {
@@ -325,7 +352,8 @@
     if (!d) return;
     const tbody = $("registroRows");
     const empty = $("registroEmpty");
-    const rows = (d.picks || []).filter((p) => registroState.sport === "ALL" || p.deporte === registroState.sport);
+    const rows = _picksPorDeporte(d).filter(
+      (p) => registroState.estado === "ALL" || p.estado === registroState.estado);
     tbody.innerHTML = rows.map((p) => `
       <tr class="hover:bg-surface-bright transition-colors">
         <td class="py-3 px-4 font-label-sm text-label-sm text-on-surface-variant whitespace-nowrap">${esc(p.fecha)}</td>
@@ -338,6 +366,8 @@
         <td class="py-3 px-4 text-center whitespace-nowrap">${estadoBadge(p.estado)}</td>
       </tr>`).join("");
     empty.classList.toggle("hidden", rows.length > 0);
+    const msg = empty.querySelector("p");
+    if (msg) msg.textContent = "No hay picks con ese filtro en el período.";
   }
 
   async function loadRegistro(force) {

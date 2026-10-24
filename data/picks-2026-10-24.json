@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T11:18:50",
- "sports_total": "63 partidos",
+ "generated_at": "2026-10-24T12:21:25",
+ "sports_total": "62 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -335,7 +335,7 @@
     }
    ],
    "message": "2 partidos proyectados",
-   "elapsed_s": 17.8
+   "elapsed_s": 20.299999999999997
   },
   "tenis": {
    "ok": true,
@@ -477,13 +477,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Daniil Medvedev",
-       "prob": 0.5514,
-       "detail": "Daniil Medvedev +0.5 (ref.) · 55%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Daniil Medvedev",
        "prob": 0.7024,
@@ -523,13 +516,6 @@
        "pick": "OVER",
        "prob": 0.5392,
        "detail": "OVER 22.5 · 54% · Proyectado 24.1",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Adrian Mannarino",
-       "prob": 0.5423,
-       "detail": "Adrian Mannarino +1.5 (ref.) · 54%",
        "strong": false
       },
       {
@@ -575,13 +561,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Elena Pridankina",
-       "prob": 0.754,
-       "detail": "Elena Pridankina +5.5 (ref.) · 75%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Carol Young Suh Lee",
        "prob": 0.5098,
@@ -621,13 +600,6 @@
        "pick": "UNDER",
        "prob": 0.5176000000000001,
        "detail": "UNDER 21.5 · 52% · Proyectado 21.5",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Alevtina Ibragimova",
-       "prob": 0.5668,
-       "detail": "Alevtina Ibragimova +0.5 (ref.) · 57%",
        "strong": false
       },
       {
@@ -673,13 +645,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Aliaksandra Sasnovich",
-       "prob": 0.5798,
-       "detail": "Aliaksandra Sasnovich -0.5 (ref.) · 58%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Kamilla Rakhimova",
        "prob": 0.675,
@@ -719,13 +684,6 @@
        "pick": "OVER",
        "prob": 0.5076,
        "detail": "OVER 21.5 · 51% · Proyectado 22.1",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Alycia Parks",
-       "prob": 0.6722,
-       "detail": "Alycia Parks -1.5 (ref.) · 67%",
        "strong": false
       },
       {
@@ -771,13 +729,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Maya Joint",
-       "prob": 0.6133,
-       "detail": "Maya Joint -0.5 (ref.) · 61%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Maya Joint",
        "prob": 0.8238,
@@ -817,13 +768,6 @@
        "pick": "UNDER",
        "prob": 0.5115000000000001,
        "detail": "UNDER 21.5 · 51% · Proyectado 22.1",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Daria Kasatkina",
-       "prob": 0.6915,
-       "detail": "Daria Kasatkina +1.5 (ref.) · 69%",
        "strong": false
       },
       {
@@ -869,13 +813,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Felipe Meligeni Alves",
-       "prob": 0.5697,
-       "detail": "Felipe Meligeni Alves -1.5 (ref.) · 57%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Felipe Meligeni Alves",
        "prob": 0.5125,
@@ -915,13 +852,6 @@
        "pick": "UNDER",
        "prob": 0.5422,
        "detail": "UNDER 22.5 · 54% · Proyectado 22.7",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Gustavo Heide",
-       "prob": 0.554,
-       "detail": "Gustavo Heide -2.5 (ref.) · 55%",
        "strong": false
       },
       {
@@ -967,13 +897,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Darwin Blanch",
-       "prob": 0.7748,
-       "detail": "Darwin Blanch +1.5 (ref.) · 77%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Darwin Blanch",
        "prob": 0.5218,
@@ -1016,13 +939,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Jenson Brooksby",
-       "prob": 0.7579,
-       "detail": "Jenson Brooksby +0.5 (ref.) · 76%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Jenson Brooksby",
        "prob": 0.8404,
@@ -1041,7 +957,7 @@
      "momentum_ok": true
     }
    ],
-   "elapsed_s": 123.5,
+   "elapsed_s": 139.1,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true
@@ -1051,8 +967,8 @@
    "date": "2026-10-24",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 15,
-   "message": "15 partidos proyectados",
+   "n": 14,
+   "message": "14 partidos proyectados",
    "picks": [
     {
      "match": "Borussia Dortmund vs Eintracht Frankfurt",
@@ -1146,7 +1062,7 @@
      "match": "Monterrey vs Guadalajara",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8290141059370673,
+     "prob": 0.8285297974156578,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -1157,7 +1073,7 @@
      "match": "León vs Toluca",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8272815087911296,
+     "prob": 0.8269769752832106,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -1176,21 +1092,10 @@
      "league_label": "Eredivisie"
     },
     {
-     "match": "Napoli vs Roma",
-     "market": "O/U 1.5",
-     "pick": "O/U 1.5: OVER",
-     "prob": 0.8056747563323085,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=80%",
-     "league_code": "ITA",
-     "league_label": "Serie A"
-    },
-    {
      "match": "Pumas UNAM vs Tigres UANL",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.7758683495596057,
+     "prob": 0.7753276198154451,
      "tier": "BUENO",
      "units": "1.0",
      "note": ">=75%",
@@ -1425,76 +1330,6 @@
        "pick": "VISITANTE UNDER",
        "prob": 0.766001681272007,
        "detail": "VISITANTE UNDER 1.5 goles 77%",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Napoli",
-     "away": "Roma",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ITA",
-     "league_label": "Serie A",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "1X2",
-       "pick": "Roma",
-       "prob": 0.44953244104361634,
-       "detail": "Local 27% · Empate 28% · Visitante 45%",
-       "strong": false
-      },
-      {
-       "label": "Doble Oportunidad",
-       "pick": "X2",
-       "prob": 0.7251657050819715,
-       "detail": "1X 55% · X2 73% · 12 72%",
-       "strong": false
-      },
-      {
-       "label": "Over/Under 2.5",
-       "pick": "OVER",
-       "prob": 0.5785704188963223,
-       "detail": "OVER 2.5 goles · 58%",
-       "strong": false
-      },
-      {
-       "label": "Over/Under 1.5",
-       "pick": "OVER",
-       "prob": 0.8056747563323085,
-       "detail": "OVER 1.5 goles · 81%",
-       "strong": false
-      },
-      {
-       "label": "BTTS (Ambos marcan)",
-       "pick": "SÍ",
-       "prob": 0.5502676836207762,
-       "detail": "BTTS Sí 55%",
-       "strong": false
-      },
-      {
-       "label": "Total Goles",
-       "pick": "-",
-       "prob": null,
-       "detail": "Goles esperados 2.83",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Asiático",
-       "pick": "AWAY +1.5",
-       "prob": 0.9298603413669129,
-       "detail": "Línea +1.5 · AWAY 93%",
-       "strong": true
-      },
-      {
-       "label": "Equipo O/U 1.5",
-       "pick": "LOCAL UNDER",
-       "prob": 0.7319646525354412,
-       "detail": "LOCAL UNDER 1.5 goles 73%",
        "strong": false
       }
      ],
@@ -2074,35 +1909,35 @@
       {
        "label": "1X2",
        "pick": "Toluca",
-       "prob": 0.506690742707345,
+       "prob": 0.5116578214019227,
        "detail": "Local 24% · Empate 25% · Visitante 51%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7574899952921283,
+       "prob": 0.7575844703343539,
        "detail": "1X 49% · X2 76% · 12 75%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6488085603900828,
+       "prob": 0.6481185669023433,
        "detail": "OVER 2.5 goles · 65%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8272815087911296,
+       "prob": 0.8269769752832106,
        "detail": "OVER 1.5 goles · 83%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.648634218979599,
+       "prob": 0.648096769562281,
        "detail": "BTTS Sí 65%",
        "strong": false
       },
@@ -2116,15 +1951,15 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.7724438580130585,
+       "prob": 0.7728281263110249,
        "detail": "Línea +1.5 · AWAY 77%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.625117566701064,
-       "detail": "LOCAL OVER 1.5 goles 63%",
+       "prob": 0.6234386164781934,
+       "detail": "LOCAL OVER 1.5 goles 62%",
        "strong": false
       }
      ],
@@ -2144,35 +1979,35 @@
       {
        "label": "1X2",
        "pick": "Guadalajara",
-       "prob": 0.37562394173358926,
+       "prob": 0.37548556551043094,
        "detail": "Local 36% · Empate 26% · Visitante 38%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7378241920962596,
+       "prob": 0.7376193259600765,
        "detail": "1X 62% · X2 64% · 12 74%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6160208176061784,
+       "prob": 0.6151941100635299,
        "detail": "OVER 2.5 goles · 62%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8290141059370673,
+       "prob": 0.8285297974156578,
        "detail": "OVER 1.5 goles · 83%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6345134812441596,
+       "prob": 0.6338971161439476,
        "detail": "BTTS Sí 63%",
        "strong": false
       },
@@ -2180,20 +2015,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 3.11",
+       "detail": "Goles esperados 3.10",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8435229311010284,
+       "prob": 0.8438179907761871,
        "detail": "Línea +1.5 · AWAY 84%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.5534142011020173,
+       "prob": 0.5549818347767266,
        "detail": "LOCAL UNDER 1.5 goles 55%",
        "strong": false
       }
@@ -2214,35 +2049,35 @@
       {
        "label": "1X2",
        "pick": "Pumas UNAM",
-       "prob": 0.43705625215206256,
-       "detail": "Local 44% · Empate 24% · Visitante 33%",
+       "prob": 0.43687072933123394,
+       "detail": "Local 44% · Empate 23% · Visitante 33%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7642994186650217,
-       "detail": "1X 67% · X2 56% · 12 76%",
+       "prob": 0.7691396068263197,
+       "detail": "1X 67% · X2 56% · 12 77%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5498197683344206,
-       "detail": "OVER 2.5 goles · 55%",
+       "prob": 0.5321832830547415,
+       "detail": "OVER 2.5 goles · 53%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7758683495596057,
+       "prob": 0.7753276198154451,
        "detail": "OVER 1.5 goles · 78%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.543164027078891,
+       "prob": 0.5425445589787672,
        "detail": "BTTS Sí 54%",
        "strong": false
       },
@@ -2256,14 +2091,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.7260614249936204,
+       "prob": 0.7267195422462129,
        "detail": "Línea +1.5 · AWAY 73%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.6507395551010624,
+       "prob": 0.6521163619968302,
        "detail": "VISITANTE UNDER 1.5 goles 65%",
        "strong": false
       }
@@ -2272,7 +2107,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 95.1,
+   "elapsed_s": 102.7,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true
@@ -2286,17 +2121,6 @@
    "message": "25 partidos proyectados",
    "picks": [
     {
-     "match": "Indiana Hoosiers @ Michigan Wolverines",
-     "market": "Spread",
-     "pick": "SPREAD: AWAY -7.5",
-     "prob": 0.6245,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=62% · linea 7.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
      "match": "Texas Tech Red Raiders @ Cincinnati Bearcats",
      "market": "Moneyline",
      "pick": "ML: AWAY (Texas Tech Red Raiders)",
@@ -2308,68 +2132,13 @@
      "league_label": "NCAAF (College)"
     },
     {
-     "match": "Texas Tech Red Raiders @ Cincinnati Bearcats",
+     "match": "Michigan State Spartans @ UCLA Bruins",
      "market": "Spread",
-     "pick": "SPREAD: AWAY -10.5",
-     "prob": 0.6793,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=68% · linea 10.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
-     "match": "Texas Tech Red Raiders @ Cincinnati Bearcats",
-     "market": "Totales",
-     "pick": "TOTAL: UNDER 57.5",
-     "prob": 0.6898,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=69% · linea 57.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
-     "match": "West Virginia Mountaineers @ TCU Horned Frogs",
-     "market": "Totales",
-     "pick": "TOTAL: UNDER 58.5",
-     "prob": 0.6779,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=68% · linea 58.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
-     "match": "BYU Cougars @ UCF Knights",
-     "market": "Totales",
-     "pick": "TOTAL: OVER 43.5",
-     "prob": 0.6027,
+     "pick": "SPREAD: Michigan State Spartans +16.5",
+     "prob": 0.6003,
      "tier": "BUENO",
      "units": "1.0",
-     "note": ">=60% · linea 43.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
-     "match": "Michigan State Spartans @ UCLA Bruins",
-     "market": "Spread",
-     "pick": "SPREAD: AWAY 16.5",
-     "prob": 0.6944,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=69% · linea -16.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
-     "match": "Michigan State Spartans @ UCLA Bruins",
-     "market": "Totales",
-     "pick": "TOTAL: OVER 42.5",
-     "prob": 0.6925,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=69% · linea 42.5",
+     "note": ">=60% · Michigan State Spartans +16.5 · momio 1.89286 · EV +13.6%",
      "league_code": "NCAAF",
      "league_label": "NCAAF (College)"
     },
@@ -2387,33 +2156,11 @@
     {
      "match": "Tennessee Volunteers @ South Carolina Gamecocks",
      "market": "Spread",
-     "pick": "SPREAD: AWAY 2.5",
-     "prob": 0.7032,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=70% · linea -2.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
-     "match": "Texas A&M Aggies @ Alabama Crimson Tide",
-     "market": "Spread",
-     "pick": "SPREAD: AWAY 13.5",
-     "prob": 0.6575,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=66% · linea -13.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
-     "match": "Iowa Hawkeyes @ Minnesota Golden Gophers",
-     "market": "Totales",
-     "pick": "TOTAL: OVER 40.5",
-     "prob": 0.6563,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=66% · linea 40.5",
+     "pick": "SPREAD: Tennessee Volunteers +2.5",
+     "prob": 0.6052,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": ">=61% · Tennessee Volunteers +2.5 · momio 1.90909 · EV +15.5%",
      "league_code": "NCAAF",
      "league_label": "NCAAF (College)"
     },
@@ -2429,17 +2176,6 @@
      "league_label": "NCAAF (College)"
     },
     {
-     "match": "Oklahoma Sooners @ Mississippi State Bulldogs",
-     "market": "Spread",
-     "pick": "SPREAD: AWAY -1.5",
-     "prob": 0.6033,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=60% · linea 1.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
      "match": "Boston College Eagles @ Georgia Tech Yellow Jackets",
      "market": "Moneyline",
      "pick": "ML: HOME (Georgia Tech Yellow Jackets)",
@@ -2451,28 +2187,6 @@
      "league_label": "NCAAF (College)"
     },
     {
-     "match": "Colorado Buffaloes @ Oklahoma State Cowboys",
-     "market": "Spread",
-     "pick": "SPREAD: AWAY 13.5",
-     "prob": 0.6098,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=61% · linea -13.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
-     "match": "Colorado Buffaloes @ Oklahoma State Cowboys",
-     "market": "Totales",
-     "pick": "TOTAL: UNDER 54.5",
-     "prob": 0.6476,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=65% · linea 54.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
      "match": "Virginia Tech Hokies @ Clemson Tigers",
      "market": "Moneyline",
      "pick": "ML: HOME (Clemson Tigers)",
@@ -2480,39 +2194,6 @@
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=68% · momio 1.64516 · EV +12.7%",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
-     "match": "Vanderbilt Commodores @ Kentucky Wildcats",
-     "market": "Spread",
-     "pick": "SPREAD: AWAY 10.5",
-     "prob": 0.6574,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=66% · linea -10.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
-     "match": "Vanderbilt Commodores @ Kentucky Wildcats",
-     "market": "Totales",
-     "pick": "TOTAL: OVER 50.5",
-     "prob": 0.6582,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=66% · linea 50.5",
-     "league_code": "NCAAF",
-     "league_label": "NCAAF (College)"
-    },
-    {
-     "match": "Iowa State Cyclones @ Arizona Wildcats",
-     "market": "Spread",
-     "pick": "SPREAD: AWAY 11.5",
-     "prob": 0.6113,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=61% · linea -11.5",
      "league_code": "NCAAF",
      "league_label": "NCAAF (College)"
     }
@@ -2537,16 +2218,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5398878859724366,
-       "detail": "Línea -20.5 · VISITANTE 54%",
+       "pick": "Pittsburgh Panthers",
+       "prob": 0.5199689431598022,
+       "detail": "Pittsburgh Panthers +20.5 · 52%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5493866215979175,
-       "detail": "Línea 50.5 · OVER 45% / UNDER 55%",
+       "prob": 0.52474084164673,
+       "detail": "Línea 50.5 · OVER 48% / UNDER 52%",
        "strong": false
       },
       {
@@ -2579,16 +2260,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.6244962906526346,
-       "detail": "Línea 7.5 · VISITANTE 62%",
+       "pick": "Indiana Hoosiers",
+       "prob": 0.5630299053317271,
+       "detail": "Indiana Hoosiers -7.5 · 56%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5551430357450684,
-       "detail": "Línea 43.5 · OVER 56% / UNDER 44%",
+       "prob": 0.5276377604314568,
+       "detail": "Línea 43.5 · OVER 53% / UNDER 47%",
        "strong": false
       },
       {
@@ -2621,16 +2302,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.6793455880364727,
-       "detail": "Línea 10.5 · VISITANTE 68%",
+       "pick": "Texas Tech Red Raiders",
+       "prob": 0.5920939874354211,
+       "detail": "Texas Tech Red Raiders -10.5 · 59%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.6897736526091046,
-       "detail": "Línea 57.5 · OVER 31% / UNDER 69%",
+       "prob": 0.5977797592409833,
+       "detail": "Línea 57.5 · OVER 40% / UNDER 60%",
        "strong": false
       },
       {
@@ -2663,15 +2344,15 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.5538268296296263,
-       "detail": "Línea 7 · LOCAL 55%",
+       "pick": "Auburn Tigers",
+       "prob": 0.5269750087643654,
+       "detail": "Auburn Tigers +7 · 53%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5048603743273532,
+       "prob": 0.5024302322546058,
        "detail": "Línea 51.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
@@ -2705,16 +2386,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5534387229761383,
-       "detail": "Línea -18.5 · VISITANTE 55%",
+       "pick": "California Golden Bears",
+       "prob": 0.5267796277210777,
+       "detail": "California Golden Bears +18.5 · 53%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5427922208368131,
-       "detail": "Línea 55.5 · OVER 46% / UNDER 54%",
+       "prob": 0.5214269934765074,
+       "detail": "Línea 55.5 · OVER 48% / UNDER 52%",
        "strong": false
       },
       {
@@ -2747,16 +2428,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5267519619584111,
-       "detail": "Línea -15.5 · VISITANTE 53%",
+       "pick": "Rutgers Scarlet Knights",
+       "prob": 0.5133835099870512,
+       "detail": "Rutgers Scarlet Knights +15.5 · 51%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5934489113544071,
-       "detail": "Línea 58.5 · OVER 41% / UNDER 59%",
+       "prob": 0.5470505412771868,
+       "detail": "Línea 58.5 · OVER 45% / UNDER 55%",
        "strong": false
       },
       {
@@ -2789,16 +2470,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5705863985722367,
-       "detail": "Línea -10 · VISITANTE 57%",
+       "pick": "West Virginia Mountaineers",
+       "prob": 0.5354326769540035,
+       "detail": "West Virginia Mountaineers +10 · 54%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.6778759365790417,
-       "detail": "Línea 58.5 · OVER 32% / UNDER 68%",
+       "prob": 0.5912974241284121,
+       "detail": "Línea 58.5 · OVER 41% / UNDER 59%",
        "strong": false
       },
       {
@@ -2831,16 +2512,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.531410790277206,
-       "detail": "Línea -1.5 · VISITANTE 53%",
+       "pick": "Baylor Bears",
+       "prob": 0.5157175889394792,
+       "detail": "Baylor Bears +1.5 · 52%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5187877406056891,
-       "detail": "Línea 54.5 · OVER 48% / UNDER 52%",
+       "prob": 0.5093964763646651,
+       "detail": "Línea 54.5 · OVER 49% / UNDER 51%",
        "strong": false
       },
       {
@@ -2873,16 +2554,16 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.5374474965275673,
-       "detail": "Línea 10 · LOCAL 54%",
+       "pick": "Illinois Fighting Illini",
+       "prob": 0.5187444271265311,
+       "detail": "Illinois Fighting Illini +10 · 52%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5853546750340723,
-       "detail": "Línea 48.5 · OVER 59% / UNDER 41%",
+       "prob": 0.5429250941739809,
+       "detail": "Línea 48.5 · OVER 54% / UNDER 46%",
        "strong": false
       },
       {
@@ -2915,16 +2596,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5470242446531752,
-       "detail": "Línea 7.5 · VISITANTE 55%",
+       "pick": "BYU Cougars",
+       "prob": 0.5235531349422871,
+       "detail": "BYU Cougars -7.5 · 52%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.6026587733215982,
-       "detail": "Línea 43.5 · OVER 60% / UNDER 40%",
+       "prob": 0.551763281586354,
+       "detail": "Línea 43.5 · OVER 55% / UNDER 45%",
        "strong": false
       },
       {
@@ -2957,16 +2638,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.6943707583279786,
-       "detail": "Línea -16.5 · VISITANTE 69%",
+       "pick": "Michigan State Spartans",
+       "prob": 0.6003058887539423,
+       "detail": "Michigan State Spartans +16.5 · 60%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.6924959064513599,
-       "detail": "Línea 42.5 · OVER 69% / UNDER 31%",
+       "prob": 0.5992741476515426,
+       "detail": "Línea 42.5 · OVER 60% / UNDER 40%",
        "strong": false
       },
       {
@@ -2999,16 +2680,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.7031982130805464,
-       "detail": "Línea -2.5 · VISITANTE 70%",
+       "pick": "Tennessee Volunteers",
+       "prob": 0.6051925215713467,
+       "detail": "Tennessee Volunteers +2.5 · 61%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5499657075273992,
-       "detail": "Línea 50.5 · OVER 55% / UNDER 45%",
+       "prob": 0.5250320818742975,
+       "detail": "Línea 50.5 · OVER 53% / UNDER 47%",
        "strong": false
       },
       {
@@ -3041,16 +2722,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.6575454728097985,
-       "detail": "Línea -13.5 · VISITANTE 66%",
+       "pick": "Texas A&M Aggies",
+       "prob": 0.5803882184888313,
+       "detail": "Texas A&M Aggies +13.5 · 58%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5063115629933956,
-       "detail": "Línea 49.5 · OVER 51% / UNDER 49%",
+       "prob": 0.503155880239312,
+       "detail": "Línea 49.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
@@ -3083,16 +2764,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5085090627308214,
-       "detail": "Línea 7.5 · VISITANTE 51%",
+       "pick": "Iowa Hawkeyes",
+       "prob": 0.5042547733383558,
+       "detail": "Iowa Hawkeyes -7.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.6562684190039506,
-       "detail": "Línea 40.5 · OVER 66% / UNDER 34%",
+       "prob": 0.57970938133981,
+       "detail": "Línea 40.5 · OVER 58% / UNDER 42%",
        "strong": false
       },
       {
@@ -3125,16 +2806,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.6032760784646952,
-       "detail": "Línea 1.5 · VISITANTE 60%",
+       "pick": "Oklahoma Sooners",
+       "prob": 0.552079922602272,
+       "detail": "Oklahoma Sooners -1.5 · 55%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.564868839347438,
-       "detail": "Línea 49.5 · OVER 56% / UNDER 44%",
+       "prob": 0.5325425083150654,
+       "detail": "Línea 49.5 · OVER 53% / UNDER 47%",
        "strong": false
       },
       {
@@ -3167,15 +2848,15 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.5302060884944475,
-       "detail": "Línea -6.5 · LOCAL 53%",
+       "pick": "Georgia Tech Yellow Jackets",
+       "prob": 0.5151138865740946,
+       "detail": "Georgia Tech Yellow Jackets -6.5 · 52%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5004709324817733,
+       "prob": 0.5002354662819011,
        "detail": "Línea 50.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
@@ -3209,16 +2890,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5919419595936506,
-       "detail": "Línea 1.5 · VISITANTE 59%",
+       "pick": "Kansas State Wildcats",
+       "prob": 0.5462813681463304,
+       "detail": "Kansas State Wildcats -1.5 · 55%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5735190633767522,
-       "detail": "Línea 51.5 · OVER 57% / UNDER 43%",
+       "prob": 0.5369172593102398,
+       "detail": "Línea 51.5 · OVER 54% / UNDER 46%",
        "strong": false
       },
       {
@@ -3251,16 +2932,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.6097887256486315,
-       "detail": "Línea -13.5 · VISITANTE 61%",
+       "pick": "Colorado Buffaloes",
+       "prob": 0.5554267260817304,
+       "detail": "Colorado Buffaloes +13.5 · 56%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.6476038494022176,
-       "detail": "Línea 54.5 · OVER 35% / UNDER 65%",
+       "prob": 0.5751219687077226,
+       "detail": "Línea 54.5 · OVER 42% / UNDER 58%",
        "strong": false
       },
       {
@@ -3293,16 +2974,16 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.578630395456531,
-       "detail": "Línea -3 · LOCAL 58%",
+       "pick": "Clemson Tigers",
+       "prob": 0.5395084632965411,
+       "detail": "Clemson Tigers -3 · 54%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5315980168626853,
-       "detail": "Línea 50.5 · OVER 47% / UNDER 53%",
+       "prob": 0.515811421869343,
+       "detail": "Línea 50.5 · OVER 48% / UNDER 52%",
        "strong": false
       },
       {
@@ -3335,16 +3016,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.5341535770076558,
-       "detail": "Línea -3 · VISITANTE 53%",
+       "pick": "Ole Miss Rebels",
+       "prob": 0.517092469186028,
+       "detail": "Ole Miss Rebels +3 · 52%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5563265772998145,
-       "detail": "Línea 54.5 · OVER 56% / UNDER 44%",
+       "prob": 0.5282339071944981,
+       "detail": "Línea 54.5 · OVER 53% / UNDER 47%",
        "strong": false
       },
       {
@@ -3377,16 +3058,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.6574080938023026,
-       "detail": "Línea -10.5 · VISITANTE 66%",
+       "pick": "Vanderbilt Commodores",
+       "prob": 0.5803151582661372,
+       "detail": "Vanderbilt Commodores +10.5 · 58%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.658180214259968,
-       "detail": "Línea 50.5 · OVER 66% / UNDER 34%",
+       "prob": 0.5807258916456394,
+       "detail": "Línea 50.5 · OVER 58% / UNDER 42%",
        "strong": false
       },
       {
@@ -3419,16 +3100,16 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.5074723341816775,
-       "detail": "Línea 3 · LOCAL 51%",
+       "pick": "USC Trojans",
+       "prob": 0.5005186925152958,
+       "detail": "USC Trojans -2.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.586010833960029,
-       "detail": "Línea 50.5 · OVER 41% / UNDER 59%",
+       "prob": 0.5432589887951327,
+       "detail": "Línea 50.5 · OVER 46% / UNDER 54%",
        "strong": false
       },
       {
@@ -3461,16 +3142,16 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
-       "prob": 0.6112509031042512,
-       "detail": "Línea -11.5 · VISITANTE 61%",
+       "pick": "Iowa State Cyclones",
+       "prob": 0.5645920478569431,
+       "detail": "Iowa State Cyclones +12.5 · 56%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5449132956333974,
-       "detail": "Línea 51.5 · OVER 46% / UNDER 54%",
+       "prob": 0.5224923677116664,
+       "detail": "Línea 51.5 · OVER 48% / UNDER 52%",
        "strong": false
       },
       {
@@ -3503,16 +3184,16 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.5059879813539017,
-       "detail": "Línea -9.5 · LOCAL 51%",
+       "pick": "North Carolina Tar Heels",
+       "prob": 0.5029940749971805,
+       "detail": "North Carolina Tar Heels -9.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5090337083869293,
-       "detail": "Línea 49.5 · OVER 49% / UNDER 51%",
+       "prob": 0.5045171437462093,
+       "detail": "Línea 49.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
@@ -3545,16 +3226,16 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.5611017007519259,
-       "detail": "Línea -6.5 · LOCAL 56%",
+       "pick": "Utah Utes",
+       "prob": 0.5306410951131235,
+       "detail": "Utah Utes -6.5 · 53%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5591050870169508,
-       "detail": "Línea 57.5 · OVER 44% / UNDER 56%",
+       "prob": 0.5296341885096522,
+       "detail": "Línea 57.5 · OVER 47% / UNDER 53%",
        "strong": false
       },
       {
@@ -3569,7 +3250,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 35.2,
+   "elapsed_s": 34.7,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true
@@ -3596,11 +3277,11 @@
     {
      "match": "Miami Heat @ Charlotte Hornets",
      "market": "Spread",
-     "pick": "SPREAD: HOME 3.5",
+     "pick": "SPREAD: Charlotte Hornets +3.5",
      "prob": 0.7416,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": ">=74% · linea 3.5",
+     "note": ">=74% · Charlotte Hornets +3.5 · momio 1.86957 · EV +38.6%",
      "league_code": "NBA",
      "league_label": "NBA"
     },
@@ -3611,18 +3292,18 @@
      "prob": 0.6648,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": ">=66% · linea 229.5",
+     "note": ">=66% · línea 229.5 · momio 1.92593 · EV +28.0%",
      "league_code": "NBA",
      "league_label": "NBA"
     },
     {
      "match": "Milwaukee Bucks @ Philadelphia 76ers",
      "market": "Spread",
-     "pick": "SPREAD: AWAY 12.5",
+     "pick": "SPREAD: Milwaukee Bucks +12.5",
      "prob": 0.6601,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": ">=66% · linea -12.5",
+     "note": ">=66% · Milwaukee Bucks +12.5 · momio 1.90909 · EV +26.0%",
      "league_code": "NBA",
      "league_label": "NBA"
     },
@@ -3633,7 +3314,7 @@
      "prob": 0.6904,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": ">=69% · linea 235.5",
+     "note": ">=69% · línea 235.5 · momio 1.90909 · EV +31.8%",
      "league_code": "NBA",
      "league_label": "NBA"
     },
@@ -3644,29 +3325,40 @@
      "prob": 0.6762,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": ">=68% · momio 1.81967 · EV +23.1%",
+     "note": ">=68% · momio 1.76923 · EV +19.6%",
      "league_code": "NBA",
      "league_label": "NBA"
     },
     {
      "match": "Washington Wizards @ Chicago Bulls",
      "market": "Spread",
-     "pick": "SPREAD: HOME -2.5",
+     "pick": "SPREAD: Chicago Bulls -2.5",
      "prob": 0.6171,
      "tier": "BUENO",
      "units": "1.0",
-     "note": ">=62% · linea -2.5",
+     "note": ">=62% · Chicago Bulls -2.5 · momio 1.89286 · EV +16.8%",
+     "league_code": "NBA",
+     "league_label": "NBA"
+    },
+    {
+     "match": "San Antonio Spurs @ Dallas Mavericks",
+     "market": "Spread",
+     "pick": "SPREAD: Dallas Mavericks +13.5",
+     "prob": 0.6052,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": ">=61% · Dallas Mavericks +13.5 · momio 1.90909 · EV +15.5%",
      "league_code": "NBA",
      "league_label": "NBA"
     },
     {
      "match": "Houston Rockets @ Atlanta Hawks",
      "market": "Spread",
-     "pick": "SPREAD: AWAY 1.5",
+     "pick": "SPREAD: Houston Rockets +1.5",
      "prob": 0.6423,
      "tier": "BUENO",
      "units": "1.0",
-     "note": ">=64% · linea -1.5",
+     "note": ">=64% · Houston Rockets +1.5 · momio 1.86957 · EV +20.1%",
      "league_code": "NBA",
      "league_label": "NBA"
     },
@@ -3684,11 +3376,11 @@
     {
      "match": "Golden State Warriors @ Phoenix Suns",
      "market": "Spread",
-     "pick": "SPREAD: AWAY 9.5",
+     "pick": "SPREAD: Golden State Warriors +9.5",
      "prob": 0.6293,
      "tier": "BUENO",
      "units": "1.0",
-     "note": ">=63% · linea -9.5",
+     "note": ">=63% · Golden State Warriors +9.5 · momio 1.89286 · EV +19.1%",
      "league_code": "NBA",
      "league_label": "NBA"
     },
@@ -3710,7 +3402,7 @@
      "prob": 0.787,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": ">=79% · linea 153.5",
+     "note": ">=79% · línea 153.5 · momio 1.90909 · EV +50.2%",
      "league_code": "WNBA",
      "league_label": "WNBA"
     }
@@ -3735,9 +3427,9 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
+       "pick": "Charlotte Hornets",
        "prob": 0.7416066813414274,
-       "detail": "Línea 3.5 · LOCAL 74%",
+       "detail": "Charlotte Hornets +3.5 · 74%",
        "strong": false
       },
       {
@@ -3777,9 +3469,9 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
+       "pick": "Cleveland Cavaliers",
        "prob": 0.5102129599239813,
-       "detail": "Línea -11.5 · LOCAL 51%",
+       "detail": "Cleveland Cavaliers -11.5 · 51%",
        "strong": false
       },
       {
@@ -3819,9 +3511,9 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
+       "pick": "Milwaukee Bucks",
        "prob": 0.6601027780806354,
-       "detail": "Línea -12.5 · VISITANTE 66%",
+       "detail": "Milwaukee Bucks +12.5 · 66%",
        "strong": false
       },
       {
@@ -3861,16 +3553,16 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
+       "pick": "Chicago Bulls",
        "prob": 0.6171216141888267,
-       "detail": "Línea -2.5 · LOCAL 62%",
+       "detail": "Chicago Bulls -2.5 · 62%",
        "strong": false
       },
       {
        "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5119254707251164,
-       "detail": "Línea 243.5 · OVER 51% / UNDER 49%",
+       "pick": "UNDER",
+       "prob": 0.5043814475402769,
+       "detail": "Línea 244.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
@@ -3903,9 +3595,9 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
-       "prob": 0.5810398349102183,
-       "detail": "Línea 12.5 · LOCAL 58%",
+       "pick": "Dallas Mavericks",
+       "prob": 0.6051771390380172,
+       "detail": "Dallas Mavericks +13.5 · 61%",
        "strong": false
       },
       {
@@ -3945,9 +3637,9 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
+       "pick": "Houston Rockets",
        "prob": 0.6423449489796917,
-       "detail": "Línea -1.5 · VISITANTE 64%",
+       "detail": "Houston Rockets +1.5 · 64%",
        "strong": false
       },
       {
@@ -3987,9 +3679,9 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
+       "pick": "Denver Nuggets",
        "prob": 0.5769086725781091,
-       "detail": "Línea -11.5 · LOCAL 58%",
+       "detail": "Denver Nuggets -11.5 · 58%",
        "strong": false
       },
       {
@@ -4029,9 +3721,9 @@
       },
       {
        "label": "Spread",
-       "pick": "VISITANTE",
+       "pick": "Golden State Warriors",
        "prob": 0.6293140130957843,
-       "detail": "Línea -9.5 · VISITANTE 63%",
+       "detail": "Golden State Warriors +9.5 · 63%",
        "strong": false
       },
       {
@@ -4071,9 +3763,9 @@
       },
       {
        "label": "Spread",
-       "pick": "LOCAL",
+       "pick": "Atlanta Dream",
        "prob": 0.5385082525861767,
-       "detail": "Línea -5.5 · LOCAL 54%",
+       "detail": "Atlanta Dream -5.5 · 54%",
        "strong": false
       },
       {
@@ -4095,7 +3787,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 35.6,
+   "elapsed_s": 34.0,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true
