@@ -3,133 +3,162 @@
 <head>
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
-<title>Kronos Predicciones — Picks del día</title>
+<title>Kronos Predicciones — Sports Analytics Engine</title>
+<!-- Material Symbols Outlined -->
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+<!-- Fonts: Geist and JetBrains Mono -->
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
 <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=JetBrains+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<!-- Tailwind CSS v3 -->
 <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
-<script>
-  tailwind.config = {
-    theme: {
-      extend: {
-        colors: {
-          surface: "#f8f9fa",
-          "surface-dim": "#dadada",
-          "surface-bright": "#f9f9f9",
-          "surface-container-lowest": "#ffffff",
-          "surface-container-low": "#f3f3f3",
-          "surface-container": "#edeeef",
-          "surface-container-high": "#e7e8e9",
-          "surface-container-highest": "#e2e2e2",
-          "on-surface": "#191c1d",
-          "on-surface-variant": "#4c4546",
-          "inverse-surface": "#2e3132",
-          "inverse-on-surface": "#f0f1f2",
-          outline: "#7e7576",
-          "outline-variant": "#cfc4c5",
-          "surface-tint": "#5e5e5e",
-          primary: "#000000",
-          "on-primary": "#ffffff",
-          "primary-container": "#1b1b1b",
-          "on-primary-container": "#848484",
-          secondary: "#006c49",
-          "on-secondary": "#ffffff",
-          "secondary-container": "#9af2c5",
-          "on-secondary-container": "#0c714d",
-          "secondary-fixed": "#9df4c8",
-          "secondary-fixed-dim": "#81d8ad",
-          "on-secondary-fixed": "#002113",
-          "on-secondary-fixed-variant": "#005236",
-          tertiary: "#000000",
-          "on-tertiary": "#ffffff",
-          error: "#ba1a1a",
-          "on-error": "#ffffff",
-          "error-container": "#ffdad6",
-          "on-error-container": "#93000a",
-          "accent-emerald": "#059669",
-          "accent-crimson": "#B91C1C",
-          "accent-gold": "#d4a017",
-          "text-muted": "#6B7280",
-          "border-subtle": "#E5E7EB",
-          "surface-pure": "#FFFFFF"
-        },
-        borderRadius: {
-          DEFAULT: "0.125rem",
-          lg: "0.25rem",
-          xl: "0.5rem",
-          full: "9999px"
-        },
-        spacing: {
-          "space-xs": "8px",
-          "space-sm": "16px",
-          "space-md": "24px",
-          "space-lg": "48px",
-          "space-xl": "80px",
-          gutter: "24px",
-          margin: "32px"
-        },
-        fontFamily: {
-          "display-lg": ["Geist", "sans-serif"],
-          "headline-lg": ["Geist", "sans-serif"],
-          "headline-lg-mobile": ["Geist", "sans-serif"],
-          "headline-md": ["Geist", "sans-serif"],
-          "body-lg": ["Geist", "sans-serif"],
-          "body-md": ["Geist", "sans-serif"],
-          "label-md": ["JetBrains Mono", "monospace"],
-          "label-sm": ["JetBrains Mono", "monospace"],
-          headline: ["Geist", "system-ui", "sans-serif"],
-          mono: ["JetBrains Mono", "monospace"]
-        },
-        fontSize: {
-          "display-lg": ["48px", { lineHeight: "1.1", letterSpacing: "-0.04em", fontWeight: "700" }],
-          "headline-lg": ["32px", { lineHeight: "1.2", letterSpacing: "-0.02em", fontWeight: "600" }],
-          "headline-lg-mobile": ["24px", { lineHeight: "1.2", letterSpacing: "-0.02em", fontWeight: "600" }],
-          "headline-md": ["20px", { lineHeight: "1.4", letterSpacing: "-0.01em", fontWeight: "600" }],
-          "body-lg": ["18px", { lineHeight: "1.6", letterSpacing: "-0.01em", fontWeight: "400" }],
-          "body-md": ["15px", { lineHeight: "1.5", fontWeight: "400" }],
-          "label-md": ["13px", { lineHeight: "1.2", letterSpacing: "0.02em", fontWeight: "500" }],
-          "label-sm": ["11px", { lineHeight: "1.2", letterSpacing: "0.05em", fontWeight: "500" }]
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          "colors": {
+            "tertiary-container": "#1b1b1b",
+            "tertiary-fixed": "#e2e2e2",
+            "secondary-fixed-dim": "#81d8ad",
+            "surface-dim": "#dadada",
+            "primary-fixed": "#e2e2e2",
+            "outline": "#7e7576",
+            "on-secondary-fixed-variant": "#005236",
+            "secondary-fixed": "#9df4c8",
+            "on-primary-container": "#848484",
+            "surface-tint": "#5e5e5e",
+            "surface": "#f8f9fa",
+            "primary-container": "#1b1b1b",
+            "tertiary-fixed-dim": "#c6c6c6",
+            "on-tertiary-container": "#848484",
+            "on-tertiary": "#ffffff",
+            "on-surface-variant": "#4c4546",
+            "surface-container-high": "#e7e8e9",
+            "accent-crimson": "#B91C1C",
+            "tertiary": "#000000",
+            "inverse-on-surface": "#f0f1f2",
+            "on-primary": "#ffffff",
+            "on-surface": "#191c1d",
+            "surface-container-low": "#f3f3f3",
+            "secondary-container": "#9af2c5",
+            "surface-container-lowest": "#ffffff",
+            "on-primary-fixed-variant": "#474747",
+            "on-error-container": "#93000a",
+            "on-background": "#1b1b1b",
+            "surface-container": "#edeeef",
+            "on-secondary-fixed": "#002113",
+            "error-container": "#ffdad6",
+            "on-primary-fixed": "#1b1b1b",
+            "outline-variant": "#cfc4c5",
+            "accent-emerald": "#059669",
+            "inverse-primary": "#c6c6c6",
+            "background": "#f9f9f9",
+            "secondary": "#006c49",
+            "surface-container-highest": "#e2e2e2",
+            "inverse-surface": "#2e3132",
+            "on-secondary": "#ffffff",
+            "surface-bright": "#f9f9f9",
+            "on-error": "#ffffff",
+            "primary-fixed-dim": "#c6c6c6",
+            "on-tertiary-fixed-variant": "#474747",
+            "on-secondary-container": "#0c714d",
+            "surface-variant": "#e2e2e2",
+            "primary": "#000000",
+            "on-tertiary-fixed": "#1b1b1b",
+            "error": "#ba1a1a",
+            "text-muted": "#6B7280",
+            "border-subtle": "#E5E7EB",
+            "surface-pure": "#FFFFFF",
+            "accent-gold": "#d4a017"
+          },
+          "borderRadius": {
+            "DEFAULT": "0.125rem",
+            "lg": "0.25rem",
+            "xl": "0.5rem",
+            "full": "0.75rem"
+          },
+          "spacing": {
+            "space-sm": "16px",
+            "gutter": "24px",
+            "margin": "32px",
+            "space-xs": "8px",
+            "space-xl": "80px",
+            "space-lg": "48px",
+            "space-md": "24px"
+          },
+          "fontFamily": {
+            "display-lg": ["Geist", "sans-serif"],
+            "label-md": ["JetBrains Mono", "monospace"],
+            "headline-md": ["Geist", "sans-serif"],
+            "body-lg": ["Geist", "sans-serif"],
+            "label-sm": ["JetBrains Mono", "monospace"],
+            "headline-lg-mobile": ["Geist", "sans-serif"],
+            "body-md": ["Geist", "sans-serif"],
+            "headline-lg": ["Geist", "sans-serif"],
+            "headline": ["Geist", "system-ui", "sans-serif"],
+            "mono": ["JetBrains Mono", "monospace"]
+          },
+          "fontSize": {
+            "display-lg": ["48px", { "lineHeight": "1.1", "letterSpacing": "-0.04em", "fontWeight": "700" }],
+            "label-md": ["13px", { "lineHeight": "1.2", "letterSpacing": "0.02em", "fontWeight": "500" }],
+            "headline-md": ["20px", { "lineHeight": "1.4", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+            "body-lg": ["18px", { "lineHeight": "1.6", "letterSpacing": "-0.01em", "fontWeight": "400" }],
+            "label-sm": ["11px", { "lineHeight": "1.2", "letterSpacing": "0.05em", "fontWeight": "500" }],
+            "headline-lg-mobile": ["24px", { "lineHeight": "1.2", "letterSpacing": "-0.02em", "fontWeight": "600" }],
+            "body-md": ["15px", { "lineHeight": "1.5", "fontWeight": "400" }],
+            "headline-lg": ["32px", { "lineHeight": "1.2", "letterSpacing": "-0.02em", "fontWeight": "600" }]
+          }
         }
       }
     }
-  }
 </script>
-<link rel="stylesheet" href="styles.css?v=4">
+<link rel="stylesheet" href="styles.css?v=5">
 </head>
-<body class="bg-surface text-on-surface antialiased min-h-screen flex flex-col">
-
+<body class="bg-surface text-on-surface antialiased min-h-screen flex flex-col font-body-md text-body-md selection:bg-primary selection:text-on-primary">
+<!-- 1) TopNavBar -->
 <header class="bg-surface-container-lowest sticky top-0 z-50 border-b border-outline-variant">
-  <div class="w-full px-margin max-w-7xl mx-auto flex items-center justify-between h-16 gap-4">
-    <div class="flex items-center gap-space-sm min-w-0">
-      <div class="w-8 h-8 bg-primary rounded-lg flex items-center justify-center text-on-primary shadow-sm shrink-0">
+  <div class="w-full px-margin max-w-7xl mx-auto flex items-center justify-between h-16">
+    <!-- Brand & Logomark -->
+    <div class="flex items-center gap-space-sm">
+      <div class="w-8 h-8 bg-primary rounded-lg flex items-center justify-center text-on-primary shadow-sm">
         <span class="material-symbols-outlined text-[20px]">bolt</span>
       </div>
-      <a class="font-headline-md text-headline-md tracking-tight font-bold text-primary uppercase truncate" href="#" id="brandLink">Kronos Predicciones</a>
+      <a class="font-headline-md text-headline-md tracking-tight font-bold text-primary uppercase" href="#" id="brandLink">Kronos Predicciones</a>
     </div>
+    <!-- Center Links -->
     <nav class="hidden lg:flex items-center gap-6">
       <button data-nav="dashboard" class="nav-link border-b-2 border-primary text-primary font-label-md text-label-md pb-1 font-semibold">Predicciones</button>
       <button data-nav="cartelera" class="nav-link text-on-surface-variant font-label-md text-label-md hover:text-primary transition-colors pb-1">Cartelera</button>
       <button data-nav="registro" class="nav-link text-on-surface-variant font-label-md text-label-md hover:text-primary transition-colors pb-1">Registro</button>
       <button data-nav="modelos" class="nav-link text-on-surface-variant font-label-md text-label-md hover:text-primary transition-colors pb-1">Modelos</button>
     </nav>
-    <div class="flex items-center gap-3 shrink-0">
+    <!-- Trailing Controls & Telemetry -->
+    <div class="flex items-center gap-4">
+      <!-- Live Model Telemetry Pill -->
       <div id="healthWrap" class="hidden sm:flex items-center gap-2 px-3 py-1 bg-surface-container-low border border-outline-variant rounded-lg">
         <span class="relative flex h-2 w-2">
           <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent-emerald opacity-75"></span>
-          <span class="status-dot ok" id="healthDot" style="width:8px;height:8px"></span>
+          <span class="relative inline-flex rounded-full h-2 w-2 bg-accent-emerald" id="healthDot"></span>
         </span>
-        <span class="font-label-sm text-label-sm text-on-surface whitespace-nowrap" id="healthText">conectando…</span>
+        <span class="font-label-sm text-label-sm text-on-surface" id="healthText">conectando…</span>
       </div>
-      <button id="btnRefresh" title="Forzar recálculo (ignora caché)" class="icon-btn" type="button">
-        <span class="material-symbols-outlined text-[18px]" id="iconRefresh">refresh</span>
+      <!-- Refresh Action Button -->
+      <button id="btnRefresh" aria-label="Actualizar predicciones" title="Forzar recálculo (ignora caché)" class="w-8 h-8 rounded-lg flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container-low border border-outline-variant transition-colors active:scale-[0.98]" type="button">
+        <span class="material-symbols-outlined text-[18px]" id="iconRefresh">sync</span>
       </button>
-      <button id="btnAudit" title="Recuento de picks auditados" class="btn-audit hidden md:inline-flex" type="button">
-        <span class="material-symbols-outlined text-sm">fact_check</span>
+      <!-- Recuento Button -->
+      <button id="btnAudit" class="hidden md:inline-flex items-center px-3 py-1.5 bg-surface-container-lowest border border-outline-variant rounded-lg font-label-sm text-label-sm text-primary hover:bg-surface-container-low transition-colors" type="button">
         <span id="btnAuditLabel">Recuento</span>
       </button>
-      <button id="btnBell" title="Avisos" class="relative w-8 h-8 rounded-lg flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container-low transition-colors" type="button">
-        <span class="material-symbols-outlined text-[20px]">notifications</span>
-        <span class="absolute top-1.5 right-1.5 w-1.5 h-1.5 rounded-full bg-accent-crimson" id="alertDot"></span>
-      </button>
+      <!-- Notification Bell -->
+      <div class="relative">
+        <button id="btnBell" aria-label="Notificaciones" class="w-8 h-8 rounded-lg flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container-low transition-colors" type="button">
+          <span class="material-symbols-outlined text-[20px]">notifications</span>
+        </button>
+        <span class="absolute top-1.5 right-1.5 w-1.5 h-1.5 rounded-full bg-accent-crimson" id="alertDot" title="Avisos"></span>
+      </div>
+      <!-- Access Pro CTA -->
       <button id="btnPro" class="inline-flex items-center gap-1.5 bg-primary text-on-primary px-3.5 py-1.5 rounded-lg font-label-sm text-label-sm font-semibold hover:bg-primary-container active:scale-[0.98] transition-all shadow-sm" type="button">
         <span>Acceso Pro</span>
         <span class="material-symbols-outlined text-[14px]">arrow_forward</span>
@@ -138,9 +167,10 @@
   </div>
 </header>
 
+<!-- Main Editorial Canvas -->
 <main class="flex-1 w-full max-w-7xl mx-auto px-margin py-8">
-
-  <header class="mb-8 reveal" id="heroHeader">
+  <!-- 2) Editorial Page Header -->
+  <section class="mb-8 reveal" id="heroHeader">
     <div class="flex items-center gap-2 mb-2">
       <div class="inline-flex items-center justify-center w-6 h-6 rounded bg-surface-container-high text-primary">
         <span class="material-symbols-outlined text-[16px]">bolt</span>
@@ -149,10 +179,12 @@
     </div>
     <h1 class="font-display-lg text-headline-lg-mobile md:text-display-lg text-primary tracking-tight font-bold">Predicciones del Día</h1>
     <p class="font-body-lg text-body-lg text-on-surface-variant mt-2 max-w-3xl">Solicita a cada modelo la predicción de la fecha que quieras, por deporte y liga.</p>
-  </header>
+  </section>
 
+  <!-- 3) Prediction Control Card -->
   <section class="bg-surface-container-lowest border border-outline-variant rounded-xl p-6 shadow-sm mb-10 reveal reveal-delay-1" id="controlBar">
     <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-end">
+      <!-- Deporte Buttons -->
       <div class="md:col-span-5 flex flex-col gap-2">
         <label class="font-label-sm text-label-sm text-on-surface-variant uppercase">Deporte</label>
         <div class="flex flex-wrap items-center gap-2" id="sportPills">
@@ -160,6 +192,7 @@
           <div class="pill-skeleton h-9 w-24 rounded-lg bg-surface-container-high animate-shimmer"></div>
         </div>
       </div>
+      <!-- Liga Selector -->
       <div class="md:col-span-3 flex flex-col gap-2">
         <label class="font-label-sm text-label-sm text-on-surface-variant uppercase" for="leagueSelect">Liga</label>
         <div class="relative">
@@ -171,30 +204,34 @@
           </div>
         </div>
       </div>
+      <!-- Fecha Input -->
       <div class="md:col-span-2 flex flex-col gap-2">
         <label class="font-label-sm text-label-sm text-on-surface-variant uppercase" for="dateInput">Fecha</label>
         <div class="relative">
           <input class="w-full bg-surface-container-lowest border border-outline-variant rounded-lg px-3 py-2 text-on-surface font-label-md text-label-md focus:border-primary focus:ring-1 focus:ring-primary" id="dateInput" type="date">
         </div>
       </div>
+      <!-- Predecir CTA -->
       <div class="md:col-span-2 flex flex-col justify-end">
-        <button id="btnPredict" class="w-full h-[42px] bg-primary text-on-primary rounded-lg font-label-md text-label-md font-semibold inline-flex items-center justify-center gap-2 hover:bg-primary-container active:scale-[0.98] transition-all shadow-sm disabled:opacity-50" type="button">
-          <span class="material-symbols-outlined text-[16px]" id="iconPredict">analytics</span>
+        <button class="w-full h-[42px] bg-primary text-on-primary rounded-lg font-label-md text-label-md font-semibold inline-flex items-center justify-center gap-2 hover:bg-primary-container active:scale-[0.98] transition-all shadow-sm" id="btnPredict" type="button">
           <span id="btnPredictLabel">Predecir</span>
+          <span class="material-symbols-outlined text-[16px]" id="iconPredict">analytics</span>
         </button>
       </div>
     </div>
+    <!-- Quick Selector Bar -->
     <div class="mt-6 pt-4 border-t border-outline-variant flex items-center gap-3">
       <span class="font-label-sm text-label-sm text-on-surface-variant">Rápido:</span>
-      <button class="chip" data-offset="0" type="button">Hoy</button>
-      <button class="chip" data-offset="1" type="button">Mañana</button>
-      <button class="chip" data-offset="-1" type="button">Ayer</button>
+      <button class="quick-chip" data-offset="0" type="button">Hoy</button>
+      <button class="quick-chip" data-offset="1" type="button">Mañana</button>
+      <button class="quick-chip" data-offset="-1" type="button">Ayer</button>
       <span class="font-label-sm text-label-sm text-on-surface-variant ml-auto hidden sm:block" id="dateHint">Fecha local</span>
     </div>
   </section>
 
   <div id="staticRoot" class="hidden"></div>
 
+  <!-- Loading skeletons -->
   <section id="loadingSection" class="hidden mb-10">
     <div class="flex items-center gap-2 mb-4">
       <span class="spinner"></span>
@@ -207,6 +244,7 @@
     </div>
   </section>
 
+  <!-- Error -->
   <section id="errorSection" class="hidden mb-10">
     <div class="bg-surface-container-lowest border border-accent-crimson/30 rounded-xl p-5 flex items-start gap-3 animate-fade-in-up">
       <span class="material-symbols-outlined text-accent-crimson">error</span>
@@ -217,40 +255,42 @@
     </div>
   </section>
 
+  <!-- Results -->
   <section id="resultsSection" class="hidden">
-
-    <div class="mb-12">
-      <div class="flex items-baseline justify-between mb-4">
+    <!-- Picks -->
+    <section class="mb-12">
+      <div class="flex items-center justify-between mb-4">
         <div class="flex items-baseline gap-2">
           <h2 class="font-headline-lg text-headline-lg font-bold text-primary">Picks</h2>
           <span class="font-label-md text-label-md text-on-surface-variant" id="picksCount"></span>
         </div>
         <span class="font-label-sm text-label-sm text-on-surface-variant" id="picksHint">Model confidence threshold &gt; 60%</span>
       </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="picksGrid"></div>
-    </div>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6" id="picksGrid"></div>
+    </section>
 
-    <div class="mb-12" id="carteleraSection">
-      <div class="flex items-baseline justify-between mb-4">
-        <div class="flex items-baseline gap-2">
-          <h2 class="font-headline-lg text-headline-lg font-bold text-primary">Cartelera</h2>
-          <span class="font-label-md text-label-md text-on-surface-variant" id="gamesCount"></span>
-        </div>
-        <span class="font-label-sm text-label-sm text-on-surface-variant" id="elapsedText"></span>
+    <!-- Cartelera -->
+    <section class="mb-12" id="carteleraSection">
+      <div class="flex items-baseline gap-2 mb-4">
+        <h2 class="font-headline-lg text-headline-lg font-bold text-primary">Cartelera</h2>
+        <span class="font-label-md text-label-md text-on-surface-variant" id="gamesCount"></span>
+        <span class="font-label-sm text-label-sm text-on-surface-variant ml-auto" id="elapsedText"></span>
       </div>
       <div class="bg-surface-container-lowest border border-outline-variant rounded-xl divide-y divide-surface-container shadow-sm overflow-hidden" id="gamesList"></div>
-    </div>
+    </section>
 
     <div id="liveDayResults" class="mt-12"></div>
 
+    <!-- Empty -->
     <div id="emptyState" class="hidden text-center py-16">
-      <span class="material-symbols-outlined text-5xl text-on-surface-variant/40 block mb-4">event_busy</span>
+      <span class="material-symbols-outlined text-5xl text-on-surface-variant/40 block mb-4">sports</span>
       <h3 class="font-headline font-semibold text-lg text-on-surface">Sin partidos pendientes</h3>
       <p class="font-headline text-sm text-text-muted mt-1">No hay encuentros proyectados para esa fecha, liga y deporte.</p>
     </div>
   </section>
 
-  <section class="hidden mb-10" id="auditPanel">
+  <!-- Panel de recuento de picks -->
+  <section id="auditPanel" class="hidden mb-10">
     <div class="flex items-center justify-between mb-4">
       <h2 class="font-headline-lg text-headline-lg font-bold text-primary">Recuento de Picks</h2>
       <button id="auditClose" class="icon-btn" title="Cerrar" type="button">
@@ -260,7 +300,9 @@
     <div id="auditBody" class="text-text-muted font-headline text-sm">Cargando…</div>
   </section>
 
-  <section id="registroSection" class="hidden mb-12">
+  <!-- 6) Section: Registro de Picks -->
+  <section class="hidden mb-12" id="registroSection">
+    <!-- Section Header -->
     <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
       <div>
         <div class="flex items-center gap-2">
@@ -271,7 +313,7 @@
         <p class="font-label-sm text-[10px] text-on-surface-variant/80 mt-1 max-w-xl">Solo competiciones con resultados verificables (fútbol, NBA/WNBA, ATP/WTA, MLB, NFL/NCAAF). Los pendientes de otras ligas no se muestran.</p>
       </div>
       <div class="flex items-center gap-2">
-        <a id="btnExcel" class="inline-flex items-center gap-2 px-3.5 py-2 bg-surface-container-lowest border border-outline-variant rounded-lg font-label-sm text-label-sm text-primary hover:bg-surface-container-low transition-colors shadow-sm" href="data/picks.xlsx" download>
+        <a id="btnExcel" class="inline-flex items-center gap-2 px-3.5 py-2 bg-surface-container-lowest border border-outline-variant rounded-lg font-label-sm text-label-sm text-primary hover:bg-surface-container-low transition-colors shadow-sm self-start sm:self-auto" href="data/picks.xlsx" download>
           <span class="material-symbols-outlined text-[16px]">download</span>
           <span>Excel</span>
         </a>
@@ -281,16 +323,22 @@
       </div>
     </div>
 
+    <!-- Stat Summary Cards -->
     <div id="registroSummary" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 mb-6"></div>
+
+    <!-- Fecha -->
     <div class="flex flex-wrap items-center gap-2 mb-2">
       <label class="font-label-sm text-label-sm text-on-surface-variant uppercase" for="registroFecha">Fecha</label>
       <select id="registroFecha" class="bg-surface-container-lowest border border-outline-variant rounded-lg px-3 py-1.5 font-label-md text-label-md text-on-surface focus:border-primary focus:ring-1 focus:ring-primary appearance-none cursor-pointer"></select>
     </div>
+
+    <!-- Filter Chips -->
     <div class="flex items-center gap-2 mb-2 overflow-x-auto pb-1" id="registroFilters"></div>
     <div class="flex items-center gap-2 mb-4 overflow-x-auto pb-2" id="registroEstadoFilters"></div>
 
+    <!-- Precision Data Table -->
     <div class="bg-surface-container-lowest border border-outline-variant rounded-xl overflow-x-auto shadow-sm">
-      <table class="reg-table it-table w-full text-left border-collapse">
+      <table class="reg-table w-full text-left border-collapse">
         <thead>
           <tr class="border-b border-outline-variant bg-surface-bright">
             <th class="py-3 px-4 font-label-sm text-label-sm text-on-surface-variant font-semibold">FECHA</th>
@@ -308,12 +356,12 @@
     </div>
     <div id="registroEmpty" class="hidden text-center py-16">
       <span class="material-symbols-outlined text-5xl text-on-surface-variant/40 block mb-4">history_toggle_off</span>
-      <p class="font-headline text-sm text-text-muted">No hay picks registrados en el período.</p>
+      <p class="font-headline text-sm text-text-muted">No hay picks con ese filtro en el período.</p>
     </div>
   </section>
-
 </main>
 
+<!-- 7) Footer -->
 <footer class="bg-surface-container-lowest border-t border-outline-variant mt-auto">
   <div class="w-full py-space-md px-margin max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-space-xs">
     <div class="flex flex-col sm:flex-row items-center gap-3">
@@ -322,15 +370,17 @@
     </div>
     <div class="flex flex-wrap items-center justify-center gap-6">
       <a class="text-on-surface-variant font-label-sm text-label-sm hover:text-primary transition-colors" href="#">Metodología</a>
-      <a class="text-on-surface-variant font-label-sm text-label-sm hover:text-primary transition-colors" href="#">Modelos</a>
+      <a class="text-on-surface-variant font-label-sm text-label-sm hover:text-primary transition-colors" href="#">Modelos Predictivos</a>
+      <a class="text-on-surface-variant font-label-sm text-label-sm hover:text-primary transition-colors" href="#">Términos</a>
+      <a class="text-on-surface-variant font-label-sm text-label-sm hover:text-primary transition-colors" href="#">Privacidad</a>
       <div class="flex items-center gap-1.5 pl-2 border-l border-outline-variant">
         <span class="w-2 h-2 rounded-full bg-accent-emerald"></span>
-        <span class="font-label-sm text-label-sm text-primary font-semibold">Datos: ESPN · scraper · OddsPapi</span>
+        <span class="font-label-sm text-label-sm text-primary font-semibold">API Status: Operational</span>
       </div>
     </div>
   </div>
 </footer>
 
-<script src="app.js?v=4"></script>
+<script src="app.js?v=5"></script>
 </body>
 </html>

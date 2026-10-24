@@ -798,11 +798,11 @@
     state.mode = "live";
     els.controlBar.classList.remove("hidden");
     els.dateInput.value = shiftDate(0);
-    document.querySelectorAll(".chip").forEach((c) => {
+    document.querySelectorAll(".quick-chip").forEach((c) => {
       if (c.dataset.offset === "0") c.classList.add("on");
       c.addEventListener("click", () => {
         els.dateInput.value = shiftDate(parseInt(c.dataset.offset, 10));
-        document.querySelectorAll(".chip").forEach((x) => x.classList.remove("on"));
+        document.querySelectorAll(".quick-chip").forEach((x) => x.classList.remove("on"));
         c.classList.add("on");
       });
     });
@@ -900,10 +900,10 @@
           <div class="inline-flex items-center justify-center w-6 h-6 rounded bg-surface-container-high text-primary">
             <span class="material-symbols-outlined text-[16px]">bolt</span>
           </div>
-          <span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">Publicadas automáticamente</span>
+          <span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">Motor Velocity Pristine v4.2</span>
         </div>
         <h1 class="font-display-lg text-headline-lg-mobile md:text-display-lg text-primary tracking-tight font-bold">Predicciones del Día</h1>
-        <p class="font-body-lg text-body-lg text-on-surface-variant mt-2 max-w-3xl">Selecciona el día y el deporte.</p>
+        <p class="font-body-lg text-body-lg text-on-surface-variant mt-2 max-w-3xl">Solicita a cada modelo la predicción de la fecha que quieras, por deporte y liga.</p>
       </header>
       <div class="flex flex-wrap items-center gap-2 mb-3" id="staticDayTabs"></div>
       <div class="font-label-sm text-label-sm text-on-surface-variant mb-6" id="staticDayInfo"></div>
@@ -918,11 +918,11 @@
       : (ordered.includes(today) ? today : ordered[0]);
     labels.forEach((l, i) => {
       const b = document.createElement("button");
-      b.className = "chip" + (l.date === defaultDate ? " on" : "");
+      b.className = "quick-chip" + (l.date === defaultDate ? " on" : "");
       b.textContent = l.label;
       b.dataset.date = l.date;
       b.addEventListener("click", () => {
-        tabs.querySelectorAll(".chip").forEach((x) => x.classList.remove("on"));
+        tabs.querySelectorAll(".quick-chip").forEach((x) => x.classList.remove("on"));
         b.classList.add("on");
         loadDayAndRender(l.date);
       });
