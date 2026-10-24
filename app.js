@@ -444,6 +444,9 @@
     if (link) link.addEventListener("click", (e) => { e.preventDefault(); openRegistro(); });
     const close = $("registroClose");
     if (close) close.addEventListener("click", closeRegistro);
+  }
+
+  function openRegistroSiHash() {
     if (location.hash === "#registro") openRegistro();
   }
 
@@ -760,15 +763,18 @@
     const labels = ordered.map((d) => ({ date: d, label: dayLabel(d, today) }));
 
     els.staticRoot.innerHTML = `
-      <header class="mb-6 reveal">
-        <div class="flex items-center gap-3 mb-2">
-          <span class="material-symbols-outlined text-primary text-2xl">bolt</span>
-          <h1 class="font-headline font-bold text-3xl md:text-4xl tracking-tight text-on-surface">Predicciones del Día</h1>
+      <header class="mb-8 reveal">
+        <div class="flex items-center gap-2 mb-2">
+          <div class="inline-flex items-center justify-center w-6 h-6 rounded bg-surface-container-high text-primary">
+            <span class="material-symbols-outlined text-[16px]">bolt</span>
+          </div>
+          <span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">Publicadas automáticamente</span>
         </div>
-        <p class="font-headline text-sm text-text-muted">Publicadas automáticamente · selecciona el día</p>
+        <h1 class="font-display-lg text-headline-lg-mobile md:text-display-lg text-primary tracking-tight font-bold">Predicciones del Día</h1>
+        <p class="font-body-lg text-body-lg text-on-surface-variant mt-2 max-w-3xl">Selecciona el día y el deporte.</p>
       </header>
       <div class="flex flex-wrap items-center gap-2 mb-3" id="staticDayTabs"></div>
-      <div class="font-mono text-xs text-text-muted mb-6" id="staticDayInfo"></div>
+      <div class="font-label-sm text-label-sm text-on-surface-variant mb-6" id="staticDayInfo"></div>
       <div id="staticPanels"></div>
       <div id="staticEmpty" class="hidden"></div>
       <div id="statsSection"></div>`;
@@ -792,6 +798,7 @@
 
     loadDayAndRender(defaultDate);
     renderStats();
+    openRegistroSiHash();
   }
 
   async function renderStats() {
@@ -820,49 +827,40 @@
       return `${c.ganados || 0}G · ${c.perdidos || 0}P (${pct(c)}%)`;
     };
     let html = `
-      <header class="mt-10 mb-4 reveal">
-        <div class="flex items-center gap-3 mb-2">
-          <span class="material-symbols-outlined text-primary text-2xl">insights</span>
-          <h2 class="font-headline font-semibold text-xl tracking-tight">Rendimiento Real</h2>
+      <header class="mt-12 mb-4 reveal">
+        <div class="flex items-center gap-2">
+          <span class="material-symbols-outlined text-primary text-[22px]">insights</span>
+          <h2 class="font-headline-lg text-headline-lg font-bold text-primary">Rendimiento Real</h2>
         </div>
-        <p class="font-headline text-sm text-text-muted">Aciertos de los picks publicados vs resultados (se acumula cada día)</p>
+        <p class="font-label-sm text-label-sm text-on-surface-variant mt-1">Aciertos de los picks publicados vs resultados (se acumula cada día)</p>
       </header>`;
+    const statCard = (label, value, detail) => `<div class="bg-surface-container-lowest border border-outline-variant rounded-lg p-3.5">
+      <span class="block font-label-sm text-label-sm text-on-surface-variant">${esc(label)}</span>
+      <span class="win-big text-[22px] font-bold ${value != null && value >= 55 ? "text-accent-emerald" : "text-primary"}">${value == null ? "—" : value + "%"}</span>
+      <span class="block font-label-sm text-[10px] text-on-surface-variant mt-1">${esc(detail)}</span>
+    </div>`;
     if (total && total.n) {
       const tg = total.ganados || 0, tp = total.perdidos || 0;
       const p = Math.round(100 * tg / total.n);
-      html += `
-        <div class="flex flex-wrap gap-3 mb-6">
-          <div class="bg-surface-pure rounded-lg border border-border-subtle p-4 min-w-[10rem]">
-            <div class="font-mono text-xs text-text-muted uppercase tracking-wider mb-1">Total</div>
-            <div class="font-headline text-3xl font-semibold text-emerald">${p}%</div>
-            <div class="font-mono text-xs text-text-muted">${tg}G · ${tp}P</div>
-          </div>`;
+      html += `<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 mb-6">`;
+      html += statCard("Total", p, `${tg}G · ${tp}P`);
       const sportNames = { futbol: "Fútbol", beisbol: "Béisbol", tenis: "Tenis", amfut: "NFL/NCAAF", basquet: "Básquetbol" };
       Object.keys(bySport).forEach((s) => {
         const v = bySport[s];
         const vn = (v.ganados || 0) + (v.perdidos || 0);
-        const vp = vn ? Math.round(100 * (v.ganados || 0) / vn) : 0;
-        html += `<div class="bg-surface-pure rounded-lg border border-border-subtle p-4 min-w-[10rem]">
-          <div class="font-mono text-xs text-text-muted uppercase tracking-wider mb-1">${esc(sportNames[s] || s)}</div>
-          <div class="font-headline text-2xl font-semibold text-on-surface">${vp}%</div>
-          <div class="font-mono text-xs text-text-muted">${v.ganados || 0}G · ${v.perdidos || 0}P</div>
-        </div>`;
+        const vp = vn ? Math.round(100 * (v.ganados || 0) / vn) : null;
+        html += statCard(sportNames[s] || s, vp, `${v.ganados || 0}G · ${v.perdidos || 0}P`);
       });
       html += `</div>`;
     }
     if (tiers.length) {
       html += `
         <div class="mb-6">
-          <h3 class="font-headline font-semibold text-sm text-on-surface mb-2">Por clasificación</h3>
+          <h3 class="font-headline-md text-headline-md font-semibold text-primary mb-3">Por clasificación</h3>
           <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
             ${tiers.map((t) => {
               const c = byTier[t];
-              const good = pct(c) >= 60;
-              return `<div class="bg-surface-pure rounded-lg border border-border-subtle p-4">
-                <div class="font-mono text-xs text-text-muted uppercase tracking-wider">${esc(t)}</div>
-                <div class="font-headline text-2xl font-semibold ${good ? "text-emerald" : "text-on-surface"}">${pct(c)}%</div>
-                <div class="font-mono text-xs text-text-muted">${rate(c)}</div>
-              </div>`;
+              return statCard(t, pct(c), rate(c));
             }).join("")}
           </div>
         </div>`;
@@ -870,17 +868,9 @@
     if (markets.length) {
       html += `
         <div>
-          <h3 class="font-headline font-semibold text-sm text-on-surface mb-2">Por mercado</h3>
+          <h3 class="font-headline-md text-headline-md font-semibold text-primary mb-3">Por mercado</h3>
           <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
-            ${markets.map((m) => {
-              const c = byMarket[m];
-              const good = pct(c) >= 55;
-              return `<div class="bg-surface-pure rounded-lg border border-border-subtle p-4">
-                <div class="font-mono text-xs text-text-muted uppercase tracking-wider">${esc(m)}</div>
-                <div class="font-headline text-2xl font-semibold ${good ? "text-emerald" : "text-on-surface"}">${pct(c)}%</div>
-                <div class="font-mono text-xs text-text-muted">${rate(c)}</div>
-              </div>`;
-            }).join("")}
+            ${markets.map((m) => statCard(m, pct(byMarket[m]), rate(byMarket[m]))).join("")}
           </div>
         </div>`;
     }
@@ -929,26 +919,22 @@
       return `
         <div class="static-panel hidden" data-panel="${k}">
           <div class="flex items-center gap-2 mb-5">
-            <span class="material-symbols-outlined text-primary">${esc(infoSport.icon)}</span>
-            <h2 class="font-headline font-semibold text-xl tracking-tight">${esc(infoSport.name)}</h2>
+            <span class="material-symbols-outlined text-primary text-[20px]">${esc(infoSport.icon)}</span>
+            <h2 class="font-headline-lg text-headline-lg font-bold text-primary">${esc(infoSport.name)}</h2>
           </div>
-          <div class="mb-6">
-            <div class="flex items-center justify-between mb-4">
-              <h3 class="font-headline font-semibold text-lg tracking-tight flex items-center gap-2">
-                <span class="material-symbols-outlined text-primary">star</span> Picks
-                <span class="font-mono text-xs text-text-muted font-normal" data-pickcount="${k}"></span>
-              </h3>
+          <div class="mb-10">
+            <div class="flex items-baseline gap-2 mb-4">
+              <h3 class="font-headline-lg text-headline-lg font-bold text-primary">Picks</h3>
+              <span class="font-label-md text-label-md text-on-surface-variant" data-pickcount="${k}"></span>
             </div>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" data-picks="${k}"></div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-picks="${k}"></div>
           </div>
-          <div>
-            <div class="flex items-center justify-between mb-4">
-              <h3 class="font-headline font-semibold text-lg tracking-tight flex items-center gap-2">
-                <span class="material-symbols-outlined text-primary">calendar_month</span> Cartelera
-                <span class="font-mono text-xs text-text-muted font-normal" data-gamecount="${k}"></span>
-              </h3>
+          <div class="mb-10">
+            <div class="flex items-baseline gap-2 mb-4">
+              <h3 class="font-headline-lg text-headline-lg font-bold text-primary">Cartelera</h3>
+              <span class="font-label-md text-label-md text-on-surface-variant" data-gamecount="${k}"></span>
             </div>
-            <div class="bg-surface-pure rounded-lg border border-border-subtle overflow-hidden" data-games="${k}"></div>
+            <div class="bg-surface-container-lowest border border-outline-variant rounded-xl divide-y divide-surface-container shadow-sm overflow-hidden" data-games="${k}"></div>
           </div>
         </div>`;
     }).join("");
