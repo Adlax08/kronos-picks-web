@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-24T11:22:51",
+ "generated_at": "2026-10-24T12:04:43",
  "days": 30,
  "total": {
-  "ganados": 143,
+  "ganados": 144,
   "perdidos": 104,
-  "pendientes": 142,
+  "pendientes": 141,
   "n": 389,
-  "win_pct": 0.579
+  "win_pct": 0.581
  },
  "by_sport": {
   "amfut": {
@@ -31,11 +31,11 @@
    "win_pct": 0.618
   },
   "futbol": {
-   "ganados": 65,
+   "ganados": 66,
    "perdidos": 36,
-   "pendientes": 53,
+   "pendientes": 52,
    "n": 154,
-   "win_pct": 0.644
+   "win_pct": 0.647
   },
   "tenis": {
    "ganados": 13,
@@ -1766,7 +1766,7 @@
    "cuota": null,
    "prob": 0.8056747563323085,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
