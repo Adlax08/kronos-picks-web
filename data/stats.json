@@ -1,99 +1,99 @@
 {
  "total": {
-  "ganados": 561,
-  "perdidos": 335,
+  "ganados": 575,
+  "perdidos": 344,
   "win_pct": 0.626,
-  "n": 896
+  "n": 919
  },
  "by_sport": {
   "amfut": {
-   "ganados": 64,
-   "perdidos": 56,
-   "win_pct": 0.533
+   "ganados": 65,
+   "perdidos": 58,
+   "win_pct": 0.528
   },
   "basquet": {
    "ganados": 8,
-   "perdidos": 2,
-   "win_pct": 0.8
+   "perdidos": 4,
+   "win_pct": 0.667
   },
   "beisbol": {
-   "ganados": 134,
-   "perdidos": 81,
-   "win_pct": 0.623
+   "ganados": 135,
+   "perdidos": 82,
+   "win_pct": 0.622
   },
   "futbol": {
-   "ganados": 227,
-   "perdidos": 110,
-   "win_pct": 0.674
+   "ganados": 237,
+   "perdidos": 113,
+   "win_pct": 0.677
   },
   "tenis": {
-   "ganados": 128,
-   "perdidos": 86,
-   "win_pct": 0.598
+   "ganados": 130,
+   "perdidos": 87,
+   "win_pct": 0.599
   }
  },
  "by_tier": {
   "BUENO": {
-   "ganados": 155,
-   "perdidos": 106,
-   "win_pct": 0.594
+   "ganados": 157,
+   "perdidos": 108,
+   "win_pct": 0.592
   },
   "DESTACADO": {
    "ganados": 61,
-   "perdidos": 53,
-   "win_pct": 0.535
+   "perdidos": 54,
+   "win_pct": 0.53
   },
   "MUY BUENO": {
-   "ganados": 163,
-   "perdidos": 91,
-   "win_pct": 0.642
+   "ganados": 172,
+   "perdidos": 93,
+   "win_pct": 0.649
   },
   "TOP PICK": {
-   "ganados": 182,
-   "perdidos": 85,
-   "win_pct": 0.682
+   "ganados": 185,
+   "perdidos": 89,
+   "win_pct": 0.675
   }
  },
  "by_market": {
   "1X2": {
-   "ganados": 49,
-   "perdidos": 17,
-   "win_pct": 0.742
+   "ganados": 51,
+   "perdidos": 18,
+   "win_pct": 0.739
   },
   "BTTS": {
    "ganados": 6,
-   "perdidos": 5,
-   "win_pct": 0.545
+   "perdidos": 6,
+   "win_pct": 0.5
   },
   "Doble Oportunidad": {
-   "ganados": 20,
+   "ganados": 23,
    "perdidos": 13,
-   "win_pct": 0.606
+   "win_pct": 0.639
   },
   "HANDICAP JUEGOS": {
-   "ganados": 4,
+   "ganados": 5,
    "perdidos": 7,
-   "win_pct": 0.364
+   "win_pct": 0.417
   },
   "ML": {
-   "ganados": 116,
-   "perdidos": 74,
-   "win_pct": 0.611
+   "ganados": 117,
+   "perdidos": 75,
+   "win_pct": 0.609
   },
   "Moneyline": {
-   "ganados": 97,
-   "perdidos": 61,
-   "win_pct": 0.614
+   "ganados": 98,
+   "perdidos": 64,
+   "win_pct": 0.605
   },
   "O/U 1.5": {
-   "ganados": 95,
-   "perdidos": 34,
-   "win_pct": 0.736
+   "ganados": 98,
+   "perdidos": 35,
+   "win_pct": 0.737
   },
   "O/U 2.5": {
-   "ganados": 57,
+   "ganados": 59,
    "perdidos": 41,
-   "win_pct": 0.582
+   "win_pct": 0.59
   },
   "Run Line": {
    "ganados": 35,
@@ -116,9 +116,9 @@
    "win_pct": 0.75
   },
   "Totales": {
-   "ganados": 44,
-   "perdidos": 37,
-   "win_pct": 0.543
+   "ganados": 45,
+   "perdidos": 39,
+   "win_pct": 0.536
   }
  }
 }

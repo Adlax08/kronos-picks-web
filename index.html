@@ -109,6 +109,7 @@
       <button data-nav="dashboard" class="nav-link border-b-2 border-primary text-primary font-label-md text-label-md pb-1 font-semibold">Predicciones</button>
       <button data-nav="cartelera" class="nav-link text-on-surface-variant font-label-md text-label-md hover:text-primary transition-colors pb-1">Cartelera</button>
       <button data-nav="registro" class="nav-link text-on-surface-variant font-label-md text-label-md hover:text-primary transition-colors pb-1">Registro</button>
+      <button data-nav="modelos" class="nav-link text-on-surface-variant font-label-md text-label-md hover:text-primary transition-colors pb-1">Modelos</button>
     </nav>
     <div class="flex items-center gap-3 shrink-0">
       <div id="healthWrap" class="hidden sm:flex items-center gap-2 px-3 py-1 bg-surface-container-low border border-outline-variant rounded-lg">
@@ -125,7 +126,14 @@
         <span class="material-symbols-outlined text-sm">fact_check</span>
         <span id="btnAuditLabel">Recuento</span>
       </button>
-      <button id="alertDot" title="Avisos" class="status-dot off" type="button" style="background:none;box-shadow:none"></button>
+      <button id="btnBell" title="Avisos" class="relative w-8 h-8 rounded-lg flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container-low transition-colors" type="button">
+        <span class="material-symbols-outlined text-[20px]">notifications</span>
+        <span class="absolute top-1.5 right-1.5 w-1.5 h-1.5 rounded-full bg-accent-crimson" id="alertDot"></span>
+      </button>
+      <button id="btnPro" class="inline-flex items-center gap-1.5 bg-primary text-on-primary px-3.5 py-1.5 rounded-lg font-label-sm text-label-sm font-semibold hover:bg-primary-container active:scale-[0.98] transition-all shadow-sm" type="button">
+        <span>Acceso Pro</span>
+        <span class="material-symbols-outlined text-[14px]">arrow_forward</span>
+      </button>
     </div>
   </div>
 </header>
@@ -137,7 +145,7 @@
       <div class="inline-flex items-center justify-center w-6 h-6 rounded bg-surface-container-high text-primary">
         <span class="material-symbols-outlined text-[16px]">bolt</span>
       </div>
-      <span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">Modelos on-demand · sin saturar</span>
+      <span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">Motor Velocity Pristine v4.2</span>
     </div>
     <h1 class="font-display-lg text-headline-lg-mobile md:text-display-lg text-primary tracking-tight font-bold">Predicciones del Día</h1>
     <p class="font-body-lg text-body-lg text-on-surface-variant mt-2 max-w-3xl">Solicita a cada modelo la predicción de la fecha que quieras, por deporte y liga.</p>
@@ -217,7 +225,7 @@
           <h2 class="font-headline-lg text-headline-lg font-bold text-primary">Picks</h2>
           <span class="font-label-md text-label-md text-on-surface-variant" id="picksCount"></span>
         </div>
-        <span class="font-label-sm text-label-sm text-on-surface-variant" id="picksHint">Umbral del modelo</span>
+        <span class="font-label-sm text-label-sm text-on-surface-variant" id="picksHint">Model confidence threshold &gt; 60%</span>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="picksGrid"></div>
     </div>
@@ -310,7 +318,7 @@
   <div class="w-full py-space-md px-margin max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-space-xs">
     <div class="flex flex-col sm:flex-row items-center gap-3">
       <span class="font-headline-md text-headline-md font-bold text-primary">Kronos</span>
-      <span class="text-on-surface-variant font-label-sm text-label-sm text-center sm:text-left">© 2026 Kronos Predicciones · Analytics profesional</span>
+      <span class="text-on-surface-variant font-label-sm text-label-sm text-center sm:text-left">© 2026 Kronos Predicciones. Velocity Pristine Analytics Engine. Todos los derechos reservados.</span>
     </div>
     <div class="flex flex-wrap items-center justify-center gap-6">
       <a class="text-on-surface-variant font-label-sm text-label-sm hover:text-primary transition-colors" href="#">Metodología</a>

@@ -470,8 +470,28 @@
   function wireRegistro() {
     const link = document.querySelector('[data-nav="registro"]');
     if (link) link.addEventListener("click", (e) => { e.preventDefault(); openRegistro(); });
+    const pro = $("btnPro");
+    if (pro) pro.addEventListener("click", openRegistro);
     const close = $("registroClose");
     if (close) close.addEventListener("click", closeRegistro);
+    if (state.mode === "static") {
+      document.querySelectorAll(".nav-link").forEach((n) => {
+        n.addEventListener("click", () => {
+          if (n.dataset.nav === "registro") return; // lo maneja el listener de arriba
+          if (n.dataset.nav === "dashboard") {
+            if (registroState.prev) closeRegistro();
+            window.scrollTo({ top: 0, behavior: "smooth" });
+          } else if (n.dataset.nav === "cartelera") {
+            const p = $("staticPanels");
+            if (p) p.scrollIntoView({ behavior: "smooth", block: "start" });
+          } else if (n.dataset.nav === "modelos") {
+            const s = $("statsSection");
+            if (s && s.offsetHeight) s.scrollIntoView({ behavior: "smooth", block: "start" });
+            else openRegistro();
+          }
+        });
+      });
+    }
   }
 
   function openRegistroSiHash() {
@@ -765,11 +785,11 @@
     const dot = els.alertDot;
     if (!dot) return;
     if (!alerts.length) {
-      dot.className = "status-dot ok";
+      dot.style.background = "#059669";
       dot.title = "Sin avisos";
     } else {
       const hasError = alerts.some((a) => a.level === "error");
-      dot.className = hasError ? "status-dot err" : "status-dot off";
+      dot.style.background = hasError ? "#B91C1C" : "#9CA3AF";
       const summary = alerts.map((a) => a.title || "Aviso").join(" · ");
       dot.title = `${alerts.length} aviso${alerts.length === 1 ? "" : "s"}: ${summary}`;
     }
@@ -799,6 +819,12 @@
         if (n.dataset.nav === "cartelera") {
           const sec = $("carteleraSection");
           if (sec) sec.scrollIntoView({ behavior: "smooth", block: "start" });
+          return;
+        }
+        if (n.dataset.nav === "modelos") {
+          const stats = $("statsSection");
+          if (stats && stats.offsetHeight) stats.scrollIntoView({ behavior: "smooth", block: "start" });
+          else openRegistro();
           return;
         }
         const sport = state.sports.find((s) => s.key === n.dataset.nav);

@@ -1,55 +1,55 @@
 {
- "generated_at": "2026-10-24T15:05:26",
+ "generated_at": "2026-10-24T15:41:49",
  "days": 30,
  "solo_verificables": true,
  "total": {
-  "ganados": 144,
-  "perdidos": 104,
-  "anulados": 0,
-  "pendientes": 113,
-  "n": 361,
-  "win_pct": 0.581
+  "ganados": 157,
+  "perdidos": 112,
+  "anulados": 2,
+  "pendientes": 91,
+  "n": 362,
+  "win_pct": 0.584
  },
  "by_sport": {
   "amfut": {
-   "ganados": 28,
-   "perdidos": 35,
-   "anulados": 0,
-   "pendientes": 23,
+   "ganados": 29,
+   "perdidos": 37,
+   "anulados": 1,
+   "pendientes": 19,
    "n": 86,
-   "win_pct": 0.444
+   "win_pct": 0.439
   },
   "basquet": {
    "ganados": 3,
-   "perdidos": 0,
+   "perdidos": 2,
    "anulados": 0,
-   "pendientes": 19,
+   "pendientes": 17,
    "n": 22,
-   "win_pct": 1.0
+   "win_pct": 0.6
   },
   "beisbol": {
    "ganados": 34,
    "perdidos": 21,
-   "anulados": 0,
+   "anulados": 1,
    "pendientes": 0,
-   "n": 55,
+   "n": 56,
    "win_pct": 0.618
   },
   "futbol": {
-   "ganados": 66,
-   "perdidos": 36,
+   "ganados": 76,
+   "perdidos": 39,
    "anulados": 0,
-   "pendientes": 52,
+   "pendientes": 39,
    "n": 154,
-   "win_pct": 0.647
+   "win_pct": 0.661
   },
   "tenis": {
-   "ganados": 13,
-   "perdidos": 12,
+   "ganados": 15,
+   "perdidos": 13,
    "anulados": 0,
-   "pendientes": 19,
+   "pendientes": 16,
    "n": 44,
-   "win_pct": 0.52
+   "win_pct": 0.536
   }
  },
  "picks": [
@@ -1071,7 +1071,7 @@
    "cuota": null,
    "prob": 0.9383,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -1086,7 +1086,7 @@
    "cuota": null,
    "prob": 0.6898,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -1131,7 +1131,7 @@
    "cuota": null,
    "prob": 0.6779,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -1146,7 +1146,7 @@
    "cuota": null,
    "prob": 0.6866,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -1161,7 +1161,7 @@
    "cuota": null,
    "prob": 0.787,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -1341,7 +1341,7 @@
    "cuota": null,
    "prob": 0.8206630464010507,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -1356,7 +1356,7 @@
    "cuota": null,
    "prob": 0.8032496711519413,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -1371,7 +1371,7 @@
    "cuota": null,
    "prob": 0.5299816809335047,
    "tier": "DESTACADO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -1386,7 +1386,7 @@
    "cuota": null,
    "prob": 0.7640839866117453,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -1401,7 +1401,7 @@
    "cuota": null,
    "prob": 0.9074102061809952,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -1416,7 +1416,7 @@
    "cuota": null,
    "prob": 0.8644404967136732,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -1431,7 +1431,7 @@
    "cuota": null,
    "prob": 0.7283134376343443,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -1446,7 +1446,7 @@
    "cuota": null,
    "prob": 0.9164004749324866,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -1461,7 +1461,7 @@
    "cuota": null,
    "prob": 0.9214761466750186,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -1476,7 +1476,7 @@
    "cuota": null,
    "prob": 0.8299321088716727,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -1551,7 +1551,7 @@
    "cuota": null,
    "prob": 0.6665266586193577,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -1566,7 +1566,7 @@
    "cuota": null,
    "prob": 0.6736586656863319,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -1581,7 +1581,7 @@
    "cuota": null,
    "prob": 0.6435,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -1596,7 +1596,7 @@
    "cuota": null,
    "prob": 0.7364999999999999,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -1656,7 +1656,7 @@
    "cuota": null,
    "prob": 0.7853,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -2111,6 +2111,21 @@
   {
    "fecha": "2026-09-27",
    "deporte": "beisbol",
+   "liga": "KBO",
+   "liga_nombre": "KBO League",
+   "local": "Kia Tigers",
+   "visitante": "LG Twins",
+   "partido": "LG Twins @ Kia Tigers",
+   "mercado": "Moneyline",
+   "pick": "LG Twins",
+   "cuota": null,
+   "prob": 0.5941000000000001,
+   "tier": "DESTACADO",
+   "estado": "ANULADO"
+  },
+  {
+   "fecha": "2026-09-27",
+   "deporte": "beisbol",
    "liga": "MLB",
    "liga_nombre": "Major League",
    "local": "Seattle Mariners",
@@ -2556,7 +2571,7 @@
    "cuota": null,
    "prob": 0.7659242550404038,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-09-27",
@@ -3336,7 +3351,7 @@
    "cuota": null,
    "prob": 0.7634,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "ANULADO"
   },
   {
    "fecha": "2026-09-26",

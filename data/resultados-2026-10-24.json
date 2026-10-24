@@ -1,13 +1,13 @@
 {
  "day": "2026-10-24",
- "generated_at": "2026-10-24T15:05:26",
+ "generated_at": "2026-10-24T15:41:49",
  "total": {
-  "ganados": 1,
-  "perdidos": 0,
+  "ganados": 13,
+  "perdidos": 8,
   "anulados": 0,
-  "pendientes": 49,
+  "pendientes": 29,
   "n": 50,
-  "win_pct": 1.0
+  "win_pct": 0.619
  },
  "picks": [
   {
@@ -158,7 +158,7 @@
    "cuota": null,
    "prob": 0.9383,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -173,7 +173,7 @@
    "cuota": null,
    "prob": 0.6898,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -218,7 +218,7 @@
    "cuota": null,
    "prob": 0.6779,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -233,7 +233,7 @@
    "cuota": null,
    "prob": 0.6866,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -248,7 +248,7 @@
    "cuota": null,
    "prob": 0.787,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -428,7 +428,7 @@
    "cuota": null,
    "prob": 0.8206630464010507,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -443,7 +443,7 @@
    "cuota": null,
    "prob": 0.8032496711519413,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -458,7 +458,7 @@
    "cuota": null,
    "prob": 0.5299816809335047,
    "tier": "DESTACADO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -473,7 +473,7 @@
    "cuota": null,
    "prob": 0.7640839866117453,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -488,7 +488,7 @@
    "cuota": null,
    "prob": 0.9074102061809952,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -503,7 +503,7 @@
    "cuota": null,
    "prob": 0.8644404967136732,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -518,7 +518,7 @@
    "cuota": null,
    "prob": 0.7283134376343443,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -533,7 +533,7 @@
    "cuota": null,
    "prob": 0.9164004749324866,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -548,7 +548,7 @@
    "cuota": null,
    "prob": 0.9214761466750186,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -563,7 +563,7 @@
    "cuota": null,
    "prob": 0.8299321088716727,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -638,7 +638,7 @@
    "cuota": null,
    "prob": 0.6665266586193577,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -653,7 +653,7 @@
    "cuota": null,
    "prob": 0.6736586656863319,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -668,7 +668,7 @@
    "cuota": null,
    "prob": 0.6435,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
@@ -683,7 +683,7 @@
    "cuota": null,
    "prob": 0.7364999999999999,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-24",
@@ -743,7 +743,7 @@
    "cuota": null,
    "prob": 0.7853,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-24",
