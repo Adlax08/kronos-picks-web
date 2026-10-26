@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-25T22:40:07",
- "sports_total": "78 partidos",
+ "generated_at": "2026-10-26T12:14:29",
+ "sports_total": "50 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -245,7 +245,7 @@
        "label": "Moneyline",
        "pick": "Milwaukee Brewers",
        "prob": 0.5211,
-       "detail": "Local 48% · Visitante 52% · (-120/-101)",
+       "detail": "Local 48% · Visitante 52% · (-118/-102)",
        "strong": false
       },
       {
@@ -282,15 +282,15 @@
     }
    ],
    "message": "1 partidos proyectados",
-   "elapsed_s": 1.7
+   "elapsed_s": 1.4
   },
   "tenis": {
    "ok": true,
    "date": "2026-10-26",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 63,
-   "message": "63 partidos proyectados",
+   "n": 35,
+   "message": "35 partidos proyectados",
    "picks": [
     {
      "match": "Casper Ruud vs Dominic Stricker",
@@ -299,10 +299,10 @@
      "prob": 0.857,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": "EV +11.4% · momio 1.3",
+     "note": "EV +17.4% · momio 1.37",
      "edge": null,
-     "ev": 0.11410000000000003,
-     "odds": 1.3,
+     "ev": 0.17409000000000008,
+     "odds": 1.37,
      "line": null,
      "league_code": "ATP",
      "league_label": "ATP Tour"
@@ -314,25 +314,10 @@
      "prob": 0.856,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": "EV +20.7% · momio 1.41",
+     "note": "EV +17.3% · momio 1.37",
      "edge": null,
-     "ev": 0.20695999999999992,
-     "odds": 1.41,
-     "line": null,
-     "league_code": "ATP",
-     "league_label": "ATP Tour"
-    },
-    {
-     "match": "Mika Brunold vs Nuno Borges",
-     "market": "ML",
-     "pick": "Nuno Borges",
-     "prob": 0.7568,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "EV +6.7% · momio 1.41",
-     "edge": null,
-     "ev": 0.06708799999999998,
-     "odds": 1.41,
+     "ev": 0.1727200000000001,
+     "odds": 1.37,
      "line": null,
      "league_code": "ATP",
      "league_label": "ATP Tour"
@@ -344,116 +329,11 @@
      "prob": 0.747,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": "EV +56.9% · momio 2.1",
+     "note": "",
      "edge": null,
-     "ev": 0.5687000000000001,
-     "odds": 2.1,
+     "ev": null,
+     "odds": null,
      "line": null,
-     "league_code": "ATP",
-     "league_label": "ATP Tour"
-    },
-    {
-     "match": "Holger Rune vs Quentin Halys",
-     "market": "ML",
-     "pick": "Holger Rune",
-     "prob": 0.7202,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "EV +34.7% · momio 1.87",
-     "edge": null,
-     "ev": 0.346774,
-     "odds": 1.87,
-     "line": null,
-     "league_code": "ATP",
-     "league_label": "ATP Tour"
-    },
-    {
-     "match": "Jakub Mensik vs Lukas Neumayer",
-     "market": "SET1 JUEGOS",
-     "pick": "UNDER 9.5",
-     "prob": 0.6818,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": "EV +15.2% · momio 1.69",
-     "edge": 0.13559999999999994,
-     "ev": 0.15224199999999988,
-     "odds": 1.69,
-     "line": 9.5,
-     "league_code": "ATP",
-     "league_label": "ATP Tour"
-    },
-    {
-     "match": "Daniel Altmaier vs Juan Manuel Cerundolo",
-     "market": "SET1 JUEGOS",
-     "pick": "UNDER 9.5",
-     "prob": 0.6760999999999999,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": "EV +69.0% · momio 2.5",
-     "edge": 0.3274999999999999,
-     "ev": 0.6902499999999998,
-     "odds": 2.5,
-     "line": 9.5,
-     "league_code": "ATP",
-     "league_label": "ATP Tour"
-    },
-    {
-     "match": "Matteo Berrettini vs Tomas Martin Etcheverry",
-     "market": "ML",
-     "pick": "Matteo Berrettini",
-     "prob": 0.6693,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": "EV +3.1% · momio 1.54",
-     "edge": null,
-     "ev": 0.030722000000000027,
-     "odds": 1.54,
-     "line": null,
-     "league_code": "ATP",
-     "league_label": "ATP Tour"
-    },
-    {
-     "match": "Matteo Berrettini vs Tomas Martin Etcheverry",
-     "market": "SET1 JUEGOS",
-     "pick": "UNDER 9.5",
-     "prob": 0.6598999999999999,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": "EV +48.5% · momio 2.25",
-     "edge": 0.2719999999999999,
-     "ev": 0.48477499999999984,
-     "odds": 2.25,
-     "line": 9.5,
-     "league_code": "ATP",
-     "league_label": "ATP Tour"
-    },
-    {
-     "match": "Holger Rune vs Quentin Halys",
-     "market": "SET1 JUEGOS",
-     "pick": "UNDER 9.5",
-     "prob": 0.6386000000000001,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": "EV +67.3% · momio 2.62",
-     "edge": 0.3173,
-     "ev": 0.6731320000000003,
-     "odds": 2.62,
-     "line": 9.5,
-     "league_code": "ATP",
-     "league_label": "ATP Tour"
-    },
-    {
-     "match": "Luciano Darderi vs Matteo Arnaldi",
-     "market": "HANDICAP JUEGOS",
-     "pick": "Luciano Darderi +0.5",
-     "prob": 0.629,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": "EV +11.3% · momio 1.77",
-     "edge": 0.11240000000000006,
-     "ev": 0.11333000000000004,
-     "odds": 1.77,
-     "line": 0.5,
      "league_code": "ATP",
      "league_label": "ATP Tour"
     },
@@ -464,10 +344,10 @@
      "prob": 0.6099,
      "tier": "BUENO",
      "units": "1.0",
-     "note": "EV +8.0% · momio 1.77",
+     "note": "",
      "edge": null,
-     "ev": 0.07952300000000001,
-     "odds": 1.77,
+     "ev": null,
+     "odds": null,
      "line": null,
      "league_code": "ATP",
      "league_label": "ATP Tour"
@@ -488,10 +368,10 @@
      "league_label": "WTA Tour"
     },
     {
-     "match": "Elise Mertens vs Moyuka Uchijima",
+     "match": "Maya Joint vs Sorana Cirstea",
      "market": "ML",
-     "pick": "Elise Mertens",
-     "prob": 0.9271,
+     "pick": "Sorana Cirstea",
+     "prob": 0.8819,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": "",
@@ -518,6 +398,51 @@
      "league_label": "WTA Tour"
     },
     {
+     "match": "Cristina Bucsa vs Diane Parry",
+     "market": "ML",
+     "pick": "Diane Parry",
+     "prob": 0.8435,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": "",
+     "edge": null,
+     "ev": null,
+     "odds": null,
+     "line": null,
+     "league_code": "WTA",
+     "league_label": "WTA Tour"
+    },
+    {
+     "match": "Jil Teichmann vs Simona Waltert",
+     "market": "ML",
+     "pick": "Jil Teichmann",
+     "prob": 0.782,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": "",
+     "edge": null,
+     "ev": null,
+     "odds": null,
+     "line": null,
+     "league_code": "WTA",
+     "league_label": "WTA Tour"
+    },
+    {
+     "match": "Maria Sakkari vs Yulia Putintseva",
+     "market": "ML",
+     "pick": "Maria Sakkari",
+     "prob": 0.7321,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": "",
+     "edge": null,
+     "ev": null,
+     "odds": null,
+     "line": null,
+     "league_code": "WTA",
+     "league_label": "WTA Tour"
+    },
+    {
      "match": "Lucia Bronzetti vs Luisina Giovannini",
      "market": "ML",
      "pick": "Lucia Bronzetti",
@@ -533,25 +458,10 @@
      "league_label": "WTA Tour"
     },
     {
-     "match": "Fernanda Labrana vs Gabriela Ce",
+     "match": "Ann Li vs Ekaterina Alexandrova",
      "market": "ML",
-     "pick": "Fernanda Labrana",
-     "prob": 0.6614,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": "",
-     "edge": null,
-     "ev": null,
-     "odds": null,
-     "line": null,
-     "league_code": "WTA",
-     "league_label": "WTA Tour"
-    },
-    {
-     "match": "Anna Bondar vs Daria Snigur",
-     "market": "ML",
-     "pick": "Anna Bondar",
-     "prob": 0.644,
+     "pick": "Ann Li",
+     "prob": 0.6321,
      "tier": "BUENO",
      "units": "1.0",
      "note": "",
@@ -563,25 +473,10 @@
      "league_label": "WTA Tour"
     },
     {
-     "match": "Aliaksandra Sasnovich vs Nikola Bartunkova",
+     "match": "Kaitlin Quevedo vs Sofia Kenin",
      "market": "ML",
-     "pick": "Aliaksandra Sasnovich",
-     "prob": 0.5996,
-     "tier": "DESTACADO",
-     "units": "0.5",
-     "note": "Prob<60% pero buen momentum/variables: resaltado.",
-     "edge": null,
-     "ev": null,
-     "odds": null,
-     "line": null,
-     "league_code": "WTA",
-     "league_label": "WTA Tour"
-    },
-    {
-     "match": "Ayla Aksu vs Lisa Zaar",
-     "market": "ML",
-     "pick": "Ayla Aksu",
-     "prob": 0.56,
+     "pick": "Kaitlin Quevedo",
+     "prob": 0.5536,
      "tier": "DESTACADO",
      "units": "0.5",
      "note": "Prob<60% pero buen momentum/variables: resaltado.",
@@ -608,31 +503,16 @@
      "league_label": "ATP Challenger Tour"
     },
     {
-     "match": "Mitsuki Wei Kang Leong vs Qian Sun",
-     "market": "ML",
-     "pick": "Mitsuki Wei Kang Leong",
-     "prob": 0.8647,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "",
-     "edge": null,
-     "ev": null,
-     "odds": null,
-     "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
      "match": "Federico Cina vs Shintaro Mochizuki",
      "market": "ML",
      "pick": "Federico Cina",
      "prob": 0.8504,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": "EV +38.6% · momio 1.63",
+     "note": "",
      "edge": null,
-     "ev": 0.38615199999999994,
-     "odds": 1.63,
+     "ev": null,
+     "odds": null,
      "line": null,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
@@ -653,46 +533,16 @@
      "league_label": "ATP Challenger Tour"
     },
     {
-     "match": "Michael Geerts vs Niels Mcdonald",
-     "market": "ML",
-     "pick": "Michael Geerts",
-     "prob": 0.8409,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "EV +51.4% · momio 1.8",
-     "edge": null,
-     "ev": 0.51362,
-     "odds": 1.8,
-     "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
      "match": "Angel Veliz vs Emilio Camacho",
      "market": "ML",
      "pick": "Emilio Camacho",
      "prob": 0.8308,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": "EV +22.1% · momio 1.47",
+     "note": "EV +40.4% · momio 1.69",
      "edge": null,
-     "ev": 0.22127599999999997,
-     "odds": 1.47,
-     "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Mert Alkaya vs Rigele Te",
-     "market": "ML",
-     "pick": "Mert Alkaya",
-     "prob": 0.8234,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "",
-     "edge": null,
-     "ev": null,
-     "odds": null,
+     "ev": 0.40405199999999997,
+     "odds": 1.69,
      "line": null,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
@@ -704,10 +554,10 @@
      "prob": 0.7942,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": "EV +43.0% · momio 1.8",
+     "note": "",
      "edge": null,
-     "ev": 0.42956000000000005,
-     "odds": 1.8,
+     "ev": null,
+     "odds": null,
      "line": null,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
@@ -719,10 +569,10 @@
      "prob": 0.7922,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": "EV +3.0% · momio 1.3",
+     "note": "EV +8.5% · momio 1.37",
      "edge": null,
-     "ev": 0.029860000000000053,
-     "odds": 1.3,
+     "ev": 0.08531400000000011,
+     "odds": 1.37,
      "line": null,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
@@ -758,96 +608,6 @@
      "league_label": "ATP Challenger Tour"
     },
     {
-     "match": "Lucas Poullain vs Matisse Bobichon",
-     "market": "ML",
-     "pick": "Lucas Poullain",
-     "prob": 0.7621,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "EV +4.4% · momio 1.37",
-     "edge": null,
-     "ev": 0.04407700000000009,
-     "odds": 1.37,
-     "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Kaichi Uchida vs Ognjen Milic",
-     "market": "ML",
-     "pick": "Ognjen Milic",
-     "prob": 0.7619,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "",
-     "edge": null,
-     "ev": null,
-     "odds": null,
-     "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Beibit Zhukayev vs Koki Matsuda",
-     "market": "ML",
-     "pick": "Beibit Zhukayev",
-     "prob": 0.7599,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "",
-     "edge": null,
-     "ev": null,
-     "odds": null,
-     "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Hiroki Moriya vs Timofei Derepasko",
-     "market": "ML",
-     "pick": "Hiroki Moriya",
-     "prob": 0.7465,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "",
-     "edge": null,
-     "ev": null,
-     "odds": null,
-     "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Filip Peliwo vs Luca Castelnuovo",
-     "market": "ML",
-     "pick": "Luca Castelnuovo",
-     "prob": 0.7423,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "",
-     "edge": null,
-     "ev": null,
-     "odds": null,
-     "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Alexis Galarneau vs Mees Rottgering",
-     "market": "HANDICAP JUEGOS",
-     "pick": "Alexis Galarneau +3.5",
-     "prob": 0.7399,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "EV +31.0% · momio 1.77",
-     "edge": 0.22330000000000005,
-     "ev": 0.309623,
-     "odds": 1.77,
-     "line": 3.5,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
      "match": "Andres Martin vs Kaylan Bigun",
      "market": "ML",
      "pick": "Andres Martin",
@@ -869,10 +629,10 @@
      "prob": 0.7127,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": "EV +26.1% · momio 1.77",
-     "edge": 0.19610000000000005,
-     "ev": 0.261479,
-     "odds": 1.77,
+     "note": "EV +28.3% · momio 1.8",
+     "edge": 0.2127,
+     "ev": 0.28286,
+     "odds": 1.8,
      "line": 2.5,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
@@ -884,10 +644,10 @@
      "prob": 0.6996,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": "EV +92.4% · momio 2.75",
+     "note": "EV +65.8% · momio 2.37",
      "edge": null,
-     "ev": 0.9238999999999999,
-     "odds": 2.75,
+     "ev": 0.6580520000000001,
+     "odds": 2.37,
      "line": null,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
@@ -899,85 +659,40 @@
      "prob": 0.6969000000000001,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": "EV +53.3% · momio 2.2",
-     "edge": 0.29390000000000005,
-     "ev": 0.5331800000000003,
-     "odds": 2.2,
+     "note": "EV +46.3% · momio 2.1",
+     "edge": 0.27170000000000005,
+     "ev": 0.4634900000000002,
+     "odds": 2.1,
      "line": 9.5,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
     },
     {
-     "match": "Kasidit Samrej vs Rei Sakamoto",
-     "market": "SET1 JUEGOS",
-     "pick": "UNDER 9.5",
-     "prob": 0.6813,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": "EV +27.4% · momio 1.87",
-     "edge": 0.19789999999999996,
-     "ev": 0.27403100000000014,
-     "odds": 1.87,
-     "line": 9.5,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Marin Cilic vs Zhizhen Zhang",
-     "market": "SET1 JUEGOS",
-     "pick": "UNDER 9.5",
-     "prob": 0.6685,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": "EV +25.0% · momio 1.87",
-     "edge": 0.18509999999999993,
-     "ev": 0.25009500000000007,
-     "odds": 1.87,
-     "line": 9.5,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Juan Carlos Prado Angelo vs Pedro Boscardin Dias",
+     "match": "Alexis Galarneau vs Mees Rottgering",
      "market": "HANDICAP JUEGOS",
-     "pick": "Pedro Boscardin Dias +4.5",
-     "prob": 0.6553,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": "EV +10.7% · momio 1.69",
-     "edge": 0.10909999999999997,
-     "ev": 0.10745699999999997,
-     "odds": 1.69,
-     "line": 4.5,
+     "pick": "Alexis Galarneau +2.5",
+     "prob": 0.6629,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": "EV +19.3% · momio 1.8",
+     "edge": 0.16290000000000004,
+     "ev": 0.19322000000000006,
+     "odds": 1.8,
+     "line": 2.5,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
     },
     {
-     "match": "Juncheng Shang vs Lloyd Harris",
-     "market": "SET1 JUEGOS",
-     "pick": "UNDER 9.5",
-     "prob": 0.6506000000000001,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": "EV +54.2% · momio 2.37",
-     "edge": 0.28380000000000005,
-     "ev": 0.5419220000000002,
-     "odds": 2.37,
-     "line": 9.5,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Juncheng Shang vs Lloyd Harris",
+     "match": "Lorenzo Claverie vs Ryan Nijboer",
      "market": "ML",
-     "pick": "Juncheng Shang",
-     "prob": 0.6506,
+     "pick": "Ryan Nijboer",
+     "prob": 0.6563,
      "tier": "BUENO",
      "units": "1.0",
-     "note": "EV +54.2% · momio 2.37",
+     "note": "",
      "edge": null,
-     "ev": 0.541922,
-     "odds": 2.37,
+     "ev": null,
+     "odds": null,
      "line": null,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
@@ -998,21 +713,6 @@
      "league_label": "ATP Challenger Tour"
     },
     {
-     "match": "Juncheng Shang vs Lloyd Harris",
-     "market": "HANDICAP JUEGOS",
-     "pick": "Juncheng Shang +1.5",
-     "prob": 0.6369,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": "EV +12.7% · momio 1.77",
-     "edge": 0.12030000000000007,
-     "ev": 0.12731300000000007,
-     "odds": 1.77,
-     "line": 1.5,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
      "match": "Gabriel Diallo vs Nishesh Basavareddy",
      "market": "ML",
      "pick": "Gabriel Diallo",
@@ -1026,152 +726,9 @@
      "line": null,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Gonzalo Villanueva vs Lautaro Midon",
-     "market": "HANDICAP JUEGOS",
-     "pick": "Gonzalo Villanueva +4.5",
-     "prob": 0.6187,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": "EV +9.5% · momio 1.77",
-     "edge": 0.10210000000000008,
-     "ev": 0.09509900000000004,
-     "odds": 1.77,
-     "line": 4.5,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Marin Cilic vs Zhizhen Zhang",
-     "market": "HANDICAP JUEGOS",
-     "pick": "Zhizhen Zhang +2.5",
-     "prob": 0.6021,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": "EV +18.6% · momio 1.97",
-     "edge": 0.1483,
-     "ev": 0.18613699999999989,
-     "odds": 1.97,
-     "line": 2.5,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Martin Borisiouk vs Yaroslav Demin",
-     "market": "ML",
-     "pick": "Yaroslav Demin",
-     "prob": 0.5404,
-     "tier": "DESTACADO",
-     "units": "0.5",
-     "note": "Prob<60% pero buen momentum/variables: resaltado.",
-     "edge": null,
-     "ev": null,
-     "odds": null,
-     "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
     }
    ],
    "predictions": [
-    {
-     "home": "Matteo Berrettini",
-     "away": "Tomas Martin Etcheverry",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Erste Bank Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Matteo Berrettini",
-       "prob": 0.6693,
-       "detail": "Matteo Berrettini 67% · Tomas Martin Etcheverry 33%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5448,
-       "detail": "OVER 22.5 · 54% · Proyectado 24.2",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Tomas Martin Etcheverry",
-       "prob": 0.5475,
-       "detail": "Tomas Martin Etcheverry +2.5 (mercado) · 55%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Tomas Martin Etcheverry",
-       "prob": 0.6184000000000001,
-       "detail": "Hándicap Sets -1.5 · 38% · (+162)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.6598999999999999,
-       "detail": "UNDER 9.5 · 66% · Proyectado 10.0",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
-     "home": "Alex De Minaur",
-     "away": "Tomas Machac",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Erste Bank Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Alex De Minaur",
-       "prob": 0.7381,
-       "detail": "Alex De Minaur 74% · Tomas Machac 26%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5292,
-       "detail": "OVER 21.5 · 53% · Proyectado 24.0",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Tomas Machac",
-       "prob": 0.5544,
-       "detail": "Tomas Machac +3.5 (mercado) · 55%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Tomas Machac",
-       "prob": 0.5545,
-       "detail": "Hándicap Sets -1.5 · 45% · (+124)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.583,
-       "detail": "OVER 9.5 · 58% · Proyectado 9.9",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
     {
      "home": "Arthur Fery",
      "away": "Jacob Fearnley",
@@ -1193,14 +750,7 @@
        "label": "Total Juegos O/U",
        "pick": "OVER",
        "prob": 0.5104,
-       "detail": "OVER 22.5 · 51% · Proyectado 23.9",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Arthur Fery",
-       "prob": 0.5499,
-       "detail": "Arthur Fery -0.5 (mercado) · 55%",
+       "detail": "OVER 23.5 · 51% · Proyectado 23.9",
        "strong": false
       },
       {
@@ -1215,55 +765,6 @@
        "pick": "OVER",
        "prob": 0.5611,
        "detail": "OVER 9.5 · 56% · Proyectado 9.9",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
-     "home": "Jakub Mensik",
-     "away": "Lukas Neumayer",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Erste Bank Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Jakub Mensik",
-       "prob": 0.8975,
-       "detail": "Jakub Mensik 90% · Lukas Neumayer 10%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.505,
-       "detail": "UNDER 21.5 · 50% · Proyectado 23.2",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Jakub Mensik",
-       "prob": 0.5611,
-       "detail": "Jakub Mensik -4.5 (mercado) · 56%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Jakub Mensik",
-       "prob": 0.7735,
-       "detail": "Hándicap Sets -1.5 · 77% · (-341)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.6818,
-       "detail": "UNDER 9.5 · 68% · Proyectado 9.8",
        "strong": false
       }
      ],
@@ -1292,13 +793,6 @@
        "pick": "UNDER",
        "prob": 0.5029,
        "detail": "UNDER 22.5 · 50% · Proyectado 23.7",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Luciano Darderi",
-       "prob": 0.629,
-       "detail": "Luciano Darderi +0.5 (mercado) · 63%",
        "strong": false
       },
       {
@@ -1369,202 +863,6 @@
      "momentum_ok": true
     },
     {
-     "home": "Mika Brunold",
-     "away": "Nuno Borges",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Swiss Indoors Basel, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Nuno Borges",
-       "prob": 0.7568,
-       "detail": "Mika Brunold 24% · Nuno Borges 76%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5171,
-       "detail": "UNDER 23.5 · 52% · Proyectado 23.0",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Mika Brunold",
-       "prob": 0.5525,
-       "detail": "Mika Brunold +2.5 (mercado) · 55%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Nuno Borges",
-       "prob": 0.8304,
-       "detail": "Hándicap Sets -1.5 · 17% · (+489)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5806,
-       "detail": "OVER 9.5 · 58% · Proyectado 10.0",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Mariano Navone",
-     "away": "Valentin Vacherot",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Swiss Indoors Basel, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Mariano Navone",
-       "prob": 0.5513,
-       "detail": "Mariano Navone 55% · Valentin Vacherot 45%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5338,
-       "detail": "UNDER 22.5 · 53% · Proyectado 23.7",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Mariano Navone",
-       "prob": 0.5339,
-       "detail": "Mariano Navone +2.5 (mercado) · 53%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Valentin Vacherot",
-       "prob": 0.7567,
-       "detail": "Hándicap Sets -1.5 · 24% · (+311)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5692,
-       "detail": "OVER 9.5 · 57% · Proyectado 10.0",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": false
-    },
-    {
-     "home": "Holger Rune",
-     "away": "Quentin Halys",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Swiss Indoors Basel, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Holger Rune",
-       "prob": 0.7202,
-       "detail": "Holger Rune 72% · Quentin Halys 28%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5339,
-       "detail": "UNDER 25.5 · 53% · Proyectado 23.8",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Holger Rune",
-       "prob": 0.5401,
-       "detail": "Holger Rune +0.5 (mercado) · 54%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Quentin Halys",
-       "prob": 0.5589,
-       "detail": "Hándicap Sets -1.5 · 44% · (+127)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.6386000000000001,
-       "detail": "UNDER 9.5 · 64% · Proyectado 10.0",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Daniel Altmaier",
-     "away": "Juan Manuel Cerundolo",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Swiss Indoors Basel, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Juan Manuel Cerundolo",
-       "prob": 0.6113999999999999,
-       "detail": "Daniel Altmaier 39% · Juan Manuel Cerundolo 61%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5005999999999999,
-       "detail": "UNDER 23.5 · 50% · Proyectado 23.5",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Daniel Altmaier",
-       "prob": 0.5324,
-       "detail": "Daniel Altmaier +1.5 (mercado) · 53%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Juan Manuel Cerundolo",
-       "prob": 0.7818,
-       "detail": "Hándicap Sets -1.5 · 22% · (+358)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.6760999999999999,
-       "detail": "UNDER 9.5 · 68% · Proyectado 9.8",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
      "home": "Casper Ruud",
      "away": "Dominic Stricker",
      "home_abbrev": "",
@@ -1607,8 +905,8 @@
      "momentum_ok": true
     },
     {
-     "home": "Anna Bondar",
-     "away": "Daria Snigur",
+     "home": "Jil Teichmann",
+     "away": "Simona Waltert",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
@@ -1618,156 +916,30 @@
      "markets": [
       {
        "label": "Ganador del partido",
-       "pick": "Anna Bondar",
-       "prob": 0.644,
-       "detail": "Anna Bondar 64% · Daria Snigur 36%",
+       "pick": "Jil Teichmann",
+       "prob": 0.782,
+       "detail": "Jil Teichmann 78% · Simona Waltert 22%",
        "strong": true
       },
       {
        "label": "Total Juegos O/U",
        "pick": "OVER",
-       "prob": 0.5137,
-       "detail": "OVER 21.5 · 51% · Proyectado 22.7",
+       "prob": 0.5162,
+       "detail": "OVER 21.5 · 52% · Proyectado 22.1",
        "strong": false
       },
       {
        "label": "Hándicap Sets",
-       "pick": "Daria Snigur",
-       "prob": 0.6302,
-       "detail": "Hándicap Sets -1.5 · 37% · (+170)",
+       "pick": "Simona Waltert",
+       "prob": 0.515,
+       "detail": "Hándicap Sets -1.5 · 48% · (+106)",
        "strong": false
       },
       {
        "label": "Juegos 1er Set O/U",
        "pick": "OVER",
-       "prob": 0.5253,
-       "detail": "OVER 9.5 · 53% · Proyectado 9.5",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Carol Young Suh Lee",
-     "away": "Paula Badosa",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "Guangzhou Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Paula Badosa",
-       "prob": 0.675,
-       "detail": "Carol Young Suh Lee 32% · Paula Badosa 68%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5172,
-       "detail": "UNDER 21.5 · 52% · Proyectado 21.4",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Paula Badosa",
-       "prob": 0.76,
-       "detail": "Hándicap Sets -1.5 · 24% · (+317)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.728,
-       "detail": "UNDER 9.5 · 73% · Proyectado 9.4",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": true
-    },
-    {
-     "home": "Harriet Dart",
-     "away": "Tatiana Prozorova",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "Guangzhou Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Tatiana Prozorova",
-       "prob": 0.5307999999999999,
-       "detail": "Harriet Dart 47% · Tatiana Prozorova 53%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5097,
-       "detail": "OVER 21.5 · 51% · Proyectado 21.9",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Tatiana Prozorova",
-       "prob": 0.6883,
-       "detail": "Hándicap Sets -1.5 · 31% · (+221)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.5011,
-       "detail": "UNDER 9.5 · 50% · Proyectado 9.4",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": false
-    },
-    {
-     "home": "Elise Mertens",
-     "away": "Moyuka Uchijima",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "Toray Pan Pacific Open Tennis, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Elise Mertens",
-       "prob": 0.9271,
-       "detail": "Elise Mertens 93% · Moyuka Uchijima 7%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5948,
-       "detail": "UNDER 20.5 · 59% · Proyectado 20.4",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Elise Mertens",
-       "prob": 0.7889,
-       "detail": "Hándicap Sets -1.5 · 79% · (-374)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.5530999999999999,
-       "detail": "UNDER 9.5 · 55% · Proyectado 9.2",
+       "prob": 0.508,
+       "detail": "OVER 9.5 · 51% · Proyectado 9.4",
        "strong": false
       }
      ],
@@ -1775,40 +947,40 @@
      "momentum_ok": true
     },
     {
-     "home": "Aliaksandra Sasnovich",
-     "away": "Nikola Bartunkova",
+     "home": "Kaitlin Quevedo",
+     "away": "Sofia Kenin",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
      "league_label": "WTA Tour",
-     "context": "Toray Pan Pacific Open Tennis, Hard, Ronda: Round 1, BO3",
+     "context": "Guangzhou Open, Hard, Ronda: Round 1, BO3",
      "extra": "",
      "markets": [
       {
        "label": "Ganador del partido",
-       "pick": "Aliaksandra Sasnovich",
-       "prob": 0.5996,
-       "detail": "Aliaksandra Sasnovich 60% · Nikola Bartunkova 40%",
+       "pick": "Kaitlin Quevedo",
+       "prob": 0.5536,
+       "detail": "Kaitlin Quevedo 55% · Sofia Kenin 45%",
        "strong": false
       },
       {
        "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5179,
-       "detail": "OVER 21.5 · 52% · Proyectado 22.2",
+       "pick": "UNDER",
+       "prob": 0.5037,
+       "detail": "UNDER 21.5 · 50% · Proyectado 22.0",
        "strong": false
       },
       {
        "label": "Hándicap Sets",
-       "pick": "Nikola Bartunkova",
-       "prob": 0.6246,
-       "detail": "Hándicap Sets -1.5 · 38% · (+166)",
+       "pick": "Sofia Kenin",
+       "prob": 0.6561,
+       "detail": "Hándicap Sets -1.5 · 34% · (+191)",
        "strong": false
       },
       {
        "label": "Juegos 1er Set O/U",
        "pick": "OVER",
-       "prob": 0.5175,
+       "prob": 0.5216,
        "detail": "OVER 9.5 · 52% · Proyectado 9.4",
        "strong": false
       }
@@ -1817,8 +989,50 @@
      "momentum_ok": true
     },
     {
-     "home": "Alexandra Eala",
-     "away": "Mika Stojsavljevic",
+     "home": "Anastasia Zakharova",
+     "away": "Magda Linette",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "context": "Guangzhou Open, Hard, Ronda: Round 1, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Magda Linette",
+       "prob": 0.7416,
+       "detail": "Anastasia Zakharova 26% · Magda Linette 74%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "OVER",
+       "prob": 0.5222,
+       "detail": "OVER 21.5 · 52% · Proyectado 22.7",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Magda Linette",
+       "prob": 0.8209,
+       "detail": "Hándicap Sets -1.5 · 18% · (+458)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5288,
+       "detail": "OVER 9.5 · 53% · Proyectado 9.4",
+       "strong": false
+      }
+     ],
+     "convergence": false,
+     "momentum_ok": false
+    },
+    {
+     "home": "Maya Joint",
+     "away": "Sorana Cirstea",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
@@ -1828,156 +1042,156 @@
      "markets": [
       {
        "label": "Ganador del partido",
-       "pick": "Alexandra Eala",
-       "prob": 0.7259,
-       "detail": "Alexandra Eala 73% · Mika Stojsavljevic 27%",
+       "pick": "Sorana Cirstea",
+       "prob": 0.8819,
+       "detail": "Maya Joint 12% · Sorana Cirstea 88%",
        "strong": true
       },
       {
        "label": "Total Juegos O/U",
        "pick": "UNDER",
-       "prob": 0.5053000000000001,
-       "detail": "UNDER 21.5 · 51% · Proyectado 21.4",
+       "prob": 0.5806,
+       "detail": "UNDER 21.5 · 58% · Proyectado 21.2",
        "strong": false
       },
       {
        "label": "Hándicap Sets",
-       "pick": "Mika Stojsavljevic",
-       "prob": 0.5278,
-       "detail": "Hándicap Sets -1.5 · 47% · (+112)",
+       "pick": "Sorana Cirstea",
+       "prob": 0.8972,
+       "detail": "Hándicap Sets -1.5 · 10% · (+872)",
        "strong": false
       },
       {
        "label": "Juegos 1er Set O/U",
        "pick": "UNDER",
-       "prob": 0.7352000000000001,
+       "prob": 0.5162,
+       "detail": "UNDER 9.5 · 52% · Proyectado 9.3",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": true
+    },
+    {
+     "home": "Ann Li",
+     "away": "Ekaterina Alexandrova",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "context": "Toray Pan Pacific Open Tennis, Hard, Ronda: Round 1, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Ann Li",
+       "prob": 0.6321,
+       "detail": "Ann Li 63% · Ekaterina Alexandrova 37%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.5387,
+       "detail": "UNDER 22.5 · 54% · Proyectado 22.2",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Ekaterina Alexandrova",
+       "prob": 0.6329,
+       "detail": "Hándicap Sets -1.5 · 37% · (+172)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.534,
+       "detail": "OVER 9.5 · 53% · Proyectado 9.4",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": true
+    },
+    {
+     "home": "Maria Sakkari",
+     "away": "Yulia Putintseva",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "context": "Toray Pan Pacific Open Tennis, Hard, Ronda: Round 1, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Maria Sakkari",
+       "prob": 0.7321,
+       "detail": "Maria Sakkari 73% · Yulia Putintseva 27%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.5066999999999999,
+       "detail": "UNDER 21.5 · 51% · Proyectado 21.9",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Yulia Putintseva",
+       "prob": 0.5206,
+       "detail": "Hándicap Sets -1.5 · 48% · (+109)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "UNDER",
+       "prob": 0.7362,
        "detail": "UNDER 9.5 · 74% · Proyectado 9.3",
        "strong": false
       }
      ],
-     "convergence": false,
+     "convergence": true,
      "momentum_ok": false
     },
     {
-     "home": "Carolina Alves",
-     "away": "Julia Grabher",
+     "home": "Cristina Bucsa",
+     "away": "Diane Parry",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
      "league_label": "WTA Tour",
-     "context": "Curitiba Open, Hard, Ronda: Round 1, BO3",
+     "context": "Toray Pan Pacific Open Tennis, Hard, Ronda: Round 1, BO3",
      "extra": "",
      "markets": [
       {
        "label": "Ganador del partido",
-       "pick": "Julia Grabher",
-       "prob": 0.6247,
-       "detail": "Carolina Alves 38% · Julia Grabher 62%",
+       "pick": "Diane Parry",
+       "prob": 0.8435,
+       "detail": "Cristina Bucsa 16% · Diane Parry 84%",
        "strong": true
       },
       {
        "label": "Total Juegos O/U",
        "pick": "UNDER",
-       "prob": 0.5146999999999999,
-       "detail": "UNDER 21.5 · 51% · Proyectado 21.8",
+       "prob": 0.5226999999999999,
+       "detail": "UNDER 21.5 · 52% · Proyectado 22.0",
        "strong": false
       },
       {
        "label": "Hándicap Sets",
-       "pick": "Julia Grabher",
-       "prob": 0.718,
-       "detail": "Hándicap Sets -1.5 · 28% · (+255)",
+       "pick": "Diane Parry",
+       "prob": 0.8689,
+       "detail": "Hándicap Sets -1.5 · 13% · (+663)",
        "strong": false
       },
       {
        "label": "Juegos 1er Set O/U",
        "pick": "OVER",
-       "prob": 0.5054,
+       "prob": 0.5088,
        "detail": "OVER 9.5 · 51% · Proyectado 9.4",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": false
-    },
-    {
-     "home": "Alice Tubello",
-     "away": "Laura Samson",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "Curitiba Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Laura Samson",
-       "prob": 0.7242,
-       "detail": "Alice Tubello 28% · Laura Samson 72%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5002,
-       "detail": "UNDER 21.5 · 50% · Proyectado 21.8",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Laura Samson",
-       "prob": 0.8004,
-       "detail": "Hándicap Sets -1.5 · 20% · (+401)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5264,
-       "detail": "OVER 9.5 · 53% · Proyectado 9.5",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": true
-    },
-    {
-     "home": "Fernanda Labrana",
-     "away": "Gabriela Ce",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "Curitiba Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Fernanda Labrana",
-       "prob": 0.6614,
-       "detail": "Fernanda Labrana 66% · Gabriela Ce 34%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5706,
-       "detail": "UNDER 21.5 · 57% · Proyectado 21.3",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Gabriela Ce",
-       "prob": 0.5552,
-       "detail": "Hándicap Sets -1.5 · 44% · (+125)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.5333,
-       "detail": "UNDER 9.5 · 53% · Proyectado 9.4",
        "strong": false
       }
      ],
@@ -2111,48 +1325,6 @@
      "momentum_ok": false
     },
     {
-     "home": "Ayla Aksu",
-     "away": "Lisa Zaar",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "Valle D'Aosta Ladies Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Ayla Aksu",
-       "prob": 0.56,
-       "detail": "Ayla Aksu 56% · Lisa Zaar 44%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5104,
-       "detail": "UNDER 21.5 · 51% · Proyectado 21.9",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Lisa Zaar",
-       "prob": 0.6534,
-       "detail": "Hándicap Sets -1.5 · 35% · (+189)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.5166999999999999,
-       "detail": "UNDER 9.5 · 52% · Proyectado 9.4",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
      "home": "Elizara Yaneva",
      "away": "Jessica Pieri",
      "home_abbrev": "",
@@ -2237,902 +1409,41 @@
      "momentum_ok": false
     },
     {
-     "home": "Martin Borisiouk",
-     "away": "Yaroslav Demin",
+     "home": "Karl Poling",
+     "away": "Patrick Zahraj",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour",
-     "context": "Hard, BO3",
+     "context": "ATP Challenger Sioux Falls, USA Men Singles, Hard, BO3",
      "extra": "",
      "markets": [
       {
        "label": "Ganador del partido",
-       "pick": "Yaroslav Demin",
-       "prob": 0.5404,
-       "detail": "Martin Borisiouk 46% · Yaroslav Demin 54%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5484,
-       "detail": "OVER 21.5 · 55% · Proyectado 23.1",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Yaroslav Demin",
-       "prob": 0.6555,
-       "detail": "Hándicap Sets -1.5 · 34% · (+190)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.5136000000000001,
-       "detail": "UNDER 9.5 · 51% · Proyectado 9.7",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": true
-    },
-    {
-     "home": "Mitsuki Wei Kang Leong",
-     "away": "Qian Sun",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Mitsuki Wei Kang Leong",
-       "prob": 0.8647,
-       "detail": "Mitsuki Wei Kang Leong 86% · Qian Sun 14%",
+       "pick": "Karl Poling",
+       "prob": 0.7942,
+       "detail": "Karl Poling 79% · Patrick Zahraj 21%",
        "strong": true
       },
       {
        "label": "Total Juegos O/U",
        "pick": "UNDER",
-       "prob": 0.5357000000000001,
-       "detail": "UNDER 22.5 · 54% · Proyectado 22.5",
+       "prob": 0.5422,
+       "detail": "UNDER 22.5 · 54% · Proyectado 23.1",
        "strong": false
       },
       {
        "label": "Hándicap Sets",
-       "pick": "Mitsuki Wei Kang Leong",
-       "prob": 0.6703,
-       "detail": "Hándicap Sets -1.5 · 67% · (-203)",
+       "pick": "Karl Poling",
+       "prob": 0.5189,
+       "detail": "Hándicap Sets -1.5 · 52% · (-108)",
        "strong": false
       },
       {
        "label": "Juegos 1er Set O/U",
        "pick": "OVER",
-       "prob": 0.5231,
-       "detail": "OVER 9.5 · 52% · Proyectado 9.8",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
-     "home": "Beibit Zhukayev",
-     "away": "Koki Matsuda",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Seoul, Korea Republic Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Beibit Zhukayev",
-       "prob": 0.7599,
-       "detail": "Beibit Zhukayev 76% · Koki Matsuda 24%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5112,
-       "detail": "UNDER 23.5 · 51% · Proyectado 23.8",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Koki Matsuda",
-       "prob": 0.5106999999999999,
-       "detail": "Hándicap Sets -1.5 · 49% · (+104)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5804,
-       "detail": "OVER 9.5 · 58% · Proyectado 9.9",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Hiroki Moriya",
-     "away": "Timofei Derepasko",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Hiroki Moriya",
-       "prob": 0.7465,
-       "detail": "Hiroki Moriya 75% · Timofei Derepasko 25%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5478,
-       "detail": "OVER 22.5 · 55% · Proyectado 24.6",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Timofei Derepasko",
-       "prob": 0.5285,
-       "detail": "Hándicap Sets -1.5 · 47% · (+112)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5244,
-       "detail": "OVER 9.5 · 52% · Proyectado 9.8",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Omar Jasika",
-     "away": "Yuta Kikuchi",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Seoul, Korea Republic Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Omar Jasika",
-       "prob": 0.5904,
-       "detail": "Omar Jasika 59% · Yuta Kikuchi 41%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5286,
-       "detail": "OVER 22.5 · 53% · Proyectado 23.9",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Yuta Kikuchi",
-       "prob": 0.6868000000000001,
-       "detail": "Hándicap Sets -1.5 · 31% · (+219)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5405,
-       "detail": "OVER 9.5 · 54% · Proyectado 9.8",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
-     "home": "Juncheng Shang",
-     "away": "Lloyd Harris",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Seoul, Korea Republic Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Juncheng Shang",
-       "prob": 0.6506,
-       "detail": "Juncheng Shang 65% · Lloyd Harris 35%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5139,
-       "detail": "OVER 23.5 · 51% · Proyectado 23.9",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Juncheng Shang",
-       "prob": 0.6369,
-       "detail": "Juncheng Shang +1.5 (mercado) · 64%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Lloyd Harris",
-       "prob": 0.6213,
-       "detail": "Hándicap Sets -1.5 · 38% · (+164)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.6506000000000001,
-       "detail": "UNDER 9.5 · 65% · Proyectado 10.0",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Kaichi Uchida",
-     "away": "Ognjen Milic",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Ognjen Milic",
-       "prob": 0.7619,
-       "detail": "Kaichi Uchida 24% · Ognjen Milic 76%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5172,
-       "detail": "OVER 23.5 · 52% · Proyectado 23.7",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Ognjen Milic",
-       "prob": 0.8187,
-       "detail": "Hándicap Sets -1.5 · 18% · (+451)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5753,
-       "detail": "OVER 9.5 · 58% · Proyectado 9.7",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
-     "home": "Filip Peliwo",
-     "away": "Luca Castelnuovo",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Luca Castelnuovo",
-       "prob": 0.7423,
-       "detail": "Filip Peliwo 26% · Luca Castelnuovo 74%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5169,
-       "detail": "UNDER 22.5 · 52% · Proyectado 23.7",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Luca Castelnuovo",
-       "prob": 0.8215,
-       "detail": "Hándicap Sets -1.5 · 18% · (+460)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5429,
-       "detail": "OVER 9.5 · 54% · Proyectado 10.0",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
-     "home": "Marin Cilic",
-     "away": "Zhizhen Zhang",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Seoul, Korea Republic Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Marin Cilic",
-       "prob": 0.5862,
-       "detail": "Marin Cilic 59% · Zhizhen Zhang 41%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5259,
-       "detail": "OVER 22.5 · 53% · Proyectado 23.8",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Zhizhen Zhang",
-       "prob": 0.6021,
-       "detail": "Zhizhen Zhang +2.5 (mercado) · 60%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Zhizhen Zhang",
-       "prob": 0.5885,
-       "detail": "Hándicap Sets -1.5 · 41% · (+143)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.6685,
-       "detail": "UNDER 9.5 · 67% · Proyectado 9.9",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Kasidit Samrej",
-     "away": "Rei Sakamoto",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Seoul, Korea Republic Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Rei Sakamoto",
-       "prob": 0.8110999999999999,
-       "detail": "Kasidit Samrej 19% · Rei Sakamoto 81%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5311,
-       "detail": "OVER 20.5 · 53% · Proyectado 23.3",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Kasidit Samrej",
-       "prob": 0.5865,
-       "detail": "Kasidit Samrej +4.5 (mercado) · 59%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Rei Sakamoto",
-       "prob": 0.8563000000000001,
-       "detail": "Hándicap Sets -1.5 · 14% · (+596)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.6813,
-       "detail": "UNDER 9.5 · 68% · Proyectado 9.9",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Mili Poljicak",
-     "away": "Yuta Shimizu",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Mili Poljicak",
-       "prob": 0.5348,
-       "detail": "Mili Poljicak 53% · Yuta Shimizu 47%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5273,
-       "detail": "OVER 23.5 · 53% · Proyectado 24.2",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Yuta Shimizu",
-       "prob": 0.7048,
-       "detail": "Hándicap Sets -1.5 · 30% · (+239)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5804,
-       "detail": "OVER 9.5 · 58% · Proyectado 9.9",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": false
-    },
-    {
-     "home": "Billy Harris",
-     "away": "Jangjun Kim",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Seoul, Korea Republic Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Billy Harris",
-       "prob": 0.7258,
-       "detail": "Billy Harris 73% · Jangjun Kim 27%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5141,
-       "detail": "UNDER 23.5 · 51% · Proyectado 23.0",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Billy Harris",
-       "prob": 0.5208,
-       "detail": "Hándicap Sets -1.5 · 52% · (-109)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.6969000000000001,
-       "detail": "UNDER 9.5 · 70% · Proyectado 9.5",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": true
-    },
-    {
-     "home": "Mert Alkaya",
-     "away": "Rigele Te",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Mert Alkaya",
-       "prob": 0.8234,
-       "detail": "Mert Alkaya 82% · Rigele Te 18%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5254,
-       "detail": "UNDER 23.5 · 53% · Proyectado 23.4",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Mert Alkaya",
-       "prob": 0.6228,
-       "detail": "Hándicap Sets -1.5 · 62% · (-165)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5661,
-       "detail": "OVER 9.5 · 57% · Proyectado 9.8",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
-     "home": "Michael Geerts",
-     "away": "Niels Mcdonald",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Brest, France Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Michael Geerts",
-       "prob": 0.8409,
-       "detail": "Michael Geerts 84% · Niels Mcdonald 16%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5343,
-       "detail": "UNDER 22.5 · 53% · Proyectado 22.8",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Michael Geerts",
-       "prob": 0.598,
-       "detail": "Hándicap Sets -1.5 · 60% · (-149)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5317,
-       "detail": "OVER 9.5 · 53% · Proyectado 9.7",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
-     "home": "Ugo Blanchet",
-     "away": "Vadym Ursu",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Brest, France Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Ugo Blanchet",
-       "prob": 0.8648,
-       "detail": "Ugo Blanchet 86% · Vadym Ursu 14%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5576,
-       "detail": "UNDER 21.5 · 56% · Proyectado 22.1",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Ugo Blanchet",
-       "prob": 0.6702,
-       "detail": "Hándicap Sets -1.5 · 67% · (-203)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5058,
+       "prob": 0.5091,
        "detail": "OVER 9.5 · 51% · Proyectado 9.7",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
-     "home": "Calvin Hemery",
-     "away": "Robin Catry",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Brest, France Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Calvin Hemery",
-       "prob": 0.5503,
-       "detail": "Calvin Hemery 55% · Robin Catry 45%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5012,
-       "detail": "OVER 23.5 · 50% · Proyectado 23.7",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Robin Catry",
-       "prob": 0.6748000000000001,
-       "detail": "Hándicap Sets -1.5 · 33% · (+207)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.6671,
-       "detail": "UNDER 10.5 · 67% · Proyectado 9.9",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Benjamin Hassan",
-     "away": "Moez Echargui",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Brest, France Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Moez Echargui",
-       "prob": 0.6335,
-       "detail": "Benjamin Hassan 37% · Moez Echargui 63%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5259,
-       "detail": "OVER 22.5 · 53% · Proyectado 23.6",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Moez Echargui",
-       "prob": 0.7672,
-       "detail": "Hándicap Sets -1.5 · 23% · (+330)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.543,
-       "detail": "OVER 9.5 · 54% · Proyectado 9.8",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
-     "home": "Kilian Feldbausch",
-     "away": "Tom Paris",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Brest, France Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Kilian Feldbausch",
-       "prob": 0.7777,
-       "detail": "Kilian Feldbausch 78% · Tom Paris 22%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5155,
-       "detail": "OVER 22.5 · 52% · Proyectado 23.5",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Kilian Feldbausch",
-       "prob": 0.5294,
-       "detail": "Hándicap Sets -1.5 · 53% · (-113)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5487,
-       "detail": "OVER 9.5 · 55% · Proyectado 10.0",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": true
-    },
-    {
-     "home": "Lucas Poullain",
-     "away": "Matisse Bobichon",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Brest, France Men Singles, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Lucas Poullain",
-       "prob": 0.7621,
-       "detail": "Lucas Poullain 76% · Matisse Bobichon 24%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5085999999999999,
-       "detail": "UNDER 23.5 · 51% · Proyectado 23.4",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Matisse Bobichon",
-       "prob": 0.5322,
-       "detail": "Hándicap Sets -1.5 · 47% · (+114)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5861,
-       "detail": "OVER 9.5 · 59% · Proyectado 9.8",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Daniel Elahi Galan",
-     "away": "Lorenzo Joaquin Rodriguez",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Guayaquil, Ecuador Men Singles, Clay, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Daniel Elahi Galan",
-       "prob": 0.7903,
-       "detail": "Daniel Elahi Galan 79% · Lorenzo Joaquin Rodriguez 21%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5267999999999999,
-       "detail": "UNDER 23.5 · 53% · Proyectado 23.4",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Daniel Elahi Galan",
-       "prob": 0.5958,
-       "detail": "Hándicap Sets -1.5 · 60% · (-147)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5546,
-       "detail": "OVER 9.5 · 55% · Proyectado 9.8",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Lucio Ratti",
-     "away": "Mateo Del Pino",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Guayaquil, Ecuador Men Singles, Clay, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Lucio Ratti",
-       "prob": 0.741,
-       "detail": "Lucio Ratti 74% · Mateo Del Pino 26%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5165,
-       "detail": "OVER 20.5 · 52% · Proyectado 22.0",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Lucio Ratti",
-       "prob": 0.524,
-       "detail": "Hándicap Sets -1.5 · 52% · (-110)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.5705,
-       "detail": "UNDER 9.5 · 57% · Proyectado 9.4",
        "strong": false
       }
      ],
@@ -3206,13 +1517,6 @@
        "strong": false
       },
       {
-       "label": "Hándicap Juegos",
-       "pick": "Federico Cina",
-       "prob": 0.5968,
-       "detail": "Federico Cina -1.5 (mercado) · 60%",
-       "strong": false
-      },
-      {
        "label": "Hándicap Sets",
        "pick": "Federico Cina",
        "prob": 0.5904,
@@ -3231,137 +1535,46 @@
      "momentum_ok": false
     },
     {
-     "home": "Karl Poling",
-     "away": "Patrick Zahraj",
+     "home": "Lucio Ratti",
+     "away": "Mateo Del Pino",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Sioux Falls, USA Men Singles, Hard, BO3",
+     "context": "ATP Challenger Guayaquil, Ecuador Men Singles, Clay, BO3",
      "extra": "",
      "markets": [
       {
        "label": "Ganador del partido",
-       "pick": "Karl Poling",
-       "prob": 0.7942,
-       "detail": "Karl Poling 79% · Patrick Zahraj 21%",
+       "pick": "Lucio Ratti",
+       "prob": 0.741,
+       "detail": "Lucio Ratti 74% · Mateo Del Pino 26%",
        "strong": true
       },
       {
        "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5422,
-       "detail": "UNDER 22.5 · 54% · Proyectado 23.1",
+       "pick": "OVER",
+       "prob": 0.5165,
+       "detail": "OVER 20.5 · 52% · Proyectado 22.0",
        "strong": false
       },
       {
        "label": "Hándicap Sets",
-       "pick": "Karl Poling",
-       "prob": 0.5189,
-       "detail": "Hándicap Sets -1.5 · 52% · (-108)",
+       "pick": "Lucio Ratti",
+       "prob": 0.524,
+       "detail": "Hándicap Sets -1.5 · 52% · (-110)",
        "strong": false
       },
       {
        "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5091,
-       "detail": "OVER 9.5 · 51% · Proyectado 9.7",
+       "pick": "UNDER",
+       "prob": 0.5705,
+       "detail": "UNDER 9.5 · 57% · Proyectado 9.4",
        "strong": false
       }
      ],
      "convergence": true,
      "momentum_ok": true
-    },
-    {
-     "home": "Juan Carlos Prado Angelo",
-     "away": "Pedro Boscardin Dias",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Guayaquil, Ecuador Men Singles, Clay, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Juan Carlos Prado Angelo",
-       "prob": 0.6532,
-       "detail": "Juan Carlos Prado Angelo 65% · Pedro Boscardin Dias 35%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5292,
-       "detail": "OVER 20.5 · 53% · Proyectado 22.9",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Pedro Boscardin Dias",
-       "prob": 0.6553,
-       "detail": "Pedro Boscardin Dias +4.5 (mercado) · 66%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Pedro Boscardin Dias",
-       "prob": 0.5670999999999999,
-       "detail": "Hándicap Sets -1.5 · 43% · (+131)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5493,
-       "detail": "OVER 9.5 · 55% · Proyectado 9.6",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Alan Magadan",
-     "away": "Tristan Mccormick",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Guayaquil, Ecuador Men Singles, Clay, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Tristan Mccormick",
-       "prob": 0.5702,
-       "detail": "Alan Magadan 43% · Tristan Mccormick 57%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.524,
-       "detail": "UNDER 23.5 · 52% · Proyectado 23.4",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Tristan Mccormick",
-       "prob": 0.7699,
-       "detail": "Hándicap Sets -1.5 · 23% · (+335)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5651,
-       "detail": "OVER 9.5 · 57% · Proyectado 9.6",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
     },
     {
      "home": "Daniel Salazar Martinez",
@@ -3490,55 +1703,6 @@
      "momentum_ok": false
     },
     {
-     "home": "Gonzalo Villanueva",
-     "away": "Lautaro Midon",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "ATP Challenger Guayaquil, Ecuador Men Singles, Clay, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Lautaro Midon",
-       "prob": 0.7922,
-       "detail": "Gonzalo Villanueva 21% · Lautaro Midon 79%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.518,
-       "detail": "OVER 20.5 · 52% · Proyectado 23.3",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Juegos",
-       "pick": "Gonzalo Villanueva",
-       "prob": 0.6187,
-       "detail": "Gonzalo Villanueva +4.5 (mercado) · 62%",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Lautaro Midon",
-       "prob": 0.845,
-       "detail": "Hándicap Sets -1.5 · 16% · (+545)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.53,
-       "detail": "OVER 9.5 · 53% · Proyectado 9.7",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
      "home": "Matteo Martineau",
      "away": "Otto Virtanen",
      "home_abbrev": "",
@@ -3581,6 +1745,230 @@
        "pick": "OVER",
        "prob": 0.5947,
        "detail": "OVER 9.5 · 59% · Proyectado 10.0",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": false
+    },
+    {
+     "home": "Juan Carlos Prado Angelo",
+     "away": "Pedro Boscardin Dias",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "ATP Challenger Guayaquil, Ecuador Men Singles, Clay, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Juan Carlos Prado Angelo",
+       "prob": 0.6532,
+       "detail": "Juan Carlos Prado Angelo 65% · Pedro Boscardin Dias 35%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "OVER",
+       "prob": 0.5108,
+       "detail": "OVER 21.5 · 51% · Proyectado 22.9",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Juegos",
+       "pick": "Pedro Boscardin Dias",
+       "prob": 0.582,
+       "detail": "Pedro Boscardin Dias +3.5 (mercado) · 58%",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Pedro Boscardin Dias",
+       "prob": 0.5670999999999999,
+       "detail": "Hándicap Sets -1.5 · 43% · (+131)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5493,
+       "detail": "OVER 9.5 · 55% · Proyectado 9.6",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": false
+    },
+    {
+     "home": "Daniel Elahi Galan",
+     "away": "Lorenzo Joaquin Rodriguez",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "ATP Challenger Guayaquil, Ecuador Men Singles, Clay, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Daniel Elahi Galan",
+       "prob": 0.7903,
+       "detail": "Daniel Elahi Galan 79% · Lorenzo Joaquin Rodriguez 21%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.5267999999999999,
+       "detail": "UNDER 23.5 · 53% · Proyectado 23.4",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Daniel Elahi Galan",
+       "prob": 0.5958,
+       "detail": "Hándicap Sets -1.5 · 60% · (-147)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5546,
+       "detail": "OVER 9.5 · 55% · Proyectado 9.8",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": false
+    },
+    {
+     "home": "Gonzalo Villanueva",
+     "away": "Lautaro Midon",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "ATP Challenger Guayaquil, Ecuador Men Singles, Clay, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Lautaro Midon",
+       "prob": 0.7922,
+       "detail": "Gonzalo Villanueva 21% · Lautaro Midon 79%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "OVER",
+       "prob": 0.518,
+       "detail": "OVER 21.5 · 52% · Proyectado 23.3",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Juegos",
+       "pick": "Gonzalo Villanueva",
+       "prob": 0.5453,
+       "detail": "Gonzalo Villanueva +3.5 (mercado) · 55%",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Lautaro Midon",
+       "prob": 0.845,
+       "detail": "Hándicap Sets -1.5 · 16% · (+545)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.53,
+       "detail": "OVER 9.5 · 53% · Proyectado 9.7",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": true
+    },
+    {
+     "home": "Benjamin Willwerth",
+     "away": "Sebastian Dominko",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "ATP Challenger Sioux Falls, USA Men Singles, Hard, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Sebastian Dominko",
+       "prob": 0.6403,
+       "detail": "Benjamin Willwerth 36% · Sebastian Dominko 64%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.5582,
+       "detail": "UNDER 22.5 · 56% · Proyectado 22.0",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Sebastian Dominko",
+       "prob": 0.7861,
+       "detail": "Hándicap Sets -1.5 · 21% · (+368)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5156,
+       "detail": "OVER 9.5 · 52% · Proyectado 9.7",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": true
+    },
+    {
+     "home": "Alan Magadan",
+     "away": "Tristan Mccormick",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "ATP Challenger Guayaquil, Ecuador Men Singles, Clay, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Tristan Mccormick",
+       "prob": 0.5702,
+       "detail": "Alan Magadan 43% · Tristan Mccormick 57%",
+       "strong": false
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.524,
+       "detail": "UNDER 23.5 · 52% · Proyectado 23.4",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Tristan Mccormick",
+       "prob": 0.7699,
+       "detail": "Hándicap Sets -1.5 · 23% · (+335)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5651,
+       "detail": "OVER 9.5 · 57% · Proyectado 9.6",
        "strong": false
       }
      ],
@@ -3663,8 +2051,8 @@
       {
        "label": "Hándicap Juegos",
        "pick": "Alexis Galarneau",
-       "prob": 0.7399,
-       "detail": "Alexis Galarneau +3.5 (mercado) · 74%",
+       "prob": 0.6629,
+       "detail": "Alexis Galarneau +2.5 (mercado) · 66%",
        "strong": false
       },
       {
@@ -3844,9 +2232,9 @@
       },
       {
        "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5195000000000001,
-       "detail": "UNDER 23.5 · 52% · Proyectado 23.0",
+       "pick": "OVER",
+       "prob": 0.5195,
+       "detail": "OVER 22.5 · 52% · Proyectado 23.0",
        "strong": false
       },
       {
@@ -3875,7 +2263,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 91.9,
+   "elapsed_s": 73.6,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true
@@ -3892,7 +2280,7 @@
      "match": "Paris Saint Germain vs Lyon",
      "market": "O/U 2.5",
      "pick": "O/U 2.5: OVER",
-     "prob": 0.684968911249586,
+     "prob": 0.6849744267226222,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=65%",
@@ -3903,7 +2291,7 @@
      "match": "Sevilla vs Osasuna",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8288672399466207,
+     "prob": 0.828882130633703,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -3914,7 +2302,7 @@
      "match": "Santa Clara vs Benfica",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8127885751793098,
+     "prob": 0.8127230550375174,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -3936,35 +2324,35 @@
       {
        "label": "1X2",
        "pick": "Sevilla",
-       "prob": 0.5583994431143211,
+       "prob": 0.5584087542958046,
        "detail": "Local 56% · Empate 22% · Visitante 22%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7806753844114886,
+       "prob": 0.7806830402552387,
        "detail": "1X 78% · X2 44% · 12 78%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6111900880163932,
+       "prob": 0.6112170770508119,
        "detail": "OVER 2.5 goles · 61%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8288672399466207,
+       "prob": 0.828882130633703,
        "detail": "OVER 1.5 goles · 83%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5455479477521603,
+       "prob": 0.5455662059849595,
        "detail": "BTTS Sí 55%",
        "strong": false
       },
@@ -3978,14 +2366,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.7316074192116075,
+       "prob": 0.7316306971653165,
        "detail": "Línea -0.5 · HOME 73%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.7762870162160003,
+       "prob": 0.7762531574406654,
        "detail": "VISITANTE UNDER 1.5 goles 78%",
        "strong": false
       }
@@ -4006,35 +2394,35 @@
       {
        "label": "1X2",
        "pick": "Paris Saint Germain",
-       "prob": 0.6575251262507039,
+       "prob": 0.6575269690163397,
        "detail": "Local 66% · Empate 20% · Visitante 14%",
        "strong": true
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.8566747601940872,
+       "prob": 0.8566749912902165,
        "detail": "1X 86% · X2 34% · 12 80%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.684968911249586,
+       "prob": 0.6849744267226222,
        "detail": "OVER 2.5 goles · 68%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8676026497374175,
+       "prob": 0.8676050068912149,
        "detail": "OVER 1.5 goles · 87%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6379602111607126,
+       "prob": 0.6379646285345316,
        "detail": "BTTS Sí 64%",
        "strong": false
       },
@@ -4048,14 +2436,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.6137998377853924,
+       "prob": 0.6138044446994817,
        "detail": "Línea -0.5 · HOME 61%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.7613462024336063,
+       "prob": 0.7613587290166425,
        "detail": "LOCAL OVER 1.5 goles 76%",
        "strong": false
       }
@@ -4076,35 +2464,35 @@
       {
        "label": "1X2",
        "pick": "Benfica",
-       "prob": 0.5666484004971287,
+       "prob": 0.5666297498716418,
        "detail": "Local 17% · Empate 26% · Visitante 57%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.8281222449102721,
+       "prob": 0.8281281565275309,
        "detail": "1X 43% · X2 83% · 12 74%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5790471986890168,
+       "prob": 0.5789524693652925,
        "detail": "OVER 2.5 goles · 58%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8127885751793098,
+       "prob": 0.8127230550375174,
        "detail": "OVER 1.5 goles · 81%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5547898956886292,
+       "prob": 0.5547185642477346,
        "detail": "BTTS Sí 55%",
        "strong": false
       },
@@ -4118,14 +2506,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8777213106314858,
+       "prob": 0.8777498036837238,
        "detail": "Línea +1.5 · AWAY 88%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.6530271026348593,
+       "prob": 0.6531834799996119,
        "detail": "LOCAL UNDER 1.5 goles 65%",
        "strong": false
       }
@@ -4134,7 +2522,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 70.7,
+   "elapsed_s": 69.7,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true
@@ -4175,8 +2563,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5284336343531216,
-       "detail": "Línea 43.5 · OVER 53% / UNDER 47%",
+       "prob": 0.5143905678932397,
+       "detail": "Línea 44.5 · OVER 51% / UNDER 49%",
        "strong": false
       },
       {
@@ -4191,7 +2579,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 10.7,
+   "elapsed_s": 10.0,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true
@@ -4211,10 +2599,10 @@
      "prob": 0.9072,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": ">=91% · momio 1.83333 · EV +66.3%",
+     "note": ">=91% · momio 1.70423 · EV +54.6%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": 1.833,
+     "odds": 1.704,
      "line": null,
      "edge": null,
      "ev": null
@@ -4222,30 +2610,30 @@
     {
      "match": "Washington Wizards @ Charlotte Hornets",
      "market": "Spread",
-     "pick": "SPREAD: Charlotte Hornets -1.5",
-     "prob": 0.8367,
+     "pick": "SPREAD: Charlotte Hornets -2.5",
+     "prob": 0.8209,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": ">=84% · Charlotte Hornets -1.5 · momio 1.90909 · EV +59.7%",
+     "note": ">=82% · Charlotte Hornets -2.5 · momio 1.98039 · EV +62.6%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": 1.909,
-     "line": -1.5,
+     "odds": 1.98,
+     "line": -2.5,
      "edge": null,
      "ev": null
     },
     {
      "match": "Washington Wizards @ Charlotte Hornets",
      "market": "Totales",
-     "pick": "TOTAL: OVER 228.5",
-     "prob": 0.6744,
+     "pick": "TOTAL: OVER 227.5",
+     "prob": 0.689,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": ">=67% · línea 228.5 · momio 1.95238 · EV +31.7%",
+     "note": ">=69% · línea 227.5 · momio 1.95238 · EV +34.5%",
      "league_code": "NBA",
      "league_label": "NBA",
      "odds": 1.952,
-     "line": 228.5,
+     "line": 227.5,
      "edge": null,
      "ev": null
     },
@@ -4256,10 +2644,10 @@
      "prob": 0.6668,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": ">=67% · línea 232.5 · momio 1.92593 · EV +28.4%",
+     "note": ">=67% · línea 232.5 · momio 1.86957 · EV +24.7%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": 1.926,
+     "odds": 1.87,
      "line": 232.5,
      "edge": null,
      "ev": null
@@ -4271,26 +2659,26 @@
      "prob": 0.9233,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": ">=92% · momio 1.11765 · EV +3.2%",
+     "note": ">=92% · momio 1.13333 · EV +4.6%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": 1.118,
+     "odds": 1.133,
      "line": null,
      "edge": null,
      "ev": null
     },
     {
      "match": "Dallas Mavericks @ Miami Heat",
-     "market": "Totales",
-     "pick": "TOTAL: OVER 236.5",
-     "prob": 0.6233,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=62% · línea 236.5 · momio 1.90909 · EV +19.0%",
+     "market": "Moneyline",
+     "pick": "ML: HOME (Miami Heat)",
+     "prob": 0.7697,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=77% · momio 1.35088 · EV +4.0%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": 1.909,
-     "line": 236.5,
+     "odds": 1.351,
+     "line": null,
      "edge": null,
      "ev": null
     },
@@ -4316,11 +2704,26 @@
      "prob": 0.6315,
      "tier": "BUENO",
      "units": "1.0",
-     "note": ">=63% · momio 1.86957 · EV +18.1%",
+     "note": ">=63% · momio 1.90909 · EV +20.6%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": 1.87,
+     "odds": 1.909,
      "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Memphis Grizzlies @ Utah Jazz",
+     "market": "Spread",
+     "pick": "SPREAD: Utah Jazz +1.5",
+     "prob": 0.6278,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": ">=63% · Utah Jazz +1.5 · momio 1.83333 · EV +15.1%",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "odds": 1.833,
+     "line": 1.5,
      "edge": null,
      "ev": null
     },
@@ -4331,10 +2734,10 @@
      "prob": 0.6455,
      "tier": "BUENO",
      "units": "1.0",
-     "note": ">=65% · línea 237.5 · momio 1.86957 · EV +20.7%",
+     "note": ">=65% · línea 237.5 · momio 1.90909 · EV +23.2%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": 1.87,
+     "odds": 1.909,
      "line": 237.5,
      "edge": null,
      "ev": null
@@ -4346,10 +2749,10 @@
      "prob": 0.772,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": ">=77% · momio 1.32787 · EV +2.5%",
+     "note": ">=77% · momio 1.37037 · EV +5.8%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": 1.328,
+     "odds": 1.37,
      "line": null,
      "edge": null,
      "ev": null
@@ -4383,6 +2786,21 @@
      "line": 1.5,
      "edge": null,
      "ev": null
+    },
+    {
+     "match": "Atlanta Dream @ Golden State Valkyries",
+     "market": "Totales",
+     "pick": "TOTAL: OVER 150.5",
+     "prob": 0.8536,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=85% · línea 150.5 · momio 1.90909 · EV +63.0%",
+     "league_code": "WNBA",
+     "league_label": "WNBA",
+     "odds": 1.909,
+     "line": 150.5,
+     "edge": null,
+     "ev": null
     }
    ],
    "predictions": [
@@ -4406,15 +2824,15 @@
       {
        "label": "Spread",
        "pick": "Charlotte Hornets",
-       "prob": 0.8366684863618779,
-       "detail": "Charlotte Hornets -1.5 · 84%",
+       "prob": 0.8208583452736257,
+       "detail": "Charlotte Hornets -2.5 · 82%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.6743682806396385,
-       "detail": "Línea 228.5 · OVER 67% / UNDER 33%",
+       "prob": 0.6889540489434118,
+       "detail": "Línea 227.5 · OVER 69% / UNDER 31%",
        "strong": false
       },
       {
@@ -4448,8 +2866,8 @@
       {
        "label": "Spread",
        "pick": "Minnesota Timberwolves",
-       "prob": 0.5478705551443778,
-       "detail": "Minnesota Timberwolves +3.5 · 55%",
+       "prob": 0.5966617525944111,
+       "detail": "Minnesota Timberwolves +5.5 · 60%",
        "strong": false
       },
       {
@@ -4490,8 +2908,8 @@
       {
        "label": "Spread",
        "pick": "Boston Celtics",
-       "prob": 0.5682143977107375,
-       "detail": "Boston Celtics -13.5 · 57%",
+       "prob": 0.5436420958143311,
+       "detail": "Boston Celtics -14.5 · 54%",
        "strong": false
       },
       {
@@ -4532,15 +2950,15 @@
       {
        "label": "Spread",
        "pick": "Miami Heat",
-       "prob": 0.5166046239535029,
-       "detail": "Miami Heat -8.5 · 52%",
+       "prob": 0.5413558037115996,
+       "detail": "Miami Heat -7.5 · 54%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.6233486412697413,
-       "detail": "Línea 236.5 · OVER 62% / UNDER 38%",
+       "prob": 0.5599203350219383,
+       "detail": "Línea 240.5 · OVER 56% / UNDER 44%",
        "strong": false
       },
       {
@@ -4581,8 +2999,8 @@
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5729557361628826,
-       "detail": "Línea 239.5 · OVER 43% / UNDER 57%",
+       "prob": 0.5568644846586164,
+       "detail": "Línea 238.5 · OVER 44% / UNDER 56%",
        "strong": false
       },
       {
@@ -4616,15 +3034,15 @@
       {
        "label": "Spread",
        "pick": "Phoenix Suns",
-       "prob": 0.5034346194007616,
-       "detail": "Phoenix Suns +9.5 · 50%",
+       "prob": 0.5282317885233719,
+       "detail": "Phoenix Suns +10.5 · 53%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5653407670644148,
-       "detail": "Línea 218.5 · OVER 57% / UNDER 43%",
+       "prob": 0.5329804532032365,
+       "detail": "Línea 220.5 · OVER 53% / UNDER 47%",
        "strong": false
       },
       {
@@ -4658,8 +3076,8 @@
       {
        "label": "Spread",
        "pick": "Houston Rockets",
-       "prob": 0.5464173723887487,
-       "detail": "Houston Rockets -5.5 · 55%",
+       "prob": 0.5709648832426875,
+       "detail": "Houston Rockets -4.5 · 57%",
        "strong": false
       },
       {
@@ -4700,8 +3118,8 @@
       {
        "label": "Spread",
        "pick": "Utah Jazz",
-       "prob": 0.5553753331212203,
-       "detail": "Utah Jazz -1.5 · 56%",
+       "prob": 0.6277511939248361,
+       "detail": "Utah Jazz +1.5 · 63%",
        "strong": false
       },
       {
@@ -4749,8 +3167,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5418674951295233,
-       "detail": "Línea 234.5 · OVER 54% / UNDER 46%",
+       "prob": 0.5093262300315928,
+       "detail": "Línea 236.5 · OVER 51% / UNDER 49%",
        "strong": false
       },
       {
@@ -4791,8 +3209,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.8646394380330653,
-       "detail": "Línea 149.5 · OVER 86% / UNDER 14%",
+       "prob": 0.8535940189725408,
+       "detail": "Línea 150.5 · OVER 85% / UNDER 15%",
        "strong": false
       },
       {
@@ -4807,7 +3225,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 29.7,
+   "elapsed_s": 28.6,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true

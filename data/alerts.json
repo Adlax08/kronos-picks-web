@@ -4,7 +4,7 @@
    "level": "warning",
    "title": "Momios sin fuente disponible",
    "message": "Ningun proveedor de momios respondio (espn, oddspapi, sharpapi). Los picks seran sin filtro +EV.",
-   "at": "2026-10-25",
+   "at": "2026-10-27",
    "project": "8_Predictions_Basket"
   }
  ]
