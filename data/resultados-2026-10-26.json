@@ -1,13 +1,13 @@
 {
  "day": "2026-10-26",
- "generated_at": "2026-10-26T12:18:18",
+ "generated_at": "2026-10-27T20:35:19",
  "total": {
-  "ganados": 3,
-  "perdidos": 3,
+  "ganados": 16,
+  "perdidos": 19,
   "anulados": 0,
-  "pendientes": 31,
-  "n": 37,
-  "win_pct": 0.5
+  "pendientes": 1,
+  "n": 36,
+  "win_pct": 0.457
  },
  "picks": [
   {
@@ -23,7 +23,7 @@
    "cuota": 1.98,
    "prob": 0.6534,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -38,7 +38,7 @@
    "cuota": 1.87,
    "prob": 0.637,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -53,7 +53,7 @@
    "cuota": 1.909,
    "prob": 0.8536,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -68,7 +68,7 @@
    "cuota": 1.488,
    "prob": 0.7012,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -83,7 +83,7 @@
    "cuota": 1.133,
    "prob": 0.9233,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -98,7 +98,7 @@
    "cuota": 1.351,
    "prob": 0.7697,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -113,7 +113,7 @@
    "cuota": 1.37,
    "prob": 0.772,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -128,7 +128,7 @@
    "cuota": 1.909,
    "prob": 0.6315,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -143,7 +143,7 @@
    "cuota": 1.833,
    "prob": 0.6278,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -158,7 +158,7 @@
    "cuota": 1.909,
    "prob": 0.6455,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -173,7 +173,7 @@
    "cuota": 1.87,
    "prob": 0.6668,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -188,7 +188,7 @@
    "cuota": 1.704,
    "prob": 0.9072,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -203,7 +203,7 @@
    "cuota": 1.98,
    "prob": 0.8209,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -218,7 +218,7 @@
    "cuota": 1.952,
    "prob": 0.689,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -233,7 +233,7 @@
    "cuota": null,
    "prob": 0.5211,
    "tier": "DESTACADO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -248,7 +248,7 @@
    "cuota": null,
    "prob": 0.6849744267226222,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -263,7 +263,7 @@
    "cuota": null,
    "prob": 0.8127230550375174,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -278,7 +278,7 @@
    "cuota": null,
    "prob": 0.828882130633703,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -308,7 +308,7 @@
    "cuota": null,
    "prob": 0.6321,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -338,7 +338,7 @@
    "cuota": 1.37,
    "prob": 0.857,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -353,7 +353,7 @@
    "cuota": null,
    "prob": 0.8435,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -369,21 +369,6 @@
    "prob": 0.6113999999999999,
    "tier": "BUENO",
    "estado": "PERDIDO"
-  },
-  {
-   "fecha": "2026-10-26",
-   "deporte": "tenis",
-   "liga": "WTA",
-   "liga_nombre": "WTA Tour",
-   "local": "Elizara Yaneva",
-   "visitante": "Jessica Pieri",
-   "partido": "Elizara Yaneva vs Jessica Pieri",
-   "mercado": "ML",
-   "pick": "Elizara Yaneva",
-   "cuota": null,
-   "prob": 0.9507,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
   },
   {
    "fecha": "2026-10-26",
@@ -458,7 +443,7 @@
    "cuota": null,
    "prob": 0.853,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -473,7 +458,7 @@
    "cuota": null,
    "prob": 0.782,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -488,7 +473,7 @@
    "cuota": null,
    "prob": 0.5536,
    "tier": "DESTACADO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -503,7 +488,7 @@
    "cuota": 1.37,
    "prob": 0.856,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -518,7 +503,7 @@
    "cuota": null,
    "prob": 0.6828,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -533,7 +518,7 @@
    "cuota": null,
    "prob": 0.747,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-26",
@@ -548,7 +533,7 @@
    "cuota": null,
    "prob": 0.7321,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-26",
@@ -563,7 +548,7 @@
    "cuota": null,
    "prob": 0.8819,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   }
  ]
 }

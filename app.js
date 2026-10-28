@@ -15,6 +15,7 @@
   const els = {
     sportPills: $("sportPills"), leagueSelect: $("leagueSelect"), dateInput: $("dateInput"),
     btnPredict: $("btnPredict"), btnPredictLabel: $("btnPredictLabel"), btnRefresh: $("btnRefresh"),
+    btnAudit: $("btnAudit"), btnAuditLabel: $("btnAuditLabel"), btnBell: $("btnBell"), btnPro: $("btnPro"),
     healthDot: $("healthDot"), healthText: $("healthText"), alertDot: $("alertDot"),
     loadingSection: $("loadingSection"), loadingText: $("loadingText"),
     errorSection: $("errorSection"), errorText: $("errorText"),
@@ -482,7 +483,7 @@
             if (registroState.prev) closeRegistro();
             window.scrollTo({ top: 0, behavior: "smooth" });
           } else if (n.dataset.nav === "cartelera") {
-            const p = $("staticPanels");
+            const p = $("carteleraSection");
             if (p) p.scrollIntoView({ behavior: "smooth", block: "start" });
           } else if (n.dataset.nav === "modelos") {
             const s = $("statsSection");
@@ -872,66 +873,139 @@
     </div>`;
   }
 
+  let staticDays = [];
+  let staticDay = null;
+  let staticResults = null;
+
   async function initStatic() {
     state.mode = "static";
     wireRegistro();
-    els.controlBar.classList.add("hidden");
-    const hero = $("heroHeader");
-    if (hero) hero.style.display = "none";
-    const healthWrap = $("healthWrap");
-    if (healthWrap) healthWrap.style.display = "none";
-    els.staticRoot.classList.remove("hidden");
+    els.controlBar.classList.remove("hidden");
+    els.healthText.textContent = "datos publicados";
     refreshAlerts();
+    els.btnAudit.addEventListener("click", openRegistro);
+
+    document.querySelectorAll(".quick-chip").forEach((c) => {
+      const off = parseInt(c.dataset.offset, 10);
+      c.addEventListener("click", () => {
+        const d = shiftDate(off);
+        document.querySelectorAll(".quick-chip").forEach((x) => x.classList.remove("on"));
+        c.classList.add("on");
+        els.dateInput.value = d;
+        loadStaticDay(d);
+      });
+    });
+    els.dateInput.addEventListener("change", () => loadStaticDay(els.dateInput.value));
+    els.btnPredict.addEventListener("click", () => loadStaticDay(els.dateInput.value));
+    els.btnRefresh.addEventListener("click", () => loadStaticDay(els.dateInput.value));
+    els.leagueSelect.addEventListener("change", () => renderStaticSport());
 
     let daysData = null;
     try { const r = await fetch("data/days.json"); if (r.ok) daysData = await r.json(); } catch (e) {}
     if (!daysData || !(daysData.days || []).length) {
-      els.staticRoot.innerHTML = emptyNote("Aún no hay predicciones publicadas.");
+      showError("Aún no hay predicciones publicadas.");
+      els.resultsSection.classList.add("hidden");
       return;
     }
-    const dates = daysData.days.map((d) => d.date).filter(Boolean);
     const today = fmtDate(new Date());
-    const ordered = orderDays(dates, today);
-    const labels = ordered.map((d) => ({ date: d, label: dayLabel(d, today) }));
-
-    els.staticRoot.innerHTML = `
-      <header class="mb-8 reveal">
-        <div class="flex items-center gap-2 mb-2">
-          <div class="inline-flex items-center justify-center w-6 h-6 rounded bg-surface-container-high text-primary">
-            <span class="material-symbols-outlined text-[16px]">bolt</span>
-          </div>
-          <span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">Motor Velocity Pristine v4.2</span>
-        </div>
-        <h1 class="font-display-lg text-headline-lg-mobile md:text-display-lg text-primary tracking-tight font-bold">Predicciones del Día</h1>
-        <p class="font-body-lg text-body-lg text-on-surface-variant mt-2 max-w-3xl">Solicita a cada modelo la predicción de la fecha que quieras, por deporte y liga.</p>
-      </header>
-      <div class="flex flex-wrap items-center gap-2 mb-3" id="staticDayTabs"></div>
-      <div class="font-label-sm text-label-sm text-on-surface-variant mb-6" id="staticDayInfo"></div>
-      <div id="staticPanels"></div>
-      <div id="staticEmpty" class="hidden"></div>
-      <div id="staticDayResults" class="mt-12"></div>
-      <div id="statsSection"></div>`;
-
-    const tabs = $("staticDayTabs");
+    staticDays = orderDays(daysData.days.map((d) => d.date).filter(Boolean), today);
     const tomorrow = shiftDate(1);
-    const defaultDate = ordered.includes(tomorrow) ? tomorrow
-      : (ordered.includes(today) ? today : ordered[0]);
-    labels.forEach((l, i) => {
-      const b = document.createElement("button");
-      b.className = "quick-chip" + (l.date === defaultDate ? " on" : "");
-      b.textContent = l.label;
-      b.dataset.date = l.date;
-      b.addEventListener("click", () => {
-        tabs.querySelectorAll(".quick-chip").forEach((x) => x.classList.remove("on"));
-        b.classList.add("on");
-        loadDayAndRender(l.date);
-      });
-      tabs.appendChild(b);
+    const defaultDate = staticDays.includes(tomorrow) ? tomorrow
+      : (staticDays.includes(today) ? today : staticDays[0]);
+    els.dateInput.value = defaultDate;
+    document.querySelectorAll(".quick-chip").forEach((c) => {
+      c.classList.toggle("on", shiftDate(parseInt(c.dataset.offset, 10)) === defaultDate);
     });
-
-    loadDayAndRender(defaultDate);
-    renderStats();
+    await loadStaticDay(defaultDate);
     openRegistroSiHash();
+  }
+
+  async function loadStaticDay(date) {
+    if (!staticDays.includes(date)) {
+      showError(`No hay datos publicados para ${date}. Días disponibles: ${staticDays.join(", ")}.`);
+      els.resultsSection.classList.add("hidden");
+      return;
+    }
+    hideError();
+    els.resultsSection.classList.add("hidden");
+    els.loadingSection.classList.remove("hidden");
+    els.loadingText.textContent = `Cargando predicciones de ${date}…`;
+    let day = null;
+    try { const r = await fetch(`data/picks-${date}.json`); if (r.ok) day = await r.json(); } catch (e) {}
+    let results = null;
+    try { const rr = await fetch(`data/resultados-${date}.json`); if (rr.ok) results = await rr.json(); } catch (e) {}
+    els.loadingSection.classList.add("hidden");
+    if (!day) { showError(`No se pudieron cargar los datos de ${date}.`); return; }
+    staticDay = day;
+    staticResults = results;
+    els.resultsSection.classList.remove("hidden");
+    els.dateHint.textContent = `${fmtDateLong(date)} · ${day.sports_total || 0} partidos`;
+    renderStaticSports();
+    renderStaticSport();
+    renderDayResults($("liveDayResults"), results);
+  }
+
+  function renderStaticSports() {
+    const day = staticDay;
+    if (!day) return;
+    const res = day.results || {};
+    const sports = day.sports || [];
+    const keys = Object.keys(res).filter((k) => {
+      const r = res[k] || {};
+      return (r.predictions && r.predictions.length) || (r.picks && r.picks.length);
+    });
+    els.sportPills.innerHTML = "";
+    if (!keys.length) {
+      els.picksGrid.innerHTML = "";
+      els.gamesList.innerHTML = "";
+      els.emptyState.classList.remove("hidden");
+      return;
+    }
+    if (!state.currentSport || !keys.includes(state.currentSport.key)) {
+      const info = sportInfo(sports, keys[0]);
+      state.currentSport = { key: keys[0], name: info.name, icon: info.icon };
+    }
+    keys.forEach((k) => {
+      const info = sportInfo(sports, k);
+      const active = state.currentSport.key === k;
+      const b = document.createElement("button");
+      b.className = "inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg font-label-sm text-label-sm font-medium transition-colors " +
+        (active ? "bg-primary text-on-primary shadow-sm" : "bg-surface-container-lowest border border-outline-variant text-on-surface hover:bg-surface-container-low");
+      b.innerHTML = `<span class="material-symbols-outlined text-[15px]">${esc(info.icon)}</span><span>${esc(info.name)}</span>`;
+      b.addEventListener("click", () => {
+        state.currentSport = { key: k, name: info.name, icon: info.icon };
+        renderStaticSports();
+        renderStaticSport();
+      });
+      els.sportPills.appendChild(b);
+    });
+  }
+
+  function renderStaticSport() {
+    const day = staticDay;
+    if (!day || !state.currentSport) return;
+    const r = (day.results || {})[state.currentSport.key] || {};
+    const predictions = r.predictions || [];
+    const picks = r.picks || [];
+
+    const labels = {};
+    predictions.forEach((g) => { if (g.league_code) labels[g.league_code] = g.league_label || g.league_code; });
+    const codes = Object.keys(labels);
+    const prev = els.leagueSelect.value || "ALL";
+    els.leagueSelect.innerHTML = "";
+    els.leagueSelect.add(new Option("Todas las ligas", "ALL"));
+    codes.forEach((c) => els.leagueSelect.add(new Option(labels[c], c)));
+    els.leagueSelect.value = codes.includes(prev) ? prev : "ALL";
+    const league = els.leagueSelect.value;
+
+    const preds = predictions.filter((g) => league === "ALL" || g.league_code === league);
+    const pks = picks.filter((p) => league === "ALL" || p.league_code === league);
+    const rmap = _resultsMap(staticResults);
+    renderPicks(pks, els.picksGrid, els.picksCount, rmap);
+    attachTierFilter(pks, els.picksGrid, els.picksCount, rmap);
+    const n = renderGames(preds, els.gamesList);
+    els.gamesCount.textContent = n ? `(${n})` : "(sin partidos)";
+    els.emptyState.classList.toggle("hidden", n > 0);
   }
 
   async function renderStats() {
@@ -1012,132 +1086,6 @@
 
   function sportInfo(sports, key) {
     return (sports || []).find((s) => s.key === key) || { name: key, icon: "sports" };
-  }
-
-  async function loadDayAndRender(date) {
-    let day = null;
-    try { const r = await fetch(`data/picks-${date}.json`); if (r.ok) day = await r.json(); } catch (e) {}
-    let results = null;
-    try { const rr = await fetch(`data/resultados-${date}.json`); if (rr.ok) results = await rr.json(); } catch (e) {}
-    const rmap = _resultsMap(results);
-    const info = $("staticDayInfo");
-    const panels = $("staticPanels");
-    const empty = $("staticEmpty");
-
-    if (!day) {
-      panels.innerHTML = "";
-      empty.innerHTML = emptyNote("No hay datos para esta fecha.");
-      empty.classList.remove("hidden");
-      if (info) info.textContent = `Fecha ${date}`;
-      return;
-    }
-    const res = day.results || {};
-    const sports = day.sports || [];
-    const keys = Object.keys(res).filter((k) => {
-      const r = res[k] || {};
-      return (r.predictions && r.predictions.length) || (r.picks && r.picks.length);
-    });
-
-    if (info) {
-      info.textContent = `${fmtDateLong(date)} · ${day.sports_total || "0 partidos"} · generado ${(day.generated_at || "").replace("T", " ")}`;
-    }
-
-    if (!keys.length) {
-      panels.innerHTML = "";
-      empty.innerHTML = emptyNote("No hay predicciones para este día.");
-      empty.classList.remove("hidden");
-      return;
-    }
-    empty.classList.add("hidden");
-
-    panels.innerHTML = keys.map((k) => {
-      const infoSport = sportInfo(sports, k);
-      return `
-        <div class="static-panel hidden" data-panel="${k}">
-          <div class="flex items-center gap-2 mb-5">
-            <span class="material-symbols-outlined text-primary text-[20px]">${esc(infoSport.icon)}</span>
-            <h2 class="font-headline-lg text-headline-lg font-bold text-primary">${esc(infoSport.name)}</h2>
-          </div>
-          <div class="mb-10">
-            <div class="flex items-baseline gap-2 mb-4">
-              <h3 class="font-headline-lg text-headline-lg font-bold text-primary">Picks</h3>
-              <span class="font-label-md text-label-md text-on-surface-variant" data-pickcount="${k}"></span>
-            </div>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-picks="${k}"></div>
-          </div>
-          <div class="mb-10">
-            <div class="flex items-baseline gap-2 mb-4">
-              <h3 class="font-headline-lg text-headline-lg font-bold text-primary">Cartelera</h3>
-              <span class="font-label-md text-label-md text-on-surface-variant" data-gamecount="${k}"></span>
-            </div>
-            <div class="bg-surface-container-lowest border border-outline-variant rounded-xl divide-y divide-surface-container shadow-sm overflow-hidden" data-games="${k}"></div>
-          </div>
-        </div>`;
-    }).join("");
-
-    keys.forEach((k) => {
-      const r = res[k] || {};
-      const picksEl = panels.querySelector(`[data-picks="${k}"]`);
-      const picksCountEl = panels.querySelector(`[data-pickcount="${k}"]`);
-      renderPicks(r.picks || [], picksEl, picksCountEl, rmap);
-      attachTierFilter(r.picks || [], picksEl, picksCountEl, rmap);
-      const n = renderGames(r.predictions || [], panels.querySelector(`[data-games="${k}"]`));
-      panels.querySelector(`[data-gamecount="${k}"]`).textContent = n ? `(${n})` : "(sin partidos)";
-    });
-    renderDayResults($("staticDayResults"), results);
-
-    // Tabs por deporte (solo los que tienen contenido)
-    const sportTabs = document.createElement("div");
-    sportTabs.className = "flex flex-wrap gap-2 mb-6";
-    keys.forEach((k, i) => {
-      const infoSport = sportInfo(sports, k);
-      const b = document.createElement("button");
-      b.className = "pill" + (i === 0 ? " active" : "");
-      b.innerHTML = `<span class="material-symbols-outlined">${esc(infoSport.icon)}</span>${esc(infoSport.name)}`;
-      b.addEventListener("click", () => {
-        sportTabs.querySelectorAll(".pill").forEach((x) => x.classList.remove("active"));
-        b.classList.add("active");
-        panels.querySelectorAll(".static-panel").forEach((p) => p.classList.add("hidden"));
-        panels.querySelector(`[data-panel="${k}"]`).classList.remove("hidden");
-      });
-      sportTabs.appendChild(b);
-    });
-    panels.insertBefore(sportTabs, panels.firstChild);
-    panels.querySelector(".static-panel").classList.remove("hidden");
-
-    // Sub-menú de ligas para cualquier deporte con "Todas las ligas"
-    Object.keys(res).forEach((k) => {
-      const r = res[k];
-      if (!r || !r.all_leagues || !r.predictions || !r.predictions.length) return;
-      const codes = [...new Set(r.predictions.map((g) => g.league_code).filter(Boolean))];
-      if (codes.length < 2) return;
-      const box = panels.querySelector(`[data-panel="${k}"]`);
-      if (!box) return;
-      const bar = document.createElement("div");
-      bar.className = "flex flex-wrap items-center gap-2 mb-4";
-      bar.innerHTML = `<span class="font-mono text-xs text-text-muted uppercase tracking-wider">Liga:</span>`;
-      const mk = (label, code) => {
-        const b = document.createElement("button");
-        b.className = "chip" + (code === "" ? " on" : "");
-        b.textContent = label;
-        b.addEventListener("click", () => {
-          bar.querySelectorAll(".chip").forEach((x) => x.classList.remove("on"));
-          b.classList.add("on");
-          const preds = r.predictions.filter((g) => !code || g.league_code === code);
-          const pks = (r.picks || []).filter((p) => !code || p.league_code === code);
-          renderGames(preds, box.querySelector(`[data-games="${k}"]`));
-          const picksEl = box.querySelector(`[data-picks="${k}"]`);
-          const picksCountEl = box.querySelector(`[data-pickcount="${k}"]`);
-          renderPicks(pks, picksEl, picksCountEl);
-          attachTierFilter(pks, picksEl, picksCountEl);
-          box.querySelector(`[data-gamecount="${k}"]`).textContent = preds.length ? `(${preds.length})` : "(sin partidos)";
-        });
-        return b;
-      };
-      bar.appendChild(mk("Todas", ""));
-      codes.forEach((c) => bar.appendChild(mk(c, c)));
-      box.insertBefore(bar, box.firstChild);
-    });
   }
 
   /* ═══════════ init ═══════════ */
