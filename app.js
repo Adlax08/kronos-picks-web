@@ -910,8 +910,9 @@
     const today = fmtDate(new Date());
     staticDays = orderDays(daysData.days.map((d) => d.date).filter(Boolean), today);
     const tomorrow = shiftDate(1);
-    const defaultDate = staticDays.includes(tomorrow) ? tomorrow
-      : (staticDays.includes(today) ? today : staticDays[0]);
+    // Por defecto "Hoy" (como la maqueta); si no está publicado, mañana.
+    const defaultDate = staticDays.includes(today) ? today
+      : (staticDays.includes(tomorrow) ? tomorrow : staticDays[0]);
     els.dateInput.value = defaultDate;
     document.querySelectorAll(".quick-chip").forEach((c) => {
       c.classList.toggle("on", shiftDate(parseInt(c.dataset.offset, 10)) === defaultDate);
