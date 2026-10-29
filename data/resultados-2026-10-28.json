@@ -1,13 +1,13 @@
 {
  "day": "2026-10-28",
- "generated_at": "2026-10-27T22:17:39",
+ "generated_at": "2026-10-28T19:14:30",
  "total": {
-  "ganados": 0,
-  "perdidos": 0,
+  "ganados": 34,
+  "perdidos": 17,
   "anulados": 0,
-  "pendientes": 86,
-  "n": 86,
-  "win_pct": null
+  "pendientes": 20,
+  "n": 71,
+  "win_pct": 0.667
  },
  "picks": [
   {
@@ -21,9 +21,24 @@
    "mercado": "Moneyline",
    "pick": "ML: HOME (New Mexico State Aggies)",
    "cuota": null,
-   "prob": 0.6703,
+   "prob": 0.6705,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-28",
+   "deporte": "basquet",
+   "liga": "EUR",
+   "liga_nombre": "Euroliga",
+   "local": "HAPOEL IBI TEL AVIV",
+   "visitante": "ANADOLU EFES ISTANBUL",
+   "partido": "ANADOLU EFES ISTANBUL @ HAPOEL IBI TEL AVIV",
+   "mercado": "Moneyline",
+   "pick": "ML: HOME (HAPOEL IBI TEL AVIV)",
+   "cuota": null,
+   "prob": 0.665,
+   "tier": "MUY BUENO",
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -35,8 +50,23 @@
    "partido": "Charlotte Hornets @ Detroit Pistons",
    "mercado": "Spread",
    "pick": "SPREAD: Charlotte Hornets +7.5",
-   "cuota": 1.909,
+   "cuota": 1.952,
    "prob": 0.6006,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-28",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Detroit Pistons",
+   "visitante": "Charlotte Hornets",
+   "partido": "Charlotte Hornets @ Detroit Pistons",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 212.5",
+   "cuota": 1.909,
+   "prob": 0.605,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -50,7 +80,7 @@
    "partido": "Denver Nuggets @ New Orleans Pelicans",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Denver Nuggets)",
-   "cuota": 1.541,
+   "cuota": 1.556,
    "prob": 0.7526,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -65,7 +95,7 @@
    "partido": "Denver Nuggets @ New Orleans Pelicans",
    "mercado": "Spread",
    "pick": "SPREAD: Denver Nuggets -4.5",
-   "cuota": 1.87,
+   "cuota": 1.952,
    "prob": 0.6382,
    "tier": "BUENO",
    "estado": "PENDIENTE"
@@ -90,42 +120,12 @@
    "deporte": "basquet",
    "liga": "NBA",
    "liga_nombre": "NBA",
-   "local": "LA Clippers",
-   "visitante": "Los Angeles Lakers",
-   "partido": "Los Angeles Lakers @ LA Clippers",
-   "mercado": "Spread",
-   "pick": "SPREAD: LA Clippers +5.5",
-   "cuota": 1.87,
-   "prob": 0.6926,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "LA Clippers",
-   "visitante": "Los Angeles Lakers",
-   "partido": "Los Angeles Lakers @ LA Clippers",
-   "mercado": "Totales",
-   "pick": "TOTAL: UNDER 228.5",
-   "cuota": 1.87,
-   "prob": 0.6006,
-   "tier": "BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
    "local": "Chicago Bulls",
    "visitante": "New York Knicks",
    "partido": "New York Knicks @ Chicago Bulls",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (New York Knicks)",
-   "cuota": 1.37,
+   "cuota": 1.36,
    "prob": 0.7963,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -140,10 +140,25 @@
    "partido": "New York Knicks @ Chicago Bulls",
    "mercado": "Spread",
    "pick": "SPREAD: New York Knicks -7.5",
-   "cuota": 1.952,
+   "cuota": 1.98,
    "prob": 0.6768,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-28",
+   "deporte": "basquet",
+   "liga": "EUR",
+   "liga_nombre": "Euroliga",
+   "local": "BESIKTAS ISTANBUL",
+   "visitante": "OLYMPIACOS PIRAEUS",
+   "partido": "OLYMPIACOS PIRAEUS @ BESIKTAS ISTANBUL",
+   "mercado": "Moneyline",
+   "pick": "ML: AWAY (OLYMPIACOS PIRAEUS)",
+   "cuota": null,
+   "prob": 0.7322,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -155,7 +170,7 @@
    "partido": "Oklahoma City Thunder @ Dallas Mavericks",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Oklahoma City Thunder)",
-   "cuota": 1.488,
+   "cuota": 1.521,
    "prob": 0.7907,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -170,10 +185,40 @@
    "partido": "Oklahoma City Thunder @ Dallas Mavericks",
    "mercado": "Spread",
    "pick": "SPREAD: Oklahoma City Thunder -5.5",
-   "cuota": 1.87,
+   "cuota": 1.952,
    "prob": 0.6838,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-28",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Toronto Raptors",
+   "visitante": "Orlando Magic",
+   "partido": "Orlando Magic @ Toronto Raptors",
+   "mercado": "Spread",
+   "pick": "SPREAD: Orlando Magic +5.5",
+   "cuota": 1.847,
+   "prob": 0.606,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-28",
+   "deporte": "basquet",
+   "liga": "EUR",
+   "liga_nombre": "Euroliga",
+   "local": "LDLC ASVEL VILLEURBANNE",
+   "visitante": "PARTIZAN MOZZART BET BELGRADE",
+   "partido": "PARTIZAN MOZZART BET BELGRADE @ LDLC ASVEL VILLEURBANNE",
+   "mercado": "Moneyline",
+   "pick": "ML: AWAY (PARTIZAN MOZZART BET BELGRADE)",
+   "cuota": null,
+   "prob": 0.626,
+   "tier": "BUENO",
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -184,10 +229,10 @@
    "visitante": "Philadelphia 76ers",
    "partido": "Philadelphia 76ers @ Indiana Pacers",
    "mercado": "Spread",
-   "pick": "SPREAD: Indiana Pacers +4.5",
+   "pick": "SPREAD: Indiana Pacers +7.5",
    "cuota": 1.909,
-   "prob": 0.6443,
-   "tier": "BUENO",
+   "prob": 0.7111,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -199,9 +244,9 @@
    "visitante": "San Antonio Spurs",
    "partido": "San Antonio Spurs @ Utah Jazz",
    "mercado": "Totales",
-   "pick": "TOTAL: OVER 234.5",
-   "cuota": 1.952,
-   "prob": 0.608,
+   "pick": "TOTAL: OVER 232.5",
+   "cuota": 1.909,
+   "prob": 0.6391,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -229,11 +274,56 @@
    "visitante": "Washington Wizards",
    "partido": "Washington Wizards @ Cleveland Cavaliers",
    "mercado": "Totales",
-   "pick": "TOTAL: UNDER 239.5",
-   "cuota": 1.909,
-   "prob": 0.6028,
+   "pick": "TOTAL: UNDER 240.5",
+   "cuota": 1.893,
+   "prob": 0.6185,
    "tier": "BUENO",
    "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-28",
+   "deporte": "basquet",
+   "liga": "EUR",
+   "liga_nombre": "Euroliga",
+   "local": "VIRTUS BOLOGNA",
+   "visitante": "ZALGIRIS KAUNAS",
+   "partido": "ZALGIRIS KAUNAS @ VIRTUS BOLOGNA",
+   "mercado": "Moneyline",
+   "pick": "ML: HOME (VIRTUS BOLOGNA)",
+   "cuota": null,
+   "prob": 0.6079,
+   "tier": "BUENO",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-10-28",
+   "deporte": "beisbol",
+   "liga": "NPB",
+   "liga_nombre": "Nippon Professional Baseball",
+   "local": "SoftBank Hawks",
+   "visitante": "Yokohama BayStars",
+   "partido": "Yokohama BayStars @ SoftBank Hawks",
+   "mercado": "Run Line",
+   "pick": "RL: AWAY 1.5",
+   "cuota": null,
+   "prob": 0.6127,
+   "tier": "BUENO",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-10-28",
+   "deporte": "beisbol",
+   "liga": "NPB",
+   "liga_nombre": "Nippon Professional Baseball",
+   "local": "SoftBank Hawks",
+   "visitante": "Yokohama BayStars",
+   "partido": "Yokohama BayStars @ SoftBank Hawks",
+   "mercado": "Totales",
+   "pick": "TOTAL: UNDER 7.5",
+   "cuota": null,
+   "prob": 0.6103,
+   "tier": "BUENO",
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -248,7 +338,7 @@
    "cuota": null,
    "prob": 0.697412553435566,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -263,37 +353,7 @@
    "cuota": null,
    "prob": 0.844442824064381,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Alcoyano",
-   "visitante": "Mallorca",
-   "partido": "Alcoyano vs Mallorca",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8090724895914885,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Amorebieta",
-   "visitante": "UD Logroñés",
-   "partido": "Amorebieta vs UD Logroñés",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.7583191517414054,
-   "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -303,26 +363,11 @@
    "local": "América",
    "visitante": "Tijuana",
    "partido": "América vs Tijuana",
-   "mercado": "O/U 2.5",
-   "pick": "O/U 2.5: OVER",
+   "mercado": "1X2",
+   "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.6606891563586232,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Anaitasuna",
-   "visitante": "Alavés",
-   "partido": "Anaitasuna vs Alavés",
-   "mercado": "O/U 2.5",
-   "pick": "O/U 2.5: OVER",
-   "cuota": null,
-   "prob": 0.69002636902013,
-   "tier": "MUY BUENO",
+   "prob": 0.7516443036078573,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -338,22 +383,7 @@
    "cuota": null,
    "prob": 0.7690455856105435,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Badajoz",
-   "visitante": "Tenerife",
-   "partido": "Badajoz vs Tenerife",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.7773173323676215,
-   "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -368,7 +398,7 @@
    "cuota": null,
    "prob": 0.8334440150777058,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -383,7 +413,7 @@
    "cuota": null,
    "prob": 0.7187956924140748,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -398,82 +428,7 @@
    "cuota": null,
    "prob": 0.8595615786045698,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "CD Artistico Navalcarnero",
-   "visitante": "Real Betis",
-   "partido": "CD Artistico Navalcarnero vs Real Betis",
-   "mercado": "O/U 2.5",
-   "pick": "O/U 2.5: OVER",
-   "cuota": null,
-   "prob": 0.7121473674059658,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "CD Minera",
-   "visitante": "FC Cartagena",
-   "partido": "CD Minera vs FC Cartagena",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.768366765275561,
-   "tier": "BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "CD Pamplona",
-   "visitante": "Eibar",
-   "partido": "CD Pamplona vs Eibar",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8550465762569168,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "CD Tarancon",
-   "visitante": "Levante",
-   "partido": "CD Tarancon vs Levante",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8572934455386185,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Calvo Sotelo",
-   "visitante": "Albacete",
-   "partido": "Calvo Sotelo vs Albacete",
-   "mercado": "O/U 2.5",
-   "pick": "O/U 2.5: OVER",
-   "cuota": null,
-   "prob": 0.6714302152466074,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -488,52 +443,7 @@
    "cuota": null,
    "prob": 0.8988301579833773,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Cieza",
-   "visitante": "Granada",
-   "partido": "Cieza vs Granada",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8014288270312332,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Coruxo",
-   "visitante": "Zamora CF",
-   "partido": "Coruxo vs Zamora CF",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8282148195168316,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Covadonga",
-   "visitante": "Real Valladolid",
-   "partido": "Covadonga vs Real Valladolid",
-   "mercado": "O/U 2.5",
-   "pick": "O/U 2.5: OVER",
-   "cuota": null,
-   "prob": 0.6894719324087965,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -548,7 +458,7 @@
    "cuota": null,
    "prob": 0.7959382002320592,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -563,7 +473,7 @@
    "cuota": null,
    "prob": 0.8522580001658842,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -578,22 +488,7 @@
    "cuota": null,
    "prob": 0.8017009201938203,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Gimnástica Torrelavega",
-   "visitante": "UD Ourense",
-   "partido": "Gimnástica Torrelavega vs UD Ourense",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8442888126298931,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -608,7 +503,7 @@
    "cuota": null,
    "prob": 0.6971263394425247,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -623,7 +518,7 @@
    "cuota": null,
    "prob": 0.8457090816569306,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -638,7 +533,7 @@
    "cuota": null,
    "prob": 0.7324728146589448,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -653,22 +548,7 @@
    "cuota": null,
    "prob": 0.6984415030209914,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Mijas Las Lagunas",
-   "visitante": "Real Jaen CF",
-   "partido": "Mijas Las Lagunas vs Real Jaen CF",
-   "mercado": "1X2",
-   "pick": "1X2: HOME (1)",
-   "cuota": null,
-   "prob": 0.7307757948170914,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -683,22 +563,7 @@
    "cuota": null,
    "prob": 0.8226519985772389,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Numancia",
-   "visitante": "Real Oviedo",
-   "partido": "Numancia vs Real Oviedo",
-   "mercado": "BTTS",
-   "pick": "BTTS: NO",
-   "cuota": null,
-   "prob": 0.6111376415611216,
-   "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -713,52 +578,7 @@
    "cuota": null,
    "prob": 0.7605710739900415,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Poblense",
-   "visitante": "Ceuta",
-   "partido": "Poblense vs Ceuta",
-   "mercado": "O/U 2.5",
-   "pick": "O/U 2.5: OVER",
-   "cuota": null,
-   "prob": 0.7209101116900909,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Portugalete",
-   "visitante": "Real Unión Irun",
-   "partido": "Portugalete vs Real Unión Irun",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8095058732177047,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Reus FC Reddis",
-   "visitante": "Barakaldo",
-   "partido": "Reus FC Reddis vs Barakaldo",
-   "mercado": "O/U 2.5",
-   "pick": "O/U 2.5: OVER",
-   "cuota": null,
-   "prob": 0.7517059818212641,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -773,7 +593,7 @@
    "cuota": null,
    "prob": 0.7419277445252127,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -788,7 +608,7 @@
    "cuota": null,
    "prob": 0.835691080224296,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -803,22 +623,7 @@
    "cuota": null,
    "prob": 0.6745493397323058,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Salamanca UDS",
-   "visitante": "Celta Vigo",
-   "partido": "Salamanca UDS vs Celta Vigo",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.7516435013369936,
-   "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -833,7 +638,7 @@
    "cuota": null,
    "prob": 0.7309613827795305,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -848,52 +653,7 @@
    "cuota": null,
    "prob": 0.841366334923674,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Tavernes de la Valldigna",
-   "visitante": "Valencia",
-   "partido": "Tavernes de la Valldigna vs Valencia",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.7882153124005841,
-   "tier": "BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Trival Valderas",
-   "visitante": "Leganés",
-   "partido": "Trival Valderas vs Leganés",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8008714101884622,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Utebo",
-   "visitante": "CD Sabadell",
-   "partido": "Utebo vs CD Sabadell",
-   "mercado": "O/U 2.5",
-   "pick": "O/U 2.5: OVER",
-   "cuota": null,
-   "prob": 0.7051252016712275,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -908,22 +668,7 @@
    "cuota": null,
    "prob": 0.8222403330226976,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-28",
-   "deporte": "futbol",
-   "liga": "CDR",
-   "liga_nombre": "Copa del Rey",
-   "local": "Xerez",
-   "visitante": "Cádiz",
-   "partido": "Xerez vs Cádiz",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8116224864803783,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -938,7 +683,7 @@
    "cuota": 1.17,
    "prob": 0.9012,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -968,7 +713,7 @@
    "cuota": 1.87,
    "prob": 0.5652,
    "tier": "DESTACADO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -982,6 +727,21 @@
    "pick": "Diana Shnaider",
    "cuota": null,
    "prob": 0.8085,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-10-28",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Alycia Parks",
+   "visitante": "Kimberly Birrell",
+   "partido": "Alycia Parks vs Kimberly Birrell",
+   "mercado": "ML",
+   "pick": "Alycia Parks",
+   "cuota": null,
+   "prob": 0.7774,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -998,7 +758,7 @@
    "cuota": null,
    "prob": 0.6944,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -1013,7 +773,7 @@
    "cuota": 1.87,
    "prob": 0.6097,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1028,7 +788,7 @@
    "cuota": 2.75,
    "prob": 0.5437000000000001,
    "tier": "DESTACADO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1043,7 +803,7 @@
    "cuota": 2.5,
    "prob": 0.6353,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1058,7 +818,7 @@
    "cuota": 1.41,
    "prob": 0.8681,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -1073,6 +833,21 @@
    "cuota": 2.2,
    "prob": 0.6586000000000001,
    "tier": "BUENO",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-10-28",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Elise Mertens",
+   "visitante": "Leylah Fernandez",
+   "partido": "Elise Mertens vs Leylah Fernandez",
+   "mercado": "ML",
+   "pick": "Elise Mertens",
+   "cuota": null,
+   "prob": 0.6662,
+   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -1103,7 +878,7 @@
    "cuota": null,
    "prob": 0.9169,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1118,7 +893,7 @@
    "cuota": null,
    "prob": 0.7343,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1133,7 +908,7 @@
    "cuota": 2.2,
    "prob": 0.6803,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -1148,7 +923,7 @@
    "cuota": null,
    "prob": 0.7892,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -1163,7 +938,7 @@
    "cuota": 1.8,
    "prob": 0.714,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1178,7 +953,7 @@
    "cuota": 2.62,
    "prob": 0.754,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1193,7 +968,7 @@
    "cuota": 2.62,
    "prob": 0.6386000000000001,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1208,7 +983,7 @@
    "cuota": 2.1,
    "prob": 0.6686000000000001,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -1223,7 +998,7 @@
    "cuota": null,
    "prob": 0.8113,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1238,7 +1013,7 @@
    "cuota": null,
    "prob": 0.5702,
    "tier": "DESTACADO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1253,7 +1028,7 @@
    "cuota": 1.33,
    "prob": 0.8141,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1268,7 +1043,7 @@
    "cuota": 2.25,
    "prob": 0.6356999999999999,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-28",
@@ -1283,7 +1058,7 @@
    "cuota": null,
    "prob": 0.7112,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-28",
@@ -1298,7 +1073,7 @@
    "cuota": 1.77,
    "prob": 0.6028,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   }
  ]
 }

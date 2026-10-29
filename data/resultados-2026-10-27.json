@@ -1,13 +1,13 @@
 {
  "day": "2026-10-27",
- "generated_at": "2026-10-27T22:17:39",
+ "generated_at": "2026-10-28T19:14:30",
  "total": {
   "ganados": 43,
-  "perdidos": 26,
+  "perdidos": 27,
   "anulados": 0,
-  "pendientes": 6,
+  "pendientes": 5,
   "n": 75,
-  "win_pct": 0.623
+  "win_pct": 0.614
  },
  "picks": [
   {
@@ -923,7 +923,7 @@
    "cuota": null,
    "prob": 0.6558,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-27",
