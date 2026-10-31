@@ -1,15 +1,30 @@
 {
  "day": "2026-10-30",
- "generated_at": "2026-10-29T18:22:53",
+ "generated_at": "2026-10-31T10:11:57",
  "total": {
-  "ganados": 0,
-  "perdidos": 0,
+  "ganados": 11,
+  "perdidos": 11,
   "anulados": 0,
-  "pendientes": 45,
-  "n": 45,
-  "win_pct": null
+  "pendientes": 27,
+  "n": 49,
+  "win_pct": 0.5
  },
  "picks": [
+  {
+   "fecha": "2026-10-30",
+   "deporte": "basquet",
+   "liga": "EUR",
+   "liga_nombre": "Euroliga",
+   "local": "OLYMPIACOS PIRAEUS",
+   "visitante": "ARMANI OLIMPIA MILAN",
+   "partido": "ARMANI OLIMPIA MILAN @ OLYMPIACOS PIRAEUS",
+   "mercado": "Moneyline",
+   "pick": "ML: HOME (OLYMPIACOS PIRAEUS)",
+   "cuota": null,
+   "prob": 0.916,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
   {
    "fecha": "2026-10-30",
    "deporte": "basquet",
@@ -20,7 +35,7 @@
    "partido": "Charlotte Hornets @ Washington Wizards",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Charlotte Hornets)",
-   "cuota": 1.909,
+   "cuota": 1.87,
    "prob": 0.8118,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -34,9 +49,9 @@
    "visitante": "Charlotte Hornets",
    "partido": "Charlotte Hornets @ Washington Wizards",
    "mercado": "Spread",
-   "pick": "SPREAD: Charlotte Hornets +1.5",
-   "cuota": 1.833,
-   "prob": 0.8429,
+   "pick": "SPREAD: Charlotte Hornets -1.5",
+   "cuota": 1.98,
+   "prob": 0.7938,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -49,9 +64,9 @@
    "visitante": "Charlotte Hornets",
    "partido": "Charlotte Hornets @ Washington Wizards",
    "mercado": "Totales",
-   "pick": "TOTAL: OVER 222.5",
-   "cuota": 1.909,
-   "prob": 0.7721,
+   "pick": "TOTAL: OVER 218.5",
+   "cuota": 1.926,
+   "prob": 0.8184,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -65,7 +80,7 @@
    "partido": "Chicago Bulls @ Boston Celtics",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Boston Celtics)",
-   "cuota": 1.118,
+   "cuota": 1.125,
    "prob": 0.9233,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -80,7 +95,7 @@
    "partido": "Denver Nuggets @ Phoenix Suns",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Denver Nuggets)",
-   "cuota": 1.588,
+   "cuota": 1.571,
    "prob": 0.6431,
    "tier": "BUENO",
    "estado": "PENDIENTE"
@@ -95,7 +110,7 @@
    "partido": "Detroit Pistons @ Brooklyn Nets",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Detroit Pistons)",
-   "cuota": 1.388,
+   "cuota": 1.323,
    "prob": 0.9048,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -109,9 +124,9 @@
    "visitante": "Detroit Pistons",
    "partido": "Detroit Pistons @ Brooklyn Nets",
    "mercado": "Spread",
-   "pick": "SPREAD: Detroit Pistons -7.5",
-   "cuota": 1.952,
-   "prob": 0.6881,
+   "pick": "SPREAD: Detroit Pistons -8.5",
+   "cuota": 1.98,
+   "prob": 0.6658,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -125,7 +140,7 @@
    "partido": "Houston Rockets @ Dallas Mavericks",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Houston Rockets)",
-   "cuota": 1.521,
+   "cuota": 1.505,
    "prob": 0.732,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -140,7 +155,7 @@
    "partido": "Houston Rockets @ Dallas Mavericks",
    "mercado": "Spread",
    "pick": "SPREAD: Houston Rockets -5.5",
-   "cuota": 1.909,
+   "cuota": 1.952,
    "prob": 0.6243,
    "tier": "BUENO",
    "estado": "PENDIENTE"
@@ -154,10 +169,10 @@
    "visitante": "Houston Rockets",
    "partido": "Houston Rockets @ Dallas Mavericks",
    "mercado": "Totales",
-   "pick": "TOTAL: OVER 227.5",
-   "cuota": 1.909,
-   "prob": 0.6243,
-   "tier": "BUENO",
+   "pick": "TOTAL: OVER 223.5",
+   "cuota": 1.952,
+   "prob": 0.6845,
+   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -169,9 +184,9 @@
    "visitante": "Indiana Pacers",
    "partido": "Indiana Pacers @ Miami Heat",
    "mercado": "Totales",
-   "pick": "TOTAL: OVER 238.5",
-   "cuota": 1.909,
-   "prob": 0.6049,
+   "pick": "TOTAL: OVER 236.5",
+   "cuota": 1.87,
+   "prob": 0.636,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -184,10 +199,10 @@
    "visitante": "LA Clippers",
    "partido": "LA Clippers @ Minnesota Timberwolves",
    "mercado": "Spread",
-   "pick": "SPREAD: LA Clippers +7.5",
-   "cuota": 1.909,
-   "prob": 0.6639,
-   "tier": "MUY BUENO",
+   "pick": "SPREAD: LA Clippers +6.5",
+   "cuota": 1.952,
+   "prob": 0.6409,
+   "tier": "BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -215,7 +230,7 @@
    "partido": "New York Knicks @ Philadelphia 76ers",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (New York Knicks)",
-   "cuota": 1.82,
+   "cuota": 1.645,
    "prob": 0.815,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -229,25 +244,10 @@
    "visitante": "New York Knicks",
    "partido": "New York Knicks @ Philadelphia 76ers",
    "mercado": "Spread",
-   "pick": "SPREAD: New York Knicks -1.5",
-   "cuota": 1.87,
-   "prob": 0.7574,
+   "pick": "SPREAD: New York Knicks -3.5",
+   "cuota": 1.952,
+   "prob": 0.7168,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-10-30",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Philadelphia 76ers",
-   "visitante": "New York Knicks",
-   "partido": "New York Knicks @ Philadelphia 76ers",
-   "mercado": "Totales",
-   "pick": "TOTAL: UNDER 228.5",
-   "cuota": 1.909,
-   "prob": 0.6115,
-   "tier": "BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -260,10 +260,25 @@
    "partido": "Orlando Magic @ Toronto Raptors",
    "mercado": "Spread",
    "pick": "SPREAD: Orlando Magic +5.5",
-   "cuota": 1.87,
+   "cuota": 1.952,
    "prob": 0.606,
    "tier": "BUENO",
    "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-10-30",
+   "deporte": "basquet",
+   "liga": "EUR",
+   "liga_nombre": "Euroliga",
+   "local": "ANADOLU EFES ISTANBUL",
+   "visitante": "PANATHINAIKOS AKTOR ATHENS",
+   "partido": "PANATHINAIKOS AKTOR ATHENS @ ANADOLU EFES ISTANBUL",
+   "mercado": "Moneyline",
+   "pick": "ML: AWAY (PANATHINAIKOS AKTOR ATHENS)",
+   "cuota": null,
+   "prob": 0.6773,
+   "tier": "MUY BUENO",
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-30",
@@ -293,7 +308,7 @@
    "cuota": null,
    "prob": 0.7413475001796955,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-30",
@@ -308,7 +323,7 @@
    "cuota": null,
    "prob": 0.6006730231325738,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-30",
@@ -323,7 +338,7 @@
    "cuota": null,
    "prob": 0.7116628507677715,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-30",
@@ -353,7 +368,7 @@
    "cuota": null,
    "prob": 0.829118249198366,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-30",
@@ -383,7 +398,7 @@
    "cuota": null,
    "prob": 0.9215550520493867,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-30",
@@ -398,7 +413,7 @@
    "cuota": null,
    "prob": 0.8609271527714684,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-30",
@@ -413,7 +428,7 @@
    "cuota": null,
    "prob": 0.827629369704618,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-30",
@@ -443,7 +458,7 @@
    "cuota": null,
    "prob": 0.7251713198345446,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-30",
@@ -458,7 +473,7 @@
    "cuota": null,
    "prob": 0.6650963098219191,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-30",
@@ -472,6 +487,21 @@
    "pick": "Alexander Zverev",
    "cuota": null,
    "prob": 0.8724,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-10-30",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Alicia Herrero Linana",
+   "visitante": "Bianca Andreescu",
+   "partido": "Alicia Herrero Linana vs Bianca Andreescu",
+   "mercado": "ML",
+   "pick": "Bianca Andreescu",
+   "cuota": null,
+   "prob": 0.8365,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -488,7 +518,7 @@
    "cuota": null,
    "prob": 0.7463,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-30",
@@ -503,7 +533,7 @@
    "cuota": null,
    "prob": 0.7301,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-30",
@@ -518,7 +548,7 @@
    "cuota": 1.87,
    "prob": 0.7617,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-30",
@@ -533,7 +563,7 @@
    "cuota": 1.97,
    "prob": 0.6355,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-30",
@@ -593,7 +623,7 @@
    "cuota": null,
    "prob": 0.9029,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-10-30",
@@ -623,6 +653,21 @@
    "cuota": null,
    "prob": 0.8144,
    "tier": "TOP PICK",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-10-30",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Himeno Sakatsume",
+   "visitante": "Hong Yi Cody Wong",
+   "partido": "Himeno Sakatsume vs Hong Yi Cody Wong",
+   "mercado": "ML",
+   "pick": "Himeno Sakatsume",
+   "cuota": null,
+   "prob": 0.9221,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -638,7 +683,7 @@
    "cuota": 3.0,
    "prob": 0.6268,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-30",
@@ -653,7 +698,7 @@
    "cuota": null,
    "prob": 0.78,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-10-30",
@@ -668,6 +713,21 @@
    "cuota": null,
    "prob": 0.5074000000000001,
    "tier": "DESTACADO",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-10-30",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Kamilla Rakhimova",
+   "visitante": "Leylah Fernandez",
+   "partido": "Kamilla Rakhimova vs Leylah Fernandez",
+   "mercado": "ML",
+   "pick": "Leylah Fernandez",
+   "cuota": null,
+   "prob": 0.8056,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -683,7 +743,7 @@
    "cuota": null,
    "prob": 0.8777,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   }
  ]
 }
