@@ -1,13 +1,13 @@
 {
  "day": "2026-11-01",
- "generated_at": "2026-10-31T10:11:57",
+ "generated_at": "2026-11-01T18:26:41",
  "total": {
-  "ganados": 0,
-  "perdidos": 0,
+  "ganados": 22,
+  "perdidos": 7,
   "anulados": 0,
-  "pendientes": 32,
-  "n": 32,
-  "win_pct": null
+  "pendientes": 8,
+  "n": 37,
+  "win_pct": 0.759
  },
  "picks": [
   {
@@ -23,7 +23,7 @@
    "cuota": 1.36,
    "prob": 0.7473,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -35,9 +35,69 @@
    "partido": "Brooklyn Nets @ Indiana Pacers",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Indiana Pacers)",
-   "cuota": null,
+   "cuota": 1.645,
    "prob": 0.7111,
    "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-01",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Indiana Pacers",
+   "visitante": "Brooklyn Nets",
+   "partido": "Brooklyn Nets @ Indiana Pacers",
+   "mercado": "Spread",
+   "pick": "SPREAD: Indiana Pacers -3.5",
+   "cuota": 1.952,
+   "prob": 0.6136,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-01",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Golden State Warriors",
+   "visitante": "LA Clippers",
+   "partido": "LA Clippers @ Golden State Warriors",
+   "mercado": "Spread",
+   "pick": "SPREAD: LA Clippers +1.5",
+   "cuota": 1.952,
+   "prob": 0.6248,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-01",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Golden State Warriors",
+   "visitante": "LA Clippers",
+   "partido": "LA Clippers @ Golden State Warriors",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 220.5",
+   "cuota": 1.926,
+   "prob": 0.6788,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-01",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Los Angeles Lakers",
+   "visitante": "Toronto Raptors",
+   "partido": "Toronto Raptors @ Los Angeles Lakers",
+   "mercado": "Spread",
+   "pick": "SPREAD: Toronto Raptors +3.5",
+   "cuota": 1.847,
+   "prob": 0.6264,
+   "tier": "BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -53,7 +113,7 @@
    "cuota": null,
    "prob": 0.7419774962941607,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-01",
@@ -68,7 +128,7 @@
    "cuota": null,
    "prob": 0.7157489658160513,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -83,7 +143,7 @@
    "cuota": null,
    "prob": 0.7927948268266967,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -98,7 +158,7 @@
    "cuota": null,
    "prob": 0.8347835590038968,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -113,7 +173,7 @@
    "cuota": null,
    "prob": 0.7520921644491136,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -128,7 +188,7 @@
    "cuota": null,
    "prob": 0.9238878604415093,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -141,7 +201,7 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.7055587291289995,
+   "prob": 0.7053304829575586,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -158,7 +218,7 @@
    "cuota": null,
    "prob": 0.7508865761173504,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -173,7 +233,7 @@
    "cuota": null,
    "prob": 0.8270990783677087,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-01",
@@ -188,7 +248,7 @@
    "cuota": null,
    "prob": 0.7011222215019657,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -203,7 +263,7 @@
    "cuota": null,
    "prob": 0.7624788096602619,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -218,7 +278,7 @@
    "cuota": null,
    "prob": 0.8177539949813841,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -233,7 +293,7 @@
    "cuota": null,
    "prob": 0.7971306464569151,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -248,7 +308,7 @@
    "cuota": null,
    "prob": 0.839737235053503,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -263,7 +323,7 @@
    "cuota": null,
    "prob": 0.7048882098649044,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -278,7 +338,7 @@
    "cuota": null,
    "prob": 0.7819115157389667,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -293,7 +353,7 @@
    "cuota": null,
    "prob": 0.8148490068644134,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-01",
@@ -308,7 +368,7 @@
    "cuota": null,
    "prob": 0.7707986486329417,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -323,7 +383,7 @@
    "cuota": null,
    "prob": 0.8500202203688886,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -338,7 +398,7 @@
    "cuota": null,
    "prob": 0.6729291435132546,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-01",
@@ -353,7 +413,7 @@
    "cuota": null,
    "prob": 0.799218438104002,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -368,7 +428,7 @@
    "cuota": null,
    "prob": 0.7580264374100005,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -381,7 +441,7 @@
    "mercado": "1X2",
    "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.749706250655892,
+   "prob": 0.7496272732546619,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -398,7 +458,7 @@
    "cuota": null,
    "prob": 0.7290694519246634,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -412,6 +472,21 @@
    "pick": "O/U 2.5: OVER",
    "cuota": null,
    "prob": 0.7034552628751569,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-01",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Bianca Andreescu",
+   "visitante": "Tatjana Maria",
+   "partido": "Bianca Andreescu vs Tatjana Maria",
+   "mercado": "ML",
+   "pick": "Bianca Andreescu",
+   "cuota": null,
+   "prob": 0.734,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -428,7 +503,7 @@
    "cuota": null,
    "prob": 0.6594,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-01",
@@ -443,7 +518,7 @@
    "cuota": null,
    "prob": 0.6997,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -458,7 +533,7 @@
    "cuota": null,
    "prob": 0.741,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-01",
@@ -473,7 +548,7 @@
    "cuota": null,
    "prob": 0.6228,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-01",
@@ -488,7 +563,7 @@
    "cuota": null,
    "prob": 0.6921,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   }
  ]
 }
