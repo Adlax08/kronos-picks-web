@@ -1,13 +1,13 @@
 {
  "day": "2026-11-03",
- "generated_at": "2026-11-03T09:04:49",
+ "generated_at": "2026-11-04T18:26:38",
  "total": {
-  "ganados": 0,
-  "perdidos": 0,
+  "ganados": 21,
+  "perdidos": 13,
   "anulados": 0,
-  "pendientes": 38,
+  "pendientes": 4,
   "n": 38,
-  "win_pct": null
+  "win_pct": 0.618
  },
  "picks": [
   {
@@ -53,7 +53,7 @@
    "cuota": null,
    "prob": 0.6804591317792223,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -68,7 +68,7 @@
    "cuota": null,
    "prob": 0.8290403089529474,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -83,7 +83,7 @@
    "cuota": null,
    "prob": 0.7797213659986499,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -98,7 +98,7 @@
    "cuota": null,
    "prob": 0.7048908255798849,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -113,7 +113,7 @@
    "cuota": null,
    "prob": 0.8550465762569168,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -128,7 +128,7 @@
    "cuota": null,
    "prob": 0.7341792296910978,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -143,7 +143,7 @@
    "cuota": null,
    "prob": 0.8222977518203962,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -158,7 +158,7 @@
    "cuota": null,
    "prob": 0.8505870927900029,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -173,7 +173,7 @@
    "cuota": null,
    "prob": 0.6791854030801738,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -188,7 +188,7 @@
    "cuota": null,
    "prob": 0.8183236644067349,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -203,7 +203,7 @@
    "cuota": null,
    "prob": 0.6970150743992605,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -218,7 +218,7 @@
    "cuota": 1.87,
    "prob": 0.6174,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -233,7 +233,7 @@
    "cuota": 2.2,
    "prob": 0.6615,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -248,7 +248,7 @@
    "cuota": 1.8,
    "prob": 0.6088,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -263,7 +263,7 @@
    "cuota": 1.8,
    "prob": 0.7732,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -278,7 +278,7 @@
    "cuota": null,
    "prob": 0.8222,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -308,7 +308,7 @@
    "cuota": 1.37,
    "prob": 0.8687,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -323,7 +323,7 @@
    "cuota": 2.2,
    "prob": 0.6381,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -338,7 +338,7 @@
    "cuota": 1.37,
    "prob": 0.8025,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -353,7 +353,7 @@
    "cuota": 1.87,
    "prob": 0.6745,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -368,7 +368,7 @@
    "cuota": 2.62,
    "prob": 0.7262,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -383,7 +383,7 @@
    "cuota": 2.1,
    "prob": 0.6531,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -398,7 +398,7 @@
    "cuota": null,
    "prob": 0.6676,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -428,7 +428,7 @@
    "cuota": 1.77,
    "prob": 0.6063,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -443,7 +443,7 @@
    "cuota": 1.63,
    "prob": 0.8549,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -458,7 +458,7 @@
    "cuota": 2.1,
    "prob": 0.6462,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -473,7 +473,7 @@
    "cuota": 1.97,
    "prob": 0.709,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -488,7 +488,7 @@
    "cuota": null,
    "prob": 0.8894,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -503,7 +503,7 @@
    "cuota": 1.69,
    "prob": 0.6879,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -518,7 +518,7 @@
    "cuota": 1.8,
    "prob": 0.6325,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -533,7 +533,7 @@
    "cuota": 1.8,
    "prob": 0.6618,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -548,7 +548,7 @@
    "cuota": 2.75,
    "prob": 0.5823,
    "tier": "DESTACADO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -563,7 +563,7 @@
    "cuota": null,
    "prob": 0.8347,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -578,7 +578,7 @@
    "cuota": 1.69,
    "prob": 0.6923,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   }
  ]
 }

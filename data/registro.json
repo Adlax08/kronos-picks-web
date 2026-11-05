@@ -1,30 +1,30 @@
 {
- "generated_at": "2026-11-03T09:04:49",
+ "generated_at": "2026-11-04T18:26:38",
  "days": 30,
  "solo_verificables": true,
  "total": {
-  "ganados": 301,
-  "perdidos": 211,
+  "ganados": 344,
+  "perdidos": 248,
   "anulados": 0,
-  "pendientes": 103,
-  "n": 615,
-  "win_pct": 0.588
+  "pendientes": 92,
+  "n": 684,
+  "win_pct": 0.581
  },
  "by_sport": {
   "amfut": {
    "ganados": 25,
    "perdidos": 20,
    "anulados": 0,
-   "pendientes": 5,
-   "n": 50,
+   "pendientes": 7,
+   "n": 52,
    "win_pct": 0.556
   },
   "basquet": {
    "ganados": 48,
    "perdidos": 66,
    "anulados": 0,
-   "pendientes": 15,
-   "n": 129,
+   "pendientes": 21,
+   "n": 135,
    "win_pct": 0.421
   },
   "beisbol": {
@@ -36,23 +36,773 @@
    "win_pct": 0.778
   },
   "futbol": {
-   "ganados": 130,
-   "perdidos": 49,
+   "ganados": 145,
+   "perdidos": 61,
    "anulados": 0,
-   "pendientes": 28,
-   "n": 207,
-   "win_pct": 0.726
+   "pendientes": 33,
+   "n": 239,
+   "win_pct": 0.704
   },
   "tenis": {
-   "ganados": 91,
-   "perdidos": 74,
+   "ganados": 119,
+   "perdidos": 99,
    "anulados": 0,
-   "pendientes": 54,
-   "n": 219,
-   "win_pct": 0.552
+   "pendientes": 30,
+   "n": 248,
+   "win_pct": 0.546
   }
  },
  "picks": [
+  {
+   "fecha": "2026-11-05",
+   "deporte": "amfut",
+   "liga": "NFL",
+   "liga_nombre": "NFL",
+   "local": "Baltimore Ravens",
+   "visitante": "Jacksonville Jaguars",
+   "partido": "Jacksonville Jaguars @ Baltimore Ravens",
+   "mercado": "Moneyline",
+   "pick": "ML: HOME (Baltimore Ravens)",
+   "cuota": 5.0,
+   "prob": 0.6265,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "amfut",
+   "liga": "NFL",
+   "liga_nombre": "NFL",
+   "local": "Baltimore Ravens",
+   "visitante": "Jacksonville Jaguars",
+   "partido": "Jacksonville Jaguars @ Baltimore Ravens",
+   "mercado": "Spread",
+   "pick": "SPREAD: Baltimore Ravens +10",
+   "cuota": 1.87,
+   "prob": 0.6787,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "AC Milan",
+   "visitante": "Ferencvaros",
+   "partido": "AC Milan vs Ferencvaros",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6638721020359986,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "AGF",
+   "visitante": "Braga",
+   "partido": "AGF vs Braga",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7638447742839691,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "AZ Alkmaar",
+   "visitante": "Juventus",
+   "partido": "AZ Alkmaar vs Juventus",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8520942374756888,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "Anderlecht",
+   "visitante": "RB Salzburg",
+   "partido": "Anderlecht vs RB Salzburg",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8506650870228449,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "Atalanta",
+   "visitante": "Kairat Almaty",
+   "partido": "Atalanta vs Kairat Almaty",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7380737630406415,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "Bayer Leverkusen",
+   "visitante": "Marseille",
+   "partido": "Bayer Leverkusen vs Marseille",
+   "mercado": "1X2",
+   "pick": "1X2: HOME (1)",
+   "cuota": null,
+   "prob": 0.7607342471546044,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "Benfica",
+   "visitante": "Lech Poznan",
+   "partido": "Benfica vs Lech Poznan",
+   "mercado": "1X2",
+   "pick": "1X2: HOME (1)",
+   "cuota": null,
+   "prob": 0.9193259888766645,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "CSU Craiova",
+   "visitante": "Egnatia",
+   "partido": "CSU Craiova vs Egnatia",
+   "mercado": "BTTS",
+   "pick": "BTTS: YES",
+   "cuota": null,
+   "prob": 0.5089832202557433,
+   "tier": "DESTACADO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "Celta Vigo",
+   "visitante": "Union St.-Gilloise",
+   "partido": "Celta Vigo vs Union St.-Gilloise",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.817516552076301,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "Celtic",
+   "visitante": "Besiktas",
+   "partido": "Celtic vs Besiktas",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7134541559896268,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "Crystal Palace",
+   "visitante": "TSG Hoffenheim",
+   "partido": "Crystal Palace vs TSG Hoffenheim",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6855853305098354,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "F.C. København",
+   "visitante": "Iberia 1999",
+   "partido": "F.C. København vs Iberia 1999",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7171507892003344,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "FC Lugano",
+   "visitante": "Kauno Zalgiris",
+   "partido": "FC Lugano vs Kauno Zalgiris",
+   "mercado": "1X2",
+   "pick": "1X2: HOME (1)",
+   "cuota": null,
+   "prob": 0.8719248283623331,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "FC Midtjylland",
+   "visitante": "Ajax Amsterdam",
+   "partido": "FC Midtjylland vs Ajax Amsterdam",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7099643623137062,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "FC Thun",
+   "visitante": "Heart of Midlothian",
+   "partido": "FC Thun vs Heart of Midlothian",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7828267545057236,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "FC Twente",
+   "visitante": "Pafos",
+   "partido": "FC Twente vs Pafos",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6782524994965129,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "Getafe",
+   "visitante": "Brighton & Hove Albion",
+   "partido": "Getafe vs Brighton & Hove Albion",
+   "mercado": "1X2",
+   "pick": "1X2: AWAY (2)",
+   "cuota": null,
+   "prob": 0.7190726905393356,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "Lillestrom",
+   "visitante": "Viktoria Plzen",
+   "partido": "Lillestrom vs Viktoria Plzen",
+   "mercado": "BTTS",
+   "pick": "BTTS: NO",
+   "cuota": null,
+   "prob": 0.5277326265955158,
+   "tier": "DESTACADO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "Lincoln Red Imps",
+   "visitante": "Hajduk Split",
+   "partido": "Lincoln Red Imps vs Hajduk Split",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7094699855040452,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "Mjällby AIF",
+   "visitante": "Borac Banja Luka",
+   "partido": "Mjällby AIF vs Borac Banja Luka",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7922939504147342,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "Monaco",
+   "visitante": "FC Nordsjælland",
+   "partido": "Monaco vs FC Nordsjælland",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.8736987182990014,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "NEC Nijmegen",
+   "visitante": "Omonia Nicosia",
+   "partido": "NEC Nijmegen vs Omonia Nicosia",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: UNDER",
+   "cuota": null,
+   "prob": 0.5155018266892477,
+   "tier": "DESTACADO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "Panathinaikos",
+   "visitante": "CSKA Sofia",
+   "partido": "Panathinaikos vs CSKA Sofia",
+   "mercado": "1X2",
+   "pick": "1X2: HOME (1)",
+   "cuota": null,
+   "prob": 0.6913496929440173,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "Real Sociedad",
+   "visitante": "Lyon",
+   "partido": "Real Sociedad vs Lyon",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8555218132212355,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "Red Star Belgrade",
+   "visitante": "Inter D'Escaldes",
+   "partido": "Red Star Belgrade vs Inter D'Escaldes",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.804467080291698,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "Riga FC",
+   "visitante": "Jablonec",
+   "partido": "Riga FC vs Jablonec",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6893147081362532,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "Sint-Truidense",
+   "visitante": "SK Brann",
+   "partido": "Sint-Truidense vs SK Brann",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8367697784334336,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "Sparta Prague",
+   "visitante": "AFC Bournemouth",
+   "partido": "Sparta Prague vs AFC Bournemouth",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8124139525744407,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "Sunderland",
+   "visitante": "Dinamo Zagreb",
+   "partido": "Sunderland vs Dinamo Zagreb",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8341828871842334,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UEL",
+   "liga_nombre": "Europa League",
+   "local": "Torreense",
+   "visitante": "Ararat-Armenia",
+   "partido": "Torreense vs Ararat-Armenia",
+   "mercado": "1X2",
+   "pick": "1X2: HOME (1)",
+   "cuota": null,
+   "prob": 0.79316251171086,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "futbol",
+   "liga": "UECL",
+   "liga_nombre": "Conference League",
+   "local": "Trabzonspor",
+   "visitante": "SC Freiburg",
+   "partido": "Trabzonspor vs SC Freiburg",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7518322097708052,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Anastasia Zakharova",
+   "visitante": "Vaishnavi Adkar",
+   "partido": "Anastasia Zakharova vs Vaishnavi Adkar",
+   "mercado": "HANDICAP JUEGOS",
+   "pick": "Vaishnavi Adkar +6.5",
+   "cuota": 1.69,
+   "prob": 0.6452,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Arthur Rinderknech",
+   "visitante": "Ben Shelton",
+   "partido": "Arthur Rinderknech vs Ben Shelton",
+   "mercado": "ML",
+   "pick": "Ben Shelton",
+   "cuota": 2.62,
+   "prob": 0.7208,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Arthur Rinderknech",
+   "visitante": "Ben Shelton",
+   "partido": "Arthur Rinderknech vs Ben Shelton",
+   "mercado": "SET1 JUEGOS",
+   "pick": "UNDER 9.5",
+   "cuota": 2.5,
+   "prob": 0.6118,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Bianca Andreescu",
+   "visitante": "Luisina Giovannini",
+   "partido": "Bianca Andreescu vs Luisina Giovannini",
+   "mercado": "ML",
+   "pick": "Bianca Andreescu",
+   "cuota": null,
+   "prob": 0.868,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Carlos Alcaraz",
+   "visitante": "Matteo Berrettini",
+   "partido": "Carlos Alcaraz vs Matteo Berrettini",
+   "mercado": "ML",
+   "pick": "Carlos Alcaraz",
+   "cuota": null,
+   "prob": 0.8176,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Carole Monnet",
+   "visitante": "Leyre Romero Gormaz",
+   "partido": "Carole Monnet vs Leyre Romero Gormaz",
+   "mercado": "ML",
+   "pick": "Leyre Romero Gormaz",
+   "cuota": null,
+   "prob": 0.5213,
+   "tier": "DESTACADO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Ignacio Buse",
+   "visitante": "Nuno Borges",
+   "partido": "Ignacio Buse vs Nuno Borges",
+   "mercado": "ML",
+   "pick": "Ignacio Buse",
+   "cuota": null,
+   "prob": 0.7486,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Lorenzo Musetti",
+   "visitante": "Luca Van Assche",
+   "partido": "Lorenzo Musetti vs Luca Van Assche",
+   "mercado": "ML",
+   "pick": "Lorenzo Musetti",
+   "cuota": 1.33,
+   "prob": 0.8523,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Lucrezia Stefanini",
+   "visitante": "Simona Waltert",
+   "partido": "Lucrezia Stefanini vs Simona Waltert",
+   "mercado": "HANDICAP JUEGOS",
+   "pick": "Simona Waltert +2.5",
+   "cuota": 1.97,
+   "prob": 0.6415,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Lucrezia Stefanini",
+   "visitante": "Simona Waltert",
+   "partido": "Lucrezia Stefanini vs Simona Waltert",
+   "mercado": "ML",
+   "pick": "Simona Waltert",
+   "cuota": 2.62,
+   "prob": 0.7182999999999999,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Magda Linette",
+   "visitante": "Moyuka Uchijima",
+   "partido": "Magda Linette vs Moyuka Uchijima",
+   "mercado": "HANDICAP JUEGOS",
+   "pick": "Magda Linette -1.5",
+   "cuota": 1.8,
+   "prob": 0.6091,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Magda Linette",
+   "visitante": "Moyuka Uchijima",
+   "partido": "Magda Linette vs Moyuka Uchijima",
+   "mercado": "ML",
+   "pick": "Magda Linette",
+   "cuota": 1.69,
+   "prob": 0.8568,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Mai Hontama",
+   "visitante": "Zhibek Kulambayeva",
+   "partido": "Mai Hontama vs Zhibek Kulambayeva",
+   "mercado": "HANDICAP JUEGOS",
+   "pick": "Zhibek Kulambayeva +5.5",
+   "cuota": 1.87,
+   "prob": 0.6098,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Mary Stoiana",
+   "visitante": "Sorana Cirstea",
+   "partido": "Mary Stoiana vs Sorana Cirstea",
+   "mercado": "ML",
+   "pick": "Sorana Cirstea",
+   "cuota": 1.22,
+   "prob": 0.8739,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Mika Stojsavljevic",
+   "visitante": "Zeynep Sonmez",
+   "partido": "Mika Stojsavljevic vs Zeynep Sonmez",
+   "mercado": "HANDICAP JUEGOS",
+   "pick": "Mika Stojsavljevic +4.5",
+   "cuota": 1.97,
+   "prob": 0.6683,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Quentin Halys",
+   "visitante": "Tommy Paul",
+   "partido": "Quentin Halys vs Tommy Paul",
+   "mercado": "SET1 JUEGOS",
+   "pick": "UNDER 9.5",
+   "cuota": 2.5,
+   "prob": 0.6437999999999999,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-05",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Rinky Hijikata",
+   "visitante": "Tomas Martin Etcheverry",
+   "partido": "Rinky Hijikata vs Tomas Martin Etcheverry",
+   "mercado": "ML",
+   "pick": "Tomas Martin Etcheverry",
+   "cuota": null,
+   "prob": 0.6212,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
   {
    "fecha": "2026-11-04",
    "deporte": "amfut",
@@ -93,9 +843,39 @@
    "partido": "Atlanta Hawks @ Washington Wizards",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Atlanta Hawks)",
-   "cuota": null,
+   "cuota": 1.787,
    "prob": 0.7777,
    "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Washington Wizards",
+   "visitante": "Atlanta Hawks",
+   "partido": "Atlanta Hawks @ Washington Wizards",
+   "mercado": "Spread",
+   "pick": "SPREAD: Atlanta Hawks -1.5",
+   "cuota": 1.909,
+   "prob": 0.7077,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Washington Wizards",
+   "visitante": "Atlanta Hawks",
+   "partido": "Atlanta Hawks @ Washington Wizards",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 229.5",
+   "cuota": 1.909,
+   "prob": 0.6512,
+   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -108,7 +888,7 @@
    "partido": "Charlotte Hornets @ Brooklyn Nets",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Charlotte Hornets)",
-   "cuota": 1.735,
+   "cuota": 1.588,
    "prob": 0.839,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -122,9 +902,9 @@
    "visitante": "Charlotte Hornets",
    "partido": "Charlotte Hornets @ Brooklyn Nets",
    "mercado": "Spread",
-   "pick": "SPREAD: Charlotte Hornets -2.5",
-   "cuota": 1.909,
-   "prob": 0.7373,
+   "pick": "SPREAD: Charlotte Hornets -3.5",
+   "cuota": 1.87,
+   "prob": 0.7166,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -137,9 +917,9 @@
    "visitante": "Charlotte Hornets",
    "partido": "Charlotte Hornets @ Brooklyn Nets",
    "mercado": "Totales",
-   "pick": "TOTAL: OVER 214.5",
+   "pick": "TOTAL: OVER 213.5",
    "cuota": 1.909,
-   "prob": 0.744,
+   "prob": 0.757,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -153,9 +933,24 @@
    "partido": "Chicago Bulls @ New York Knicks",
    "mercado": "Moneyline",
    "pick": "ML: HOME (New York Knicks)",
-   "cuota": null,
+   "cuota": 1.168,
    "prob": 0.9248,
    "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "New York Knicks",
+   "visitante": "Chicago Bulls",
+   "partido": "Chicago Bulls @ New York Knicks",
+   "mercado": "Spread",
+   "pick": "SPREAD: New York Knicks -11.5",
+   "cuota": 1.855,
+   "prob": 0.698,
+   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -168,7 +963,7 @@
    "partido": "Cleveland Cavaliers @ Oklahoma City Thunder",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Oklahoma City Thunder)",
-   "cuota": 1.725,
+   "cuota": 1.621,
    "prob": 0.6769,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
@@ -182,10 +977,10 @@
    "visitante": "Cleveland Cavaliers",
    "partido": "Cleveland Cavaliers @ Oklahoma City Thunder",
    "mercado": "Spread",
-   "pick": "SPREAD: Oklahoma City Thunder -2.5",
-   "cuota": 1.87,
-   "prob": 0.6699,
-   "tier": "MUY BUENO",
+   "pick": "SPREAD: Oklahoma City Thunder -3.5",
+   "cuota": 1.935,
+   "prob": 0.6471,
+   "tier": "BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -193,13 +988,13 @@
    "deporte": "basquet",
    "liga": "NBA",
    "liga_nombre": "NBA",
-   "local": "Oklahoma City Thunder",
-   "visitante": "Cleveland Cavaliers",
-   "partido": "Cleveland Cavaliers @ Oklahoma City Thunder",
+   "local": "San Antonio Spurs",
+   "visitante": "Dallas Mavericks",
+   "partido": "Dallas Mavericks @ San Antonio Spurs",
    "mercado": "Totales",
-   "pick": "TOTAL: UNDER 228.5",
-   "cuota": 1.909,
-   "prob": 0.6239,
+   "pick": "TOTAL: OVER 226.5",
+   "cuota": 1.87,
+   "prob": 0.6052,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -213,9 +1008,39 @@
    "partido": "Indiana Pacers @ Memphis Grizzlies",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Indiana Pacers)",
-   "cuota": null,
+   "cuota": 2.86,
    "prob": 0.715,
    "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Memphis Grizzlies",
+   "visitante": "Indiana Pacers",
+   "partido": "Indiana Pacers @ Memphis Grizzlies",
+   "mercado": "Spread",
+   "pick": "SPREAD: Indiana Pacers +5.5",
+   "cuota": 1.962,
+   "prob": 0.8435,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Memphis Grizzlies",
+   "visitante": "Indiana Pacers",
+   "partido": "Indiana Pacers @ Memphis Grizzlies",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 228.5",
+   "cuota": 1.893,
+   "prob": 0.6613,
+   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -226,11 +1051,26 @@
    "local": "Sacramento Kings",
    "visitante": "Los Angeles Lakers",
    "partido": "Los Angeles Lakers @ Sacramento Kings",
-   "mercado": "Moneyline",
-   "pick": "ML: AWAY (Los Angeles Lakers)",
-   "cuota": null,
-   "prob": 0.6497,
+   "mercado": "Spread",
+   "pick": "SPREAD: Sacramento Kings +12.5",
+   "cuota": 1.87,
+   "prob": 0.6208,
    "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "LA Clippers",
+   "visitante": "Miami Heat",
+   "partido": "Miami Heat @ LA Clippers",
+   "mercado": "Spread",
+   "pick": "SPREAD: LA Clippers +5.5",
+   "cuota": 1.952,
+   "prob": 0.7128,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -241,11 +1081,11 @@
    "local": "Boston Celtics",
    "visitante": "Milwaukee Bucks",
    "partido": "Milwaukee Bucks @ Boston Celtics",
-   "mercado": "Moneyline",
-   "pick": "ML: HOME (Boston Celtics)",
-   "cuota": null,
-   "prob": 0.8239,
-   "tier": "TOP PICK",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 221.5",
+   "cuota": 1.87,
+   "prob": 0.6033,
+   "tier": "BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -256,10 +1096,10 @@
    "local": "Houston Rockets",
    "visitante": "Minnesota Timberwolves",
    "partido": "Minnesota Timberwolves @ Houston Rockets",
-   "mercado": "Spread",
-   "pick": "SPREAD: Minnesota Timberwolves +9.5",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 218.5",
    "cuota": 1.87,
-   "prob": 0.6105,
+   "prob": 0.6042,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -273,7 +1113,7 @@
    "partido": "Philadelphia 76ers @ Detroit Pistons",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Detroit Pistons)",
-   "cuota": 1.84,
+   "cuota": 1.704,
    "prob": 0.7188,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -287,9 +1127,9 @@
    "visitante": "Philadelphia 76ers",
    "partido": "Philadelphia 76ers @ Detroit Pistons",
    "mercado": "Spread",
-   "pick": "SPREAD: Detroit Pistons -1.5",
-   "cuota": 1.909,
-   "prob": 0.6869,
+   "pick": "SPREAD: Detroit Pistons -2.5",
+   "cuota": 1.877,
+   "prob": 0.6646,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -301,11 +1141,11 @@
    "local": "New Orleans Pelicans",
    "visitante": "Utah Jazz",
    "partido": "Utah Jazz @ New Orleans Pelicans",
-   "mercado": "Moneyline",
-   "pick": "ML: HOME (New Orleans Pelicans)",
-   "cuota": null,
-   "prob": 0.6203,
-   "tier": "BUENO",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 231.5",
+   "cuota": 1.926,
+   "prob": 0.7304,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -319,9 +1159,9 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8260255263701168,
+   "prob": 0.8257494376133833,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -334,9 +1174,9 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.7598815985855155,
+   "prob": 0.7598591837330861,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -349,9 +1189,9 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8264326168294902,
+   "prob": 0.8260819532438812,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -364,9 +1204,9 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.7654041771958633,
+   "prob": 0.7654303614386514,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -381,7 +1221,7 @@
    "cuota": null,
    "prob": 0.6714302152466074,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -394,9 +1234,9 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.6557171128228226,
+   "prob": 0.655206039044395,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -409,9 +1249,9 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8013366716829373,
+   "prob": 0.8009613304944061,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -424,9 +1264,9 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.6508151813743827,
+   "prob": 0.6503108338765513,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -439,9 +1279,9 @@
    "mercado": "1X2",
    "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.8117823356887716,
+   "prob": 0.8116458072559923,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -454,9 +1294,9 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8103455724085817,
+   "prob": 0.8103335207040754,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -469,9 +1309,9 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.7413536207170968,
+   "prob": 0.7411173807027864,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -484,9 +1324,9 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.7508252766060007,
+   "prob": 0.7508380868588282,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -499,7 +1339,22 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: X2",
    "cuota": null,
-   "prob": 0.9215843410180327,
+   "prob": 0.9215571375208945,
+   "tier": "MUY BUENO",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Sporting Club Baie-Mahault",
+   "visitante": "Siroco Les Abymes",
+   "partido": "Sporting Club Baie-Mahault vs Siroco Les Abymes",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8407226323870995,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -516,7 +1371,7 @@
    "cuota": null,
    "prob": 0.865057966298732,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -529,9 +1384,9 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.7247297202065083,
+   "prob": 0.724736135641846,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -544,9 +1399,54 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.7196080916852854,
+   "prob": 0.719258616000814,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Alex De Minaur",
+   "visitante": "Tomas Martin Etcheverry",
+   "partido": "Alex De Minaur vs Tomas Martin Etcheverry",
+   "mercado": "SET1 JUEGOS",
+   "pick": "UNDER 9.5",
+   "cuota": 1.97,
+   "prob": 0.6800999999999999,
+   "tier": "MUY BUENO",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Alex Michelsen",
+   "visitante": "Carlos Alcaraz",
+   "partido": "Alex Michelsen vs Carlos Alcaraz",
+   "mercado": "ML",
+   "pick": "Carlos Alcaraz",
+   "cuota": null,
+   "prob": 0.8346,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Alex Molcan",
+   "visitante": "Taylor Fritz",
+   "partido": "Alex Molcan vs Taylor Fritz",
+   "mercado": "SET1 JUEGOS",
+   "pick": "UNDER 9.5",
+   "cuota": 1.8,
+   "prob": 0.6381,
+   "tier": "BUENO",
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -561,7 +1461,7 @@
    "cuota": 1.37,
    "prob": 0.7597,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -576,7 +1476,22 @@
    "cuota": 2.37,
    "prob": 0.6658999999999999,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Aliaksandra Sasnovich",
+   "visitante": "Talia Gibson",
+   "partido": "Aliaksandra Sasnovich vs Talia Gibson",
+   "mercado": "HANDICAP JUEGOS",
+   "pick": "Talia Gibson +3.5",
+   "cuota": 1.77,
+   "prob": 0.6279,
+   "tier": "BUENO",
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -588,10 +1503,25 @@
    "partido": "Aliaksandra Sasnovich vs Talia Gibson",
    "mercado": "ML",
    "pick": "Talia Gibson",
-   "cuota": null,
+   "cuota": 2.5,
    "prob": 0.633,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Alice Tubello",
+   "visitante": "Marina Bassols Ribera",
+   "partido": "Alice Tubello vs Marina Bassols Ribera",
+   "mercado": "ML",
+   "pick": "Alice Tubello",
+   "cuota": null,
+   "prob": 0.6402,
+   "tier": "BUENO",
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -606,22 +1536,7 @@
    "cuota": 1.77,
    "prob": 0.7318,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-04",
-   "deporte": "tenis",
-   "liga": "WTA",
-   "liga_nombre": "WTA Tour",
-   "local": "Anastasia Zakharova",
-   "visitante": "Vaishnavi Adkar",
-   "partido": "Anastasia Zakharova vs Vaishnavi Adkar",
-   "mercado": "ML",
-   "pick": "Anastasia Zakharova",
-   "cuota": null,
-   "prob": 0.7821,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -633,10 +1548,10 @@
    "partido": "Arthur Fils vs Tomas Machac",
    "mercado": "ML",
    "pick": "Arthur Fils",
-   "cuota": 1.41,
+   "cuota": 1.5,
    "prob": 0.8405,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -648,10 +1563,25 @@
    "partido": "Arthur Fils vs Tomas Machac",
    "mercado": "SET1 JUEGOS",
    "pick": "UNDER 9.5",
-   "cuota": 1.87,
+   "cuota": 1.97,
    "prob": 0.6723,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Arthur Rinderknech",
+   "visitante": "Mattia Bellucci",
+   "partido": "Arthur Rinderknech vs Mattia Bellucci",
+   "mercado": "HANDICAP JUEGOS",
+   "pick": "Arthur Rinderknech +1.5",
+   "cuota": 1.8,
+   "prob": 0.7306,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -663,10 +1593,40 @@
    "partido": "Arthur Rinderknech vs Mattia Bellucci",
    "mercado": "ML",
    "pick": "Arthur Rinderknech",
-   "cuota": null,
+   "cuota": 2.2,
    "prob": 0.8475,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Bianca Andreescu",
+   "visitante": "Jazmin Ortenzi",
+   "partido": "Bianca Andreescu vs Jazmin Ortenzi",
+   "mercado": "ML",
+   "pick": "Jazmin Ortenzi",
+   "cuota": null,
+   "prob": 0.5195000000000001,
+   "tier": "DESTACADO",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Carole Monnet",
+   "visitante": "Laura Samson",
+   "partido": "Carole Monnet vs Laura Samson",
+   "mercado": "ML",
+   "pick": "Laura Samson",
+   "cuota": null,
+   "prob": 0.8145,
+   "tier": "TOP PICK",
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -681,7 +1641,7 @@
    "cuota": 1.97,
    "prob": 0.6805,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -696,7 +1656,7 @@
    "cuota": 1.54,
    "prob": 0.8091,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -708,10 +1668,10 @@
    "partido": "Daniil Medvedev vs Ignacio Buse",
    "mercado": "HANDICAP JUEGOS",
    "pick": "Ignacio Buse +4.5",
-   "cuota": 1.8,
+   "cuota": 2.1,
    "prob": 0.6731,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -723,25 +1683,40 @@
    "partido": "Daniil Medvedev vs Ignacio Buse",
    "mercado": "SET1 JUEGOS",
    "pick": "UNDER 9.5",
-   "cuota": 1.77,
+   "cuota": 1.69,
    "prob": 0.6635,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
    "deporte": "tenis",
    "liga": "WTA",
    "liga_nombre": "WTA Tour",
-   "local": "Janice Tjen",
-   "visitante": "Joanna Garland",
-   "partido": "Janice Tjen vs Joanna Garland",
+   "local": "Despina Papamichail",
+   "visitante": "Renata Zarazua",
+   "partido": "Despina Papamichail vs Renata Zarazua",
    "mercado": "ML",
-   "pick": "Janice Tjen",
+   "pick": "Renata Zarazua",
    "cuota": null,
-   "prob": 0.5461,
+   "prob": 0.5169,
    "tier": "DESTACADO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Frances Tiafoe",
+   "visitante": "Quentin Halys",
+   "partido": "Frances Tiafoe vs Quentin Halys",
+   "mercado": "SET1 JUEGOS",
+   "pick": "UNDER 9.5",
+   "cuota": 2.62,
+   "prob": 0.6632,
+   "tier": "MUY BUENO",
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -751,12 +1726,12 @@
    "local": "Karen Khachanov",
    "visitante": "Nuno Borges",
    "partido": "Karen Khachanov vs Nuno Borges",
-   "mercado": "ML",
-   "pick": "Karen Khachanov",
-   "cuota": null,
-   "prob": 0.7145,
+   "mercado": "SET1 JUEGOS",
+   "pick": "UNDER 9.5",
+   "cuota": 2.25,
+   "prob": 0.6659999999999999,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -768,10 +1743,10 @@
    "partido": "Learner Tien vs Luca Van Assche",
    "mercado": "ML",
    "pick": "Learner Tien",
-   "cuota": null,
+   "cuota": 1.41,
    "prob": 0.856,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -786,7 +1761,22 @@
    "cuota": 1.77,
    "prob": 0.6073,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Maaya Rajeshwaran Revathi",
+   "visitante": "Weronika Falkowska",
+   "partido": "Maaya Rajeshwaran Revathi vs Weronika Falkowska",
+   "mercado": "TOTAL JUEGOS",
+   "pick": "UNDER 21.5",
+   "cuota": 1.8,
+   "prob": 0.6265000000000001,
+   "tier": "BUENO",
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -798,10 +1788,25 @@
    "partido": "Maria Sakkari vs Maya Joint",
    "mercado": "ML",
    "pick": "Maria Sakkari",
-   "cuota": null,
+   "cuota": 1.47,
    "prob": 0.7334,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Matteo Berrettini",
+   "visitante": "Ugo Humbert",
+   "partido": "Matteo Berrettini vs Ugo Humbert",
+   "mercado": "SET1 JUEGOS",
+   "pick": "UNDER 9.5",
+   "cuota": 2.75,
+   "prob": 0.6591,
+   "tier": "BUENO",
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -813,10 +1818,40 @@
    "partido": "Noma Noha Akugue vs Wozuko Mdlulwa",
    "mercado": "HANDICAP JUEGOS",
    "pick": "Wozuko Mdlulwa +7.5",
-   "cuota": 1.63,
+   "cuota": 1.87,
    "prob": 0.686,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Novak Djokovic",
+   "visitante": "Rinky Hijikata",
+   "partido": "Novak Djokovic vs Rinky Hijikata",
+   "mercado": "ML",
+   "pick": "Novak Djokovic",
+   "cuota": 1.22,
+   "prob": 0.8622,
+   "tier": "TOP PICK",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-04",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Novak Djokovic",
+   "visitante": "Rinky Hijikata",
+   "partido": "Novak Djokovic vs Rinky Hijikata",
+   "mercado": "SET1 JUEGOS",
+   "pick": "UNDER 9.5",
+   "cuota": 1.97,
+   "prob": 0.6692,
+   "tier": "MUY BUENO",
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -861,7 +1896,7 @@
    "cuota": null,
    "prob": 0.6804591317792223,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -876,7 +1911,7 @@
    "cuota": null,
    "prob": 0.8290403089529474,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -891,7 +1926,7 @@
    "cuota": null,
    "prob": 0.7797213659986499,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -906,7 +1941,7 @@
    "cuota": null,
    "prob": 0.7048908255798849,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -921,7 +1956,7 @@
    "cuota": null,
    "prob": 0.8550465762569168,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -936,7 +1971,7 @@
    "cuota": null,
    "prob": 0.7341792296910978,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -951,7 +1986,7 @@
    "cuota": null,
    "prob": 0.8222977518203962,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -966,7 +2001,7 @@
    "cuota": null,
    "prob": 0.8505870927900029,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -981,7 +2016,7 @@
    "cuota": null,
    "prob": 0.6791854030801738,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -996,7 +2031,7 @@
    "cuota": null,
    "prob": 0.8183236644067349,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -1011,7 +2046,7 @@
    "cuota": null,
    "prob": 0.6970150743992605,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1026,7 +2061,7 @@
    "cuota": 1.87,
    "prob": 0.6174,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1041,7 +2076,7 @@
    "cuota": 2.2,
    "prob": 0.6615,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -1056,7 +2091,7 @@
    "cuota": 1.8,
    "prob": 0.6088,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -1071,7 +2106,7 @@
    "cuota": 1.8,
    "prob": 0.7732,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -1086,7 +2121,7 @@
    "cuota": null,
    "prob": 0.8222,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1116,7 +2151,7 @@
    "cuota": 1.37,
    "prob": 0.8687,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1131,7 +2166,7 @@
    "cuota": 2.2,
    "prob": 0.6381,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1146,7 +2181,7 @@
    "cuota": 1.37,
    "prob": 0.8025,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1161,7 +2196,7 @@
    "cuota": 1.87,
    "prob": 0.6745,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1176,7 +2211,7 @@
    "cuota": 2.62,
    "prob": 0.7262,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1191,7 +2226,7 @@
    "cuota": 2.1,
    "prob": 0.6531,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1206,7 +2241,7 @@
    "cuota": null,
    "prob": 0.6676,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1236,7 +2271,7 @@
    "cuota": 1.77,
    "prob": 0.6063,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -1251,7 +2286,7 @@
    "cuota": 1.63,
    "prob": 0.8549,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1266,7 +2301,7 @@
    "cuota": 2.1,
    "prob": 0.6462,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -1281,7 +2316,7 @@
    "cuota": 1.97,
    "prob": 0.709,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1296,7 +2331,7 @@
    "cuota": null,
    "prob": 0.8894,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -1311,7 +2346,7 @@
    "cuota": 1.69,
    "prob": 0.6879,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -1326,7 +2361,7 @@
    "cuota": 1.8,
    "prob": 0.6325,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1341,7 +2376,7 @@
    "cuota": 1.8,
    "prob": 0.6618,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -1356,7 +2391,7 @@
    "cuota": 2.75,
    "prob": 0.5823,
    "tier": "DESTACADO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-03",
@@ -1371,7 +2406,7 @@
    "cuota": null,
    "prob": 0.8347,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-03",
@@ -1386,7 +2421,7 @@
    "cuota": 1.69,
    "prob": 0.6923,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-02",
