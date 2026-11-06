@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-05T15:20:52",
+ "generated_at": "2026-11-05T18:07:08",
  "days": 30,
  "solo_verificables": true,
  "total": {
-  "ganados": 344,
-  "perdidos": 248,
+  "ganados": 370,
+  "perdidos": 262,
   "anulados": 0,
-  "pendientes": 96,
-  "n": 688,
-  "win_pct": 0.581
+  "pendientes": 57,
+  "n": 689,
+  "win_pct": 0.585
  },
  "by_sport": {
   "amfut": {
@@ -20,12 +20,12 @@
    "win_pct": 0.556
   },
   "basquet": {
-   "ganados": 48,
-   "perdidos": 66,
+   "ganados": 61,
+   "perdidos": 75,
    "anulados": 0,
-   "pendientes": 29,
-   "n": 143,
-   "win_pct": 0.421
+   "pendientes": 8,
+   "n": 144,
+   "win_pct": 0.449
   },
   "beisbol": {
    "ganados": 7,
@@ -36,20 +36,20 @@
    "win_pct": 0.778
   },
   "futbol": {
-   "ganados": 145,
-   "perdidos": 61,
+   "ganados": 157,
+   "perdidos": 66,
    "anulados": 0,
-   "pendientes": 31,
+   "pendientes": 14,
    "n": 237,
    "win_pct": 0.704
   },
   "tenis": {
-   "ganados": 119,
+   "ganados": 120,
    "perdidos": 99,
    "anulados": 0,
-   "pendientes": 27,
+   "pendientes": 26,
    "n": 245,
-   "win_pct": 0.546
+   "win_pct": 0.548
   }
  },
  "picks": [
@@ -595,6 +595,21 @@
   },
   {
    "fecha": "2026-11-05",
+   "deporte": "basquet",
+   "liga": "EUR",
+   "liga_nombre": "Euroliga",
+   "local": "ARMANI OLIMPIA MILAN",
+   "visitante": "VALENCIA BASKET",
+   "partido": "VALENCIA BASKET @ ARMANI OLIMPIA MILAN",
+   "mercado": "Moneyline",
+   "pick": "ML: AWAY (VALENCIA BASKET)",
+   "cuota": null,
+   "prob": 0.7298,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-05",
    "deporte": "futbol",
    "liga": "UEL",
    "liga_nombre": "Europa League",
@@ -606,7 +621,7 @@
    "cuota": null,
    "prob": 0.8409135479699965,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -621,7 +636,7 @@
    "cuota": null,
    "prob": 0.7613135426291442,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-05",
@@ -636,7 +651,7 @@
    "cuota": null,
    "prob": 0.9209053454052742,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -651,7 +666,7 @@
    "cuota": null,
    "prob": 0.5089832202557433,
    "tier": "DESTACADO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-05",
@@ -666,7 +681,7 @@
    "cuota": null,
    "prob": 0.6004841700787202,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-05",
@@ -681,7 +696,7 @@
    "cuota": null,
    "prob": 0.7148003017652431,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -696,7 +711,7 @@
    "cuota": null,
    "prob": 0.7171507892003344,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -711,7 +726,7 @@
    "cuota": null,
    "prob": 0.8719248283623331,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -726,7 +741,7 @@
    "cuota": null,
    "prob": 0.6782524994965129,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -741,7 +756,7 @@
    "cuota": null,
    "prob": 0.7190726905393356,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -756,7 +771,7 @@
    "cuota": null,
    "prob": 0.8736987182990014,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -771,7 +786,7 @@
    "cuota": null,
    "prob": 0.8945424458131745,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -786,7 +801,7 @@
    "cuota": null,
    "prob": 0.6893147081362532,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-05",
@@ -801,7 +816,7 @@
    "cuota": null,
    "prob": 0.8367697784334336,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -816,7 +831,7 @@
    "cuota": null,
    "prob": 0.8357347379728141,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -831,7 +846,7 @@
    "cuota": null,
    "prob": 0.7936932521942272,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -846,7 +861,7 @@
    "cuota": null,
    "prob": 0.868,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-05",
@@ -906,7 +921,7 @@
    "cuota": 1.787,
    "prob": 0.7777,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -921,7 +936,7 @@
    "cuota": 1.909,
    "prob": 0.7077,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -936,7 +951,7 @@
    "cuota": 1.909,
    "prob": 0.6512,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -951,7 +966,7 @@
    "cuota": 1.588,
    "prob": 0.839,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -966,7 +981,7 @@
    "cuota": 1.87,
    "prob": 0.7166,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -981,7 +996,7 @@
    "cuota": 1.909,
    "prob": 0.757,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -996,7 +1011,7 @@
    "cuota": 1.168,
    "prob": 0.9248,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -1011,7 +1026,7 @@
    "cuota": 1.855,
    "prob": 0.698,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -1026,7 +1041,7 @@
    "cuota": 1.621,
    "prob": 0.6769,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -1041,7 +1056,7 @@
    "cuota": 1.935,
    "prob": 0.6471,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -1056,7 +1071,7 @@
    "cuota": 1.87,
    "prob": 0.6052,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -1071,7 +1086,7 @@
    "cuota": 2.86,
    "prob": 0.715,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -1086,7 +1101,7 @@
    "cuota": 1.962,
    "prob": 0.8435,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -1101,7 +1116,7 @@
    "cuota": 1.893,
    "prob": 0.6613,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -1116,7 +1131,7 @@
    "cuota": 1.87,
    "prob": 0.6208,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -1131,7 +1146,7 @@
    "cuota": 1.952,
    "prob": 0.7128,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -1146,7 +1161,7 @@
    "cuota": 1.87,
    "prob": 0.6033,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -1161,7 +1176,7 @@
    "cuota": 1.87,
    "prob": 0.6042,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -1176,7 +1191,7 @@
    "cuota": 1.704,
    "prob": 0.7188,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -1191,7 +1206,7 @@
    "cuota": 1.877,
    "prob": 0.6646,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
@@ -1206,7 +1221,7 @@
    "cuota": 1.926,
    "prob": 0.7304,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-04",
@@ -1416,7 +1431,7 @@
    "cuota": null,
    "prob": 0.8407226323870995,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-04",
