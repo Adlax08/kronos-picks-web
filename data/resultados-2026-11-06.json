@@ -1,13 +1,13 @@
 {
  "day": "2026-11-06",
- "generated_at": "2026-11-05T18:07:08",
+ "generated_at": "2026-11-06T18:23:49",
  "total": {
-  "ganados": 0,
-  "perdidos": 0,
+  "ganados": 13,
+  "perdidos": 7,
   "anulados": 0,
-  "pendientes": 33,
-  "n": 33,
-  "win_pct": null
+  "pendientes": 24,
+  "n": 44,
+  "win_pct": 0.65
  },
  "picks": [
   {
@@ -20,10 +20,70 @@
    "partido": "Virginia Tech Hokies @ SMU Mustangs",
    "mercado": "Moneyline",
    "pick": "ML: HOME (SMU Mustangs)",
-   "cuota": 1.444,
+   "cuota": 1.459,
    "prob": 0.7473,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Charlotte Hornets",
+   "visitante": "Boston Celtics",
+   "partido": "Boston Celtics @ Charlotte Hornets",
+   "mercado": "Spread",
+   "pick": "SPREAD: Charlotte Hornets +10.5",
+   "cuota": 1.926,
+   "prob": 0.7212,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Charlotte Hornets",
+   "visitante": "Boston Celtics",
+   "partido": "Boston Celtics @ Charlotte Hornets",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 209.5",
+   "cuota": 1.935,
+   "prob": 0.7507,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "EUR",
+   "liga_nombre": "Euroliga",
+   "local": "OLYMPIACOS PIRAEUS",
+   "visitante": "CRVENA ZVEZDA MERIDIANBET BELGRADE",
+   "partido": "CRVENA ZVEZDA MERIDIANBET BELGRADE @ OLYMPIACOS PIRAEUS",
+   "mercado": "Moneyline",
+   "pick": "ML: HOME (OLYMPIACOS PIRAEUS)",
+   "cuota": null,
+   "prob": 0.7541,
+   "tier": "TOP PICK",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "EUR",
+   "liga_nombre": "Euroliga",
+   "local": "PARTIZAN MOZZART BET BELGRADE",
+   "visitante": "MACCABI RAPYD TEL AVIV",
+   "partido": "MACCABI RAPYD TEL AVIV @ PARTIZAN MOZZART BET BELGRADE",
+   "mercado": "Moneyline",
+   "pick": "ML: HOME (PARTIZAN MOZZART BET BELGRADE)",
+   "cuota": null,
+   "prob": 0.744,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -35,7 +95,7 @@
    "partido": "Minnesota Timberwolves @ New Orleans Pelicans",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Minnesota Timberwolves)",
-   "cuota": null,
+   "cuota": 1.602,
    "prob": 0.6572,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
@@ -50,8 +110,38 @@
    "partido": "Oklahoma City Thunder @ Memphis Grizzlies",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Oklahoma City Thunder)",
-   "cuota": null,
+   "cuota": 1.556,
    "prob": 0.8608,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Memphis Grizzlies",
+   "visitante": "Oklahoma City Thunder",
+   "partido": "Oklahoma City Thunder @ Memphis Grizzlies",
+   "mercado": "Spread",
+   "pick": "SPREAD: Oklahoma City Thunder -4.5",
+   "cuota": 1.962,
+   "prob": 0.7835,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Memphis Grizzlies",
+   "visitante": "Oklahoma City Thunder",
+   "partido": "Oklahoma City Thunder @ Memphis Grizzlies",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 223.5",
+   "cuota": 1.87,
+   "prob": 0.7245,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -65,9 +155,54 @@
    "partido": "Philadelphia 76ers @ Cleveland Cavaliers",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Cleveland Cavaliers)",
-   "cuota": null,
+   "cuota": 2.28,
    "prob": 0.6471,
    "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Cleveland Cavaliers",
+   "visitante": "Philadelphia 76ers",
+   "partido": "Philadelphia 76ers @ Cleveland Cavaliers",
+   "mercado": "Spread",
+   "pick": "SPREAD: Cleveland Cavaliers +2.5",
+   "cuota": 1.952,
+   "prob": 0.7016,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Cleveland Cavaliers",
+   "visitante": "Philadelphia 76ers",
+   "partido": "Philadelphia 76ers @ Cleveland Cavaliers",
+   "mercado": "Totales",
+   "pick": "TOTAL: UNDER 232.5",
+   "cuota": 1.909,
+   "prob": 0.7017,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Los Angeles Lakers",
+   "visitante": "Portland Trail Blazers",
+   "partido": "Portland Trail Blazers @ Los Angeles Lakers",
+   "mercado": "Totales",
+   "pick": "TOTAL: UNDER 231.5",
+   "cuota": 1.926,
+   "prob": 0.6682,
+   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -78,10 +213,10 @@
    "local": "Sacramento Kings",
    "visitante": "San Antonio Spurs",
    "partido": "San Antonio Spurs @ Sacramento Kings",
-   "mercado": "Moneyline",
-   "pick": "ML: AWAY (San Antonio Spurs)",
-   "cuota": null,
-   "prob": 0.7405,
+   "mercado": "Spread",
+   "pick": "SPREAD: Sacramento Kings +17.5",
+   "cuota": 1.909,
+   "prob": 0.727,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -95,9 +230,24 @@
    "partido": "Toronto Raptors @ Milwaukee Bucks",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Toronto Raptors)",
-   "cuota": null,
+   "cuota": 1.617,
    "prob": 0.7236,
    "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Milwaukee Bucks",
+   "visitante": "Toronto Raptors",
+   "partido": "Toronto Raptors @ Milwaukee Bucks",
+   "mercado": "Spread",
+   "pick": "SPREAD: Toronto Raptors -3.5",
+   "cuota": 1.87,
+   "prob": 0.6335,
+   "tier": "BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -108,11 +258,11 @@
    "local": "Dallas Mavericks",
    "visitante": "Utah Jazz",
    "partido": "Utah Jazz @ Dallas Mavericks",
-   "mercado": "Moneyline",
-   "pick": "ML: HOME (Dallas Mavericks)",
-   "cuota": null,
-   "prob": 0.6761,
-   "tier": "MUY BUENO",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 225.5",
+   "cuota": 1.909,
+   "prob": 0.7946,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -125,9 +275,39 @@
    "partido": "Washington Wizards @ Atlanta Hawks",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Atlanta Hawks)",
-   "cuota": null,
+   "cuota": 1.324,
    "prob": 0.8046,
    "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Atlanta Hawks",
+   "visitante": "Washington Wizards",
+   "partido": "Washington Wizards @ Atlanta Hawks",
+   "mercado": "Spread",
+   "pick": "SPREAD: Atlanta Hawks -8.5",
+   "cuota": 1.935,
+   "prob": 0.6044,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-06",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Atlanta Hawks",
+   "visitante": "Washington Wizards",
+   "partido": "Washington Wizards @ Atlanta Hawks",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 227.5",
+   "cuota": 1.893,
+   "prob": 0.6612,
+   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -173,7 +353,7 @@
    "cuota": null,
    "prob": 0.7520742735527508,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -188,7 +368,7 @@
    "cuota": null,
    "prob": 0.710854143819081,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -203,7 +383,7 @@
    "cuota": null,
    "prob": 0.7637044688368397,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -218,7 +398,7 @@
    "cuota": null,
    "prob": 0.6986718091166684,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -263,7 +443,7 @@
    "cuota": null,
    "prob": 0.8072566686569377,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -278,7 +458,7 @@
    "cuota": null,
    "prob": 0.8270194720944433,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -293,7 +473,7 @@
    "cuota": null,
    "prob": 0.8418751127908294,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -308,7 +488,7 @@
    "cuota": null,
    "prob": 0.7905972017262326,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -323,7 +503,7 @@
    "cuota": null,
    "prob": 0.6684240285160661,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -338,7 +518,7 @@
    "cuota": 1.97,
    "prob": 0.6765,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -353,20 +533,20 @@
    "cuota": 1.63,
    "prob": 0.76,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
    "deporte": "tenis",
    "liga": "WTA",
    "liga_nombre": "WTA Tour",
-   "local": "Anastasia Zakharova",
-   "visitante": "Lucrezia Stefanini",
-   "partido": "Anastasia Zakharova vs Lucrezia Stefanini",
+   "local": "Alice Tubello",
+   "visitante": "Bianca Andreescu",
+   "partido": "Alice Tubello vs Bianca Andreescu",
    "mercado": "HANDICAP JUEGOS",
-   "pick": "Anastasia Zakharova +1.5",
-   "cuota": 1.8,
-   "prob": 0.6623,
+   "pick": "Alice Tubello +4.5",
+   "cuota": 1.77,
+   "prob": 0.6641,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -380,24 +560,9 @@
    "partido": "Anastasia Zakharova vs Lucrezia Stefanini",
    "mercado": "ML",
    "pick": "Anastasia Zakharova",
-   "cuota": 1.97,
+   "cuota": null,
    "prob": 0.7117,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-06",
-   "deporte": "tenis",
-   "liga": "WTA",
-   "liga_nombre": "WTA Tour",
-   "local": "Anna Blinkova",
-   "visitante": "Yasmine Kabbaj",
-   "partido": "Anna Blinkova vs Yasmine Kabbaj",
-   "mercado": "HANDICAP JUEGOS",
-   "pick": "Yasmine Kabbaj +6.5",
-   "cuota": 1.8,
-   "prob": 0.7261,
-   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -413,7 +578,7 @@
    "cuota": 2.75,
    "prob": 0.6209,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -428,7 +593,7 @@
    "cuota": null,
    "prob": 0.8644,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -443,7 +608,7 @@
    "cuota": 1.5,
    "prob": 0.7328,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -458,7 +623,7 @@
    "cuota": 1.97,
    "prob": 0.7418,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -473,7 +638,7 @@
    "cuota": 1.87,
    "prob": 0.6275,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -488,7 +653,7 @@
    "cuota": 1.37,
    "prob": 0.8573,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -503,7 +668,7 @@
    "cuota": 1.8,
    "prob": 0.6313,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   }
  ]
 }
