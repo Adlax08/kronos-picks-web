@@ -1,31 +1,31 @@
 {
- "generated_at": "2026-11-06T18:23:49",
+ "generated_at": "2026-11-06T21:56:36",
  "days": 30,
  "solo_verificables": true,
  "total": {
-  "ganados": 383,
-  "perdidos": 272,
+  "ganados": 393,
+  "perdidos": 278,
   "anulados": 0,
-  "pendientes": 133,
+  "pendientes": 117,
   "n": 788,
-  "win_pct": 0.585
+  "win_pct": 0.586
  },
  "by_sport": {
   "amfut": {
-   "ganados": 25,
+   "ganados": 26,
    "perdidos": 22,
    "anulados": 0,
    "pendientes": 21,
-   "n": 68,
-   "win_pct": 0.532
+   "n": 69,
+   "win_pct": 0.542
   },
   "basquet": {
-   "ganados": 62,
-   "perdidos": 77,
+   "ganados": 70,
+   "perdidos": 81,
    "anulados": 0,
-   "pendientes": 23,
+   "pendientes": 11,
    "n": 162,
-   "win_pct": 0.446
+   "win_pct": 0.464
   },
   "beisbol": {
    "ganados": 7,
@@ -36,19 +36,19 @@
    "win_pct": 0.778
   },
   "futbol": {
-   "ganados": 163,
-   "perdidos": 69,
+   "ganados": 164,
+   "perdidos": 71,
    "anulados": 0,
-   "pendientes": 63,
+   "pendientes": 60,
    "n": 295,
-   "win_pct": 0.703
+   "win_pct": 0.698
   },
   "tenis": {
    "ganados": 126,
    "perdidos": 102,
    "anulados": 0,
-   "pendientes": 25,
-   "n": 253,
+   "pendientes": 24,
+   "n": 252,
    "win_pct": 0.553
   }
  },
@@ -88,6 +88,21 @@
    "deporte": "amfut",
    "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
+   "local": "Arizona State Sun Devils",
+   "visitante": "Colorado Buffaloes",
+   "partido": "Colorado Buffaloes @ Arizona State Sun Devils",
+   "mercado": "Spread",
+   "pick": "SPREAD: Arizona State Sun Devils -3",
+   "cuota": 1.847,
+   "prob": 0.6036,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-07",
+   "deporte": "amfut",
+   "liga": "NCAAF",
+   "liga_nombre": "NCAAF (College)",
    "local": "Tennessee Volunteers",
    "visitante": "Kentucky Wildcats",
    "partido": "Kentucky Wildcats @ Tennessee Volunteers",
@@ -108,7 +123,7 @@
    "partido": "Maryland Terrapins @ Purdue Boilermakers",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Maryland Terrapins)",
-   "cuota": 2.8,
+   "cuota": 2.7,
    "prob": 0.6139,
    "tier": "BUENO",
    "estado": "PENDIENTE"
@@ -168,7 +183,7 @@
    "partido": "Oklahoma State Cowboys @ Kansas State Wildcats",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Kansas State Wildcats)",
-   "cuota": 2.9,
+   "cuota": 3.0,
    "prob": 0.6628,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
@@ -183,7 +198,7 @@
    "partido": "Oklahoma State Cowboys @ Kansas State Wildcats",
    "mercado": "Spread",
    "pick": "SPREAD: Kansas State Wildcats +6.5",
-   "cuota": 1.926,
+   "cuota": 1.98,
    "prob": 0.6048,
    "tier": "BUENO",
    "estado": "PENDIENTE"
@@ -288,7 +303,7 @@
    "partido": "Brooklyn Nets @ Atlanta Hawks",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Atlanta Hawks)",
-   "cuota": null,
+   "cuota": 1.395,
    "prob": 0.7386,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -301,26 +316,11 @@
    "local": "Indiana Pacers",
    "visitante": "Denver Nuggets",
    "partido": "Denver Nuggets @ Indiana Pacers",
-   "mercado": "Moneyline",
-   "pick": "ML: AWAY (Denver Nuggets)",
-   "cuota": null,
-   "prob": 0.6597,
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 229.5",
+   "cuota": 1.909,
+   "prob": 0.6782,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-07",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Phoenix Suns",
-   "visitante": "Houston Rockets",
-   "partido": "Houston Rockets @ Phoenix Suns",
-   "mercado": "Moneyline",
-   "pick": "ML: AWAY (Houston Rockets)",
-   "cuota": null,
-   "prob": 0.647,
-   "tier": "BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -333,9 +333,24 @@
    "partido": "New York Knicks @ Cleveland Cavaliers",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (New York Knicks)",
-   "cuota": null,
+   "cuota": 1.585,
    "prob": 0.7006,
    "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-07",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Cleveland Cavaliers",
+   "visitante": "New York Knicks",
+   "partido": "New York Knicks @ Cleveland Cavaliers",
+   "mercado": "Spread",
+   "pick": "SPREAD: New York Knicks -4.5",
+   "cuota": 1.943,
+   "prob": 0.6237,
+   "tier": "BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -348,9 +363,24 @@
    "partido": "Orlando Magic @ Golden State Warriors",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Orlando Magic)",
-   "cuota": null,
+   "cuota": 3.08,
    "prob": 0.6062,
    "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-07",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Golden State Warriors",
+   "visitante": "Orlando Magic",
+   "partido": "Orlando Magic @ Golden State Warriors",
+   "mercado": "Spread",
+   "pick": "SPREAD: Orlando Magic +6.5",
+   "cuota": 1.943,
+   "prob": 0.7549,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -363,8 +393,38 @@
    "partido": "Washington Wizards @ Oklahoma City Thunder",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Oklahoma City Thunder)",
-   "cuota": null,
+   "cuota": 1.206,
    "prob": 0.89,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-07",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Oklahoma City Thunder",
+   "visitante": "Washington Wizards",
+   "partido": "Washington Wizards @ Oklahoma City Thunder",
+   "mercado": "Spread",
+   "pick": "SPREAD: Oklahoma City Thunder -11.5",
+   "cuota": 1.909,
+   "prob": 0.639,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-07",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Oklahoma City Thunder",
+   "visitante": "Washington Wizards",
+   "partido": "Washington Wizards @ Oklahoma City Thunder",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 220.5",
+   "cuota": 1.877,
+   "prob": 0.7168,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -484,7 +544,7 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.6907028386693497,
+   "prob": 0.6900644788856947,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -1069,7 +1129,7 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.7256960081828525,
+   "prob": 0.7296863212435245,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -1159,7 +1219,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.785617336922875,
+   "prob": 0.7849842113472373,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -1174,7 +1234,7 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.7049822468020587,
+   "prob": 0.7044032675238856,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -1323,7 +1383,7 @@
    "partido": "Francesco Passaro vs Nikoloz Basilashvili",
    "mercado": "SET1 JUEGOS",
    "pick": "UNDER 9.5",
-   "cuota": 2.25,
+   "cuota": 2.2,
    "prob": 0.6594,
    "tier": "BUENO",
    "estado": "PENDIENTE"
@@ -1386,7 +1446,7 @@
    "cuota": 1.459,
    "prob": 0.7473,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1401,7 +1461,7 @@
    "cuota": 1.926,
    "prob": 0.7212,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -1416,7 +1476,7 @@
    "cuota": 1.935,
    "prob": 0.7507,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -1453,21 +1513,6 @@
    "deporte": "basquet",
    "liga": "NBA",
    "liga_nombre": "NBA",
-   "local": "New Orleans Pelicans",
-   "visitante": "Minnesota Timberwolves",
-   "partido": "Minnesota Timberwolves @ New Orleans Pelicans",
-   "mercado": "Moneyline",
-   "pick": "ML: AWAY (Minnesota Timberwolves)",
-   "cuota": 1.602,
-   "prob": 0.6572,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-06",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
    "local": "Memphis Grizzlies",
    "visitante": "Oklahoma City Thunder",
    "partido": "Oklahoma City Thunder @ Memphis Grizzlies",
@@ -1476,7 +1521,7 @@
    "cuota": 1.556,
    "prob": 0.8608,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1491,7 +1536,7 @@
    "cuota": 1.962,
    "prob": 0.7835,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1506,7 +1551,7 @@
    "cuota": 1.87,
    "prob": 0.7245,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1521,7 +1566,7 @@
    "cuota": 2.28,
    "prob": 0.6471,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1536,7 +1581,7 @@
    "cuota": 1.952,
    "prob": 0.7016,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1551,7 +1596,7 @@
    "cuota": 1.909,
    "prob": 0.7017,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1588,36 +1633,6 @@
    "deporte": "basquet",
    "liga": "NBA",
    "liga_nombre": "NBA",
-   "local": "Milwaukee Bucks",
-   "visitante": "Toronto Raptors",
-   "partido": "Toronto Raptors @ Milwaukee Bucks",
-   "mercado": "Moneyline",
-   "pick": "ML: AWAY (Toronto Raptors)",
-   "cuota": 1.617,
-   "prob": 0.7236,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-06",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Milwaukee Bucks",
-   "visitante": "Toronto Raptors",
-   "partido": "Toronto Raptors @ Milwaukee Bucks",
-   "mercado": "Spread",
-   "pick": "SPREAD: Toronto Raptors -3.5",
-   "cuota": 1.87,
-   "prob": 0.6335,
-   "tier": "BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-06",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
    "local": "Dallas Mavericks",
    "visitante": "Utah Jazz",
    "partido": "Utah Jazz @ Dallas Mavericks",
@@ -1626,7 +1641,7 @@
    "cuota": 1.909,
    "prob": 0.7946,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -1641,7 +1656,7 @@
    "cuota": 1.324,
    "prob": 0.8046,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1656,7 +1671,7 @@
    "cuota": 1.935,
    "prob": 0.6044,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -1671,7 +1686,7 @@
    "cuota": 1.893,
    "prob": 0.6612,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1701,7 +1716,7 @@
    "cuota": null,
    "prob": 0.6831015223852797,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -1776,7 +1791,7 @@
    "cuota": null,
    "prob": 0.8243767949174191,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -1791,7 +1806,7 @@
    "cuota": null,
    "prob": 0.8407226323870995,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1897,21 +1912,6 @@
    "prob": 0.76,
    "tier": "TOP PICK",
    "estado": "GANADO"
-  },
-  {
-   "fecha": "2026-11-06",
-   "deporte": "tenis",
-   "liga": "WTA",
-   "liga_nombre": "WTA Tour",
-   "local": "Alice Tubello",
-   "visitante": "Bianca Andreescu",
-   "partido": "Alice Tubello vs Bianca Andreescu",
-   "mercado": "HANDICAP JUEGOS",
-   "pick": "Alice Tubello +4.5",
-   "cuota": 1.77,
-   "prob": 0.6641,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
   },
   {
    "fecha": "2026-11-06",

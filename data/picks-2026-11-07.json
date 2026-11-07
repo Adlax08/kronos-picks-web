@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "generated_at": "2026-11-06T18:23:49",
- "sports_total": "121 partidos",
+ "generated_at": "2026-11-06T21:56:36",
+ "sports_total": "123 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -227,8 +227,8 @@
    "date": "2026-11-07",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 23,
-   "message": "23 partidos proyectados",
+   "n": 25,
+   "message": "25 partidos proyectados",
    "picks": [
     {
      "match": "Ben Shelton vs Luca Van Assche",
@@ -297,10 +297,10 @@
      "prob": 0.6594,
      "tier": "BUENO",
      "units": "1.0",
-     "note": "EV +48.4% · momio 2.25",
-     "edge": 0.27149999999999996,
-     "ev": 0.4836499999999999,
-     "odds": 2.25,
+     "note": "EV +45.1% · momio 2.2",
+     "edge": 0.25639999999999996,
+     "ev": 0.4506800000000001,
+     "odds": 2.2,
      "line": 9.5,
      "league_code": "ATP",
      "league_label": "ATP Tour"
@@ -411,6 +411,21 @@
      "league_label": "ATP Challenger Tour"
     },
     {
+     "match": "Clement Chidekh vs Stefan Kozlov",
+     "market": "ML",
+     "pick": "Clement Chidekh",
+     "prob": 0.7466,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": "",
+     "edge": null,
+     "ev": null,
+     "odds": null,
+     "line": null,
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour"
+    },
+    {
      "match": "Felix Gill vs Matteo Martineau",
      "market": "ML",
      "pick": "Felix Gill",
@@ -422,21 +437,6 @@
      "ev": 0.256684,
      "odds": 1.69,
      "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Dalibor Svrcina vs Jurij Rodionov",
-     "market": "HANDICAP JUEGOS",
-     "pick": "Jurij Rodionov +3.5",
-     "prob": 0.7395,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "EV +38.3% · momio 1.87",
-     "edge": 0.2561,
-     "ev": 0.3828650000000001,
-     "odds": 1.87,
-     "line": 3.5,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
     },
@@ -462,10 +462,10 @@
      "prob": 0.6982999999999999,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": "EV +92.0% · momio 2.75",
+     "note": "EV +57.1% · momio 2.25",
      "edge": null,
-     "ev": 0.9203249999999998,
-     "odds": 2.75,
+     "ev": 0.5711749999999998,
+     "odds": 2.25,
      "line": null,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
@@ -516,6 +516,21 @@
      "league_label": "ATP Challenger Tour"
     },
     {
+     "match": "Dalibor Svrcina vs Jurij Rodionov",
+     "market": "HANDICAP JUEGOS",
+     "pick": "Jurij Rodionov +2.5",
+     "prob": 0.6503,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": "EV +17.1% · momio 1.8",
+     "edge": 0.1503,
+     "ev": 0.17054000000000002,
+     "odds": 1.8,
+     "line": 2.5,
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour"
+    },
+    {
      "match": "Jerome Kym vs Matej Dodig",
      "market": "HANDICAP JUEGOS",
      "pick": "Matej Dodig +2.5",
@@ -537,10 +552,10 @@
      "prob": 0.5567,
      "tier": "DESTACADO",
      "units": "0.5",
-     "note": "EV +16.9% · momio 2.1 · Prob<60% pero buen momentum/variables: resaltado.",
+     "note": "EV +4.1% · momio 1.87 · Prob<60% pero buen momentum/variables: resaltado.",
      "edge": null,
-     "ev": 0.16906999999999994,
-     "odds": 2.1,
+     "ev": 0.04102899999999998,
+     "odds": 1.87,
      "line": null,
      "league_code": "CHALLENGER",
      "league_label": "ATP Challenger Tour"
@@ -784,8 +799,8 @@
       {
        "label": "Total Juegos O/U",
        "pick": "OVER",
-       "prob": 0.5963,
-       "detail": "OVER 18.5 · 60% · Proyectado 22.7",
+       "prob": 0.5192,
+       "detail": "OVER 19.5 · 52% · Proyectado 22.7",
        "strong": false
       },
       {
@@ -989,6 +1004,48 @@
        "pick": "OVER",
        "prob": 0.5288,
        "detail": "OVER 9.5 · 53% · Proyectado 9.4",
+       "strong": false
+      }
+     ],
+     "convergence": false,
+     "momentum_ok": false
+    },
+    {
+     "home": "Alice Tubello",
+     "away": "Bianca Andreescu",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "context": "Reto Win Tennis Cali Open, Hard, Ronda: Semifinal, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Bianca Andreescu",
+       "prob": 0.7193,
+       "detail": "Alice Tubello 28% · Bianca Andreescu 72%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "OVER",
+       "prob": 0.5039,
+       "detail": "OVER 21.5 · 50% · Proyectado 21.9",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Bianca Andreescu",
+       "prob": 0.8108,
+       "detail": "Hándicap Sets -1.5 · 19% · (+429)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.534,
+       "detail": "OVER 9.5 · 53% · Proyectado 9.5",
        "strong": false
       }
      ],
@@ -1309,8 +1366,8 @@
       {
        "label": "Hándicap Juegos",
        "pick": "Carlo Alberto Caniato",
-       "prob": 0.5903,
-       "detail": "Carlo Alberto Caniato +1.5 (mercado) · 59%",
+       "prob": 0.5128,
+       "detail": "Carlo Alberto Caniato +0.5 (mercado) · 51%",
        "strong": false
       },
       {
@@ -1352,14 +1409,14 @@
        "label": "Total Juegos O/U",
        "pick": "UNDER",
        "prob": 0.5041,
-       "detail": "UNDER 21.5 · 50% · Proyectado 23.8",
+       "detail": "UNDER 22.5 · 50% · Proyectado 23.8",
        "strong": false
       },
       {
        "label": "Hándicap Juegos",
        "pick": "Jurij Rodionov",
-       "prob": 0.7395,
-       "detail": "Jurij Rodionov +3.5 (mercado) · 74%",
+       "prob": 0.6503,
+       "detail": "Jurij Rodionov +2.5 (mercado) · 65%",
        "strong": false
       },
       {
@@ -1596,9 +1653,51 @@
      ],
      "convergence": true,
      "momentum_ok": true
+    },
+    {
+     "home": "Clement Chidekh",
+     "away": "Stefan Kozlov",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "ATP Challenger Charlottesville, USA Men Singles, Clay, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Clement Chidekh",
+       "prob": 0.7466,
+       "detail": "Clement Chidekh 75% · Stefan Kozlov 25%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "OVER",
+       "prob": 0.5077,
+       "detail": "OVER 22.5 · 51% · Proyectado 23.3",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Stefan Kozlov",
+       "prob": 0.5568,
+       "detail": "Hándicap Sets -1.5 · 44% · (+126)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5557,
+       "detail": "OVER 9.5 · 56% · Proyectado 9.7",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": false
     }
    ],
-   "elapsed_s": 151.8,
+   "elapsed_s": 192.7,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true
@@ -1780,7 +1879,7 @@
      "match": "Pumas UNAM vs América",
      "market": "O/U 2.5",
      "pick": "O/U 2.5: OVER",
-     "prob": 0.7256960081828525,
+     "prob": 0.7296863212435245,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=70%",
@@ -1846,7 +1945,7 @@
      "match": "Toluca vs Monterrey",
      "market": "O/U 2.5",
      "pick": "O/U 2.5: OVER",
-     "prob": 0.7049822468020587,
+     "prob": 0.7044032675238856,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=70%",
@@ -1909,17 +2008,6 @@
      "league_label": "Eredivisie"
     },
     {
-     "match": "Atlas vs Pachuca",
-     "market": "O/U 2.5",
-     "pick": "O/U 2.5: OVER",
-     "prob": 0.6907028386693497,
-     "tier": "MUY BUENO",
-     "units": "1.5",
-     "note": ">=65%",
-     "league_code": "MEX",
-     "league_label": "Liga MX"
-    },
-    {
      "match": "Carlisle United vs Salford City",
      "market": "O/U 2.5",
      "pick": "O/U 2.5: OVER",
@@ -1929,6 +2017,17 @@
      "note": ">=65%",
      "league_code": "FAC",
      "league_label": "FA Cup"
+    },
+    {
+     "match": "Atlas vs Pachuca",
+     "market": "O/U 2.5",
+     "pick": "O/U 2.5: OVER",
+     "prob": 0.6900644788856947,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=65%",
+     "league_code": "MEX",
+     "league_label": "Liga MX"
     },
     {
      "match": "Eastleigh vs Shrewsbury Town",
@@ -2209,7 +2308,7 @@
      "match": "Tigres UANL vs Cruz Azul",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.785617336922875,
+     "prob": 0.7849842113472373,
      "tier": "BUENO",
      "units": "1.0",
      "note": ">=75%",
@@ -6324,35 +6423,35 @@
       {
        "label": "1X2",
        "pick": "Pachuca",
-       "prob": 0.3976317314136847,
+       "prob": 0.39753756209814584,
        "detail": "Local 39% · Empate 22% · Visitante 40%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.784976651459081,
+       "prob": 0.7847928168571345,
        "detail": "1X 60% · X2 61% · 12 78%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6907028386693497,
+       "prob": 0.6900644788856947,
        "detail": "OVER 2.5 goles · 69%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8573613926753674,
+       "prob": 0.8571115737305902,
        "detail": "OVER 1.5 goles · 86%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6468359193299298,
+       "prob": 0.6489711768892131,
        "detail": "BTTS Sí 65%",
        "strong": false
       },
@@ -6360,20 +6459,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 3.66",
+       "detail": "Goles esperados 3.65",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.7661038774304141,
+       "prob": 0.7664893819028726,
        "detail": "Línea +1.5 · AWAY 77%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE OVER",
-       "prob": 0.6797655326661122,
+       "prob": 0.6780037600511335,
        "detail": "VISITANTE OVER 1.5 goles 68%",
        "strong": false
       }
@@ -6394,35 +6493,35 @@
       {
        "label": "1X2",
        "pick": "Cruz Azul",
-       "prob": 0.452032888893962,
+       "prob": 0.451913940902949,
        "detail": "Local 27% · Empate 28% · Visitante 45%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7319007366580361,
+       "prob": 0.732011090201415,
        "detail": "1X 55% · X2 73% · 12 72%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5168249012375005,
+       "prob": 0.5177122379282556,
        "detail": "UNDER 2.5 goles · 48%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.785617336922875,
-       "detail": "OVER 1.5 goles · 79%",
+       "prob": 0.7849842113472373,
+       "detail": "OVER 1.5 goles · 78%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5570350032945357,
+       "prob": 0.5563565148583548,
        "detail": "BTTS Sí 56%",
        "strong": false
       },
@@ -6436,14 +6535,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8337623373748908,
+       "prob": 0.8341771750167079,
        "detail": "Línea +1.5 · AWAY 83%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.606517523006946,
+       "prob": 0.6081003872200749,
        "detail": "LOCAL UNDER 1.5 goles 61%",
        "strong": false
       }
@@ -6464,35 +6563,35 @@
       {
        "label": "1X2",
        "pick": "Toluca",
-       "prob": 0.6144684774265546,
+       "prob": 0.6142505855521639,
        "detail": "Local 61% · Empate 20% · Visitante 19%",
        "strong": true
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.810406461422953,
+       "prob": 0.8103770564503474,
        "detail": "1X 81% · X2 39% · 12 80%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.7049822468020587,
+       "prob": 0.7044032675238856,
        "detail": "OVER 2.5 goles · 70%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8773988445749913,
+       "prob": 0.8771849767158441,
        "detail": "OVER 1.5 goles · 88%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6640445193148274,
+       "prob": 0.6635374968422298,
        "detail": "BTTS Sí 66%",
        "strong": false
       },
@@ -6500,21 +6599,21 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 3.84",
+       "detail": "Goles esperados 3.83",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.6041934389608952,
+       "prob": 0.6036487092749182,
        "detail": "Línea -0.5 · HOME 60%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.806164592991124,
-       "detail": "LOCAL OVER 1.5 goles 81%",
+       "prob": 0.8046828368665004,
+       "detail": "LOCAL OVER 1.5 goles 80%",
        "strong": false
       }
      ],
@@ -6534,35 +6633,35 @@
       {
        "label": "1X2",
        "pick": "América",
-       "prob": 0.5317414620694367,
+       "prob": 0.5315449889679472,
        "detail": "Local 24% · Empate 23% · Visitante 53%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.771807507192652,
+       "prob": 0.7716368321171018,
        "detail": "1X 47% · X2 76% · 12 77%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.7256960081828525,
+       "prob": 0.7296863212435245,
        "detail": "OVER 2.5 goles · 73%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8874339777451328,
+       "prob": 0.8872834698744325,
        "detail": "OVER 1.5 goles · 89%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6969176379722388,
+       "prob": 0.6964747143945879,
        "detail": "BTTS Sí 70%",
        "strong": false
       },
@@ -6570,20 +6669,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 3.96",
+       "detail": "Goles esperados 3.95",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8693770844588168,
+       "prob": 0.8694684259500266,
        "detail": "Línea +1.5 · AWAY 87%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE OVER",
-       "prob": 0.8375349240209177,
+       "prob": 0.836173312109824,
        "detail": "VISITANTE OVER 1.5 goles 84%",
        "strong": false
       }
@@ -6592,7 +6691,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 122.8,
+   "elapsed_s": 115.1,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true
@@ -6687,10 +6786,10 @@
      "prob": 0.6139,
      "tier": "BUENO",
      "units": "1.0",
-     "note": ">=61% · momio 2.8 · EV +71.9%",
+     "note": ">=61% · momio 2.7 · EV +65.7%",
      "league_code": "NCAAF",
      "league_label": "NCAAF (College)",
-     "odds": 2.8,
+     "odds": 2.7,
      "line": null,
      "edge": null,
      "ev": null
@@ -6702,10 +6801,10 @@
      "prob": 0.6628,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": ">=66% · momio 2.9 · EV +92.2%",
+     "note": ">=66% · momio 3 · EV +98.9%",
      "league_code": "NCAAF",
      "league_label": "NCAAF (College)",
-     "odds": 2.9,
+     "odds": 3.0,
      "line": null,
      "edge": null,
      "ev": null
@@ -6717,10 +6816,10 @@
      "prob": 0.6048,
      "tier": "BUENO",
      "units": "1.0",
-     "note": ">=60% · Kansas State Wildcats +6.5 · momio 1.92593 · EV +16.5%",
+     "note": ">=60% · Kansas State Wildcats +6.5 · momio 1.98039 · EV +19.8%",
      "league_code": "NCAAF",
      "league_label": "NCAAF (College)",
-     "odds": 1.926,
+     "odds": 1.98,
      "line": 6.5,
      "edge": null,
      "ev": null
@@ -6812,6 +6911,21 @@
      "league_label": "NCAAF (College)",
      "odds": 1.617,
      "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Colorado Buffaloes @ Arizona State Sun Devils",
+     "market": "Spread",
+     "pick": "SPREAD: Arizona State Sun Devils -3",
+     "prob": 0.6036,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": ">=60% · Arizona State Sun Devils -3 · momio 1.84746 · EV +11.5%",
+     "league_code": "NCAAF",
+     "league_label": "NCAAF (College)",
+     "odds": 1.847,
+     "line": -3.0,
      "edge": null,
      "ev": null
     },
@@ -6985,8 +7099,8 @@
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5066276078929391,
-       "detail": "Línea 50.5 · OVER 49% / UNDER 51%",
+       "prob": 0.5193001966723741,
+       "detail": "Línea 51.5 · OVER 48% / UNDER 52%",
        "strong": false
       },
       {
@@ -7860,8 +7974,8 @@
       {
        "label": "Spread",
        "pick": "Arizona State Sun Devils",
-       "prob": 0.5994725098428622,
-       "detail": "Arizona State Sun Devils -3.5 · 60%",
+       "prob": 0.6036143880827194,
+       "detail": "Arizona State Sun Devils -3 · 60%",
        "strong": false
       },
       {
@@ -7986,8 +8100,8 @@
       {
        "label": "Spread",
        "pick": "Oklahoma Sooners",
-       "prob": 0.5358488819581738,
-       "detail": "Oklahoma Sooners +6 · 54%",
+       "prob": 0.5315828539843662,
+       "detail": "Oklahoma Sooners +5.5 · 53%",
        "strong": false
       },
       {
@@ -8051,7 +8165,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 32.6,
+   "elapsed_s": 31.9,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true
@@ -8066,16 +8180,16 @@
    "picks": [
     {
      "match": "Denver Nuggets @ Indiana Pacers",
-     "market": "Moneyline",
-     "pick": "ML: AWAY (Denver Nuggets)",
-     "prob": 0.6597,
+     "market": "Totales",
+     "pick": "TOTAL: OVER 229.5",
+     "prob": 0.6782,
      "tier": "MUY BUENO",
      "units": "1.5",
-     "note": ">=66%",
+     "note": ">=68% · línea 229.5 · momio 1.90909 · EV +29.5%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": null,
-     "line": null,
+     "odds": 1.909,
+     "line": 229.5,
      "edge": null,
      "ev": null
     },
@@ -8086,10 +8200,10 @@
      "prob": 0.7386,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": ">=74%",
+     "note": ">=74% · momio 1.39526 · EV +3.1%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": null,
+     "odds": 1.395,
      "line": null,
      "edge": null,
      "ev": null
@@ -8101,11 +8215,26 @@
      "prob": 0.7006,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": ">=70%",
+     "note": ">=70% · momio 1.5848 · EV +11.0%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": null,
+     "odds": 1.585,
      "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "New York Knicks @ Cleveland Cavaliers",
+     "market": "Spread",
+     "pick": "SPREAD: New York Knicks -4.5",
+     "prob": 0.6237,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": ">=62% · New York Knicks -4.5 · momio 1.9434 · EV +21.2%",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "odds": 1.943,
+     "line": -4.5,
      "edge": null,
      "ev": null
     },
@@ -8116,11 +8245,41 @@
      "prob": 0.89,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": ">=89%",
+     "note": ">=89% · momio 1.20576 · EV +7.3%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": null,
+     "odds": 1.206,
      "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Washington Wizards @ Oklahoma City Thunder",
+     "market": "Spread",
+     "pick": "SPREAD: Oklahoma City Thunder -11.5",
+     "prob": 0.639,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": ">=64% · Oklahoma City Thunder -11.5 · momio 1.90909 · EV +22.0%",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "odds": 1.909,
+     "line": -11.5,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Washington Wizards @ Oklahoma City Thunder",
+     "market": "Totales",
+     "pick": "TOTAL: OVER 220.5",
+     "prob": 0.7168,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=72% · línea 220.5 · momio 1.87719 · EV +34.5%",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "odds": 1.877,
+     "line": 220.5,
      "edge": null,
      "ev": null
     },
@@ -8131,26 +8290,26 @@
      "prob": 0.6062,
      "tier": "BUENO",
      "units": "1.0",
-     "note": ">=61%",
+     "note": ">=61% · momio 3.08 · EV +86.7%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": null,
+     "odds": 3.08,
      "line": null,
      "edge": null,
      "ev": null
     },
     {
-     "match": "Houston Rockets @ Phoenix Suns",
-     "market": "Moneyline",
-     "pick": "ML: AWAY (Houston Rockets)",
-     "prob": 0.647,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=65%",
+     "match": "Orlando Magic @ Golden State Warriors",
+     "market": "Spread",
+     "pick": "SPREAD: Orlando Magic +6.5",
+     "prob": 0.7549,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=75% · Orlando Magic +6.5 · momio 1.9434 · EV +46.7%",
      "league_code": "NBA",
      "league_label": "NBA",
-     "odds": null,
-     "line": null,
+     "odds": 1.943,
+     "line": 6.5,
      "edge": null,
      "ev": null
     }
@@ -8176,15 +8335,15 @@
       {
        "label": "Spread",
        "pick": "Indiana Pacers",
-       "prob": 0.5000831001897836,
-       "detail": "Indiana Pacers +6.7 · 50%",
+       "prob": 0.5199313867252859,
+       "detail": "Indiana Pacers +7.5 · 52%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5002836181230959,
-       "detail": "Línea 240.8 · OVER 50% / UNDER 50%",
+       "prob": 0.678194362720883,
+       "detail": "Línea 229.5 · OVER 68% / UNDER 32%",
        "strong": false
       },
       {
@@ -8217,16 +8376,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Brooklyn Nets",
-       "prob": 0.5003316449063705,
-       "detail": "Brooklyn Nets +10.3 · 50%",
+       "pick": "Atlanta Hawks",
+       "prob": 0.5931248982301649,
+       "detail": "Atlanta Hawks -6.5 · 59%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5002298960021003,
-       "detail": "Línea 226.2 · OVER 50% / UNDER 50%",
+       "prob": 0.5279319668804252,
+       "detail": "Línea 224.5 · OVER 53% / UNDER 47%",
        "strong": false
       },
       {
@@ -8259,16 +8418,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Cleveland Cavaliers",
-       "prob": 0.5007849156426902,
-       "detail": "Cleveland Cavaliers +9.6 · 50%",
+       "pick": "New York Knicks",
+       "prob": 0.6237466782825567,
+       "detail": "New York Knicks -4.5 · 62%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5006320250153753,
-       "detail": "Línea 224.7 · OVER 50% / UNDER 50%",
+       "prob": 0.5136763717356235,
+       "detail": "Línea 225.5 · OVER 49% / UNDER 51%",
        "strong": false
       },
       {
@@ -8302,15 +8461,15 @@
       {
        "label": "Spread",
        "pick": "Oklahoma City Thunder",
-       "prob": 0.5004959516618463,
-       "detail": "Oklahoma City Thunder -17.2 · 50%",
+       "prob": 0.6390334165048046,
+       "detail": "Oklahoma City Thunder -11.5 · 64%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5003681010118214,
-       "detail": "Línea 234.5 · OVER 50% / UNDER 50%",
+       "prob": 0.7167600769127966,
+       "detail": "Línea 220.5 · OVER 72% / UNDER 28%",
        "strong": false
       },
       {
@@ -8343,16 +8502,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Golden State Warriors",
-       "prob": 0.5002409603629281,
-       "detail": "Golden State Warriors +4.6 · 50%",
+       "pick": "Orlando Magic",
+       "prob": 0.7549021095948021,
+       "detail": "Orlando Magic +6.5 · 75%",
        "strong": false
       },
       {
        "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.5007758699673803,
-       "detail": "Línea 222.7 · OVER 50% / UNDER 50%",
+       "pick": "OVER",
+       "prob": 0.5350582067022229,
+       "detail": "Línea 220.5 · OVER 54% / UNDER 46%",
        "strong": false
       },
       {
@@ -8393,8 +8552,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5004841392013513,
-       "detail": "Línea 222.7 · OVER 50% / UNDER 50%",
+       "prob": 0.5037458408698633,
+       "detail": "Línea 222.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
@@ -8428,15 +8587,15 @@
       {
        "label": "Spread",
        "pick": "Portland Trail Blazers",
-       "prob": 0.5010555440954183,
-       "detail": "Portland Trail Blazers +2.4 · 50%",
+       "prob": 0.5530220116566911,
+       "detail": "Portland Trail Blazers +4.5 · 55%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5001870205914364,
-       "detail": "Línea 226 · OVER 50% / UNDER 50%",
+       "prob": 0.5408871341384073,
+       "detail": "Línea 228.5 · OVER 46% / UNDER 54%",
        "strong": false
       },
       {
@@ -8451,7 +8610,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 27.0,
+   "elapsed_s": 26.7,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true
