@@ -1,13 +1,13 @@
 {
  "day": "2026-11-07",
- "generated_at": "2026-11-06T21:56:36",
+ "generated_at": "2026-11-07T18:36:23",
  "total": {
-  "ganados": 0,
-  "perdidos": 0,
+  "ganados": 47,
+  "perdidos": 25,
   "anulados": 0,
-  "pendientes": 92,
+  "pendientes": 20,
   "n": 92,
-  "win_pct": null
+  "win_pct": 0.653
  },
  "picks": [
   {
@@ -23,7 +23,7 @@
    "cuota": 1.769,
    "prob": 0.7677,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -35,8 +35,8 @@
    "partido": "Colorado Buffaloes @ Arizona State Sun Devils",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Arizona State Sun Devils)",
-   "cuota": 1.617,
-   "prob": 0.7805,
+   "cuota": 1.645,
+   "prob": 0.8047,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -50,8 +50,23 @@
    "partido": "Colorado Buffaloes @ Arizona State Sun Devils",
    "mercado": "Spread",
    "pick": "SPREAD: Arizona State Sun Devils -3",
-   "cuota": 1.847,
-   "prob": 0.6036,
+   "cuota": 1.87,
+   "prob": 0.6035,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-07",
+   "deporte": "amfut",
+   "liga": "NCAAF",
+   "liga_nombre": "NCAAF (College)",
+   "local": "Arizona State Sun Devils",
+   "visitante": "Colorado Buffaloes",
+   "partido": "Colorado Buffaloes @ Arizona State Sun Devils",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 45.5",
+   "cuota": 1.952,
+   "prob": 0.6136,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -66,7 +81,7 @@
    "mercado": "Moneyline",
    "pick": "ML: HOME (Tennessee Volunteers)",
    "cuota": 1.488,
-   "prob": 0.7552,
+   "prob": 0.7551,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -83,7 +98,7 @@
    "cuota": 2.7,
    "prob": 0.6139,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -98,7 +113,7 @@
    "cuota": null,
    "prob": 0.9508,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -113,7 +128,7 @@
    "cuota": 3.45,
    "prob": 0.6885,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -128,7 +143,7 @@
    "cuota": 1.926,
    "prob": 0.6356,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -143,7 +158,7 @@
    "cuota": 3.0,
    "prob": 0.6628,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -158,7 +173,7 @@
    "cuota": 1.98,
    "prob": 0.6048,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -173,7 +188,7 @@
    "cuota": 1.893,
    "prob": 0.632,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -185,8 +200,8 @@
    "partido": "Oregon Ducks @ Ohio State Buckeyes",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Ohio State Buckeyes)",
-   "cuota": 1.328,
-   "prob": 0.785,
+   "cuota": 1.308,
+   "prob": 0.7849,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -203,7 +218,7 @@
    "cuota": 2.64,
    "prob": 0.6001,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -218,7 +233,7 @@
    "cuota": 1.87,
    "prob": 0.6328,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -244,9 +259,9 @@
    "visitante": "West Virginia Mountaineers",
    "partido": "West Virginia Mountaineers @ Texas Tech Red Raiders",
    "mercado": "Totales",
-   "pick": "TOTAL: UNDER 65.5",
-   "cuota": 1.893,
-   "prob": 0.6126,
+   "pick": "TOTAL: UNDER 67.5",
+   "cuota": 1.87,
+   "prob": 0.6283,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -260,7 +275,7 @@
    "partido": "Brooklyn Nets @ Atlanta Hawks",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Atlanta Hawks)",
-   "cuota": 1.395,
+   "cuota": 1.377,
    "prob": 0.7386,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -275,7 +290,7 @@
    "partido": "Denver Nuggets @ Indiana Pacers",
    "mercado": "Totales",
    "pick": "TOTAL: OVER 229.5",
-   "cuota": 1.909,
+   "cuota": 1.935,
    "prob": 0.6782,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
@@ -290,7 +305,7 @@
    "partido": "New York Knicks @ Cleveland Cavaliers",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (New York Knicks)",
-   "cuota": 1.585,
+   "cuota": 1.508,
    "prob": 0.7006,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -305,7 +320,7 @@
    "partido": "New York Knicks @ Cleveland Cavaliers",
    "mercado": "Spread",
    "pick": "SPREAD: New York Knicks -4.5",
-   "cuota": 1.943,
+   "cuota": 1.893,
    "prob": 0.6237,
    "tier": "BUENO",
    "estado": "PENDIENTE"
@@ -320,7 +335,7 @@
    "partido": "Orlando Magic @ Golden State Warriors",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Orlando Magic)",
-   "cuota": 3.08,
+   "cuota": 3.5,
    "prob": 0.6062,
    "tier": "BUENO",
    "estado": "PENDIENTE"
@@ -334,9 +349,9 @@
    "visitante": "Orlando Magic",
    "partido": "Orlando Magic @ Golden State Warriors",
    "mercado": "Spread",
-   "pick": "SPREAD: Orlando Magic +6.5",
-   "cuota": 1.943,
-   "prob": 0.7549,
+   "pick": "SPREAD: Orlando Magic +7.5",
+   "cuota": 1.909,
+   "prob": 0.774,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -350,7 +365,7 @@
    "partido": "Washington Wizards @ Oklahoma City Thunder",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Oklahoma City Thunder)",
-   "cuota": 1.206,
+   "cuota": 1.161,
    "prob": 0.89,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -364,9 +379,9 @@
    "visitante": "Washington Wizards",
    "partido": "Washington Wizards @ Oklahoma City Thunder",
    "mercado": "Spread",
-   "pick": "SPREAD: Oklahoma City Thunder -11.5",
+   "pick": "SPREAD: Oklahoma City Thunder -12.5",
    "cuota": 1.909,
-   "prob": 0.639,
+   "prob": 0.6155,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -379,10 +394,10 @@
    "visitante": "Washington Wizards",
    "partido": "Washington Wizards @ Oklahoma City Thunder",
    "mercado": "Totales",
-   "pick": "TOTAL: OVER 220.5",
+   "pick": "TOTAL: OVER 223.5",
    "cuota": 1.877,
-   "prob": 0.7168,
-   "tier": "TOP PICK",
+   "prob": 0.6739,
+   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -398,7 +413,7 @@
    "cuota": null,
    "prob": 0.7038366524283306,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -413,7 +428,7 @@
    "cuota": null,
    "prob": 0.8410179358693568,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -428,7 +443,7 @@
    "cuota": null,
    "prob": 0.8411273406694009,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -443,7 +458,7 @@
    "cuota": null,
    "prob": 0.8346777329761982,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -458,7 +473,7 @@
    "cuota": null,
    "prob": 0.7368198624961908,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -473,7 +488,7 @@
    "cuota": null,
    "prob": 0.6344124892823328,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -488,7 +503,7 @@
    "cuota": null,
    "prob": 0.9358925753843038,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -501,7 +516,7 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.6900644788856947,
+   "prob": 0.6907028386693497,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -518,7 +533,7 @@
    "cuota": null,
    "prob": 0.7342111654120684,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -533,7 +548,7 @@
    "cuota": null,
    "prob": 0.8190324368812787,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -548,7 +563,7 @@
    "cuota": null,
    "prob": 0.8316251850537527,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -563,7 +578,7 @@
    "cuota": null,
    "prob": 0.7187173021705069,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -578,7 +593,7 @@
    "cuota": null,
    "prob": 0.785636789546743,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -593,7 +608,7 @@
    "cuota": null,
    "prob": 0.7388899050649134,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -608,22 +623,7 @@
    "cuota": null,
    "prob": 0.6646273381349045,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-07",
-   "deporte": "futbol",
-   "liga": "POR",
-   "liga_nombre": "Primeira Liga",
-   "local": "C.D. Nacional",
-   "visitante": "Académico de Viseu",
-   "partido": "C.D. Nacional vs Académico de Viseu",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8062840634461206,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -638,7 +638,7 @@
    "cuota": null,
    "prob": 0.8483760465613795,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -653,7 +653,7 @@
    "cuota": null,
    "prob": 0.6900927041659031,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -668,7 +668,7 @@
    "cuota": null,
    "prob": 0.6647305220061347,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -683,7 +683,7 @@
    "cuota": null,
    "prob": 0.8203651925265842,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -698,7 +698,7 @@
    "cuota": null,
    "prob": 0.6967437393544476,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -713,7 +713,7 @@
    "cuota": null,
    "prob": 0.6879064539548975,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -728,7 +728,7 @@
    "cuota": null,
    "prob": 0.82473002489429,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -743,7 +743,7 @@
    "cuota": null,
    "prob": 0.7170218660479921,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -758,7 +758,7 @@
    "cuota": null,
    "prob": 0.7756940591895634,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -773,7 +773,7 @@
    "cuota": null,
    "prob": 0.695132836344992,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -788,7 +788,7 @@
    "cuota": null,
    "prob": 0.7931042258414148,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -803,7 +803,7 @@
    "cuota": null,
    "prob": 0.7769242618650578,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -818,7 +818,7 @@
    "cuota": null,
    "prob": 0.6407020839305055,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -833,7 +833,7 @@
    "cuota": null,
    "prob": 0.8445369961768617,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -848,7 +848,7 @@
    "cuota": null,
    "prob": 0.8276648194667382,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -863,7 +863,7 @@
    "cuota": null,
    "prob": 0.7984997510110773,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -878,7 +878,7 @@
    "cuota": null,
    "prob": 0.753005210304379,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -893,7 +893,7 @@
    "cuota": null,
    "prob": 0.7343664514651949,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -908,7 +908,7 @@
    "cuota": null,
    "prob": 0.8430611995858514,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -923,7 +923,7 @@
    "cuota": null,
    "prob": 0.7623542423848562,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -938,7 +938,7 @@
    "cuota": null,
    "prob": 0.6857388387937063,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -953,7 +953,7 @@
    "cuota": null,
    "prob": 0.8484847099724557,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -968,7 +968,7 @@
    "cuota": null,
    "prob": 0.6956486396788207,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -983,7 +983,7 @@
    "cuota": null,
    "prob": 0.7220600041444448,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -998,7 +998,7 @@
    "cuota": null,
    "prob": 0.8230349011866837,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1013,7 +1013,7 @@
    "cuota": null,
    "prob": 0.8985225279353807,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1028,7 +1028,7 @@
    "cuota": null,
    "prob": 0.781909044594547,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1043,7 +1043,7 @@
    "cuota": null,
    "prob": 0.7427424615488698,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1058,7 +1058,7 @@
    "cuota": null,
    "prob": 0.7712094195893475,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1073,7 +1073,7 @@
    "cuota": null,
    "prob": 0.851749635785675,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1086,7 +1086,7 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.7296863212435245,
+   "prob": 0.7256960081828525,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -1103,7 +1103,7 @@
    "cuota": null,
    "prob": 0.7438662446107178,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1118,7 +1118,7 @@
    "cuota": null,
    "prob": 0.705146005822632,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1133,7 +1133,7 @@
    "cuota": null,
    "prob": 0.6843596355336697,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1148,7 +1148,7 @@
    "cuota": null,
    "prob": 0.8404485039881536,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1163,7 +1163,7 @@
    "cuota": null,
    "prob": 0.7784813851607644,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -1176,7 +1176,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.7849842113472373,
+   "prob": 0.785617336922875,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -1191,7 +1191,7 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.7044032675238856,
+   "prob": 0.7049822468020587,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -1208,7 +1208,7 @@
    "cuota": null,
    "prob": 0.6976471202052957,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -1223,7 +1223,7 @@
    "cuota": null,
    "prob": 0.8226336764502865,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1238,7 +1238,7 @@
    "cuota": null,
    "prob": 0.723788807831531,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1253,7 +1253,7 @@
    "cuota": null,
    "prob": 0.7335137212616902,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1268,7 +1268,7 @@
    "cuota": 1.8,
    "prob": 0.6039,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1283,7 +1283,7 @@
    "cuota": 2.1,
    "prob": 0.7231000000000001,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -1298,7 +1298,7 @@
    "cuota": 6.5,
    "prob": 0.8877,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1313,7 +1313,7 @@
    "cuota": 1.54,
    "prob": 0.6691,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1328,7 +1328,7 @@
    "cuota": null,
    "prob": 0.7839,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1343,7 +1343,7 @@
    "cuota": 2.2,
    "prob": 0.6594,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -1358,7 +1358,7 @@
    "cuota": 1.58,
    "prob": 0.7325,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1373,7 +1373,7 @@
    "cuota": 1.63,
    "prob": 0.6967,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -1388,7 +1388,7 @@
    "cuota": 1.87,
    "prob": 0.6358,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   }
  ]
 }

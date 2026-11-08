@@ -1,30 +1,30 @@
 {
- "generated_at": "2026-11-06T21:56:36",
+ "generated_at": "2026-11-07T18:36:23",
  "days": 30,
  "solo_verificables": true,
  "total": {
-  "ganados": 393,
-  "perdidos": 278,
+  "ganados": 442,
+  "perdidos": 304,
   "anulados": 0,
-  "pendientes": 117,
-  "n": 788,
-  "win_pct": 0.586
+  "pendientes": 95,
+  "n": 841,
+  "win_pct": 0.592
  },
  "by_sport": {
   "amfut": {
-   "ganados": 26,
-   "perdidos": 22,
+   "ganados": 30,
+   "perdidos": 28,
    "anulados": 0,
-   "pendientes": 21,
-   "n": 69,
-   "win_pct": 0.542
+   "pendientes": 16,
+   "n": 74,
+   "win_pct": 0.517
   },
   "basquet": {
-   "ganados": 70,
-   "perdidos": 81,
+   "ganados": 71,
+   "perdidos": 82,
    "anulados": 0,
-   "pendientes": 11,
-   "n": 162,
+   "pendientes": 17,
+   "n": 170,
    "win_pct": 0.464
   },
   "beisbol": {
@@ -36,23 +36,818 @@
    "win_pct": 0.778
   },
   "futbol": {
-   "ganados": 164,
-   "perdidos": 71,
+   "ganados": 202,
+   "perdidos": 87,
    "anulados": 0,
-   "pendientes": 60,
-   "n": 295,
-   "win_pct": 0.698
+   "pendientes": 46,
+   "n": 335,
+   "win_pct": 0.699
   },
   "tenis": {
-   "ganados": 126,
-   "perdidos": 102,
+   "ganados": 132,
+   "perdidos": 105,
    "anulados": 0,
-   "pendientes": 24,
+   "pendientes": 15,
    "n": 252,
-   "win_pct": 0.553
+   "win_pct": 0.557
   }
  },
  "picks": [
+  {
+   "fecha": "2026-11-08",
+   "deporte": "amfut",
+   "liga": "NFL",
+   "liga_nombre": "NFL",
+   "local": "Carolina Panthers",
+   "visitante": "Denver Broncos",
+   "partido": "Denver Broncos @ Carolina Panthers",
+   "mercado": "Moneyline",
+   "pick": "ML: AWAY (Denver Broncos)",
+   "cuota": 1.704,
+   "prob": 0.6591,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "amfut",
+   "liga": "NFL",
+   "liga_nombre": "NFL",
+   "local": "Miami Dolphins",
+   "visitante": "Detroit Lions",
+   "partido": "Detroit Lions @ Miami Dolphins",
+   "mercado": "Moneyline",
+   "pick": "ML: AWAY (Detroit Lions)",
+   "cuota": 1.345,
+   "prob": 0.7825,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "amfut",
+   "liga": "NFL",
+   "liga_nombre": "NFL",
+   "local": "Washington Commanders",
+   "visitante": "Los Angeles Rams",
+   "partido": "Los Angeles Rams @ Washington Commanders",
+   "mercado": "Moneyline",
+   "pick": "ML: AWAY (Los Angeles Rams)",
+   "cuota": 1.42,
+   "prob": 0.7604,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "amfut",
+   "liga": "NFL",
+   "liga_nombre": "NFL",
+   "local": "Kansas City Chiefs",
+   "visitante": "New York Jets",
+   "partido": "New York Jets @ Kansas City Chiefs",
+   "mercado": "Totales",
+   "pick": "TOTAL: UNDER 48.5",
+   "cuota": 1.847,
+   "prob": 0.6122,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Milwaukee Bucks",
+   "visitante": "Boston Celtics",
+   "partido": "Boston Celtics @ Milwaukee Bucks",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 222.5",
+   "cuota": 1.943,
+   "prob": 0.6103,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Dallas Mavericks",
+   "visitante": "Brooklyn Nets",
+   "partido": "Brooklyn Nets @ Dallas Mavericks",
+   "mercado": "Moneyline",
+   "pick": "ML: HOME (Dallas Mavericks)",
+   "cuota": null,
+   "prob": 0.6762,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Detroit Pistons",
+   "visitante": "Los Angeles Lakers",
+   "partido": "Los Angeles Lakers @ Detroit Pistons",
+   "mercado": "Moneyline",
+   "pick": "ML: HOME (Detroit Pistons)",
+   "cuota": 1.541,
+   "prob": 0.6663,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Detroit Pistons",
+   "visitante": "Los Angeles Lakers",
+   "partido": "Los Angeles Lakers @ Detroit Pistons",
+   "mercado": "Totales",
+   "pick": "TOTAL: UNDER 221.5",
+   "cuota": 1.909,
+   "prob": 0.6099,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "LA Clippers",
+   "visitante": "New Orleans Pelicans",
+   "partido": "New Orleans Pelicans @ LA Clippers",
+   "mercado": "Moneyline",
+   "pick": "ML: HOME (LA Clippers)",
+   "cuota": 2.01,
+   "prob": 0.7659,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "LA Clippers",
+   "visitante": "New Orleans Pelicans",
+   "partido": "New Orleans Pelicans @ LA Clippers",
+   "mercado": "Spread",
+   "pick": "SPREAD: LA Clippers +1.5",
+   "cuota": 1.909,
+   "prob": 0.781,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Chicago Bulls",
+   "visitante": "Philadelphia 76ers",
+   "partido": "Philadelphia 76ers @ Chicago Bulls",
+   "mercado": "Spread",
+   "pick": "SPREAD: Chicago Bulls +9.5",
+   "cuota": 1.909,
+   "prob": 0.663,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Minnesota Timberwolves",
+   "visitante": "Utah Jazz",
+   "partido": "Utah Jazz @ Minnesota Timberwolves",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 223.5",
+   "cuota": 1.943,
+   "prob": 0.7426,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "NED",
+   "liga_nombre": "Eredivisie",
+   "local": "AZ Alkmaar",
+   "visitante": "FC Groningen",
+   "partido": "AZ Alkmaar vs FC Groningen",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7292035723890036,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "FRA",
+   "liga_nombre": "Ligue 1",
+   "local": "Angers",
+   "visitante": "Nice",
+   "partido": "Angers vs Nice",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7674959964742253,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ESP",
+   "liga_nombre": "La Liga",
+   "local": "Atletico Madrid",
+   "visitante": "Barcelona",
+   "partido": "Atletico Madrid vs Barcelona",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6665866897853872,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "FRA",
+   "liga_nombre": "Ligue 1",
+   "local": "Brest",
+   "visitante": "Lyon",
+   "partido": "Brest vs Lyon",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8346674694631022,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ENG",
+   "liga_nombre": "Premier League",
+   "local": "Brighton & Hove Albion",
+   "visitante": "Brentford",
+   "partido": "Brighton & Hove Albion vs Brentford",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6536222891780423,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "POR",
+   "liga_nombre": "Primeira Liga",
+   "local": "C.D. Nacional",
+   "visitante": "Académico de Viseu",
+   "partido": "C.D. Nacional vs Académico de Viseu",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8062840634461206,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ESP",
+   "liga_nombre": "La Liga",
+   "local": "Celta Vigo",
+   "visitante": "Levante",
+   "partido": "Celta Vigo vs Levante",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.9000341360820245,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "FAC",
+   "liga_nombre": "FA Cup",
+   "local": "Cray Wanderers",
+   "visitante": "Stockport County",
+   "partido": "Cray Wanderers vs Stockport County",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7945836132866263,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ENG",
+   "liga_nombre": "Premier League",
+   "local": "Crystal Palace",
+   "visitante": "Liverpool",
+   "partido": "Crystal Palace vs Liverpool",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6929257591836815,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ESP",
+   "liga_nombre": "La Liga",
+   "local": "Elche",
+   "visitante": "Real Betis",
+   "partido": "Elche vs Real Betis",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.668084686495368,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "POR",
+   "liga_nombre": "Primeira Liga",
+   "local": "Estoril",
+   "visitante": "Maritimo",
+   "partido": "Estoril vs Maritimo",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7954887123593104,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "POR",
+   "liga_nombre": "Primeira Liga",
+   "local": "Estrela",
+   "visitante": "Benfica",
+   "partido": "Estrela vs Benfica",
+   "mercado": "1X2",
+   "pick": "1X2: AWAY (2)",
+   "cuota": null,
+   "prob": 0.8295827961401927,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "GER",
+   "liga_nombre": "Bundesliga",
+   "local": "FC Cologne",
+   "visitante": "Bayer Leverkusen",
+   "partido": "FC Cologne vs Bayer Leverkusen",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6915229213635864,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "NED",
+   "liga_nombre": "Eredivisie",
+   "local": "FC Twente",
+   "visitante": "Ajax Amsterdam",
+   "partido": "FC Twente vs Ajax Amsterdam",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8437816564130611,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "NED",
+   "liga_nombre": "Eredivisie",
+   "local": "FC Utrecht",
+   "visitante": "NEC Nijmegen",
+   "partido": "FC Utrecht vs NEC Nijmegen",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7396397109390476,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ITA",
+   "liga_nombre": "Serie A",
+   "local": "Fiorentina",
+   "visitante": "Juventus",
+   "partido": "Fiorentina vs Juventus",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.846573777943784,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ITA",
+   "liga_nombre": "Serie A",
+   "local": "Genoa",
+   "visitante": "AC Milan",
+   "partido": "Genoa vs AC Milan",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8119056643773632,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "NED",
+   "liga_nombre": "Eredivisie",
+   "local": "Heerenveen",
+   "visitante": "Feyenoord Rotterdam",
+   "partido": "Heerenveen vs Feyenoord Rotterdam",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6960566562578917,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ITA",
+   "liga_nombre": "Serie A",
+   "local": "Inter",
+   "visitante": "Como",
+   "partido": "Inter vs Como",
+   "mercado": "BTTS",
+   "pick": "BTTS: YES",
+   "cuota": null,
+   "prob": 0.6766454442356633,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ENG",
+   "liga_nombre": "Premier League",
+   "local": "Ipswich Town",
+   "visitante": "AFC Bournemouth",
+   "partido": "Ipswich Town vs AFC Bournemouth",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7006393943745459,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "FRA",
+   "liga_nombre": "Ligue 1",
+   "local": "Le Havre AC",
+   "visitante": "Lorient",
+   "partido": "Le Havre AC vs Lorient",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7722324239562102,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "FRA",
+   "liga_nombre": "Ligue 1",
+   "local": "Le Mans",
+   "visitante": "Monaco",
+   "partido": "Le Mans vs Monaco",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8057143492800014,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "FRA",
+   "liga_nombre": "Ligue 1",
+   "local": "Lens",
+   "visitante": "Marseille",
+   "partido": "Lens vs Marseille",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6807519931565998,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "MEX",
+   "liga_nombre": "Liga MX",
+   "local": "León",
+   "visitante": "Guadalajara",
+   "partido": "León vs Guadalajara",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.818736019506314,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ENG",
+   "liga_nombre": "Premier League",
+   "local": "Manchester United",
+   "visitante": "Aston Villa",
+   "partido": "Manchester United vs Aston Villa",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7007998883294644,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ITA",
+   "liga_nombre": "Serie A",
+   "local": "Monza",
+   "visitante": "Atalanta",
+   "partido": "Monza vs Atalanta",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7218515571590156,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ITA",
+   "liga_nombre": "Serie A",
+   "local": "Napoli",
+   "visitante": "Lazio",
+   "partido": "Napoli vs Lazio",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.814444633639148,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "FAC",
+   "liga_nombre": "FA Cup",
+   "local": "Oldham Athletic",
+   "visitante": "Sheffield Wednesday",
+   "partido": "Oldham Athletic vs Sheffield Wednesday",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7630525496482194,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "MEX",
+   "liga_nombre": "Liga MX",
+   "local": "Querétaro",
+   "visitante": "Puebla",
+   "partido": "Querétaro vs Puebla",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.8644587476034925,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ESP",
+   "liga_nombre": "La Liga",
+   "local": "Real Sociedad",
+   "visitante": "Rayo Vallecano",
+   "partido": "Real Sociedad vs Rayo Vallecano",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7450753126674574,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "POR",
+   "liga_nombre": "Primeira Liga",
+   "local": "Rio Ave",
+   "visitante": "Braga",
+   "partido": "Rio Ave vs Braga",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: X2",
+   "cuota": null,
+   "prob": 0.8062218680464004,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "NED",
+   "liga_nombre": "Eredivisie",
+   "local": "SC Cambuur",
+   "visitante": "PSV Eindhoven",
+   "partido": "SC Cambuur vs PSV Eindhoven",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7383016697476599,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "GER",
+   "liga_nombre": "Bundesliga",
+   "local": "SC Freiburg",
+   "visitante": "1. FC Union Berlin",
+   "partido": "SC Freiburg vs 1. FC Union Berlin",
+   "mercado": "1X2",
+   "pick": "1X2: HOME (1)",
+   "cuota": null,
+   "prob": 0.7585516982814564,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "POR",
+   "liga_nombre": "Primeira Liga",
+   "local": "Santa Clara",
+   "visitante": "Gil Vicente",
+   "partido": "Santa Clara vs Gil Vicente",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.8230011039160383,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "FRA",
+   "liga_nombre": "Ligue 1",
+   "local": "Stade Rennais",
+   "visitante": "Lille",
+   "partido": "Stade Rennais vs Lille",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6728665378168794,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "FAC",
+   "liga_nombre": "FA Cup",
+   "local": "Stafford Rangers",
+   "visitante": "Grimsby Town",
+   "partido": "Stafford Rangers vs Grimsby Town",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8155245607649291,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ENG",
+   "liga_nombre": "Premier League",
+   "local": "Sunderland",
+   "visitante": "Chelsea",
+   "partido": "Sunderland vs Chelsea",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8467954066045054,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "GER",
+   "liga_nombre": "Bundesliga",
+   "local": "TSG Hoffenheim",
+   "visitante": "Schalke 04",
+   "partido": "TSG Hoffenheim vs Schalke 04",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.8688874768719078,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "ESP",
+   "liga_nombre": "La Liga",
+   "local": "Villarreal",
+   "visitante": "Getafe",
+   "partido": "Villarreal vs Getafe",
+   "mercado": "1X2",
+   "pick": "1X2: HOME (1)",
+   "cuota": null,
+   "prob": 0.7406467155429876,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "POR",
+   "liga_nombre": "Primeira Liga",
+   "local": "Vitória de Guimaraes",
+   "visitante": "FC Porto",
+   "partido": "Vitória de Guimaraes vs FC Porto",
+   "mercado": "1X2",
+   "pick": "1X2: AWAY (2)",
+   "cuota": null,
+   "prob": 0.7142562878446723,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-08",
+   "deporte": "futbol",
+   "liga": "FAC",
+   "liga_nombre": "FA Cup",
+   "local": "Wimborne Town",
+   "visitante": "Crawley Town",
+   "partido": "Wimborne Town vs Crawley Town",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.6647598693289687,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
   {
    "fecha": "2026-11-07",
    "deporte": "amfut",
@@ -66,7 +861,7 @@
    "cuota": 1.769,
    "prob": 0.7677,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -78,8 +873,8 @@
    "partido": "Colorado Buffaloes @ Arizona State Sun Devils",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Arizona State Sun Devils)",
-   "cuota": 1.617,
-   "prob": 0.7805,
+   "cuota": 1.645,
+   "prob": 0.8047,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -93,8 +888,23 @@
    "partido": "Colorado Buffaloes @ Arizona State Sun Devils",
    "mercado": "Spread",
    "pick": "SPREAD: Arizona State Sun Devils -3",
-   "cuota": 1.847,
-   "prob": 0.6036,
+   "cuota": 1.87,
+   "prob": 0.6035,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-07",
+   "deporte": "amfut",
+   "liga": "NCAAF",
+   "liga_nombre": "NCAAF (College)",
+   "local": "Arizona State Sun Devils",
+   "visitante": "Colorado Buffaloes",
+   "partido": "Colorado Buffaloes @ Arizona State Sun Devils",
+   "mercado": "Totales",
+   "pick": "TOTAL: OVER 45.5",
+   "cuota": 1.952,
+   "prob": 0.6136,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -109,7 +919,7 @@
    "mercado": "Moneyline",
    "pick": "ML: HOME (Tennessee Volunteers)",
    "cuota": 1.488,
-   "prob": 0.7552,
+   "prob": 0.7551,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -126,7 +936,7 @@
    "cuota": 2.7,
    "prob": 0.6139,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -141,7 +951,7 @@
    "cuota": null,
    "prob": 0.9508,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -156,7 +966,7 @@
    "cuota": 3.45,
    "prob": 0.6885,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -171,7 +981,7 @@
    "cuota": 1.926,
    "prob": 0.6356,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -186,7 +996,7 @@
    "cuota": 3.0,
    "prob": 0.6628,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -201,7 +1011,7 @@
    "cuota": 1.98,
    "prob": 0.6048,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -216,7 +1026,7 @@
    "cuota": 1.893,
    "prob": 0.632,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -228,8 +1038,8 @@
    "partido": "Oregon Ducks @ Ohio State Buckeyes",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Ohio State Buckeyes)",
-   "cuota": 1.328,
-   "prob": 0.785,
+   "cuota": 1.308,
+   "prob": 0.7849,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -246,7 +1056,7 @@
    "cuota": 2.64,
    "prob": 0.6001,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -261,7 +1071,7 @@
    "cuota": 1.87,
    "prob": 0.6328,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -287,9 +1097,9 @@
    "visitante": "West Virginia Mountaineers",
    "partido": "West Virginia Mountaineers @ Texas Tech Red Raiders",
    "mercado": "Totales",
-   "pick": "TOTAL: UNDER 65.5",
-   "cuota": 1.893,
-   "prob": 0.6126,
+   "pick": "TOTAL: UNDER 67.5",
+   "cuota": 1.87,
+   "prob": 0.6283,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -303,7 +1113,7 @@
    "partido": "Brooklyn Nets @ Atlanta Hawks",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Atlanta Hawks)",
-   "cuota": 1.395,
+   "cuota": 1.377,
    "prob": 0.7386,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -318,7 +1128,7 @@
    "partido": "Denver Nuggets @ Indiana Pacers",
    "mercado": "Totales",
    "pick": "TOTAL: OVER 229.5",
-   "cuota": 1.909,
+   "cuota": 1.935,
    "prob": 0.6782,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
@@ -333,7 +1143,7 @@
    "partido": "New York Knicks @ Cleveland Cavaliers",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (New York Knicks)",
-   "cuota": 1.585,
+   "cuota": 1.508,
    "prob": 0.7006,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -348,7 +1158,7 @@
    "partido": "New York Knicks @ Cleveland Cavaliers",
    "mercado": "Spread",
    "pick": "SPREAD: New York Knicks -4.5",
-   "cuota": 1.943,
+   "cuota": 1.893,
    "prob": 0.6237,
    "tier": "BUENO",
    "estado": "PENDIENTE"
@@ -363,7 +1173,7 @@
    "partido": "Orlando Magic @ Golden State Warriors",
    "mercado": "Moneyline",
    "pick": "ML: AWAY (Orlando Magic)",
-   "cuota": 3.08,
+   "cuota": 3.5,
    "prob": 0.6062,
    "tier": "BUENO",
    "estado": "PENDIENTE"
@@ -377,9 +1187,9 @@
    "visitante": "Orlando Magic",
    "partido": "Orlando Magic @ Golden State Warriors",
    "mercado": "Spread",
-   "pick": "SPREAD: Orlando Magic +6.5",
-   "cuota": 1.943,
-   "prob": 0.7549,
+   "pick": "SPREAD: Orlando Magic +7.5",
+   "cuota": 1.909,
+   "prob": 0.774,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -393,7 +1203,7 @@
    "partido": "Washington Wizards @ Oklahoma City Thunder",
    "mercado": "Moneyline",
    "pick": "ML: HOME (Oklahoma City Thunder)",
-   "cuota": 1.206,
+   "cuota": 1.161,
    "prob": 0.89,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -407,9 +1217,9 @@
    "visitante": "Washington Wizards",
    "partido": "Washington Wizards @ Oklahoma City Thunder",
    "mercado": "Spread",
-   "pick": "SPREAD: Oklahoma City Thunder -11.5",
+   "pick": "SPREAD: Oklahoma City Thunder -12.5",
    "cuota": 1.909,
-   "prob": 0.639,
+   "prob": 0.6155,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -422,10 +1232,10 @@
    "visitante": "Washington Wizards",
    "partido": "Washington Wizards @ Oklahoma City Thunder",
    "mercado": "Totales",
-   "pick": "TOTAL: OVER 220.5",
+   "pick": "TOTAL: OVER 223.5",
    "cuota": 1.877,
-   "prob": 0.7168,
-   "tier": "TOP PICK",
+   "prob": 0.6739,
+   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -441,7 +1251,7 @@
    "cuota": null,
    "prob": 0.7038366524283306,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -456,7 +1266,7 @@
    "cuota": null,
    "prob": 0.8410179358693568,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -471,7 +1281,7 @@
    "cuota": null,
    "prob": 0.8411273406694009,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -486,7 +1296,7 @@
    "cuota": null,
    "prob": 0.8346777329761982,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -501,7 +1311,7 @@
    "cuota": null,
    "prob": 0.7368198624961908,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -516,7 +1326,7 @@
    "cuota": null,
    "prob": 0.6344124892823328,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -531,7 +1341,7 @@
    "cuota": null,
    "prob": 0.9358925753843038,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -544,7 +1354,7 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.6900644788856947,
+   "prob": 0.6907028386693497,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -561,7 +1371,7 @@
    "cuota": null,
    "prob": 0.7342111654120684,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -576,7 +1386,7 @@
    "cuota": null,
    "prob": 0.8190324368812787,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -591,7 +1401,7 @@
    "cuota": null,
    "prob": 0.8316251850537527,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -606,7 +1416,7 @@
    "cuota": null,
    "prob": 0.7187173021705069,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -621,7 +1431,7 @@
    "cuota": null,
    "prob": 0.785636789546743,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -636,7 +1446,7 @@
    "cuota": null,
    "prob": 0.7388899050649134,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -651,22 +1461,7 @@
    "cuota": null,
    "prob": 0.6646273381349045,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-07",
-   "deporte": "futbol",
-   "liga": "POR",
-   "liga_nombre": "Primeira Liga",
-   "local": "C.D. Nacional",
-   "visitante": "Académico de Viseu",
-   "partido": "C.D. Nacional vs Académico de Viseu",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8062840634461206,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -681,7 +1476,7 @@
    "cuota": null,
    "prob": 0.8483760465613795,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -696,7 +1491,7 @@
    "cuota": null,
    "prob": 0.6900927041659031,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -711,7 +1506,7 @@
    "cuota": null,
    "prob": 0.6647305220061347,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -726,7 +1521,7 @@
    "cuota": null,
    "prob": 0.8203651925265842,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -741,7 +1536,7 @@
    "cuota": null,
    "prob": 0.6967437393544476,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -756,7 +1551,7 @@
    "cuota": null,
    "prob": 0.6879064539548975,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -771,7 +1566,7 @@
    "cuota": null,
    "prob": 0.82473002489429,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -786,7 +1581,7 @@
    "cuota": null,
    "prob": 0.7170218660479921,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -801,7 +1596,7 @@
    "cuota": null,
    "prob": 0.7756940591895634,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -816,7 +1611,7 @@
    "cuota": null,
    "prob": 0.695132836344992,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -831,7 +1626,7 @@
    "cuota": null,
    "prob": 0.7931042258414148,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -846,7 +1641,7 @@
    "cuota": null,
    "prob": 0.7769242618650578,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -861,7 +1656,7 @@
    "cuota": null,
    "prob": 0.6407020839305055,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -876,7 +1671,7 @@
    "cuota": null,
    "prob": 0.8445369961768617,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -891,7 +1686,7 @@
    "cuota": null,
    "prob": 0.8276648194667382,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -906,7 +1701,7 @@
    "cuota": null,
    "prob": 0.7984997510110773,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -921,7 +1716,7 @@
    "cuota": null,
    "prob": 0.753005210304379,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -936,7 +1731,7 @@
    "cuota": null,
    "prob": 0.7343664514651949,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -951,7 +1746,7 @@
    "cuota": null,
    "prob": 0.8430611995858514,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -966,7 +1761,7 @@
    "cuota": null,
    "prob": 0.7623542423848562,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -981,7 +1776,7 @@
    "cuota": null,
    "prob": 0.6857388387937063,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -996,7 +1791,7 @@
    "cuota": null,
    "prob": 0.8484847099724557,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1011,7 +1806,7 @@
    "cuota": null,
    "prob": 0.6956486396788207,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1026,7 +1821,7 @@
    "cuota": null,
    "prob": 0.7220600041444448,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -1041,7 +1836,7 @@
    "cuota": null,
    "prob": 0.8230349011866837,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1056,7 +1851,7 @@
    "cuota": null,
    "prob": 0.8985225279353807,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1071,7 +1866,7 @@
    "cuota": null,
    "prob": 0.781909044594547,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1086,7 +1881,7 @@
    "cuota": null,
    "prob": 0.7427424615488698,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1101,7 +1896,7 @@
    "cuota": null,
    "prob": 0.7712094195893475,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1116,7 +1911,7 @@
    "cuota": null,
    "prob": 0.851749635785675,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1129,7 +1924,7 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.7296863212435245,
+   "prob": 0.7256960081828525,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -1146,7 +1941,7 @@
    "cuota": null,
    "prob": 0.7438662446107178,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1161,7 +1956,7 @@
    "cuota": null,
    "prob": 0.705146005822632,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1176,7 +1971,7 @@
    "cuota": null,
    "prob": 0.6843596355336697,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1191,7 +1986,7 @@
    "cuota": null,
    "prob": 0.8404485039881536,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1206,7 +2001,7 @@
    "cuota": null,
    "prob": 0.7784813851607644,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -1219,7 +2014,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.7849842113472373,
+   "prob": 0.785617336922875,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -1234,7 +2029,7 @@
    "mercado": "O/U 2.5",
    "pick": "O/U 2.5: OVER",
    "cuota": null,
-   "prob": 0.7044032675238856,
+   "prob": 0.7049822468020587,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -1251,7 +2046,7 @@
    "cuota": null,
    "prob": 0.6976471202052957,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -1266,7 +2061,7 @@
    "cuota": null,
    "prob": 0.8226336764502865,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1281,7 +2076,7 @@
    "cuota": null,
    "prob": 0.723788807831531,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1296,7 +2091,7 @@
    "cuota": null,
    "prob": 0.7335137212616902,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1311,7 +2106,7 @@
    "cuota": 1.8,
    "prob": 0.6039,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1326,7 +2121,7 @@
    "cuota": 2.1,
    "prob": 0.7231000000000001,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -1341,7 +2136,7 @@
    "cuota": 6.5,
    "prob": 0.8877,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1356,7 +2151,7 @@
    "cuota": 1.54,
    "prob": 0.6691,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1371,7 +2166,7 @@
    "cuota": null,
    "prob": 0.7839,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1386,7 +2181,7 @@
    "cuota": 2.2,
    "prob": 0.6594,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -1401,7 +2196,7 @@
    "cuota": 1.58,
    "prob": 0.7325,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-07",
@@ -1416,7 +2211,7 @@
    "cuota": 1.63,
    "prob": 0.6967,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-07",
@@ -1431,7 +2226,7 @@
    "cuota": 1.87,
    "prob": 0.6358,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1611,7 +2406,7 @@
    "cuota": 1.926,
    "prob": 0.6682,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -1626,7 +2421,7 @@
    "cuota": 1.909,
    "prob": 0.727,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -1701,7 +2496,7 @@
    "cuota": null,
    "prob": 0.75656364398119,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",

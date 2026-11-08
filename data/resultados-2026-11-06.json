@@ -1,13 +1,13 @@
 {
  "day": "2026-11-06",
- "generated_at": "2026-11-06T21:56:36",
+ "generated_at": "2026-11-07T18:36:23",
  "total": {
-  "ganados": 23,
-  "perdidos": 13,
+  "ganados": 25,
+  "perdidos": 14,
   "anulados": 0,
-  "pendientes": 4,
+  "pendientes": 1,
   "n": 40,
-  "win_pct": 0.639
+  "win_pct": 0.641
  },
  "picks": [
   {
@@ -188,7 +188,7 @@
    "cuota": 1.926,
    "prob": 0.6682,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-06",
@@ -203,7 +203,7 @@
    "cuota": 1.909,
    "prob": 0.727,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
@@ -278,7 +278,7 @@
    "cuota": null,
    "prob": 0.75656364398119,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-06",
