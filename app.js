@@ -990,7 +990,15 @@
     const picks = r.picks || [];
 
     const labels = {};
-    predictions.forEach((g) => { if (g.league_code) labels[g.league_code] = g.league_label || g.league_code; });
+    // Catalogo completo del deporte (todas las ligas seleccionables, aunque
+    // ese dia no tengan partidos) + cualquier liga que venga en los datos.
+    const infoDeporte = (day.sports || []).find((s) => s.key === state.currentSport.key) || {};
+    (infoDeporte.leagues || []).forEach((lg) => {
+      if (lg && lg.code) labels[lg.code] = lg.name || lg.code;
+    });
+    predictions.forEach((g) => {
+      if (g.league_code) labels[g.league_code] = g.league_label || labels[g.league_code] || g.league_code;
+    });
     const codes = Object.keys(labels);
     const prev = els.leagueSelect.value || "ALL";
     els.leagueSelect.innerHTML = "";
