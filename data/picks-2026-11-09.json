@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-08T23:46:59",
- "sports_total": "31 partidos",
+ "generated_at": "2026-11-09T10:35:18",
+ "sports_total": "33 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -207,6 +207,30 @@
     {
      "code": "GER",
      "name": "BBL Alemania"
+    },
+    {
+     "code": "TUR",
+     "name": "BSL Turquia"
+    },
+    {
+     "code": "ITA",
+     "name": "Lega A Italia"
+    },
+    {
+     "code": "GRE",
+     "name": "Basket League Grecia"
+    },
+    {
+     "code": "ISR",
+     "name": "Liga de Israel"
+    },
+    {
+     "code": "ABA",
+     "name": "ABA Liga (Adriatico)"
+    },
+    {
+     "code": "LTU",
+     "name": "LKL Lituania"
     }
    ]
   }
@@ -231,8 +255,8 @@
    "date": "2026-11-09",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 14,
-   "message": "14 partidos proyectados",
+   "n": 9,
+   "message": "9 partidos proyectados",
    "picks": [
     {
      "match": "Max Dahlin vs Tomas Martin Etcheverry",
@@ -293,192 +317,9 @@
      "line": null,
      "league_code": "WTA",
      "league_label": "WTA Tour"
-    },
-    {
-     "match": "Adolfo Daniel Vallejo vs Ugo Humbert",
-     "market": "ML",
-     "pick": "Ugo Humbert",
-     "prob": 0.737,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "",
-     "edge": null,
-     "ev": null,
-     "odds": null,
-     "line": null,
-     "league_code": "ATP",
-     "league_label": "ATP Tour"
     }
    ],
    "predictions": [
-    {
-     "home": "Alex Michelsen",
-     "away": "Yannick Hanfmann",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Bybit Stockholm Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Alex Michelsen",
-       "prob": 0.7207,
-       "detail": "Alex Michelsen 72% · Yannick Hanfmann 28%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5324,
-       "detail": "OVER 23.5 · 53% · Proyectado 24.3",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Yannick Hanfmann",
-       "prob": 0.5658000000000001,
-       "detail": "Hándicap Sets -1.5 · 43% · (+130)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.6615,
-       "detail": "UNDER 10.5 · 66% · Proyectado 10.0",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": false
-    },
-    {
-     "home": "Cameron Norrie",
-     "away": "James Duckworth",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Bybit Stockholm Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Cameron Norrie",
-       "prob": 0.6907,
-       "detail": "Cameron Norrie 69% · James Duckworth 31%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5226,
-       "detail": "UNDER 23.5 · 52% · Proyectado 23.6",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "James Duckworth",
-       "prob": 0.5207999999999999,
-       "detail": "Hándicap Sets -1.5 · 48% · (+109)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5867,
-       "detail": "OVER 9.5 · 59% · Proyectado 10.0",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": true
-    },
-    {
-     "home": "Borna Gojo",
-     "away": "Tomas Machac",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Bybit Stockholm Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Tomas Machac",
-       "prob": 0.7119,
-       "detail": "Borna Gojo 29% · Tomas Machac 71%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5087999999999999,
-       "detail": "UNDER 23.5 · 51% · Proyectado 24.4",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Tomas Machac",
-       "prob": 0.7641,
-       "detail": "Hándicap Sets -1.5 · 24% · (+324)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.6011,
-       "detail": "OVER 9.5 · 60% · Proyectado 10.4",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": true
-    },
-    {
-     "home": "Adolfo Daniel Vallejo",
-     "away": "Ugo Humbert",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Bybit Stockholm Open, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Ugo Humbert",
-       "prob": 0.737,
-       "detail": "Adolfo Daniel Vallejo 26% · Ugo Humbert 74%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5063,
-       "detail": "UNDER 23.5 · 51% · Proyectado 23.3",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Ugo Humbert",
-       "prob": 0.8438,
-       "detail": "Hándicap Sets -1.5 · 16% · (+540)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.6756,
-       "detail": "UNDER 9.5 · 68% · Proyectado 9.6",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
     {
      "home": "Max Dahlin",
      "away": "Tomas Martin Etcheverry",
@@ -562,48 +403,6 @@
      ],
      "convergence": true,
      "momentum_ok": false
-    },
-    {
-     "home": "Janice Tjen",
-     "away": "Magda Linette",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "Chennai Open, Hard, Ronda: Final, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Magda Linette",
-       "prob": 0.5351,
-       "detail": "Janice Tjen 46% · Magda Linette 54%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5162,
-       "detail": "OVER 21.5 · 52% · Proyectado 22.2",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Magda Linette",
-       "prob": 0.7401,
-       "detail": "Hándicap Sets -1.5 · 26% · (+285)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5233,
-       "detail": "OVER 9.5 · 52% · Proyectado 9.4",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": true
     },
     {
      "home": "Aryna Sabalenka",
@@ -900,19 +699,22 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 288.1,
+   "elapsed_s": 219.1,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true,
-   "picks_total_brutos": 6,
+   "picks_total_brutos": 4,
    "picks_policy": {
     "mercados_excluidos": [
      "HANDICAP JUEGOS",
      "SET1 JUEGOS"
     ],
-    "min_prob": 0.7,
-    "conservados": 5,
-    "descartados": 1
+    "min_prob": {
+     "ATP": 0.7,
+     "WTA": 0.7
+    },
+    "conservados": 4,
+    "descartados": 0
    }
   },
   "futbol": {
@@ -927,7 +729,7 @@
      "match": "Plymouth Parkway vs Berkhamsted",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8404485039881536,
+     "prob": 0.8405292430780951,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -949,35 +751,35 @@
       {
        "label": "1X2",
        "pick": "Plymouth Parkway",
-       "prob": 0.4681617853549371,
+       "prob": 0.4681926922547067,
        "detail": "Local 47% · Empate 25% · Visitante 28%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7510744106135627,
+       "prob": 0.7511112436565024,
        "detail": "1X 72% · X2 53% · 12 75%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5926463962099786,
+       "prob": 0.5927922666926654,
        "detail": "OVER 2.5 goles · 59%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8404485039881536,
+       "prob": 0.8405292430780951,
        "detail": "OVER 1.5 goles · 84%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5990212831282125,
+       "prob": 0.5991296807297131,
        "detail": "BTTS Sí 60%",
        "strong": false
       },
@@ -985,20 +787,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 3.12",
+       "detail": "Goles esperados 3.13",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.715193013121587,
+       "prob": 0.7150816578111577,
        "detail": "Línea +1.5 · AWAY 72%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.588491063825039,
+       "prob": 0.588793811833866,
        "detail": "LOCAL OVER 1.5 goles 59%",
        "strong": false
       }
@@ -1007,7 +809,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 72.9,
+   "elapsed_s": 75.9,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true,
@@ -1016,7 +818,9 @@
     "mercados_excluidos": [
      "BTTS"
     ],
-    "min_prob": 0.7,
+    "min_prob": {
+     "FAC": 0.7
+    },
     "conservados": 1,
     "descartados": 0
    }
@@ -1057,8 +861,8 @@
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5030397742679613,
-       "detail": "Línea 43.5 · OVER 50% / UNDER 50%",
+       "prob": 0.5171039790200689,
+       "detail": "Línea 44.5 · OVER 48% / UNDER 52%",
        "strong": false
       },
       {
@@ -1073,7 +877,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 11.5,
+   "elapsed_s": 10.6,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true
@@ -1083,8 +887,8 @@
    "date": "2026-11-09",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 15,
-   "message": "15 partidos proyectados",
+   "n": 22,
+   "message": "22 partidos proyectados",
    "picks": [
     {
      "match": "Grambling Tigers @ Texas Longhorns",
@@ -1112,6 +916,36 @@
      "league_code": "NCAA",
      "league_label": "",
      "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Verona @ Virtus Bologna",
+     "market": "Moneyline",
+     "pick": "ML: HOME (Virtus Bologna)",
+     "prob": 0.8998,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=90% · momio 1.1053 · EV -0.5% · sin historico · favorito del mercado",
+     "league_code": "ITA",
+     "league_label": "",
+     "odds": 1.105,
+     "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Besiktas @ Karsiyaka",
+     "market": "Moneyline",
+     "pick": "ML: AWAY (Besiktas)",
+     "prob": 0.8689,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=87% · momio 1.1389 · EV -1.0% · sin historico · favorito del mercado",
+     "league_code": "TUR",
+     "league_label": "",
+     "odds": 1.139,
      "line": null,
      "edge": null,
      "ev": null
@@ -1153,15 +987,15 @@
       {
        "label": "Spread",
        "pick": "Atlanta Hawks",
-       "prob": 0.5264384019865003,
-       "detail": "Atlanta Hawks +2.5 · 53%",
+       "prob": 0.5008698319337135,
+       "detail": "Atlanta Hawks +0.4 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5143032299193906,
-       "detail": "Línea 235.5 · OVER 49% / UNDER 51%",
+       "prob": 0.5307332282118755,
+       "detail": "Línea 237.5 · OVER 47% / UNDER 53%",
        "strong": false
       },
       {
@@ -1195,15 +1029,15 @@
       {
        "label": "Spread",
        "pick": "Charlotte Hornets",
-       "prob": 0.5224257235868548,
-       "detail": "Charlotte Hornets +8.5 · 52%",
+       "prob": 0.5002644636956425,
+       "detail": "Charlotte Hornets +6.7 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5889389683014293,
-       "detail": "Línea 215.5 · OVER 59% / UNDER 41%",
+       "prob": 0.5969431810599047,
+       "detail": "Línea 214.5 · OVER 60% / UNDER 40%",
        "strong": false
       },
       {
@@ -1236,16 +1070,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Detroit Pistons",
-       "prob": 0.5317709868813285,
-       "detail": "Detroit Pistons -9.5 · 53%",
+       "pick": "Washington Wizards",
+       "prob": 0.5008282874846998,
+       "detail": "Washington Wizards +12.1 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5694568118115657,
-       "detail": "Línea 218.5 · OVER 57% / UNDER 43%",
+       "prob": 0.5775452988755883,
+       "detail": "Línea 217.5 · OVER 58% / UNDER 42%",
        "strong": false
       },
       {
@@ -1278,16 +1112,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Memphis Grizzlies",
-       "prob": 0.530774965461381,
-       "detail": "Memphis Grizzlies +3.5 · 53%",
+       "pick": "Toronto Raptors",
+       "prob": 0.5003481055593589,
+       "detail": "Toronto Raptors -1 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5246649226244352,
-       "detail": "Línea 230.5 · OVER 52% / UNDER 48%",
+       "prob": 0.5328720684378265,
+       "detail": "Línea 229.5 · OVER 53% / UNDER 47%",
        "strong": false
       },
       {
@@ -1320,16 +1154,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Indiana Pacers",
-       "prob": 0.5036935341669488,
-       "detail": "Indiana Pacers +3.5 · 50%",
+       "pick": "Dallas Mavericks",
+       "prob": 0.5000479312312246,
+       "detail": "Dallas Mavericks -3.2 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.553989720977851,
-       "detail": "Línea 222.5 · OVER 55% / UNDER 45%",
+       "prob": 0.5212307673232477,
+       "detail": "Línea 226.5 · OVER 52% / UNDER 48%",
        "strong": false
       },
       {
@@ -1363,15 +1197,15 @@
       {
        "label": "Spread",
        "pick": "Houston Rockets",
-       "prob": 0.5013315938431245,
-       "detail": "Houston Rockets -8.5 · 50%",
+       "prob": 0.5001848242578774,
+       "detail": "Houston Rockets -8.6 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.601045611015264,
-       "detail": "Línea 217.5 · OVER 60% / UNDER 40%",
+       "prob": 0.5850391140708587,
+       "detail": "Línea 219.5 · OVER 59% / UNDER 41%",
        "strong": false
       },
       {
@@ -1404,16 +1238,16 @@
       },
       {
        "label": "Spread",
-       "pick": "San Antonio Spurs",
-       "prob": 0.512253736495378,
-       "detail": "San Antonio Spurs -8.5 · 51%",
+       "pick": "Phoenix Suns",
+       "prob": 0.5002723558051325,
+       "detail": "Phoenix Suns +9.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5206154538623828,
-       "detail": "Línea 228.5 · OVER 52% / UNDER 48%",
+       "prob": 0.5288281998871466,
+       "detail": "Línea 227.5 · OVER 53% / UNDER 47%",
        "strong": false
       },
       {
@@ -1446,16 +1280,16 @@
       },
       {
        "label": "Spread",
-       "pick": "New Orleans Pelicans",
-       "prob": 0.5489412234174071,
-       "detail": "New Orleans Pelicans +9.5 · 55%",
+       "pick": "Golden State Warriors",
+       "prob": 0.5010054672091817,
+       "detail": "Golden State Warriors -5.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5094317033301814,
-       "detail": "Línea 231.5 · OVER 51% / UNDER 49%",
+       "prob": 0.5012038830457849,
+       "detail": "Línea 232.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
@@ -1488,9 +1322,9 @@
       },
       {
        "label": "Spread",
-       "pick": "Wagner Seahawks",
-       "prob": 0.7361193325569212,
-       "detail": "Wagner Seahawks +37.5 · 74%",
+       "pick": "UConn Huskies",
+       "prob": 0.5002286777390466,
+       "detail": "UConn Huskies -14 · 50%",
        "strong": false
       },
       {
@@ -1530,16 +1364,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Grambling Tigers",
-       "prob": 0.6806706592639047,
-       "detail": "Grambling Tigers +35.5 · 68%",
+       "pick": "Texas Longhorns",
+       "prob": 0.5006782414774783,
+       "detail": "Texas Longhorns -18 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5230357754835147,
-       "detail": "Línea 152.5 · OVER 52% / UNDER 48%",
+       "prob": 0.5131085990923204,
+       "detail": "Línea 153.5 · OVER 51% / UNDER 49%",
        "strong": false
       },
       {
@@ -1573,15 +1407,15 @@
       {
        "label": "Spread",
        "pick": "Radford Highlanders",
-       "prob": 0.6994019510356395,
-       "detail": "Radford Highlanders +28.5 · 70%",
+       "prob": 0.500942663223086,
+       "detail": "Radford Highlanders +9.1 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5131128434467708,
-       "detail": "Línea 152.5 · OVER 51% / UNDER 49%",
+       "prob": 0.5031775394436868,
+       "detail": "Línea 153.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
@@ -1615,15 +1449,15 @@
       {
        "label": "Spread",
        "pick": "North Florida Ospreys",
-       "prob": 0.7003573390942432,
-       "detail": "North Florida Ospreys +34.5 · 70%",
+       "prob": 0.5009898616988941,
+       "detail": "North Florida Ospreys +15 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5606931288180703,
-       "detail": "Línea 162.5 · OVER 44% / UNDER 56%",
+       "prob": 0.5802553151151019,
+       "detail": "Línea 164.5 · OVER 42% / UNDER 58%",
        "strong": false
       },
       {
@@ -1657,15 +1491,15 @@
       {
        "label": "Spread",
        "pick": "Oakland Golden Grizzlies",
-       "prob": 0.6471528362944917,
-       "detail": "Oakland Golden Grizzlies +32.5 · 65%",
+       "prob": 0.50104120271484,
+       "detail": "Oakland Golden Grizzlies +18.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5612711137416041,
-       "detail": "Línea 171.5 · OVER 44% / UNDER 56%",
+       "prob": 0.5514330523849649,
+       "detail": "Línea 170.5 · OVER 45% / UNDER 55%",
        "strong": false
       },
       {
@@ -1680,8 +1514,8 @@
      "momentum_ok": false
     },
     {
-     "home": "Samsung Thunders",
-     "away": "KT Sonicboom",
+     "home": "Seoul Thunders",
+     "away": "Suwon KT",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "KOR",
@@ -1691,30 +1525,30 @@
      "markets": [
       {
        "label": "Moneyline",
-       "pick": "Samsung Thunders",
-       "prob": 0.5896104101419609,
-       "detail": "Local 59% · Visitante 41%",
+       "pick": "Seoul Thunders",
+       "prob": 0.5594943716956494,
+       "detail": "Local 56% · Visitante 44%",
        "strong": false
       },
       {
        "label": "Spread",
-       "pick": "KT Sonicboom",
-       "prob": 0.5010261853358494,
-       "detail": "KT Sonicboom +4.5 · 50%",
+       "pick": "Seoul Thunders",
+       "prob": 0.5,
+       "detail": "Seoul Thunders -2 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5001130021944945,
-       "detail": "Línea 197.8 · OVER 50% / UNDER 50%",
+       "prob": 0.5,
+       "detail": "Línea 168.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 197.8",
+       "detail": "Total 168.5",
        "strong": false
       }
      ],
@@ -1722,8 +1556,218 @@
      "momentum_ok": false
     },
     {
-     "home": "Medipolis SC Jena",
-     "away": "Hamburg Towers",
+     "home": "Karsiyaka",
+     "away": "Besiktas",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "TUR",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Besiktas",
+       "prob": 0.868948383293069,
+       "detail": "Local 13% · Visitante 87%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Karsiyaka",
+       "prob": 0.5,
+       "detail": "Karsiyaka +9.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 161.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 161.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Ironi Eilat",
+     "away": "Hapoel Beer Sheva",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ISR",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Ironi Eilat",
+       "prob": 0.6972283748560646,
+       "detail": "Local 70% · Visitante 30%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Ironi Eilat",
+       "prob": 0.5,
+       "detail": "Ironi Eilat -5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 169 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 169.0",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Bnei Herzliya",
+     "away": "Maccabi Ashdod",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ISR",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Bnei Herzliya",
+       "prob": 0.6808786941032149,
+       "detail": "Local 68% · Visitante 32%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Bnei Herzliya",
+       "prob": 0.5,
+       "detail": "Bnei Herzliya -5.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 174.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 174.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Crvena Zvezda Meridianbet",
+     "away": "Slovan Bratislava",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ABA",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Crvena Zvezda Meridianbet",
+       "prob": 0.9745464724931625,
+       "detail": "Local 97% · Visitante 3%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Crvena Zvezda Meridianbet",
+       "prob": 0.5,
+       "detail": "Crvena Zvezda Meridianbet -19 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 171.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 171.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Siroki Brijeg",
+     "away": "Cibona",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ABA",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Siroki Brijeg",
+       "prob": 0.6384095248462273,
+       "detail": "Local 64% · Visitante 36%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Siroki Brijeg",
+       "prob": 0.5,
+       "detail": "Siroki Brijeg -4.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 165.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 165.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Jena",
+     "away": "Hamburg",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "GER",
@@ -1733,30 +1777,114 @@
      "markets": [
       {
        "label": "Moneyline",
-       "pick": "Hamburg Towers",
-       "prob": 0.6384095248462296,
-       "detail": "Local 36% · Visitante 64%",
+       "pick": "Jena",
+       "prob": 0.6079223226720355,
+       "detail": "Local 61% · Visitante 39%",
        "strong": true
       },
       {
        "label": "Spread",
-       "pick": "Hamburg Towers",
-       "prob": 0.5010261853358494,
-       "detail": "Hamburg Towers +4.5 · 50%",
+       "pick": "Jena",
+       "prob": 0.5,
+       "detail": "Jena -3.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5001130021944945,
-       "detail": "Línea 197.8 · OVER 50% / UNDER 50%",
+       "prob": 0.5,
+       "detail": "Línea 168.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 197.8",
+       "detail": "Total 168.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Virtus Bologna",
+     "away": "Verona",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ITA",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Virtus Bologna",
+       "prob": 0.8997572819115723,
+       "detail": "Local 90% · Visitante 10%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Virtus Bologna",
+       "prob": 0.5,
+       "detail": "Virtus Bologna -13.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 180.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 180.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Mega Basket",
+     "away": "Dubai",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ABA",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Dubai",
+       "prob": 0.9748033754727329,
+       "detail": "Local 3% · Visitante 97%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Mega Basket",
+       "prob": 0.5,
+       "detail": "Mega Basket +15 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 176 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 176.0",
        "strong": false
       }
      ],
@@ -1764,19 +1892,26 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 47.2,
+   "elapsed_s": 57.3,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true,
-   "picks_total_brutos": 6,
+   "picks_total_brutos": 9,
    "picks_policy": {
     "mercados_excluidos": [
      "Spread",
      "Totales"
     ],
-    "min_prob": 0.75,
-    "conservados": 3,
-    "descartados": 3
+    "min_prob": {
+     "ABA": 0.75,
+     "GER": 0.75,
+     "ISR": 0.75,
+     "ITA": 0.75,
+     "NCAA": 0.75,
+     "TUR": 0.75
+    },
+    "conservados": 5,
+    "descartados": 4
    }
   }
  }
