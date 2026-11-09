@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T10:35:18",
- "sports_total": "33 partidos",
+ "generated_at": "2026-11-09T10:59:14",
+ "sports_total": "32 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -699,7 +699,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 219.1,
+   "elapsed_s": 231.8,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true,
@@ -809,7 +809,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 75.9,
+   "elapsed_s": 73.5,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true,
@@ -877,7 +877,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 10.6,
+   "elapsed_s": 13.2,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true
@@ -887,8 +887,8 @@
    "date": "2026-11-09",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 22,
-   "message": "22 partidos proyectados",
+   "n": 21,
+   "message": "21 partidos proyectados",
    "picks": [
     {
      "match": "Grambling Tigers @ Texas Longhorns",
@@ -921,7 +921,7 @@
      "ev": null
     },
     {
-     "match": "Verona @ Virtus Bologna",
+     "match": "Scaligera Basket Verona @ Virtus Bologna",
      "market": "Moneyline",
      "pick": "ML: HOME (Virtus Bologna)",
      "prob": 0.8998,
@@ -931,21 +931,6 @@
      "league_code": "ITA",
      "league_label": "",
      "odds": 1.105,
-     "line": null,
-     "edge": null,
-     "ev": null
-    },
-    {
-     "match": "Besiktas @ Karsiyaka",
-     "market": "Moneyline",
-     "pick": "ML: AWAY (Besiktas)",
-     "prob": 0.8689,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=87% · momio 1.1389 · EV -1.0% · sin historico · favorito del mercado",
-     "league_code": "TUR",
-     "league_label": "",
-     "odds": 1.139,
      "line": null,
      "edge": null,
      "ev": null
@@ -1162,8 +1147,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5212307673232477,
-       "detail": "Línea 226.5 · OVER 52% / UNDER 48%",
+       "prob": 0.5130097946057189,
+       "detail": "Línea 227.5 · OVER 51% / UNDER 49%",
        "strong": false
       },
       {
@@ -1514,260 +1499,8 @@
      "momentum_ok": false
     },
     {
-     "home": "Seoul Thunders",
-     "away": "Suwon KT",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "KOR",
-     "league_label": "KBL Corea",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Seoul Thunders",
-       "prob": 0.5594943716956494,
-       "detail": "Local 56% · Visitante 44%",
-       "strong": false
-      },
-      {
-       "label": "Spread",
-       "pick": "Seoul Thunders",
-       "prob": 0.5,
-       "detail": "Seoul Thunders -2 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 168.5 · OVER 50% / UNDER 50%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 168.5",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Karsiyaka",
-     "away": "Besiktas",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "TUR",
-     "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Besiktas",
-       "prob": 0.868948383293069,
-       "detail": "Local 13% · Visitante 87%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Karsiyaka",
-       "prob": 0.5,
-       "detail": "Karsiyaka +9.5 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 161.5 · OVER 50% / UNDER 50%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 161.5",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Ironi Eilat",
-     "away": "Hapoel Beer Sheva",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ISR",
-     "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Ironi Eilat",
-       "prob": 0.6972283748560646,
-       "detail": "Local 70% · Visitante 30%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Ironi Eilat",
-       "prob": 0.5,
-       "detail": "Ironi Eilat -5 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 169 · OVER 50% / UNDER 50%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 169.0",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Bnei Herzliya",
-     "away": "Maccabi Ashdod",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ISR",
-     "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Bnei Herzliya",
-       "prob": 0.6808786941032149,
-       "detail": "Local 68% · Visitante 32%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Bnei Herzliya",
-       "prob": 0.5,
-       "detail": "Bnei Herzliya -5.5 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 174.5 · OVER 50% / UNDER 50%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 174.5",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Crvena Zvezda Meridianbet",
-     "away": "Slovan Bratislava",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ABA",
-     "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Crvena Zvezda Meridianbet",
-       "prob": 0.9745464724931625,
-       "detail": "Local 97% · Visitante 3%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Crvena Zvezda Meridianbet",
-       "prob": 0.5,
-       "detail": "Crvena Zvezda Meridianbet -19 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 171.5 · OVER 50% / UNDER 50%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 171.5",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Siroki Brijeg",
-     "away": "Cibona",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ABA",
-     "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Siroki Brijeg",
-       "prob": 0.6384095248462273,
-       "detail": "Local 64% · Visitante 36%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Siroki Brijeg",
-       "prob": 0.5,
-       "detail": "Siroki Brijeg -4.5 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 165.5 · OVER 50% / UNDER 50%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 165.5",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Jena",
-     "away": "Hamburg",
+     "home": "Science City Jena",
+     "away": "Hamburg Towers",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "GER",
@@ -1777,16 +1510,16 @@
      "markets": [
       {
        "label": "Moneyline",
-       "pick": "Jena",
+       "pick": "Science City Jena",
        "prob": 0.6079223226720355,
        "detail": "Local 61% · Visitante 39%",
        "strong": true
       },
       {
        "label": "Spread",
-       "pick": "Jena",
+       "pick": "Science City Jena",
        "prob": 0.5,
-       "detail": "Jena -3.5 · 50%",
+       "detail": "Science City Jena -3.5 · 50%",
        "strong": false
       },
       {
@@ -1809,7 +1542,7 @@
     },
     {
      "home": "Virtus Bologna",
-     "away": "Verona",
+     "away": "Scaligera Basket Verona",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "ITA",
@@ -1850,41 +1583,251 @@
      "momentum_ok": false
     },
     {
-     "home": "Mega Basket",
-     "away": "Dubai",
+     "home": "Seoul Thunders",
+     "away": "Suwon KT",
      "home_abbrev": "",
      "away_abbrev": "",
-     "league_code": "ABA",
-     "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "league_code": "KOR",
+     "league_label": "KBL Corea",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
-       "pick": "Dubai",
-       "prob": 0.9748033754727329,
-       "detail": "Local 3% · Visitante 97%",
+       "pick": "Seoul Thunders",
+       "prob": 0.6173860034896909,
+       "detail": "Local 62% · Visitante 38%",
        "strong": true
       },
       {
        "label": "Spread",
-       "pick": "Mega Basket",
-       "prob": 0.5,
-       "detail": "Mega Basket +15 · 50%",
+       "pick": "Seoul Thunders",
+       "prob": 0.5004726333534388,
+       "detail": "Seoul Thunders -5.4 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 176 · OVER 50% / UNDER 50%",
+       "prob": 0.500537218636101,
+       "detail": "Línea 156 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 176.0",
+       "detail": "Total 156.0",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Ironi Eilat",
+     "away": "Hapoel Beer Sheva",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ISR",
+     "league_label": "Todas las ligas",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Ironi Eilat",
+       "prob": 0.6023795148185233,
+       "detail": "Local 60% · Visitante 40%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Ironi Eilat",
+       "prob": 0.5004027556887589,
+       "detail": "Ironi Eilat -4.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5003961869903473,
+       "detail": "Línea 202.7 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 202.7",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Bnei Herzliya",
+     "away": "Maccabi Ashdod",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ISR",
+     "league_label": "Todas las ligas",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Bnei Herzliya",
+       "prob": 0.6023795148185233,
+       "detail": "Local 60% · Visitante 40%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Bnei Herzliya",
+       "prob": 0.5004027556887589,
+       "detail": "Bnei Herzliya -4.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5003961869903473,
+       "detail": "Línea 202.7 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 202.7",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Crvena Zvezda Meridianbet",
+     "away": "Slovan Bratislava",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ABA",
+     "league_label": "Todas las ligas",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Crvena Zvezda Meridianbet",
+       "prob": 0.6105772127007604,
+       "detail": "Local 61% · Visitante 39%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Slovan Bratislava",
+       "prob": 0.5005991375248753,
+       "detail": "Slovan Bratislava +4.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.500952013422211,
+       "detail": "Línea 199.4 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 199.4",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Siroki Brijeg",
+     "away": "Cibona",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ABA",
+     "league_label": "Todas las ligas",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Siroki Brijeg",
+       "prob": 0.6105772127007604,
+       "detail": "Local 61% · Visitante 39%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Cibona",
+       "prob": 0.5005991375248753,
+       "detail": "Cibona +4.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.500952013422211,
+       "detail": "Línea 199.4 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 199.4",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Mega Basket",
+     "away": "Dubai",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ABA",
+     "league_label": "Todas las ligas",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Mega Basket",
+       "prob": 0.6105772127007604,
+       "detail": "Local 61% · Visitante 39%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Dubai",
+       "prob": 0.5005991375248753,
+       "detail": "Dubai +4.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.500952013422211,
+       "detail": "Línea 199.4 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 199.4",
        "strong": false
       }
      ],
@@ -1892,11 +1835,11 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 57.3,
+   "elapsed_s": 62.1,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true,
-   "picks_total_brutos": 9,
+   "picks_total_brutos": 11,
    "picks_policy": {
     "mercados_excluidos": [
      "Spread",
@@ -1907,11 +1850,11 @@
      "GER": 0.75,
      "ISR": 0.75,
      "ITA": 0.75,
-     "NCAA": 0.75,
-     "TUR": 0.75
+     "KOR": 0.65,
+     "NCAA": 0.75
     },
-    "conservados": 5,
-    "descartados": 4
+    "conservados": 4,
+    "descartados": 7
    }
   }
  }
