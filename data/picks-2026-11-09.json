@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T10:59:14",
- "sports_total": "32 partidos",
+ "generated_at": "2026-11-09T11:37:52",
+ "sports_total": "30 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -255,8 +255,8 @@
    "date": "2026-11-09",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 9,
-   "message": "9 partidos proyectados",
+   "n": 7,
+   "message": "7 partidos proyectados",
    "picks": [
     {
      "match": "Max Dahlin vs Tomas Martin Etcheverry",
@@ -360,7 +360,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Leo Borg",
@@ -402,7 +404,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Aryna Sabalenka",
@@ -444,7 +448,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Elina Svitolina",
@@ -486,91 +492,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
-    },
-    {
-     "home": "Dalila Jakupovic",
-     "away": "Laura Pigossi",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "DIRECTV Open Presentado por Compesar, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Laura Pigossi",
-       "prob": 0.5273,
-       "detail": "Dalila Jakupovic 47% · Laura Pigossi 53%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5025,
-       "detail": "OVER 21.5 · 50% · Proyectado 22.1",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Laura Pigossi",
-       "prob": 0.7079,
-       "detail": "Hándicap Sets -1.5 · 29% · (+242)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.5038,
-       "detail": "UNDER 9.5 · 50% · Proyectado 9.3",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": false
-    },
-    {
-     "home": "Polona Hercog",
-     "away": "Varvara Lepchenko",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "DIRECTV Open Presentado por Compesar, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Varvara Lepchenko",
-       "prob": 0.5988,
-       "detail": "Polona Hercog 40% · Varvara Lepchenko 60%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5204,
-       "detail": "OVER 21.5 · 52% · Proyectado 22.2",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Varvara Lepchenko",
-       "prob": 0.7068,
-       "detail": "Hándicap Sets -1.5 · 29% · (+241)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5187,
-       "detail": "OVER 9.5 · 52% · Proyectado 9.4",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Luisina Giovannini",
@@ -612,7 +536,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Elizabeth Mandlik",
@@ -654,7 +580,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Julia Grabher",
@@ -696,10 +624,12 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
-   "elapsed_s": 231.8,
+   "elapsed_s": 229.3,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true,
@@ -741,6 +671,8 @@
     {
      "home": "Plymouth Parkway",
      "away": "Berkhamsted",
+     "home_logo": "",
+     "away_logo": "",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "FAC",
@@ -809,7 +741,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 73.5,
+   "elapsed_s": 77.6,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true,
@@ -837,6 +769,8 @@
     {
      "home": "Minnesota Vikings",
      "away": "Buffalo Bills",
+     "home_logo": "data/logos/44a286659f493118.png",
+     "away_logo": "data/logos/1dd0113bc8df2093.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NFL",
@@ -877,7 +811,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 13.2,
+   "elapsed_s": 11.3,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true
@@ -955,6 +889,8 @@
     {
      "home": "Atlanta Hawks",
      "away": "Los Angeles Lakers",
+     "home_logo": "data/logos/cf63c8f41affe6cc.png",
+     "away_logo": "data/logos/7b1221f5b1849373.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NBA",
@@ -997,6 +933,8 @@
     {
      "home": "Charlotte Hornets",
      "away": "Cleveland Cavaliers",
+     "home_logo": "data/logos/eaaa95dd61f91740.png",
+     "away_logo": "data/logos/a94089157df94e07.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NBA",
@@ -1039,6 +977,8 @@
     {
      "home": "Detroit Pistons",
      "away": "Washington Wizards",
+     "home_logo": "data/logos/28a3da947d54630b.png",
+     "away_logo": "data/logos/a49d3ec9895ef73a.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NBA",
@@ -1081,6 +1021,8 @@
     {
      "home": "Toronto Raptors",
      "away": "Memphis Grizzlies",
+     "home_logo": "data/logos/ddc2d6ce3c0f9989.png",
+     "away_logo": "data/logos/11d1755c503dfafa.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NBA",
@@ -1105,8 +1047,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5328720684378265,
-       "detail": "Línea 229.5 · OVER 53% / UNDER 47%",
+       "prob": 0.5410652622130517,
+       "detail": "Línea 228.5 · OVER 54% / UNDER 46%",
        "strong": false
       },
       {
@@ -1123,6 +1065,8 @@
     {
      "home": "Dallas Mavericks",
      "away": "Indiana Pacers",
+     "home_logo": "data/logos/0c8e5563b51acd1e.png",
+     "away_logo": "data/logos/98a9908d06921fa5.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NBA",
@@ -1147,8 +1091,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5130097946057189,
-       "detail": "Línea 227.5 · OVER 51% / UNDER 49%",
+       "prob": 0.5212307673232477,
+       "detail": "Línea 226.5 · OVER 52% / UNDER 48%",
        "strong": false
       },
       {
@@ -1165,6 +1109,8 @@
     {
      "home": "Houston Rockets",
      "away": "Denver Nuggets",
+     "home_logo": "data/logos/b37eb2777dae62f4.png",
+     "away_logo": "data/logos/e3639bc90146d1fc.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NBA",
@@ -1207,6 +1153,8 @@
     {
      "home": "Phoenix Suns",
      "away": "San Antonio Spurs",
+     "home_logo": "data/logos/9d9eacf3b681ebcc.png",
+     "away_logo": "data/logos/052ffc1ace5ac424.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NBA",
@@ -1249,6 +1197,8 @@
     {
      "home": "Golden State Warriors",
      "away": "New Orleans Pelicans",
+     "home_logo": "data/logos/e39f13a294c6c424.png",
+     "away_logo": "data/logos/3fdc0bc3d8301751.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NBA",
@@ -1291,6 +1241,8 @@
     {
      "home": "UConn Huskies",
      "away": "Wagner Seahawks",
+     "home_logo": "data/logos/172f5445d7ee4222.png",
+     "away_logo": "data/logos/e529832450f5c56f.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NCAA",
@@ -1315,8 +1267,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5149488092746485,
-       "detail": "Línea 140.5 · OVER 51% / UNDER 49%",
+       "prob": 0.5248738037612677,
+       "detail": "Línea 139.5 · OVER 52% / UNDER 48%",
        "strong": false
       },
       {
@@ -1333,6 +1285,8 @@
     {
      "home": "Texas Longhorns",
      "away": "Grambling Tigers",
+     "home_logo": "data/logos/78b0b4c8e7c45cbf.png",
+     "away_logo": "data/logos/8e4a85ce16b9a41d.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NCAA",
@@ -1357,8 +1311,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5131085990923204,
-       "detail": "Línea 153.5 · OVER 51% / UNDER 49%",
+       "prob": 0.5031732929303152,
+       "detail": "Línea 154.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
@@ -1375,6 +1329,8 @@
     {
      "home": "Tennessee Volunteers",
      "away": "Radford Highlanders",
+     "home_logo": "data/logos/e5a026524ff030b6.png",
+     "away_logo": "data/logos/a748253a59e3b82b.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NCAA",
@@ -1417,6 +1373,8 @@
     {
      "home": "Miami Hurricanes",
      "away": "North Florida Ospreys",
+     "home_logo": "data/logos/16a5829eec333729.png",
+     "away_logo": "data/logos/330b4d6fd18fc06c.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NCAA",
@@ -1459,6 +1417,8 @@
     {
      "home": "Alabama Crimson Tide",
      "away": "Oakland Golden Grizzlies",
+     "home_logo": "data/logos/7003f4c41d839a69.png",
+     "away_logo": "data/logos/f5b43d1b4adf193b.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "NCAA",
@@ -1501,6 +1461,8 @@
     {
      "home": "Science City Jena",
      "away": "Hamburg Towers",
+     "home_logo": "",
+     "away_logo": "",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "GER",
@@ -1511,8 +1473,8 @@
       {
        "label": "Moneyline",
        "pick": "Science City Jena",
-       "prob": 0.6079223226720355,
-       "detail": "Local 61% · Visitante 39%",
+       "prob": 0.6266208459870692,
+       "detail": "Local 63% · Visitante 37%",
        "strong": true
       },
       {
@@ -1543,6 +1505,8 @@
     {
      "home": "Virtus Bologna",
      "away": "Scaligera Basket Verona",
+     "home_logo": "",
+     "away_logo": "",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "ITA",
@@ -1585,6 +1549,8 @@
     {
      "home": "Seoul Thunders",
      "away": "Suwon KT",
+     "home_logo": "data/logos/dd31d4502d46860a.png",
+     "away_logo": "data/logos/588ecfc5c744729a.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "KOR",
@@ -1627,6 +1593,8 @@
     {
      "home": "Ironi Eilat",
      "away": "Hapoel Beer Sheva",
+     "home_logo": "data/logos/4f3c72c971f92935.png",
+     "away_logo": "data/logos/835b01cc75f2a5d2.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "ISR",
@@ -1669,6 +1637,8 @@
     {
      "home": "Bnei Herzliya",
      "away": "Maccabi Ashdod",
+     "home_logo": "data/logos/bbc214e2e6abaade.png",
+     "away_logo": "data/logos/ffa680730bf2c2d6.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "ISR",
@@ -1711,6 +1681,8 @@
     {
      "home": "Crvena Zvezda Meridianbet",
      "away": "Slovan Bratislava",
+     "home_logo": "data/logos/fedb40178df4236d.png",
+     "away_logo": "data/logos/0ec290d5077ce9d0.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "ABA",
@@ -1753,6 +1725,8 @@
     {
      "home": "Siroki Brijeg",
      "away": "Cibona",
+     "home_logo": "data/logos/526d44d88d6ce216.png",
+     "away_logo": "data/logos/7b71ef9a55ea03ba.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "ABA",
@@ -1795,6 +1769,8 @@
     {
      "home": "Mega Basket",
      "away": "Dubai",
+     "home_logo": "data/logos/76f751cff3853bec.png",
+     "away_logo": "data/logos/cb5f8da4c48993a5.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "ABA",
@@ -1835,7 +1811,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 62.1,
+   "elapsed_s": 56.0,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true,

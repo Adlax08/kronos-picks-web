@@ -319,3 +319,98 @@
 }
 .quick-chip:hover { background: #f3f3f3; }
 .quick-chip.on { background: #e7e8e9; color: #000000; font-weight: 600; }
+
+/* ── Escudos ─────────────────────────────────────────────── */
+.crest {
+  display: inline-flex; align-items: center; justify-content: center;
+  border-radius: 9999px; background: #f3f4f5; overflow: hidden; flex: none;
+}
+.crest img { width: 100%; height: 100%; object-fit: contain; }
+.crest-sm { width: 26px; height: 26px; }
+.crest-lg { width: 64px; height: 64px; background: transparent; }
+.crest-fallback {
+  background: hsl(var(--h, 210) 70% 92%);
+  color: hsl(var(--h, 210) 45% 32%);
+  font-weight: 700; font-size: 10px; letter-spacing: .02em;
+}
+.crest-lg.crest-fallback { font-size: 20px; }
+.pick-crest { display: flex; flex-direction: column; align-items: center; gap: 6px; margin-bottom: 14px; }
+.pick-crest-name {
+  font-size: 12px; font-weight: 600; color: #191c1d; text-align: center;
+  line-height: 1.2; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+
+/* ── Selector custom (liga) ─────────────────────────────── */
+.dd { position: relative; width: 100%; }
+.dd-btn {
+  width: 100%; display: flex; align-items: center; justify-content: space-between; gap: .5rem;
+  background: #fff; border: 1px solid #d7dadb; border-radius: .6rem; padding: .55rem .75rem;
+  font-size: .9rem; color: #191c1d; cursor: pointer; transition: border-color .18s ease, box-shadow .18s ease;
+}
+.dd-btn:hover { border-color: #b9bdbd; }
+.dd-btn:focus-visible { outline: 2px solid #191c1d; outline-offset: 2px; }
+.dd-caret { transition: transform .2s ease; font-size: 20px; }
+.dd.open .dd-caret { transform: rotate(180deg); }
+.dd-panel {
+  position: absolute; z-index: 40; top: calc(100% + 6px); left: 0; right: 0; background: #fff;
+  border: 1px solid #e3e5e6; border-radius: .75rem; box-shadow: 0 12px 30px rgba(0,0,0,.12);
+  opacity: 0; transform: translateY(-6px) scale(.985); pointer-events: none;
+  transition: opacity .16s ease, transform .16s ease; overflow: hidden;
+}
+.dd.open .dd-panel { opacity: 1; transform: none; pointer-events: auto; }
+.dd-search-wrap {
+  display: flex; align-items: center; gap: .4rem; padding: .5rem .65rem;
+  border-bottom: 1px solid #eef0f0; color: #6b7280;
+}
+.dd-search-wrap .material-symbols-outlined { font-size: 18px; }
+.dd-search { border: 0; outline: 0; width: 100%; font-size: .9rem; background: transparent; color: #191c1d; }
+.dd-list { max-height: 260px; overflow: auto; padding: .3rem; }
+.dd-item {
+  display: block; width: 100%; text-align: left; padding: .45rem .6rem; border-radius: .5rem;
+  font-size: .88rem; color: #191c1d; background: transparent; border: 0; cursor: pointer;
+}
+.dd-item:hover { background: #f3f4f5; }
+.dd-item.on { background: #191c1d; color: #fff; }
+.dd-empty { padding: .75rem; color: #6b7280; font-size: .85rem; }
+
+/* ── Selector de dia (calendario) ───────────────────────── */
+#dayPopBtn { padding: .35rem .55rem; }
+.day-pop {
+  position: absolute; z-index: 40; margin-top: .4rem; background: #fff; border: 1px solid #e3e5e6;
+  border-radius: .75rem; box-shadow: 0 12px 30px rgba(0,0,0,.12); padding: .35rem;
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .25rem; min-width: 270px;
+  opacity: 0; transform: translateY(-6px); pointer-events: none; transition: opacity .16s ease, transform .16s ease;
+}
+.day-pop.open { opacity: 1; transform: none; pointer-events: auto; }
+.day-item {
+  padding: .45rem .5rem; border-radius: .5rem; border: 0; background: #f7f8f8;
+  font-size: .78rem; cursor: pointer; color: #191c1d; text-transform: capitalize;
+}
+.day-item:hover { background: #eceeee; }
+.day-item.on { background: #191c1d; color: #fff; }
+
+/* ── Barra inferior movil ───────────────────────────────── */
+#bottomNav {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 50; display: flex; justify-content: space-around;
+  background: rgba(255,255,255,.94); backdrop-filter: blur(12px); border-top: 1px solid #e3e5e6;
+  padding: .3rem .4rem calc(.3rem + env(safe-area-inset-bottom));
+}
+#bottomNav button {
+  display: flex; flex-direction: column; align-items: center; gap: .1rem; font-size: .64rem;
+  color: #4b5563; background: none; border: 0; padding: .35rem .6rem; border-radius: .6rem;
+  min-width: 56px; min-height: 44px; transition: background .15s ease, color .15s ease;
+}
+#bottomNav button:hover { background: #f3f4f5; color: #191c1d; }
+#bottomNav .material-symbols-outlined { font-size: 20px; }
+@media (min-width: 768px) { #bottomNav { display: none; } }
+@media (max-width: 767px) { body { padding-bottom: calc(64px + env(safe-area-inset-bottom)); } }
+
+/* ── Micro-animaciones y detalle ────────────────────────── */
+.pick-card { transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease; }
+.pick-card:hover { transform: translateY(-2px); box-shadow: 0 10px 26px rgba(0,0,0,.07); }
+@media (max-width: 640px) {
+  #auditBody, #liveDayResults { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }
+}

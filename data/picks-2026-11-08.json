@@ -309,7 +309,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Seoul SK Knights",
@@ -351,7 +353,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Mobis Phoebus",
@@ -393,7 +397,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "LG Sakers",
@@ -435,7 +441,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "FC Barcelona",
@@ -477,7 +485,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "CB San Pablo Burgos",
@@ -519,7 +529,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "CB 1939 Canarias",
@@ -561,7 +573,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Mitteldeutscher BC",
@@ -603,7 +617,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Paris Basketball",
@@ -645,7 +661,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Riesen Ludwigsburg",
@@ -687,7 +705,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Basket Zaragoza 2002",
@@ -729,7 +749,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Wurzburg Baskets",
@@ -771,7 +793,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "CB Coruna",
@@ -813,7 +837,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "SIG Strasbourg",
@@ -855,7 +881,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Real Madrid",
@@ -897,7 +925,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
    "elapsed_s": 49.0,
