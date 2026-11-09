@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-08T16:44:21",
+ "generated_at": "2026-11-08T23:21:33",
  "sports_total": "29 partidos",
  "sports": [
   {
@@ -900,7 +900,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 253.7,
+   "elapsed_s": 203.0,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true,
@@ -1007,7 +1007,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 77.8,
+   "elapsed_s": 84.1,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true,
@@ -1073,7 +1073,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 10.8,
+   "elapsed_s": 12.3,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true
@@ -1130,36 +1130,6 @@
      "line": null,
      "edge": null,
      "ev": null
-    },
-    {
-     "match": "Radford Highlanders @ Tennessee Volunteers",
-     "market": "Moneyline",
-     "pick": "ML: HOME (Tennessee Volunteers)",
-     "prob": 0.7824,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=78%",
-     "league_code": "NCAA",
-     "league_label": "",
-     "odds": null,
-     "line": null,
-     "edge": null,
-     "ev": null
-    },
-    {
-     "match": "Washington Wizards @ Detroit Pistons",
-     "market": "Moneyline",
-     "pick": "ML: HOME (Detroit Pistons)",
-     "prob": 0.7738,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=77%",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "odds": null,
-     "line": null,
-     "edge": null,
-     "ev": null
     }
    ],
    "predictions": [
@@ -1183,15 +1153,15 @@
       {
        "label": "Spread",
        "pick": "Atlanta Hawks",
-       "prob": 0.5008698319337135,
-       "detail": "Atlanta Hawks +0.4 · 50%",
+       "prob": 0.5264384019865003,
+       "detail": "Atlanta Hawks +2.5 · 53%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5006350202923245,
-       "detail": "Línea 233.8 · OVER 50% / UNDER 50%",
+       "prob": 0.5143032299193906,
+       "detail": "Línea 235.5 · OVER 49% / UNDER 51%",
        "strong": false
       },
       {
@@ -1225,15 +1195,15 @@
       {
        "label": "Spread",
        "pick": "Charlotte Hornets",
-       "prob": 0.5002644636956425,
-       "detail": "Charlotte Hornets +6.7 · 50%",
+       "prob": 0.5347851943313054,
+       "detail": "Charlotte Hornets +9.5 · 53%",
        "strong": false
       },
       {
        "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.500008020353037,
-       "detail": "Línea 226.4 · OVER 50% / UNDER 50%",
+       "pick": "OVER",
+       "prob": 0.5889389683014293,
+       "detail": "Línea 215.5 · OVER 59% / UNDER 41%",
        "strong": false
       },
       {
@@ -1266,16 +1236,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Washington Wizards",
-       "prob": 0.5008282874846998,
-       "detail": "Washington Wizards +12.1 · 50%",
+       "pick": "Detroit Pistons",
+       "prob": 0.519405144476162,
+       "detail": "Detroit Pistons -10.5 · 52%",
        "strong": false
       },
       {
        "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.500264901834664,
-       "detail": "Línea 227 · OVER 50% / UNDER 50%",
+       "pick": "OVER",
+       "prob": 0.5694568118115657,
+       "detail": "Línea 218.5 · OVER 57% / UNDER 43%",
        "strong": false
       },
       {
@@ -1308,16 +1278,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Toronto Raptors",
-       "prob": 0.5003481055593589,
-       "detail": "Toronto Raptors -1 · 50%",
+       "pick": "Memphis Grizzlies",
+       "prob": 0.530774965461381,
+       "detail": "Memphis Grizzlies +3.5 · 53%",
        "strong": false
       },
       {
        "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.5000108694717916,
-       "detail": "Línea 233.5 · OVER 50% / UNDER 50%",
+       "pick": "OVER",
+       "prob": 0.5246649226244352,
+       "detail": "Línea 230.5 · OVER 52% / UNDER 48%",
        "strong": false
       },
       {
@@ -1350,16 +1320,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Dallas Mavericks",
-       "prob": 0.5000479312312246,
-       "detail": "Dallas Mavericks -3.2 · 50%",
+       "pick": "Indiana Pacers",
+       "prob": 0.516081071437029,
+       "detail": "Indiana Pacers +4.5 · 52%",
        "strong": false
       },
       {
        "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.500307628430178,
-       "detail": "Línea 229.1 · OVER 50% / UNDER 50%",
+       "pick": "OVER",
+       "prob": 0.553989720977851,
+       "detail": "Línea 222.5 · OVER 55% / UNDER 45%",
        "strong": false
       },
       {
@@ -1393,15 +1363,15 @@
       {
        "label": "Spread",
        "pick": "Houston Rockets",
-       "prob": 0.5001848242578774,
-       "detail": "Houston Rockets -8.6 · 50%",
+       "prob": 0.5013315938431245,
+       "detail": "Houston Rockets -8.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5002302165563858,
-       "detail": "Línea 229.9 · OVER 50% / UNDER 50%",
+       "prob": 0.601045611015264,
+       "detail": "Línea 217.5 · OVER 60% / UNDER 40%",
        "strong": false
       },
       {
@@ -1435,15 +1405,15 @@
       {
        "label": "Spread",
        "pick": "San Antonio Spurs",
-       "prob": 0.5246318346753485,
-       "detail": "San Antonio Spurs -7.5 · 52%",
+       "prob": 0.512253736495378,
+       "detail": "San Antonio Spurs -8.5 · 51%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5452135010848245,
-       "detail": "Línea 225.5 · OVER 55% / UNDER 45%",
+       "prob": 0.5206154538623828,
+       "detail": "Línea 228.5 · OVER 52% / UNDER 48%",
        "strong": false
       },
       {
@@ -1476,16 +1446,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Golden State Warriors",
-       "prob": 0.5010054672091817,
-       "detail": "Golden State Warriors -5.5 · 50%",
+       "pick": "New Orleans Pelicans",
+       "prob": 0.5489412234174071,
+       "detail": "New Orleans Pelicans +9.5 · 55%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5007620298335669,
-       "detail": "Línea 232.6 · OVER 50% / UNDER 50%",
+       "prob": 0.5094317033301814,
+       "detail": "Línea 231.5 · OVER 51% / UNDER 49%",
        "strong": false
       },
       {
@@ -1518,16 +1488,16 @@
       },
       {
        "label": "Spread",
-       "pick": "UConn Huskies",
-       "prob": 0.5002286777390466,
-       "detail": "UConn Huskies -14 · 50%",
+       "pick": "Wagner Seahawks",
+       "prob": 0.7361193325569212,
+       "detail": "Wagner Seahawks +37.5 · 74%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5000917211749873,
-       "detail": "Línea 142 · OVER 50% / UNDER 50%",
+       "prob": 0.5149488092746485,
+       "detail": "Línea 140.5 · OVER 51% / UNDER 49%",
        "strong": false
       },
       {
@@ -1560,16 +1530,16 @@
       },
       {
        "label": "Spread",
-       "pick": "Texas Longhorns",
-       "prob": 0.5006782414774783,
-       "detail": "Texas Longhorns -18 · 50%",
+       "pick": "Grambling Tigers",
+       "prob": 0.6806706592639047,
+       "detail": "Grambling Tigers +35.5 · 68%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5003840732729266,
-       "detail": "Línea 154.8 · OVER 50% / UNDER 50%",
+       "prob": 0.5230357754835147,
+       "detail": "Línea 152.5 · OVER 52% / UNDER 48%",
        "strong": false
       },
       {
@@ -1603,15 +1573,15 @@
       {
        "label": "Spread",
        "pick": "Radford Highlanders",
-       "prob": 0.500942663223086,
-       "detail": "Radford Highlanders +9.1 · 50%",
+       "prob": 0.6994019510356395,
+       "detail": "Radford Highlanders +28.5 · 70%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5003925665646942,
-       "detail": "Línea 153.8 · OVER 50% / UNDER 50%",
+       "prob": 0.5131128434467708,
+       "detail": "Línea 152.5 · OVER 51% / UNDER 49%",
        "strong": false
       },
       {
@@ -1645,15 +1615,15 @@
       {
        "label": "Spread",
        "pick": "North Florida Ospreys",
-       "prob": 0.5009898616988941,
-       "detail": "North Florida Ospreys +15 · 50%",
+       "prob": 0.7003573390942432,
+       "detail": "North Florida Ospreys +34.5 · 70%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5006192226991554,
-       "detail": "Línea 156.4 · OVER 50% / UNDER 50%",
+       "prob": 0.5606931288180703,
+       "detail": "Línea 162.5 · OVER 44% / UNDER 56%",
        "strong": false
       },
       {
@@ -1687,15 +1657,15 @@
       {
        "label": "Spread",
        "pick": "Oakland Golden Grizzlies",
-       "prob": 0.6371171360437518,
-       "detail": "Oakland Golden Grizzlies +31.5 · 64%",
+       "prob": 0.6471528362944917,
+       "detail": "Oakland Golden Grizzlies +32.5 · 65%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5415632588358633,
-       "detail": "Línea 169.5 · OVER 46% / UNDER 54%",
+       "prob": 0.5612711137416041,
+       "detail": "Línea 171.5 · OVER 44% / UNDER 56%",
        "strong": false
       },
       {
@@ -1710,19 +1680,19 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 41.4,
+   "elapsed_s": 42.2,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true,
-   "picks_total_brutos": 9,
+   "picks_total_brutos": 5,
    "picks_policy": {
     "mercados_excluidos": [
      "Spread",
      "Totales"
     ],
     "min_prob": 0.75,
-    "conservados": 5,
-    "descartados": 4
+    "conservados": 3,
+    "descartados": 2
    }
   }
  }
