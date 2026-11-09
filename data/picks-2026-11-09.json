@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-08T23:21:33",
- "sports_total": "29 partidos",
+ "generated_at": "2026-11-08T23:46:59",
+ "sports_total": "31 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -900,7 +900,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 203.0,
+   "elapsed_s": 288.1,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true,
@@ -1007,7 +1007,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 84.1,
+   "elapsed_s": 72.9,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true,
@@ -1073,7 +1073,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 12.3,
+   "elapsed_s": 11.5,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true
@@ -1083,8 +1083,8 @@
    "date": "2026-11-09",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 13,
-   "message": "13 partidos proyectados",
+   "n": 15,
+   "message": "15 partidos proyectados",
    "picks": [
     {
      "match": "Grambling Tigers @ Texas Longhorns",
@@ -1195,8 +1195,8 @@
       {
        "label": "Spread",
        "pick": "Charlotte Hornets",
-       "prob": 0.5347851943313054,
-       "detail": "Charlotte Hornets +9.5 · 53%",
+       "prob": 0.5224257235868548,
+       "detail": "Charlotte Hornets +8.5 · 52%",
        "strong": false
       },
       {
@@ -1237,8 +1237,8 @@
       {
        "label": "Spread",
        "pick": "Detroit Pistons",
-       "prob": 0.519405144476162,
-       "detail": "Detroit Pistons -10.5 · 52%",
+       "prob": 0.5317709868813285,
+       "detail": "Detroit Pistons -9.5 · 53%",
        "strong": false
       },
       {
@@ -1321,8 +1321,8 @@
       {
        "label": "Spread",
        "pick": "Indiana Pacers",
-       "prob": 0.516081071437029,
-       "detail": "Indiana Pacers +4.5 · 52%",
+       "prob": 0.5036935341669488,
+       "detail": "Indiana Pacers +3.5 · 50%",
        "strong": false
       },
       {
@@ -1678,13 +1678,97 @@
      ],
      "convergence": null,
      "momentum_ok": false
+    },
+    {
+     "home": "Samsung Thunders",
+     "away": "KT Sonicboom",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "KOR",
+     "league_label": "KBL Corea",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Samsung Thunders",
+       "prob": 0.5896104101419609,
+       "detail": "Local 59% · Visitante 41%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "KT Sonicboom",
+       "prob": 0.5010261853358494,
+       "detail": "KT Sonicboom +4.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5001130021944945,
+       "detail": "Línea 197.8 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 197.8",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Medipolis SC Jena",
+     "away": "Hamburg Towers",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "GER",
+     "league_label": "BBL Alemania",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Hamburg Towers",
+       "prob": 0.6384095248462296,
+       "detail": "Local 36% · Visitante 64%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Hamburg Towers",
+       "prob": 0.5010261853358494,
+       "detail": "Hamburg Towers +4.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5001130021944945,
+       "detail": "Línea 197.8 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 197.8",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
     }
    ],
-   "elapsed_s": 42.2,
+   "elapsed_s": 47.2,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true,
-   "picks_total_brutos": 5,
+   "picks_total_brutos": 6,
    "picks_policy": {
     "mercados_excluidos": [
      "Spread",
@@ -1692,7 +1776,7 @@
     ],
     "min_prob": 0.75,
     "conservados": 3,
-    "descartados": 2
+    "descartados": 3
    }
   }
  }
