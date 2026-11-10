@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "generated_at": "2026-11-09T11:45:18",
- "sports_total": "43 partidos",
+ "generated_at": "2026-11-09T18:24:42",
+ "sports_total": "46 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -255,8 +255,8 @@
    "date": "2026-11-10",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 14,
-   "message": "14 partidos proyectados",
+   "n": 18,
+   "message": "18 partidos proyectados",
    "picks": [
     {
      "match": "Andrea Lazaro Garcia vs Katrina Scott",
@@ -308,21 +308,6 @@
      "market": "ML",
      "pick": "Julieta Pareja",
      "prob": 0.7686,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "",
-     "edge": null,
-     "ev": null,
-     "odds": null,
-     "line": null,
-     "league_code": "WTA",
-     "league_label": "WTA Tour"
-    },
-    {
-     "match": "Jazmin Ortenzi vs Leolia Jeanjean",
-     "market": "ML",
-     "pick": "Jazmin Ortenzi",
-     "prob": 0.7544,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": "",
@@ -454,6 +439,50 @@
      "away_logo": ""
     },
     {
+     "home": "Thiago Agustin Tirante",
+     "away": "Tomas Martin Etcheverry",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ATP",
+     "league_label": "ATP Tour",
+     "context": "Bybit Stockholm Open, Hard, Ronda: Round 2, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Tomas Martin Etcheverry",
+       "prob": 0.5067999999999999,
+       "detail": "Thiago Agustin Tirante 49% · Tomas Martin Etcheverry 51%",
+       "strong": false
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "OVER",
+       "prob": 0.5048,
+       "detail": "OVER 23.5 · 50% · Proyectado 24.0",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Tomas Martin Etcheverry",
+       "prob": 0.7101,
+       "detail": "Hándicap Sets -1.5 · 29% · (+245)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "UNDER",
+       "prob": 0.6424000000000001,
+       "detail": "UNDER 10.5 · 64% · Proyectado 10.0",
+       "strong": false
+      }
+     ],
+     "convergence": false,
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
+    },
+    {
      "home": "Arthur Rinderknech",
      "away": "Miomir Kecmanovic",
      "home_abbrev": "",
@@ -537,6 +566,50 @@
       }
      ],
      "convergence": true,
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
+    },
+    {
+     "home": "Lorenzo Musetti",
+     "away": "Toby Samuel",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ATP",
+     "league_label": "ATP Tour",
+     "context": "Bybit Stockholm Open, Hard, Ronda: Round 2, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Lorenzo Musetti",
+       "prob": 0.8439,
+       "detail": "Lorenzo Musetti 84% · Toby Samuel 16%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.5026999999999999,
+       "detail": "UNDER 23.5 · 50% · Proyectado 24.0",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Lorenzo Musetti",
+       "prob": 0.6999,
+       "detail": "Hándicap Sets -1.5 · 70% · (-233)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5965,
+       "detail": "OVER 9.5 · 60% · Proyectado 9.8",
+       "strong": false
+      }
+     ],
+     "convergence": false,
      "momentum_ok": false,
      "home_logo": "",
      "away_logo": ""
@@ -630,94 +703,6 @@
      "away_logo": ""
     },
     {
-     "home": "Bianca Andreescu",
-     "away": "Rebeka Masarova",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "DIRECTV Open Presentado por Compesar, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Rebeka Masarova",
-       "prob": 0.5784,
-       "detail": "Bianca Andreescu 42% · Rebeka Masarova 58%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.534,
-       "detail": "UNDER 22.5 · 53% · Proyectado 22.1",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Rebeka Masarova",
-       "prob": 0.7394000000000001,
-       "detail": "Hándicap Sets -1.5 · 26% · (+284)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.7214,
-       "detail": "UNDER 9.5 · 72% · Proyectado 9.4",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": false,
-     "home_logo": "",
-     "away_logo": ""
-    },
-    {
-     "home": "Jazmin Ortenzi",
-     "away": "Leolia Jeanjean",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "DIRECTV Open Presentado por Compesar, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Jazmin Ortenzi",
-       "prob": 0.7544,
-       "detail": "Jazmin Ortenzi 75% · Leolia Jeanjean 25%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5078,
-       "detail": "UNDER 21.5 · 51% · Proyectado 21.7",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Leolia Jeanjean",
-       "prob": 0.5182,
-       "detail": "Hándicap Sets -1.5 · 48% · (+108)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5021,
-       "detail": "OVER 9.5 · 50% · Proyectado 9.3",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true,
-     "home_logo": "",
-     "away_logo": ""
-    },
-    {
      "home": "Carole Monnet",
      "away": "Leyre Romero Gormaz",
      "home_abbrev": "",
@@ -757,50 +742,6 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": true,
-     "home_logo": "",
-     "away_logo": ""
-    },
-    {
-     "home": "Andrea Lazaro Garcia",
-     "away": "Katrina Scott",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "DIRECTV Open Presentado por Compesar, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Andrea Lazaro Garcia",
-       "prob": 0.8769,
-       "detail": "Andrea Lazaro Garcia 88% · Katrina Scott 12%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.6236999999999999,
-       "detail": "UNDER 21.5 · 62% · Proyectado 20.2",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Andrea Lazaro Garcia",
-       "prob": 0.6463,
-       "detail": "Hándicap Sets -1.5 · 65% · (-183)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.5415,
-       "detail": "UNDER 9.5 · 54% · Proyectado 9.3",
-       "strong": false
-      }
-     ],
-     "convergence": true,
      "momentum_ok": true,
      "home_logo": "",
      "away_logo": ""
@@ -885,6 +826,94 @@
        "pick": "OVER",
        "prob": 0.5036,
        "detail": "OVER 9.5 · 50% · Proyectado 9.4",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
+    },
+    {
+     "home": "Bianca Andreescu",
+     "away": "Rebeka Masarova",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "context": "DIRECTV Open Presentado por Compesar, Hard, Ronda: Round 1, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Rebeka Masarova",
+       "prob": 0.5784,
+       "detail": "Bianca Andreescu 42% · Rebeka Masarova 58%",
+       "strong": false
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.534,
+       "detail": "UNDER 22.5 · 53% · Proyectado 22.1",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Rebeka Masarova",
+       "prob": 0.7394000000000001,
+       "detail": "Hándicap Sets -1.5 · 26% · (+284)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "UNDER",
+       "prob": 0.7214,
+       "detail": "UNDER 9.5 · 72% · Proyectado 9.4",
+       "strong": false
+      }
+     ],
+     "convergence": false,
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
+    },
+    {
+     "home": "Andrea Lazaro Garcia",
+     "away": "Katrina Scott",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "context": "DIRECTV Open Presentado por Compesar, Hard, Ronda: Round 1, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Andrea Lazaro Garcia",
+       "prob": 0.8769,
+       "detail": "Andrea Lazaro Garcia 88% · Katrina Scott 12%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.6236999999999999,
+       "detail": "UNDER 21.5 · 62% · Proyectado 20.2",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Andrea Lazaro Garcia",
+       "prob": 0.6463,
+       "detail": "Hándicap Sets -1.5 · 65% · (-183)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "UNDER",
+       "prob": 0.5415,
+       "detail": "UNDER 9.5 · 54% · Proyectado 9.3",
        "strong": false
       }
      ],
@@ -980,9 +1009,141 @@
      "momentum_ok": true,
      "home_logo": "",
      "away_logo": ""
+    },
+    {
+     "home": "Henrique Rocha",
+     "away": "Miguel Tobon",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "Lima 3 challenger, Hard, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Henrique Rocha",
+       "prob": 0.781,
+       "detail": "Henrique Rocha 78% · Miguel Tobon 22%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.5202,
+       "detail": "UNDER 23.5 · 52% · Proyectado 23.3",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Henrique Rocha",
+       "prob": 0.5718,
+       "detail": "Hándicap Sets -1.5 · 57% · (-134)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5822,
+       "detail": "OVER 9.5 · 58% · Proyectado 10.0",
+       "strong": false
+      }
+     ],
+     "convergence": false,
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
+    },
+    {
+     "home": "Radovan Michalik",
+     "away": "Tadeas Paroulek",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "Lima 3 challenger, Hard, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Tadeas Paroulek",
+       "prob": 0.7974,
+       "detail": "Radovan Michalik 20% · Tadeas Paroulek 80%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.6073,
+       "detail": "UNDER 21.5 · 61% · Proyectado 20.5",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Tadeas Paroulek",
+       "prob": 0.8912,
+       "detail": "Hándicap Sets -1.5 · 11% · (+819)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "UNDER",
+       "prob": 0.5382,
+       "detail": "UNDER 9.5 · 54% · Proyectado 9.2",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
+    },
+    {
+     "home": "Botond Kisantal",
+     "away": "Sebastian Prechtel",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CHALLENGER",
+     "league_label": "ATP Challenger Tour",
+     "context": "Lima 3 challenger, Hard, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Sebastian Prechtel",
+       "prob": 0.5082,
+       "detail": "Botond Kisantal 49% · Sebastian Prechtel 51%",
+       "strong": false
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.594,
+       "detail": "UNDER 22.5 · 59% · Proyectado 20.6",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Sebastian Prechtel",
+       "prob": 0.7197,
+       "detail": "Hándicap Sets -1.5 · 28% · (+257)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "OVER",
+       "prob": 0.5317,
+       "detail": "OVER 9.5 · 53% · Proyectado 9.5",
+       "strong": false
+      }
+     ],
+     "convergence": false,
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
-   "elapsed_s": 265.7,
+   "elapsed_s": 268.9,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true,
@@ -996,8 +1157,8 @@
      "ATP": 0.7,
      "WTA": 0.7
     },
-    "conservados": 7,
-    "descartados": 3
+    "conservados": 6,
+    "descartados": 4
    }
   },
   "futbol": {
@@ -1880,7 +2041,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 78.3,
+   "elapsed_s": 77.1,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true,
@@ -2055,7 +2216,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 11.8,
+   "elapsed_s": 10.6,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true,
@@ -2077,8 +2238,8 @@
    "date": "2026-11-10",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 15,
-   "message": "15 partidos proyectados",
+   "n": 14,
+   "message": "14 partidos proyectados",
    "picks": [
     {
      "match": "Northern Arizona Lumberjacks @ Arizona Wildcats",
@@ -2117,10 +2278,10 @@
      "prob": 0.9304,
      "tier": "TOP PICK",
      "units": "2.0",
-     "note": ">=93%",
+     "note": ">=93% · momio 1.18182 · EV +10.0%",
      "league_code": "NCAA",
      "league_label": "",
-     "odds": null,
+     "odds": 1.182,
      "line": null,
      "edge": null,
      "ev": null
@@ -2133,51 +2294,6 @@
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=87%",
-     "league_code": "NCAA",
-     "league_label": "",
-     "odds": null,
-     "line": null,
-     "edge": null,
-     "ev": null
-    },
-    {
-     "match": "Southern Jaguars @ Iowa State Cyclones",
-     "market": "Moneyline",
-     "pick": "ML: HOME (Iowa State Cyclones)",
-     "prob": 0.8664,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=87%",
-     "league_code": "NCAA",
-     "league_label": "",
-     "odds": null,
-     "line": null,
-     "edge": null,
-     "ev": null
-    },
-    {
-     "match": "Milwaukee Bucks @ New York Knicks",
-     "market": "Moneyline",
-     "pick": "ML: HOME (New York Knicks)",
-     "prob": 0.8057,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=81%",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "odds": null,
-     "line": null,
-     "edge": null,
-     "ev": null
-    },
-    {
-     "match": "Memphis Tigers @ Vanderbilt Commodores",
-     "market": "Moneyline",
-     "pick": "ML: HOME (Vanderbilt Commodores)",
-     "prob": 0.7734,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=77%",
      "league_code": "NCAA",
      "league_label": "",
      "odds": null,
@@ -2215,9 +2331,9 @@
       },
       {
        "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.5002539103514669,
-       "detail": "Línea 229.9 · OVER 50% / UNDER 50%",
+       "pick": "OVER",
+       "prob": 0.5848025556646493,
+       "detail": "Línea 219.5 · OVER 58% / UNDER 42%",
        "strong": false
       },
       {
@@ -2479,9 +2595,9 @@
       },
       {
        "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5004433403989771,
-       "detail": "Línea 158.2 · OVER 50% / UNDER 50%",
+       "pick": "UNDER",
+       "prob": 0.5621320841058488,
+       "detail": "Línea 164.5 · OVER 44% / UNDER 56%",
        "strong": false
       },
       {
@@ -2524,8 +2640,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5349839488019248,
-       "detail": "Línea 148.5 · OVER 53% / UNDER 47%",
+       "prob": 0.5250747417837079,
+       "detail": "Línea 149.5 · OVER 53% / UNDER 47%",
        "strong": false
       },
       {
@@ -2568,8 +2684,8 @@
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.50058018942114,
-       "detail": "Línea 157.4 · OVER 50% / UNDER 50%",
+       "prob": 0.5112200109334454,
+       "detail": "Línea 158.5 · OVER 49% / UNDER 51%",
        "strong": false
       },
       {
@@ -2612,8 +2728,8 @@
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.6124731891870626,
-       "detail": "Línea 161.5 · OVER 39% / UNDER 61%",
+       "prob": 0.6029001177900813,
+       "detail": "Línea 160.5 · OVER 40% / UNDER 60%",
        "strong": false
       },
       {
@@ -2621,94 +2737,6 @@
        "pick": "-",
        "prob": null,
        "detail": "Total 150.0",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Iowa State Cyclones",
-     "away": "Southern Jaguars",
-     "home_logo": "data/logos/4c5b6c7b4652d833.png",
-     "away_logo": "data/logos/3a68eccdb1cad4d7.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Iowa State Cyclones",
-       "prob": 0.8664437162461579,
-       "detail": "Local 87% · Visitante 13%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Iowa State Cyclones",
-       "prob": 0.5007611247594255,
-       "detail": "Iowa State Cyclones -14.6 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5002158322542828,
-       "detail": "Línea 151.3 · OVER 50% / UNDER 50%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 151.3",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Arizona Wildcats",
-     "away": "Northern Arizona Lumberjacks",
-     "home_logo": "data/logos/f19b594fbef59ae3.png",
-     "away_logo": "data/logos/563addbcffc746e9.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Arizona Wildcats",
-       "prob": 0.9731547816748691,
-       "detail": "Local 97% · Visitante 3%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Northern Arizona Lumberjacks",
-       "prob": 0.500762753329307,
-       "detail": "Northern Arizona Lumberjacks +20.9 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.5003635105513521,
-       "detail": "Línea 152.7 · OVER 50% / UNDER 50%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 152.7",
        "strong": false
       }
      ],
@@ -2753,6 +2781,50 @@
        "pick": "-",
        "prob": null,
        "detail": "Total 157.7",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Arizona Wildcats",
+     "away": "Northern Arizona Lumberjacks",
+     "home_logo": "data/logos/f19b594fbef59ae3.png",
+     "away_logo": "data/logos/563addbcffc746e9.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NCAA",
+     "league_label": "Todas las ligas",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Arizona Wildcats",
+       "prob": 0.9731547816748691,
+       "detail": "Local 97% · Visitante 3%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Northern Arizona Lumberjacks",
+       "prob": 0.500762753329307,
+       "detail": "Northern Arizona Lumberjacks +20.9 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5279841374515446,
+       "detail": "Línea 155.5 · OVER 47% / UNDER 53%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 152.7",
        "strong": false
       }
      ],
@@ -2848,11 +2920,11 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 68.4,
+   "elapsed_s": 48.7,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true,
-   "picks_total_brutos": 11,
+   "picks_total_brutos": 8,
    "picks_policy": {
     "mercados_excluidos": [
      "Spread",
@@ -2862,7 +2934,7 @@
      "NBA": 0.75,
      "NCAA": 0.75
     },
-    "conservados": 7,
+    "conservados": 4,
     "descartados": 4
    }
   }

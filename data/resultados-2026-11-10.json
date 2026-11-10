@@ -1,12 +1,12 @@
 {
  "day": "2026-11-10",
- "generated_at": "2026-11-09T11:45:30",
+ "generated_at": "2026-11-09T18:24:42",
  "total": {
   "ganados": 0,
   "perdidos": 0,
   "anulados": 0,
-  "pendientes": 16,
-  "n": 16,
+  "pendientes": 14,
+  "n": 14,
   "win_pct": null
  },
  "picks": [
@@ -102,21 +102,6 @@
   },
   {
    "fecha": "2026-11-10",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "New York Knicks",
-   "visitante": "Milwaukee Bucks",
-   "partido": "Milwaukee Bucks @ New York Knicks",
-   "mercado": "ML",
-   "pick": "ML: HOME (New York Knicks)",
-   "cuota": null,
-   "prob": 0.8057,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-10",
    "deporte": "futbol",
    "liga": "CDR",
    "liga_nombre": "Copa del Rey",
@@ -188,21 +173,6 @@
    "cuota": null,
    "prob": 0.7598815985855155,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-10",
-   "deporte": "tenis",
-   "liga": "WTA",
-   "liga_nombre": "WTA Tour",
-   "local": "Jazmin Ortenzi",
-   "visitante": "Leolia Jeanjean",
-   "partido": "Jazmin Ortenzi vs Leolia Jeanjean",
-   "mercado": "ML",
-   "pick": "Jazmin Ortenzi",
-   "cuota": null,
-   "prob": 0.7544,
-   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
