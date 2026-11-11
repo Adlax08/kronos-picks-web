@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-09T18:24:42",
+ "generated_at": "2026-11-10T18:29:38",
  "days": 30,
  "solo_verificables": true,
  "total": {
-  "ganados": 212,
-  "perdidos": 65,
+  "ganados": 222,
+  "perdidos": 70,
   "anulados": 0,
-  "pendientes": 27,
-  "n": 304,
-  "win_pct": 0.765
+  "pendientes": 21,
+  "n": 313,
+  "win_pct": 0.76
  },
  "by_sport": {
   "amfut": {
    "ganados": 9,
    "perdidos": 3,
    "anulados": 0,
-   "pendientes": 3,
-   "n": 15,
+   "pendientes": 4,
+   "n": 16,
    "win_pct": 0.75
   },
   "basquet": {
-   "ganados": 14,
+   "ganados": 16,
    "perdidos": 8,
    "anulados": 0,
-   "pendientes": 1,
-   "n": 23,
-   "win_pct": 0.636
+   "pendientes": 2,
+   "n": 26,
+   "win_pct": 0.667
   },
   "futbol": {
-   "ganados": 135,
-   "perdidos": 34,
+   "ganados": 139,
+   "perdidos": 37,
    "anulados": 0,
-   "pendientes": 10,
+   "pendientes": 3,
    "n": 179,
-   "win_pct": 0.799
+   "win_pct": 0.79
   },
   "tenis": {
-   "ganados": 54,
-   "perdidos": 20,
+   "ganados": 58,
+   "perdidos": 22,
    "anulados": 0,
-   "pendientes": 13,
-   "n": 87,
-   "win_pct": 0.73
+   "pendientes": 12,
+   "n": 92,
+   "win_pct": 0.725
   }
  },
  "picks": [
@@ -4322,6 +4322,36 @@
   },
   {
    "fecha": "2026-11-09",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Texas Longhorns",
+   "visitante": "Grambling Tigers",
+   "partido": "Grambling Tigers @ Texas Longhorns",
+   "mercado": "ML",
+   "pick": "ML: HOME (Texas Longhorns)",
+   "cuota": null,
+   "prob": 0.9315,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-09",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "UConn Huskies",
+   "visitante": "Wagner Seahawks",
+   "partido": "Wagner Seahawks @ UConn Huskies",
+   "mercado": "ML",
+   "pick": "ML: HOME (UConn Huskies)",
+   "cuota": null,
+   "prob": 0.9053,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-09",
    "deporte": "tenis",
    "liga": "ATP",
    "liga_nombre": "ATP Tour",
@@ -4408,7 +4438,7 @@
    "cuota": null,
    "prob": 0.8823569628942136,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-10",
@@ -4423,7 +4453,7 @@
    "cuota": null,
    "prob": 0.8769,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-10",
@@ -4438,7 +4468,7 @@
    "cuota": null,
    "prob": 0.8563676949323468,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-10",
@@ -4453,7 +4483,7 @@
    "cuota": null,
    "prob": 0.8550465762569168,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-10",
@@ -4468,7 +4498,7 @@
    "cuota": null,
    "prob": 0.8399,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-10",
@@ -4498,7 +4528,7 @@
    "cuota": null,
    "prob": 0.8008714101884622,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-10",
@@ -4513,7 +4543,7 @@
    "cuota": null,
    "prob": 0.7949389310890405,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-10",
@@ -4528,7 +4558,7 @@
    "cuota": null,
    "prob": 0.782,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-10",
@@ -4543,7 +4573,7 @@
    "cuota": null,
    "prob": 0.7686,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-10",
@@ -4558,7 +4588,7 @@
    "cuota": null,
    "prob": 0.7598815985855155,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-10",
@@ -4573,7 +4603,7 @@
    "cuota": null,
    "prob": 0.7355297890085775,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-10",
@@ -4588,7 +4618,7 @@
    "cuota": null,
    "prob": 0.7157,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-10",
@@ -4603,6 +4633,111 @@
    "cuota": null,
    "prob": 0.7019,
    "tier": "MUY BUENO",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-11",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Milwaukee Bucks",
+   "visitante": "Los Angeles Lakers",
+   "partido": "Los Angeles Lakers @ Milwaukee Bucks",
+   "mercado": "ML",
+   "pick": "ML: AWAY (Los Angeles Lakers)",
+   "cuota": null,
+   "prob": 0.8467,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-11",
+   "deporte": "amfut",
+   "liga": "NCAAF",
+   "liga_nombre": "NCAAF (College)",
+   "local": "Toledo Rockets",
+   "visitante": "Massachusetts Minutemen",
+   "partido": "Massachusetts Minutemen @ Toledo Rockets",
+   "mercado": "ML",
+   "pick": "ML: HOME (Toledo Rockets)",
+   "cuota": null,
+   "prob": 0.8233,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-11",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Cameron Norrie",
+   "visitante": "Taylor Fritz",
+   "partido": "Cameron Norrie vs Taylor Fritz",
+   "mercado": "ML",
+   "pick": "Taylor Fritz",
+   "cuota": null,
+   "prob": 0.8150999999999999,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-11",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Bianca Andreescu",
+   "visitante": "Laura Pigossi",
+   "partido": "Bianca Andreescu vs Laura Pigossi",
+   "mercado": "ML",
+   "pick": "Bianca Andreescu",
+   "cuota": null,
+   "prob": 0.8008,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-11",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Holger Rune",
+   "visitante": "Miomir Kecmanovic",
+   "partido": "Holger Rune vs Miomir Kecmanovic",
+   "mercado": "ML",
+   "pick": "Holger Rune",
+   "cuota": null,
+   "prob": 0.7874,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-11",
+   "deporte": "tenis",
+   "liga": "ATP",
+   "liga_nombre": "ATP Tour",
+   "local": "Alejandro Tabilo",
+   "visitante": "Lorenzo Sonego",
+   "partido": "Alejandro Tabilo vs Lorenzo Sonego",
+   "mercado": "ML",
+   "pick": "Alejandro Tabilo",
+   "cuota": null,
+   "prob": 0.7791,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-11",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Laura Samson",
+   "visitante": "Sofia Costoulas",
+   "partido": "Laura Samson vs Sofia Costoulas",
+   "mercado": "ML",
+   "pick": "Laura Samson",
+   "cuota": null,
+   "prob": 0.7577,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   }
  ]
