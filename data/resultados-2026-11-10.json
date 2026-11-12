@@ -1,15 +1,60 @@
 {
  "day": "2026-11-10",
- "generated_at": "2026-11-10T18:29:38",
+ "generated_at": "2026-11-11T18:30:58",
  "total": {
-  "ganados": 8,
+  "ganados": 11,
   "perdidos": 5,
   "anulados": 0,
   "pendientes": 1,
-  "n": 14,
-  "win_pct": 0.615
+  "n": 17,
+  "win_pct": 0.688
  },
  "picks": [
+  {
+   "fecha": "2026-11-10",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Arizona Wildcats",
+   "visitante": "Northern Arizona Lumberjacks",
+   "partido": "Northern Arizona Lumberjacks @ Arizona Wildcats",
+   "mercado": "ML",
+   "pick": "ML: HOME (Arizona Wildcats)",
+   "cuota": null,
+   "prob": 0.9732,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-10",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Virginia Cavaliers",
+   "visitante": "Bucknell Bison",
+   "partido": "Bucknell Bison @ Virginia Cavaliers",
+   "mercado": "ML",
+   "pick": "ML: HOME (Virginia Cavaliers)",
+   "cuota": null,
+   "prob": 0.963,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-10",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Florida State Seminoles",
+   "visitante": "Florida Gators",
+   "partido": "Florida Gators @ Florida State Seminoles",
+   "mercado": "ML",
+   "pick": "ML: AWAY (Florida Gators)",
+   "cuota": 1.182,
+   "prob": 0.9304,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
   {
    "fecha": "2026-11-10",
    "deporte": "futbol",

@@ -405,6 +405,74 @@
 @media (min-width: 768px) { #bottomNav { display: none; } }
 @media (max-width: 767px) { body { padding-bottom: calc(64px + env(safe-area-inset-bottom)); } }
 
+/* ── Móvil: compactar todo para ver más ─────────────────── */
+/* En PC el diseño se respeta intacto; solo en pantallas pequeñas se
+   reduce el aire, se permiten nombres a 2 líneas (antes se cortaban con
+   "...") y los picks se aprietan a dos columnas. */
+@media (max-width: 767px) {
+  /* menos aire general (px-margin son 32px por lado: demasiado en móvil) */
+  main { padding: 1rem 12px !important; }
+  #heroHeader { margin-bottom: 1.1rem !important; }
+  #heroHeader p { font-size: 0.85rem !important; }
+  #controlBar { padding: 0.9rem !important; margin-bottom: 1.25rem !important; }
+  #controlBar .mt-6 { margin-top: 0.7rem !important; padding-top: 0.7rem !important; }
+  header > div { height: 54px !important; }
+  #brandLink { font-size: 0.95rem !important; }
+  #btnPro { padding: 0.35rem 0.65rem !important; }
+  #btnPro .material-symbols-outlined { display: none; }
+  #resultsSection > section, #registroSection { margin-bottom: 1.5rem !important; }
+  footer > div { padding-top: 0.8rem !important; padding-bottom: 0.8rem !important; }
+  .skeleton-card { height: 120px; }
+  .pill { padding: 0.4rem 0.7rem; font-size: 0.8rem; }
+  #registroSummary > div { padding: 0.6rem !important; }
+  #registroSummary .win-big { font-size: 1.15rem !important; }
+}
+
+@media (max-width: 640px) {
+  /* picks compactos y en dos columnas (una sola en pantallas muy estrechas) */
+  #picksGrid {
+    grid-template-columns: repeat(auto-fill, minmax(155px, 1fr)) !important;
+    gap: 0.5rem !important;
+  }
+  .pick-card { padding: 0.7rem !important; }
+  .pick-crest { flex-direction: row !important; align-items: center; gap: 8px; margin-bottom: 8px; }
+  .crest-lg { width: 40px !important; height: 40px !important; }
+  .crest-lg.crest-fallback { font-size: 12px !important; }
+  .pick-crest-name {
+    font-size: 11px !important; text-align: left !important;
+    white-space: normal !important;
+    overflow: hidden; display: -webkit-box;
+    -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+  }
+  .pick-card h3 { font-size: 13px !important; margin-bottom: 4px !important; overflow-wrap: anywhere; }
+  .pick-card h3 + p { font-size: 12px !important; margin-bottom: 8px !important; }
+  .pick-card .prob-big { font-size: 1.35rem !important; }
+  .pick-card .border-t { padding-top: 8px !important; }
+  .pick-card .font-label-sm { font-size: 9.5px !important; }
+
+  /* cartelera: filas compactas y nombres completos (máx. 2 líneas) */
+  .game-row > div:first-child { padding: 0.6rem 0.7rem !important; }
+  .game-row span.truncate {
+    font-size: 13px !important;
+    white-space: normal !important;
+    overflow: hidden; display: -webkit-box;
+    -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    min-width: 0;
+  }
+  .game-row .chevron { font-size: 20px !important; }
+  .market-row { font-size: 12px; padding: 0.45rem 0.6rem; gap: 0.5rem; }
+
+  /* registro / resultados del día: tabla más densa */
+  .reg-table { font-size: 11.5px; }
+  .reg-table thead th, .reg-table tbody td { padding: 0.4rem 0.5rem !important; }
+  .reg-table tbody td { overflow-wrap: anywhere; }
+  .estado-badge { font-size: 9px; padding: 0.15rem 0.4rem; }
+  .win-big { font-size: 1rem; }
+
+  /* paneles emergentes (selector de día) menos anchos */
+  .day-pop { min-width: 230px; }
+}
+
 /* ── Micro-animaciones y detalle ────────────────────────── */
 .pick-card { transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease; }
 .pick-card:hover { transform: translateY(-2px); box-shadow: 0 10px 26px rgba(0,0,0,.07); }

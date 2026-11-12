@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "generated_at": "2026-11-10T18:20:52",
- "sports_total": "22 partidos",
+ "generated_at": "2026-11-10T22:13:18",
+ "sports_total": "9 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -255,40 +255,9 @@
    "date": "2026-11-10",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 5,
-   "message": "5 partidos proyectados",
-   "picks": [
-    {
-     "match": "Dominik Kellovsky vs Sebastian Prechtel",
-     "market": "ML",
-     "pick": "Dominik Kellovsky",
-     "prob": 0.8702,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "EV +63.6% · momio 1.88",
-     "edge": null,
-     "ev": 0.6359759999999999,
-     "odds": 1.88,
-     "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    },
-    {
-     "match": "Agustin Moreno vs Jan Klimas",
-     "market": "ML",
-     "pick": "Agustin Moreno",
-     "prob": 0.8299,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": "EV +11.2% · momio 1.34",
-     "edge": null,
-     "ev": 0.11206600000000005,
-     "odds": 1.34,
-     "line": null,
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour"
-    }
-   ],
+   "n": 1,
+   "message": "1 partidos proyectados",
+   "picks": [],
    "predictions": [
     {
      "home": "Thiago Agustin Tirante",
@@ -333,199 +302,22 @@
      "momentum_ok": true,
      "home_logo": "",
      "away_logo": ""
-    },
-    {
-     "home": "Agustin Moreno",
-     "away": "Jan Klimas",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "Lima 3 challenger, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Agustin Moreno",
-       "prob": 0.8299,
-       "detail": "Agustin Moreno 83% · Jan Klimas 17%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5047,
-       "detail": "OVER 21.5 · 50% · Proyectado 22.4",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Agustin Moreno",
-       "prob": 0.5669,
-       "detail": "Hándicap Sets -1.5 · 57% · (-131)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.5211,
-       "detail": "UNDER 9.5 · 52% · Proyectado 9.6",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true,
-     "home_logo": "",
-     "away_logo": ""
-    },
-    {
-     "home": "Preston Stearns",
-     "away": "Raphael Perot",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "Lima 3 challenger, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Preston Stearns",
-       "prob": 0.5562,
-       "detail": "Preston Stearns 56% · Raphael Perot 44%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5065,
-       "detail": "UNDER 22.5 · 51% · Proyectado 23.1",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Raphael Perot",
-       "prob": 0.6529,
-       "detail": "Hándicap Sets -1.5 · 35% · (+188)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5334,
-       "detail": "OVER 9.5 · 53% · Proyectado 9.6",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false,
-     "home_logo": "",
-     "away_logo": ""
-    },
-    {
-     "home": "Dominik Kellovsky",
-     "away": "Sebastian Prechtel",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "Lima 3 challenger, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Dominik Kellovsky",
-       "prob": 0.8702,
-       "detail": "Dominik Kellovsky 87% · Sebastian Prechtel 13%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5259,
-       "detail": "UNDER 22.5 · 53% · Proyectado 22.8",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Dominik Kellovsky",
-       "prob": 0.6713,
-       "detail": "Hándicap Sets -1.5 · 67% · (-204)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5302,
-       "detail": "OVER 9.5 · 53% · Proyectado 9.8",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true,
-     "home_logo": "",
-     "away_logo": ""
-    },
-    {
-     "home": "Oleg Prihodko",
-     "away": "Peter Sallay",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CHALLENGER",
-     "league_label": "ATP Challenger Tour",
-     "context": "Lima 3 challenger, Hard, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Oleg Prihodko",
-       "prob": 0.7853,
-       "detail": "Oleg Prihodko 79% · Peter Sallay 21%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5617,
-       "detail": "UNDER 23.5 · 56% · Proyectado 22.5",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Oleg Prihodko",
-       "prob": 0.5316,
-       "detail": "Hándicap Sets -1.5 · 53% · (-113)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5771,
-       "detail": "OVER 9.5 · 58% · Proyectado 9.7",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true,
-     "home_logo": "",
-     "away_logo": ""
     }
    ],
-   "elapsed_s": 317.1,
+   "elapsed_s": 259.7,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true,
-   "picks_total_brutos": 3,
+   "picks_total_brutos": 1,
    "picks_policy": {
     "mercados_excluidos": [
      "HANDICAP JUEGOS",
      "SET1 JUEGOS"
     ],
     "min_prob": {
-     "ATP": 0.7,
-     "CHALLENGER": 0.7
+     "ATP": 0.7
     },
-    "conservados": 2,
+    "conservados": 0,
     "descartados": 1
    }
   },
@@ -701,7 +493,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 12.5,
+   "elapsed_s": 11.7,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true,
@@ -723,144 +515,10 @@
    "date": "2026-11-10",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 14,
-   "message": "14 partidos proyectados",
-   "picks": [
-    {
-     "match": "Northern Arizona Lumberjacks @ Arizona Wildcats",
-     "market": "Moneyline",
-     "pick": "ML: HOME (Arizona Wildcats)",
-     "prob": 0.9732,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=97%",
-     "league_code": "NCAA",
-     "league_label": "",
-     "odds": null,
-     "line": null,
-     "edge": null,
-     "ev": null
-    },
-    {
-     "match": "Bucknell Bison @ Virginia Cavaliers",
-     "market": "Moneyline",
-     "pick": "ML: HOME (Virginia Cavaliers)",
-     "prob": 0.963,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=96%",
-     "league_code": "NCAA",
-     "league_label": "",
-     "odds": null,
-     "line": null,
-     "edge": null,
-     "ev": null
-    },
-    {
-     "match": "Florida Gators @ Florida State Seminoles",
-     "market": "Moneyline",
-     "pick": "ML: AWAY (Florida Gators)",
-     "prob": 0.9304,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=93% · momio 1.20619 · EV +12.2%",
-     "league_code": "NCAA",
-     "league_label": "",
-     "odds": 1.206,
-     "line": null,
-     "edge": null,
-     "ev": null
-    }
-   ],
+   "n": 5,
+   "message": "5 partidos proyectados",
+   "picks": [],
    "predictions": [
-    {
-     "home": "New York Knicks",
-     "away": "Milwaukee Bucks",
-     "home_logo": "data/logos/99a054408ada5a7b.png",
-     "away_logo": "data/logos/3d0fe308fca1b8ff.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "New York Knicks",
-       "prob": 0.805677926326607,
-       "detail": "Local 81% · Visitante 19%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Milwaukee Bucks",
-       "prob": 0.5011320456101626,
-       "detail": "Milwaukee Bucks +12.4 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5686517135667134,
-       "detail": "Línea 221.5 · OVER 57% / UNDER 43%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 229.9",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Philadelphia 76ers",
-     "away": "Boston Celtics",
-     "home_logo": "data/logos/b982ee13feadb04f.png",
-     "away_logo": "data/logos/fa391ce671bc1351.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Boston Celtics",
-       "prob": 0.5404070582133566,
-       "detail": "Local 46% · Visitante 54%",
-       "strong": false
-      },
-      {
-       "label": "Spread",
-       "pick": "Philadelphia 76ers",
-       "prob": 0.5007120318532117,
-       "detail": "Philadelphia 76ers +1 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5638830679321567,
-       "detail": "Línea 217.5 · OVER 56% / UNDER 44%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 225.3",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
     {
      "home": "Phoenix Suns",
      "away": "LA Clippers",
@@ -934,8 +592,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.6170200929029932,
-       "detail": "Línea 225.5 · OVER 62% / UNDER 38%",
+       "prob": 0.6011833213785133,
+       "detail": "Línea 227.5 · OVER 60% / UNDER 40%",
        "strong": false
       },
       {
@@ -1015,15 +673,15 @@
       {
        "label": "Spread",
        "pick": "Portland Trail Blazers",
-       "prob": 0.5702489293710993,
-       "detail": "Portland Trail Blazers +3.5 · 57%",
+       "prob": 0.5580180755285886,
+       "detail": "Portland Trail Blazers +2.5 · 56%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5282580443495886,
-       "detail": "Línea 225.5 · OVER 53% / UNDER 47%",
+       "prob": 0.9913679803295664,
+       "detail": "Línea 113.5 · OVER 99% / UNDER 1%",
        "strong": false
       },
       {
@@ -1031,314 +689,6 @@
        "pick": "-",
        "prob": null,
        "detail": "Total 228.9",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Florida State Seminoles",
-     "away": "Florida Gators",
-     "home_logo": "data/logos/a8cd382ccbfb5b94.png",
-     "away_logo": "data/logos/6712a307ddf060ba.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Florida Gators",
-       "prob": 0.9304184678040173,
-       "detail": "Local 7% · Visitante 93%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Florida State Seminoles",
-       "prob": 0.5004703855450165,
-       "detail": "Florida State Seminoles +19 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.5621320841058488,
-       "detail": "Línea 164.5 · OVER 44% / UNDER 56%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 158.2",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Duke Blue Devils",
-     "away": "Michigan State Spartans",
-     "home_logo": "data/logos/5f3cf207b7a680c8.png",
-     "away_logo": "data/logos/aee5a568b4f3fdb4.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Duke Blue Devils",
-       "prob": 0.7012693895143944,
-       "detail": "Local 70% · Visitante 30%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Duke Blue Devils",
-       "prob": 0.5010207298660202,
-       "detail": "Duke Blue Devils -7.1 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.544871507161594,
-       "detail": "Línea 147.5 · OVER 54% / UNDER 46%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 152.0",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Vanderbilt Commodores",
-     "away": "Memphis Tigers",
-     "home_logo": "data/logos/ad8a3974442bb05c.png",
-     "away_logo": "data/logos/80b618efef015096.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Vanderbilt Commodores",
-       "prob": 0.7733784690027632,
-       "detail": "Local 77% · Visitante 23%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Memphis Tigers",
-       "prob": 0.5006853220281503,
-       "detail": "Memphis Tigers +9.7 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.5409621467793372,
-       "detail": "Línea 161.5 · OVER 46% / UNDER 54%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 157.4",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Texas Tech Red Raiders",
-     "away": "Illinois Fighting Illini",
-     "home_logo": "data/logos/a315165dcb14ec05.png",
-     "away_logo": "data/logos/b0acbc580ffe6d24.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Illinois Fighting Illini",
-       "prob": 0.627855033298318,
-       "detail": "Local 37% · Visitante 63%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Illinois Fighting Illini",
-       "prob": 0.500418214773773,
-       "detail": "Illinois Fighting Illini -5.1 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.6592146162543069,
-       "detail": "Línea 166.5 · OVER 34% / UNDER 66%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 150.0",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Virginia Cavaliers",
-     "away": "Bucknell Bison",
-     "home_logo": "data/logos/7c1e9758caeefbc5.png",
-     "away_logo": "data/logos/c785298927163f7f.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Virginia Cavaliers",
-       "prob": 0.9629891112673314,
-       "detail": "Local 96% · Visitante 4%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Bucknell Bison",
-       "prob": 0.5006244939482302,
-       "detail": "Bucknell Bison +19.7 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5616564264173896,
-       "detail": "Línea 151.5 · OVER 56% / UNDER 44%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 157.7",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Arizona Wildcats",
-     "away": "Northern Arizona Lumberjacks",
-     "home_logo": "data/logos/f19b594fbef59ae3.png",
-     "away_logo": "data/logos/563addbcffc746e9.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Arizona Wildcats",
-       "prob": 0.9731547816748691,
-       "detail": "Local 97% · Visitante 3%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Northern Arizona Lumberjacks",
-       "prob": 0.500762753329307,
-       "detail": "Northern Arizona Lumberjacks +20.9 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.5477676764564345,
-       "detail": "Línea 157.5 · OVER 45% / UNDER 55%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 152.7",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "BYU Cougars",
-     "away": "Queens University Royals",
-     "home_logo": "data/logos/1c88b230f1facff9.png",
-     "away_logo": "data/logos/d30089810cfd6485.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "BYU Cougars",
-       "prob": 0.8688859381153242,
-       "detail": "Local 87% · Visitante 13%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Queens University Royals",
-       "prob": 0.5006171507945085,
-       "detail": "Queens University Royals +14.5 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.6509359212590415,
-       "detail": "Línea 181.5 · OVER 35% / UNDER 65%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 165.9",
        "strong": false
       }
      ],
@@ -1390,22 +740,21 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 69.5,
+   "elapsed_s": 67.3,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true,
-   "picks_total_brutos": 7,
+   "picks_total_brutos": 1,
    "picks_policy": {
     "mercados_excluidos": [
      "Spread",
      "Totales"
     ],
     "min_prob": {
-     "NBA": 0.75,
-     "NCAA": 0.75
+     "NBA": 0.75
     },
-    "conservados": 3,
-    "descartados": 4
+    "conservados": 0,
+    "descartados": 1
    }
   }
  }

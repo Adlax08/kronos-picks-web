@@ -1,30 +1,15 @@
 {
  "day": "2026-11-11",
- "generated_at": "2026-11-10T18:29:38",
+ "generated_at": "2026-11-11T18:30:58",
  "total": {
-  "ganados": 0,
+  "ganados": 5,
   "perdidos": 0,
   "anulados": 0,
-  "pendientes": 7,
-  "n": 7,
-  "win_pct": null
+  "pendientes": 1,
+  "n": 6,
+  "win_pct": 1.0
  },
  "picks": [
-  {
-   "fecha": "2026-11-11",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Milwaukee Bucks",
-   "visitante": "Los Angeles Lakers",
-   "partido": "Los Angeles Lakers @ Milwaukee Bucks",
-   "mercado": "ML",
-   "pick": "ML: AWAY (Los Angeles Lakers)",
-   "cuota": null,
-   "prob": 0.8467,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
   {
    "fecha": "2026-11-11",
    "deporte": "amfut",
@@ -36,7 +21,7 @@
    "mercado": "ML",
    "pick": "ML: HOME (Toledo Rockets)",
    "cuota": null,
-   "prob": 0.8233,
+   "prob": 0.8173,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -53,7 +38,7 @@
    "cuota": null,
    "prob": 0.8150999999999999,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-11",
@@ -68,7 +53,7 @@
    "cuota": null,
    "prob": 0.8008,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-11",
@@ -83,7 +68,7 @@
    "cuota": null,
    "prob": 0.7874,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-11",
@@ -98,7 +83,7 @@
    "cuota": null,
    "prob": 0.7791,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-11",
@@ -113,7 +98,7 @@
    "cuota": null,
    "prob": 0.7577,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   }
  ]
 }
