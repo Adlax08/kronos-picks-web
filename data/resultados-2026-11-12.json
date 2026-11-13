@@ -1,13 +1,13 @@
 {
  "day": "2026-11-12",
- "generated_at": "2026-11-11T18:30:58",
+ "generated_at": "2026-11-12T18:31:29",
  "total": {
-  "ganados": 0,
-  "perdidos": 0,
+  "ganados": 13,
+  "perdidos": 5,
   "anulados": 0,
-  "pendientes": 20,
+  "pendientes": 2,
   "n": 20,
-  "win_pct": null
+  "win_pct": 0.722
  },
  "picks": [
   {
@@ -23,7 +23,7 @@
    "cuota": null,
    "prob": 0.95,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -38,7 +38,7 @@
    "cuota": null,
    "prob": 0.902882250920763,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -53,7 +53,7 @@
    "cuota": null,
    "prob": 0.9019436885734591,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-12",
@@ -68,7 +68,7 @@
    "cuota": null,
    "prob": 0.8830902598282137,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -83,7 +83,7 @@
    "cuota": null,
    "prob": 0.8666216771221017,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -98,7 +98,7 @@
    "cuota": null,
    "prob": 0.8511427083350123,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -113,7 +113,7 @@
    "cuota": null,
    "prob": 0.8380398032437055,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -128,7 +128,7 @@
    "cuota": null,
    "prob": 0.8375898891316856,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -143,7 +143,7 @@
    "cuota": null,
    "prob": 0.832326742738885,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -158,7 +158,7 @@
    "cuota": null,
    "prob": 0.830108429869798,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -173,7 +173,7 @@
    "cuota": null,
    "prob": 0.8257666503938165,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -188,7 +188,7 @@
    "cuota": null,
    "prob": 0.8107,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -203,22 +203,7 @@
    "cuota": null,
    "prob": 0.8081881294106152,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-12",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Washington Wizards",
-   "visitante": "Detroit Pistons",
-   "partido": "Detroit Pistons @ Washington Wizards",
-   "mercado": "ML",
-   "pick": "ML: AWAY (Detroit Pistons)",
-   "cuota": null,
-   "prob": 0.795,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -230,7 +215,7 @@
    "partido": "Dallas Mavericks @ Minnesota Timberwolves",
    "mercado": "ML",
    "pick": "ML: HOME (Minnesota Timberwolves)",
-   "cuota": null,
+   "cuota": 1.448,
    "prob": 0.7705,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -248,7 +233,7 @@
    "cuota": null,
    "prob": 0.7696036406791003,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-12",
@@ -263,7 +248,7 @@
    "cuota": null,
    "prob": 0.7571153729167455,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -278,7 +263,7 @@
    "cuota": null,
    "prob": 0.7559199587041483,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-12",
@@ -293,7 +278,7 @@
    "cuota": null,
    "prob": 0.737531836949421,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-12",
@@ -307,6 +292,21 @@
    "pick": "Andrea Lazaro Garcia",
    "cuota": null,
    "prob": 0.7329,
+   "tier": "TOP PICK",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-12",
+   "deporte": "futbol",
+   "liga": "CNL",
+   "liga_nombre": "Concacaf Nations League",
+   "local": "Curaçao",
+   "visitante": "Panama",
+   "partido": "Curaçao vs Panama",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7234996157014979,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   }

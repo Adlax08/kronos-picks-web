@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-11T18:30:58",
+ "generated_at": "2026-11-12T18:31:29",
  "days": 30,
  "solo_verificables": true,
  "total": {
-  "ganados": 236,
-  "perdidos": 72,
+  "ganados": 252,
+  "perdidos": 77,
   "anulados": 2,
-  "pendientes": 25,
-  "n": 335,
+  "pendientes": 27,
+  "n": 358,
   "win_pct": 0.766
  },
  "by_sport": {
@@ -20,28 +20,28 @@
    "win_pct": 0.75
   },
   "basquet": {
-   "ganados": 20,
+   "ganados": 23,
    "perdidos": 8,
    "anulados": 0,
-   "pendientes": 2,
-   "n": 30,
-   "win_pct": 0.714
+   "pendientes": 1,
+   "n": 32,
+   "win_pct": 0.742
   },
   "futbol": {
-   "ganados": 140,
-   "perdidos": 38,
+   "ganados": 152,
+   "perdidos": 42,
    "anulados": 0,
-   "pendientes": 17,
-   "n": 195,
-   "win_pct": 0.787
+   "pendientes": 21,
+   "n": 215,
+   "win_pct": 0.784
   },
   "tenis": {
-   "ganados": 67,
-   "perdidos": 23,
+   "ganados": 68,
+   "perdidos": 24,
    "anulados": 2,
-   "pendientes": 2,
-   "n": 94,
-   "win_pct": 0.744
+   "pendientes": 1,
+   "n": 95,
+   "win_pct": 0.739
   }
  },
  "picks": [
@@ -4682,6 +4682,21 @@
   },
   {
    "fecha": "2026-11-11",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Michigan Wolverines",
+   "visitante": "Marquette Golden Eagles",
+   "partido": "Marquette Golden Eagles @ Michigan Wolverines",
+   "mercado": "ML",
+   "pick": "ML: HOME (Michigan Wolverines)",
+   "cuota": 1.541,
+   "prob": 0.9391,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-11",
    "deporte": "amfut",
    "liga": "NCAAF",
    "liga_nombre": "NCAAF (College)",
@@ -4707,6 +4722,36 @@
    "pick": "Taylor Fritz",
    "cuota": null,
    "prob": 0.8150999999999999,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-11",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "UCLA Bruins",
+   "visitante": "Arkansas-Pine Bluff Golden Lions",
+   "partido": "Arkansas-Pine Bluff Golden Lions @ UCLA Bruins",
+   "mercado": "ML",
+   "pick": "ML: HOME (UCLA Bruins)",
+   "cuota": null,
+   "prob": 0.8031,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-11",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Nebraska Cornhuskers",
+   "visitante": "Lindenwood Lions",
+   "partido": "Lindenwood Lions @ Nebraska Cornhuskers",
+   "mercado": "ML",
+   "pick": "ML: HOME (Nebraska Cornhuskers)",
+   "cuota": null,
+   "prob": 0.8017,
    "tier": "TOP PICK",
    "estado": "GANADO"
   },
@@ -4783,7 +4828,7 @@
    "cuota": null,
    "prob": 0.95,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4798,7 +4843,7 @@
    "cuota": null,
    "prob": 0.902882250920763,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4813,7 +4858,7 @@
    "cuota": null,
    "prob": 0.9019436885734591,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-12",
@@ -4828,7 +4873,7 @@
    "cuota": null,
    "prob": 0.8830902598282137,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4843,7 +4888,7 @@
    "cuota": null,
    "prob": 0.8666216771221017,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4858,7 +4903,7 @@
    "cuota": null,
    "prob": 0.8511427083350123,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4873,7 +4918,7 @@
    "cuota": null,
    "prob": 0.8380398032437055,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4888,7 +4933,7 @@
    "cuota": null,
    "prob": 0.8375898891316856,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4903,7 +4948,7 @@
    "cuota": null,
    "prob": 0.832326742738885,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4918,7 +4963,7 @@
    "cuota": null,
    "prob": 0.830108429869798,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4933,7 +4978,7 @@
    "cuota": null,
    "prob": 0.8257666503938165,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4948,7 +4993,7 @@
    "cuota": null,
    "prob": 0.8107,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4963,22 +5008,7 @@
    "cuota": null,
    "prob": 0.8081881294106152,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-12",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Washington Wizards",
-   "visitante": "Detroit Pistons",
-   "partido": "Detroit Pistons @ Washington Wizards",
-   "mercado": "ML",
-   "pick": "ML: AWAY (Detroit Pistons)",
-   "cuota": null,
-   "prob": 0.795,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -4990,7 +5020,7 @@
    "partido": "Dallas Mavericks @ Minnesota Timberwolves",
    "mercado": "ML",
    "pick": "ML: HOME (Minnesota Timberwolves)",
-   "cuota": null,
+   "cuota": 1.448,
    "prob": 0.7705,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -5008,7 +5038,7 @@
    "cuota": null,
    "prob": 0.7696036406791003,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-12",
@@ -5023,7 +5053,7 @@
    "cuota": null,
    "prob": 0.7571153729167455,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -5038,7 +5068,7 @@
    "cuota": null,
    "prob": 0.7559199587041483,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-12",
@@ -5053,7 +5083,7 @@
    "cuota": null,
    "prob": 0.737531836949421,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-12",
@@ -5068,6 +5098,321 @@
    "cuota": null,
    "prob": 0.7329,
    "tier": "TOP PICK",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-12",
+   "deporte": "futbol",
+   "liga": "CNL",
+   "liga_nombre": "Concacaf Nations League",
+   "local": "Curaçao",
+   "visitante": "Panama",
+   "partido": "Curaçao vs Panama",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7234996157014979,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "CNL",
+   "liga_nombre": "Concacaf Nations League",
+   "local": "Puerto Rico",
+   "visitante": "Dominica",
+   "partido": "Puerto Rico vs Dominica",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.9065383375501521,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "UNL",
+   "liga_nombre": "UEFA Nations League",
+   "local": "Serbia",
+   "visitante": "Germany",
+   "partido": "Serbia vs Germany",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: X2",
+   "cuota": null,
+   "prob": 0.8846019604244322,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "UNL",
+   "liga_nombre": "UEFA Nations League",
+   "local": "Andorra",
+   "visitante": "Gibraltar",
+   "partido": "Andorra vs Gibraltar",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: X2",
+   "cuota": null,
+   "prob": 0.8689374200973312,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AFQ",
+   "liga_nombre": "Clasificatoria AFCON",
+   "local": "Egypt",
+   "visitante": "Malawi",
+   "partido": "Egypt vs Malawi",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.8549367323700738,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "US Saint-Philbert-de-Grand-Lieu",
+   "visitante": "La Roche-sur-Yon",
+   "partido": "US Saint-Philbert-de-Grand-Lieu vs La Roche-sur-Yon",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8498941876100488,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AFQ",
+   "liga_nombre": "Clasificatoria AFCON",
+   "local": "Nigeria",
+   "visitante": "Tanzania",
+   "partido": "Nigeria vs Tanzania",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8456600762623132,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AMI",
+   "liga_nombre": "Amistosos Int. (Selecciones)",
+   "local": "Ecuador",
+   "visitante": "Costa Rica",
+   "partido": "Ecuador vs Costa Rica",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8354615494665973,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "CNL",
+   "liga_nombre": "Concacaf Nations League",
+   "local": "Guatemala",
+   "visitante": "Canada",
+   "partido": "Guatemala vs Canada",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8347425763699323,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "UNL",
+   "liga_nombre": "UEFA Nations League",
+   "local": "Bulgaria",
+   "visitante": "Iceland",
+   "partido": "Bulgaria vs Iceland",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8265643573900772,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AFQ",
+   "liga_nombre": "Clasificatoria AFCON",
+   "local": "Gabon",
+   "visitante": "Lesotho",
+   "partido": "Gabon vs Lesotho",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.8239337878686982,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AFQ",
+   "liga_nombre": "Clasificatoria AFCON",
+   "local": "Burkina Faso",
+   "visitante": "Mauritania",
+   "partido": "Burkina Faso vs Mauritania",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.8213999129712053,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AMI",
+   "liga_nombre": "Amistosos Int. (Selecciones)",
+   "local": "Colombia",
+   "visitante": "Chile",
+   "partido": "Colombia vs Chile",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.816710174182053,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AFQ",
+   "liga_nombre": "Clasificatoria AFCON",
+   "local": "Cape Verde",
+   "visitante": "Liberia",
+   "partido": "Cape Verde vs Liberia",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8102774539259526,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AFQ",
+   "liga_nombre": "Clasificatoria AFCON",
+   "local": "South Africa",
+   "visitante": "Kenya",
+   "partido": "South Africa vs Kenya",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.8067616561701847,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AMI",
+   "liga_nombre": "Amistosos Int. (Selecciones)",
+   "local": "Argentina",
+   "visitante": "Uruguay",
+   "partido": "Argentina vs Uruguay",
+   "mercado": "1X2",
+   "pick": "1X2: HOME (1)",
+   "cuota": null,
+   "prob": 0.8031170885313754,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "UNL",
+   "liga_nombre": "UEFA Nations League",
+   "local": "Netherlands",
+   "visitante": "Greece",
+   "partido": "Netherlands vs Greece",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7996276644265641,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AFQ",
+   "liga_nombre": "Clasificatoria AFCON",
+   "local": "Mozambique",
+   "visitante": "Ethiopia",
+   "partido": "Mozambique vs Ethiopia",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7973223763850262,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Aryna Sabalenka",
+   "visitante": "Elina Svitolina",
+   "partido": "Aryna Sabalenka vs Elina Svitolina",
+   "mercado": "ML",
+   "pick": "Aryna Sabalenka",
+   "cuota": null,
+   "prob": 0.772,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AMI",
+   "liga_nombre": "Amistosos Int. (Selecciones)",
+   "local": "Singapore",
+   "visitante": "Paraguay",
+   "partido": "Singapore vs Paraguay",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7670114865419451,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AMI",
+   "liga_nombre": "Amistosos Int. (Selecciones)",
+   "local": "Saudi Arabia",
+   "visitante": "South Korea",
+   "partido": "Saudi Arabia vs South Korea",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.7628461809614102,
+   "tier": "BUENO",
    "estado": "PENDIENTE"
   }
  ]
