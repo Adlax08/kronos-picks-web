@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-12T18:31:29",
+ "generated_at": "2026-11-13T18:26:01",
  "days": 30,
  "solo_verificables": true,
  "total": {
-  "ganados": 252,
-  "perdidos": 77,
+  "ganados": 264,
+  "perdidos": 81,
   "anulados": 2,
-  "pendientes": 27,
-  "n": 358,
-  "win_pct": 0.766
+  "pendientes": 31,
+  "n": 378,
+  "win_pct": 0.765
  },
  "by_sport": {
   "amfut": {
    "ganados": 9,
    "perdidos": 3,
    "anulados": 0,
-   "pendientes": 4,
-   "n": 16,
+   "pendientes": 5,
+   "n": 17,
    "win_pct": 0.75
   },
   "basquet": {
-   "ganados": 23,
+   "ganados": 24,
    "perdidos": 8,
    "anulados": 0,
    "pendientes": 1,
-   "n": 32,
-   "win_pct": 0.742
+   "n": 33,
+   "win_pct": 0.75
   },
   "futbol": {
-   "ganados": 152,
-   "perdidos": 42,
+   "ganados": 163,
+   "perdidos": 45,
    "anulados": 0,
-   "pendientes": 21,
-   "n": 215,
+   "pendientes": 25,
+   "n": 233,
    "win_pct": 0.784
   },
   "tenis": {
    "ganados": 68,
-   "perdidos": 24,
+   "perdidos": 25,
    "anulados": 2,
-   "pendientes": 1,
+   "pendientes": 0,
    "n": 95,
-   "win_pct": 0.739
+   "win_pct": 0.731
   }
  },
  "picks": [
@@ -5023,7 +5023,7 @@
    "cuota": 1.448,
    "prob": 0.7705,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-12",
@@ -5113,7 +5113,7 @@
    "cuota": null,
    "prob": 0.7234996157014979,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-13",
@@ -5128,7 +5128,7 @@
    "cuota": null,
    "prob": 0.9065383375501521,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -5143,7 +5143,7 @@
    "cuota": null,
    "prob": 0.8846019604244322,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -5158,7 +5158,7 @@
    "cuota": null,
    "prob": 0.8689374200973312,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-13",
@@ -5172,6 +5172,21 @@
    "pick": "DO: 1X",
    "cuota": null,
    "prob": 0.8549367323700738,
+   "tier": "MUY BUENO",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "futbol",
+   "liga": "AMI",
+   "liga_nombre": "Amistosos Int. (Selecciones)",
+   "local": "Peru",
+   "visitante": "Bolivia",
+   "partido": "Peru vs Bolivia",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.8513867386979616,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -5188,7 +5203,7 @@
    "cuota": null,
    "prob": 0.8498941876100488,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -5203,7 +5218,7 @@
    "cuota": null,
    "prob": 0.8456600762623132,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -5216,7 +5231,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8354615494665973,
+   "prob": 0.8352552947637698,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -5231,8 +5246,23 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8347425763699323,
+   "prob": 0.8341145420034838,
    "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Sacramento Kings",
+   "visitante": "Portland Trail Blazers",
+   "partido": "Portland Trail Blazers @ Sacramento Kings",
+   "mercado": "ML",
+   "pick": "ML: AWAY (Portland Trail Blazers)",
+   "cuota": 1.214,
+   "prob": 0.829,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -5248,7 +5278,7 @@
    "cuota": null,
    "prob": 0.8265643573900772,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -5263,7 +5293,7 @@
    "cuota": null,
    "prob": 0.8239337878686982,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -5278,7 +5308,7 @@
    "cuota": null,
    "prob": 0.8213999129712053,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -5291,7 +5321,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: 1X",
    "cuota": null,
-   "prob": 0.816710174182053,
+   "prob": 0.8144235520753136,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -5308,7 +5338,7 @@
    "cuota": null,
    "prob": 0.8102774539259526,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -5323,7 +5353,7 @@
    "cuota": null,
    "prob": 0.8067616561701847,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -5336,7 +5366,7 @@
    "mercado": "1X2",
    "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.8031170885313754,
+   "prob": 0.8019753852285914,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -5353,7 +5383,7 @@
    "cuota": null,
    "prob": 0.7996276644265641,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -5368,7 +5398,7 @@
    "cuota": null,
    "prob": 0.7973223763850262,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-13",
@@ -5383,36 +5413,306 @@
    "cuota": null,
    "prob": 0.772,
    "tier": "TOP PICK",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "amfut",
+   "liga": "NCAAF",
+   "liga_nombre": "NCAAF (College)",
+   "local": "Iowa Hawkeyes",
+   "visitante": "Purdue Boilermakers",
+   "partido": "Purdue Boilermakers @ Iowa Hawkeyes",
+   "mercado": "ML",
+   "pick": "ML: HOME (Iowa Hawkeyes)",
+   "cuota": 1.105,
+   "prob": 0.9264,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
-   "fecha": "2026-11-13",
+   "fecha": "2026-11-14",
    "deporte": "futbol",
    "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
-   "local": "Singapore",
-   "visitante": "Paraguay",
-   "partido": "Singapore vs Paraguay",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
+   "local": "Tahiti",
+   "visitante": "Cook Islands",
+   "partido": "Tahiti vs Cook Islands",
+   "mercado": "1X2",
+   "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.7670114865419451,
-   "tier": "BUENO",
+   "prob": 0.8699679155177054,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
-   "fecha": "2026-11-13",
+   "fecha": "2026-11-14",
    "deporte": "futbol",
-   "liga": "AMI",
-   "liga_nombre": "Amistosos Int. (Selecciones)",
-   "local": "Saudi Arabia",
-   "visitante": "South Korea",
-   "partido": "Saudi Arabia vs South Korea",
+   "liga": "AFQ",
+   "liga_nombre": "Clasificatoria AFCON",
+   "local": "Algeria",
+   "visitante": "Togo",
+   "partido": "Algeria vs Togo",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.8545184660280072,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "AS Tefana",
+   "visitante": "Thionville",
+   "partido": "AS Tefana vs Thionville",
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.7628461809614102,
-   "tier": "BUENO",
+   "prob": 0.8498941876100488,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Caen",
+   "visitante": "FC Chambly",
+   "partido": "Caen vs FC Chambly",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8498941876100488,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Choisy Au Bac",
+   "visitante": "Caen",
+   "partido": "Choisy Au Bac vs Caen",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8498941876100488,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Fontenay Foot",
+   "visitante": "Clermont Foot",
+   "partido": "Fontenay Foot vs Clermont Foot",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8498941876100488,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "GSI Pontivy",
+   "visitante": "Rennes TA",
+   "partido": "GSI Pontivy vs Rennes TA",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8498941876100488,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Koetzingue",
+   "visitante": "Biesheim",
+   "partido": "Koetzingue vs Biesheim",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8498941876100488,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Pont-de-Cheruy",
+   "visitante": "Bourg-Peronnas",
+   "partido": "Pont-de-Cheruy vs Bourg-Peronnas",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8498941876100488,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Saint-Brieuc",
+   "visitante": "Rouen",
+   "partido": "Saint-Brieuc vs Rouen",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8498941876100488,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "St-Ouen L'Aumone",
+   "visitante": "Boulogne",
+   "partido": "St-Ouen L'Aumone vs Boulogne",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8498941876100488,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Tinteniac St Domineuc",
+   "visitante": "Concarneau",
+   "partido": "Tinteniac St Domineuc vs Concarneau",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8498941876100488,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "IC Croix",
+   "visitante": "ES Thaon",
+   "partido": "IC Croix vs ES Thaon",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8419026390657038,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Amneville",
+   "visitante": "Sundhoffen",
+   "partido": "Amneville vs Sundhoffen",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8408569923931621,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Asptt Dijon",
+   "visitante": "Selongey",
+   "partido": "Asptt Dijon vs Selongey",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8408569923931621,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Avenir Foot Lozere",
+   "visitante": "Entente Crest-Aouste",
+   "partido": "Avenir Foot Lozere vs Entente Crest-Aouste",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8408569923931621,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Balma",
+   "visitante": "Castanet",
+   "partido": "Balma vs Castanet",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8408569923931621,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Boulazac",
+   "visitante": "Anglet Genets",
+   "partido": "Boulazac vs Anglet Genets",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8408569923931621,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-14",
+   "deporte": "futbol",
+   "liga": "CDF",
+   "liga_nombre": "Coupe de France",
+   "local": "Bressuire",
+   "visitante": "FC Challans",
+   "partido": "Bressuire vs FC Challans",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8408569923931621,
+   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   }
  ]
