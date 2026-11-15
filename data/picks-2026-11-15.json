@@ -1,0 +1,6005 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-14T18:28:18",
+ "sports_total": "88 partidos",
+ "sports": [
+  {
+   "key": "beisbol",
+   "name": "Béisbol",
+   "icon": "sports_baseball",
+   "leagues": [
+    {
+     "code": "MLB",
+     "name": "Major League"
+    },
+    {
+     "code": "KBO",
+     "name": "KBO League"
+    },
+    {
+     "code": "NPB",
+     "name": "Nippon Baseball"
+    }
+   ]
+  },
+  {
+   "key": "tenis",
+   "name": "Tenis",
+   "icon": "sports_tennis",
+   "leagues": [
+    {
+     "code": "ATP",
+     "name": "ATP Tour"
+    },
+    {
+     "code": "WTA",
+     "name": "WTA Tour"
+    },
+    {
+     "code": "CHA",
+     "name": "ATP Challenger Tour"
+    }
+   ]
+  },
+  {
+   "key": "futbol",
+   "name": "Fútbol",
+   "icon": "sports_soccer",
+   "leagues": [
+    {
+     "code": "ENG",
+     "name": "Premier League"
+    },
+    {
+     "code": "ESP",
+     "name": "La Liga"
+    },
+    {
+     "code": "ITA",
+     "name": "Serie A"
+    },
+    {
+     "code": "GER",
+     "name": "Bundesliga"
+    },
+    {
+     "code": "FRA",
+     "name": "Ligue 1"
+    },
+    {
+     "code": "NED",
+     "name": "Eredivisie"
+    },
+    {
+     "code": "POR",
+     "name": "Primeira Liga"
+    },
+    {
+     "code": "KSA",
+     "name": "Saudi Pro League"
+    },
+    {
+     "code": "FAC",
+     "name": "FA Cup"
+    },
+    {
+     "code": "CAR",
+     "name": "Carabao Cup"
+    },
+    {
+     "code": "CDR",
+     "name": "Copa del Rey"
+    },
+    {
+     "code": "CI",
+     "name": "Coppa Italia"
+    },
+    {
+     "code": "CDF",
+     "name": "Coupe de France"
+    },
+    {
+     "code": "DFB",
+     "name": "DFB Pokal"
+    },
+    {
+     "code": "WCH",
+     "name": "Champions Femenina"
+    },
+    {
+     "code": "UCL",
+     "name": "Champions League"
+    },
+    {
+     "code": "UEL",
+     "name": "Europa League"
+    },
+    {
+     "code": "UECL",
+     "name": "Conference League"
+    },
+    {
+     "code": "MEX",
+     "name": "Liga MX"
+    },
+    {
+     "code": "LIB",
+     "name": "Copa Libertadores"
+    },
+    {
+     "code": "SUD",
+     "name": "Copa Sudamericana"
+    },
+    {
+     "code": "AMI",
+     "name": "Amistosos Int. (Selecciones)"
+    },
+    {
+     "code": "UNL",
+     "name": "UEFA Nations League"
+    },
+    {
+     "code": "CNL",
+     "name": "Concacaf Nations League"
+    },
+    {
+     "code": "AFQ",
+     "name": "Clasificatoria AFCON"
+    },
+    {
+     "code": "AFN",
+     "name": "Copa Africana de Naciones"
+    }
+   ]
+  },
+  {
+   "key": "amfut",
+   "name": "NFL/NCAAF",
+   "icon": "sports_football",
+   "leagues": [
+    {
+     "code": "NFL",
+     "name": "NFL"
+    },
+    {
+     "code": "NCAAF",
+     "name": "NCAAF (College)"
+    }
+   ]
+  },
+  {
+   "key": "basquet",
+   "name": "Básquetbol",
+   "icon": "sports_basketball",
+   "leagues": [
+    {
+     "code": "NBA",
+     "name": "NBA"
+    },
+    {
+     "code": "WNBA",
+     "name": "WNBA"
+    },
+    {
+     "code": "NCAA",
+     "name": "NCAA (College)"
+    },
+    {
+     "code": "EUR",
+     "name": "Euroliga"
+    },
+    {
+     "code": "KOR",
+     "name": "KBL Corea"
+    },
+    {
+     "code": "CHN",
+     "name": "CBA China"
+    },
+    {
+     "code": "FRA",
+     "name": "LNB Pro A"
+    },
+    {
+     "code": "ESP",
+     "name": "Liga ACB"
+    },
+    {
+     "code": "GER",
+     "name": "BBL Alemania"
+    },
+    {
+     "code": "TUR",
+     "name": "BSL Turquia"
+    },
+    {
+     "code": "ITA",
+     "name": "Lega A Italia"
+    },
+    {
+     "code": "GRE",
+     "name": "Basket League Grecia"
+    },
+    {
+     "code": "ISR",
+     "name": "Liga de Israel"
+    },
+    {
+     "code": "ABA",
+     "name": "ABA Liga (Adriatico)"
+    },
+    {
+     "code": "LTU",
+     "name": "LKL Lituania"
+    }
+   ]
+  }
+ ],
+ "results": {
+  "beisbol": {
+   "ok": true,
+   "date": "2026-11-15",
+   "league": "ALL",
+   "league_label": "Todas las ligas",
+   "sport": "beisbol",
+   "sport_name": "Béisbol",
+   "all_leagues": true,
+   "n": 0,
+   "picks": [],
+   "predictions": [],
+   "message": "0 partidos proyectados",
+   "elapsed_s": 0.0
+  },
+  "tenis": {
+   "ok": true,
+   "date": "2026-11-15",
+   "league": "ALL",
+   "league_label": "Todas las ligas",
+   "n": 4,
+   "message": "4 partidos proyectados",
+   "picks": [
+    {
+     "match": "Alexander Zverev vs Rafael Jodar",
+     "market": "ML",
+     "pick": "Alexander Zverev",
+     "prob": 0.7534,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": "",
+     "edge": null,
+     "ev": null,
+     "odds": null,
+     "line": null,
+     "league_code": "ATP",
+     "league_label": "ATP Tour"
+    }
+   ],
+   "predictions": [
+    {
+     "home": "Alexander Zverev",
+     "away": "Rafael Jodar",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ATP",
+     "league_label": "ATP Tour",
+     "context": "Nitto ATP Finals, Hard, Ronda: Group Stage, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Alexander Zverev",
+       "prob": 0.7534,
+       "detail": "Alexander Zverev 75% · Rafael Jodar 25%",
+       "strong": true
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.5012,
+       "detail": "UNDER 23.5 · 50% · Proyectado 23.5",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Alexander Zverev",
+       "prob": 0.5375,
+       "detail": "Hándicap Sets -1.5 · 54% · (-116)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "UNDER",
+       "prob": 0.6536,
+       "detail": "UNDER 10.5 · 65% · Proyectado 9.9",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
+    },
+    {
+     "home": "Arthur Fils",
+     "away": "Ben Shelton",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ATP",
+     "league_label": "ATP Tour",
+     "context": "Nitto ATP Finals, Hard, Ronda: Group Stage, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Ben Shelton",
+       "prob": 0.5475,
+       "detail": "Arthur Fils 45% · Ben Shelton 55%",
+       "strong": false
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.532,
+       "detail": "UNDER 24.5 · 53% · Proyectado 24.6",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Ben Shelton",
+       "prob": 0.7753,
+       "detail": "Hándicap Sets -1.5 · 22% · (+345)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "UNDER",
+       "prob": 0.5873999999999999,
+       "detail": "UNDER 10.5 · 59% · Proyectado 10.3",
+       "strong": false
+      }
+     ],
+     "convergence": false,
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
+    },
+    {
+     "home": "Elina Svitolina",
+     "away": "Mirra Andreeva",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "context": "FAGE WTA Finals Indian Wells, Hard, Ronda: Final, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Mirra Andreeva",
+       "prob": 0.5837,
+       "detail": "Elina Svitolina 42% · Mirra Andreeva 58%",
+       "strong": false
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "UNDER",
+       "prob": 0.5184,
+       "detail": "UNDER 22.5 · 52% · Proyectado 22.6",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Mirra Andreeva",
+       "prob": 0.6994,
+       "detail": "Hándicap Sets -1.5 · 30% · (+233)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "UNDER",
+       "prob": 0.7021,
+       "detail": "UNDER 9.5 · 70% · Proyectado 9.4",
+       "strong": false
+      }
+     ],
+     "convergence": false,
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
+    },
+    {
+     "home": "Valeriya Strakhova",
+     "away": "Zhibek Kulambayeva",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "context": "LP Open by IND, Hard, Ronda: Qualifying Final, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Valeriya Strakhova",
+       "prob": 0.5554,
+       "detail": "Valeriya Strakhova 56% · Zhibek Kulambayeva 44%",
+       "strong": false
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "OVER",
+       "prob": 0.504,
+       "detail": "OVER 21.5 · 50% · Proyectado 21.9",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Zhibek Kulambayeva",
+       "prob": 0.6888000000000001,
+       "detail": "Hándicap Sets -1.5 · 31% · (+221)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "UNDER",
+       "prob": 0.5089,
+       "detail": "UNDER 9.5 · 51% · Proyectado 9.3",
+       "strong": false
+      }
+     ],
+     "convergence": false,
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
+    }
+   ],
+   "elapsed_s": 110.3,
+   "sport": "tenis",
+   "sport_name": "Tenis",
+   "all_leagues": true,
+   "picks_total_brutos": 2,
+   "picks_policy": {
+    "mercados_excluidos": [
+     "HANDICAP JUEGOS",
+     "SET1 JUEGOS"
+    ],
+    "min_prob": {
+     "ATP": 0.7
+    },
+    "conservados": 1,
+    "descartados": 1
+   }
+  },
+  "futbol": {
+   "ok": true,
+   "date": "2026-11-15",
+   "league": "ALL",
+   "league_label": "Todas las ligas",
+   "n": 43,
+   "message": "43 partidos proyectados",
+   "picks": [
+    {
+     "match": "Saint-Die Kellermann vs Metz",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.851244275458606,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Spain vs England",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8507017557531877,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League"
+    },
+    {
+     "match": "Olympique Charleville Prix AM vs Olympique Marcquois",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8498941876100488,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Verson vs Calais",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8498941876100488,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Neslois vs Furiani-Agliani",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Saint-Pauloise FC vs La Tamponnaise",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Rives 82 vs Trelissac FC",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Rochefort FC vs Juventus Papus",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Chatou vs Les Ulis",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Montigny-Les-Metz vs Pontarlier",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Racing Chambery vs Chamois Niortais FC",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Massay vs Montlouis",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "ESAP Metz vs Reipertswiller",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Stade Sotteville vs USF Fecamp",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Perros-Louannec vs Vannes OC",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Violaines vs Vermelles",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "St Martin Tatinghem vs Racing Club de France",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "US Marseille Endoume vs SC Toulon",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Tremblay vs Maisons-Alfort",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Talange vs Baume-Les-Dames",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Stade Pontivy vs Plabennec",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Veauche vs St Paul en Jarez",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Vandruvre vs Epinal",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Paris 13 Atletico vs Red Star FC 93",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "RIOM vs FC Limonest",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Val Yerres Crosne vs Union Cosnoise",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Sedan vs Bourges Foot",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Seyssinet vs Nimes",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Senlis vs Saint-Pryvé Saint Hilaire",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8408569923931621,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Cyprus vs Montenegro",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8390530679811372,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=80%",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League"
+    },
+    {
+     "match": "Belarus vs Albania",
+     "market": "Doble Oportunidad",
+     "pick": "DO: 1X",
+     "prob": 0.8293424871085504,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": ">=80%",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League"
+    },
+    {
+     "match": "Suriname vs Eswatini",
+     "market": "1X2",
+     "pick": "1X2: HOME (1)",
+     "prob": 0.8000083501868216,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=70%",
+     "league_code": "AMI",
+     "league_label": "Amistosos Int. (Selecciones)"
+    },
+    {
+     "match": "Panama vs Curaçao",
+     "market": "O/U 2.5",
+     "pick": "O/U 2.5: OVER",
+     "prob": 0.7933557840052898,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=70%",
+     "league_code": "CNL",
+     "league_label": "Concacaf Nations League"
+    },
+    {
+     "match": "Belgium vs Italy",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.7854319677762058,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": ">=75%",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League"
+    },
+    {
+     "match": "Stade Castelbourgeois vs Nantes",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.7724268772704144,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": ">=75%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    },
+    {
+     "match": "Finland vs San Marino",
+     "market": "O/U 2.5",
+     "pick": "O/U 2.5: OVER",
+     "prob": 0.7244990661036518,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=70%",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League"
+    },
+    {
+     "match": "Atlas Paillade vs AS Cannes",
+     "market": "O/U 2.5",
+     "pick": "O/U 2.5: OVER",
+     "prob": 0.7243829375116475,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=70%",
+     "league_code": "CDF",
+     "league_label": "Coupe de France"
+    }
+   ],
+   "predictions": [
+    {
+     "home": "Chatou",
+     "away": "Les Ulis",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Chatou",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "ESAP Metz",
+     "away": "Reipertswiller",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "ESAP Metz",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Massay",
+     "away": "Montlouis",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Massay",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Montigny-Les-Metz",
+     "away": "Pontarlier",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Montigny-Les-Metz",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Montreuil FC",
+     "away": "Loon Plage FC",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Montreuil FC",
+       "prob": 0.5825815378566707,
+       "detail": "Local 58% · Empate 19% · Visitante 23%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.8076652561751723,
+       "detail": "1X 77% · X2 42% · 12 81%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.6508758598092124,
+       "detail": "OVER 2.5 goles · 65%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8550098382316887,
+       "detail": "OVER 1.5 goles · 86%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5327723655955431,
+       "detail": "BTTS Sí 53%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.25",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "HOME -0.5",
+       "prob": 0.7238060262884131,
+       "detail": "Línea -0.5 · HOME 72%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.7513396028629259,
+       "detail": "LOCAL OVER 1.5 goles 75%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Neslois",
+     "away": "Furiani-Agliani",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Neslois",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Olympique Charleville Prix AM",
+     "away": "Olympique Marcquois",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Olympique Charleville Prix AM",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 24% · Visitante 29%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.759465891174983,
+       "detail": "1X 71% · X2 53% · 12 76%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.622644808115313,
+       "detail": "OVER 2.5 goles · 62%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8498941876100488,
+       "detail": "OVER 1.5 goles · 85%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.6233933251042545,
+       "detail": "BTTS Sí 62%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.12",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Paris 13 Atletico",
+     "away": "Red Star FC 93",
+     "home_logo": "",
+     "away_logo": "data/logos/94905620d99facec.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Paris 13 Atletico",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Racing Chambery",
+     "away": "Chamois Niortais FC",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Racing Chambery",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "RIOM",
+     "away": "FC Limonest",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "RIOM",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Rives 82",
+     "away": "Trelissac FC",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Rives 82",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Rochefort FC",
+     "away": "Juventus Papus",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Rochefort FC",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Saint-Die Kellermann",
+     "away": "Metz",
+     "home_logo": "",
+     "away_logo": "data/logos/b875a6e510866463.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Saint-Die Kellermann",
+       "prob": 0.5722520086428501,
+       "detail": "Local 57% · Empate 22% · Visitante 21%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "1X",
+       "prob": 0.7940292244404871,
+       "detail": "1X 79% · X2 43% · 12 78%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.6347579304581128,
+       "detail": "OVER 2.5 goles · 63%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.851244275458606,
+       "detail": "OVER 1.5 goles · 85%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5758985317888143,
+       "detail": "BTTS Sí 58%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.47",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "HOME -0.5",
+       "prob": 0.7984194460522154,
+       "detail": "Línea -0.5 · HOME 80%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.8339450847802948,
+       "detail": "LOCAL OVER 1.5 goles 83%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Saint-Pauloise FC",
+     "away": "La Tamponnaise",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Saint-Pauloise FC",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Saint-Renan",
+     "away": "Stade Laval",
+     "home_logo": "",
+     "away_logo": "data/logos/10e5242bace4bcbb.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Stade Laval",
+       "prob": 0.4089997831468864,
+       "detail": "Local 34% · Empate 25% · Visitante 41%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7473481761458438,
+       "detail": "1X 59% · X2 66% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "UNDER",
+       "prob": 0.5404602427200087,
+       "detail": "UNDER 2.5 goles · 46%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.6981111583445277,
+       "detail": "OVER 1.5 goles · 70%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "NO",
+       "prob": 0.602390102034729,
+       "detail": "BTTS Sí 40%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 2.53",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.9334194774704362,
+       "detail": "Línea +1.5 · AWAY 93%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL UNDER",
+       "prob": 0.8528370045176448,
+       "detail": "LOCAL UNDER 1.5 goles 85%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Sedan",
+     "away": "Bourges Foot",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Sedan",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Senlis",
+     "away": "Saint-Pryvé Saint Hilaire",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Senlis",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Seyssinet",
+     "away": "Nimes",
+     "home_logo": "",
+     "away_logo": "data/logos/563eac7f662db296.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Seyssinet",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "St Martin Tatinghem",
+     "away": "Racing Club de France",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "St Martin Tatinghem",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Stade Castelbourgeois",
+     "away": "Nantes",
+     "home_logo": "",
+     "away_logo": "data/logos/56105101d9f820dc.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Stade Castelbourgeois",
+       "prob": 0.4751332555413037,
+       "detail": "Local 48% · Empate 26% · Visitante 26%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7379173945320487,
+       "detail": "1X 74% · X2 52% · 12 74%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5287656708285192,
+       "detail": "OVER 2.5 goles · 53%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.7724268772704144,
+       "detail": "OVER 1.5 goles · 77%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "NO",
+       "prob": 0.5061741264092938,
+       "detail": "BTTS Sí 49%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 2.76",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.6731206295062477,
+       "detail": "Línea +1.5 · AWAY 67%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "VISITANTE UNDER",
+       "prob": 0.8441950164453962,
+       "detail": "VISITANTE UNDER 1.5 goles 84%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Stade Pontivy",
+     "away": "Plabennec",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Stade Pontivy",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Talange",
+     "away": "Baume-Les-Dames",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Talange",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Tremblay",
+     "away": "Maisons-Alfort",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Tremblay",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "US Marseille Endoume",
+     "away": "SC Toulon",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "US Marseille Endoume",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Val Yerres Crosne",
+     "away": "Union Cosnoise",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Val Yerres Crosne",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Vandruvre",
+     "away": "Epinal",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Vandruvre",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Veauche",
+     "away": "St Paul en Jarez",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Veauche",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Verson",
+     "away": "Calais",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Verson",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 24% · Visitante 29%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.759465891174983,
+       "detail": "1X 71% · X2 53% · 12 76%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.622644808115313,
+       "detail": "OVER 2.5 goles · 62%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8498941876100488,
+       "detail": "OVER 1.5 goles · 85%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.6233933251042545,
+       "detail": "BTTS Sí 62%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.12",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Violaines",
+     "away": "Vermelles",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Violaines",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Perros-Louannec",
+     "away": "Vannes OC",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Perros-Louannec",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Stade Sotteville",
+     "away": "USF Fecamp",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Stade Sotteville",
+       "prob": 0.4683184261055508,
+       "detail": "Local 47% · Empate 25% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7512610226422455,
+       "detail": "1X 72% · X2 53% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5933853441809265,
+       "detail": "OVER 2.5 goles · 59%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8408569923931621,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5995704580665966,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.13",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.714628587248999,
+       "detail": "Línea +1.5 · AWAY 71%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5900255364161107,
+       "detail": "LOCAL OVER 1.5 goles 59%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Atlas Paillade",
+     "away": "AS Cannes",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "AS Cannes",
+       "prob": 0.5186805736927109,
+       "detail": "Local 34% · Empate 15% · Visitante 52%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.8543658310776837,
+       "detail": "1X 48% · X2 66% · 12 85%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.7243829375116475,
+       "detail": "OVER 2.5 goles · 72%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8922554929655857,
+       "detail": "OVER 1.5 goles · 89%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5379649045060555,
+       "detail": "BTTS Sí 54%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 4.20",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.8490096854377994,
+       "detail": "Línea +1.5 · AWAY 85%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "VISITANTE OVER",
+       "prob": 0.8352096167151813,
+       "detail": "VISITANTE OVER 1.5 goles 84%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Rumilly Vallières",
+     "away": "Saint-Étienne",
+     "home_logo": "",
+     "away_logo": "data/logos/cb18bde574a317d1.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CDF",
+     "league_label": "Coupe de France",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Rumilly Vallières",
+       "prob": 0.525183072598415,
+       "detail": "Local 53% · Empate 19% · Visitante 28%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.8088648753776042,
+       "detail": "1X 72% · X2 47% · 12 81%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.6878466536818637,
+       "detail": "OVER 2.5 goles · 69%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8729572938326446,
+       "detail": "OVER 1.5 goles · 87%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5931435228225923,
+       "detail": "BTTS Sí 59%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.69",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "HOME -0.5",
+       "prob": 0.6454428623280944,
+       "detail": "Línea -0.5 · HOME 65%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.7748144534270999,
+       "detail": "LOCAL OVER 1.5 goles 77%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Suriname",
+     "away": "Eswatini",
+     "home_logo": "data/logos/8807044eb53956d6.png",
+     "away_logo": "data/logos/2010496da706a4db.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "AMI",
+     "league_label": "Amistosos Int. (Selecciones)",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Suriname",
+       "prob": 0.8000083501868216,
+       "detail": "Local 80% · Empate 16% · Visitante 4%",
+       "strong": true
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "1X",
+       "prob": 0.95,
+       "detail": "1X 95% · X2 20% · 12 84%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.6347085330852639,
+       "detail": "OVER 2.5 goles · 63%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.848674897070574,
+       "detail": "OVER 1.5 goles · 85%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "NO",
+       "prob": 0.6092588765475448,
+       "detail": "BTTS Sí 39%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.34",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "HOME -0.5",
+       "prob": 0.9325903331364928,
+       "detail": "Línea -0.5 · HOME 93%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "VISITANTE UNDER",
+       "prob": 0.9702057009996831,
+       "detail": "VISITANTE UNDER 1.5 goles 97%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Cyprus",
+     "away": "Montenegro",
+     "home_logo": "data/logos/dafc0fb274b24334.png",
+     "away_logo": "data/logos/4db0225fa11f4640.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Montenegro",
+       "prob": 0.482835569597836,
+       "detail": "Local 27% · Empate 24% · Visitante 48%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7559463958201483,
+       "detail": "1X 52% · X2 73% · 12 76%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.6454049693809242,
+       "detail": "OVER 2.5 goles · 65%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8390530679811372,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.6440481279177013,
+       "detail": "BTTS Sí 64%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.45",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.858226841848849,
+       "detail": "Línea +1.5 · AWAY 86%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "VISITANTE OVER",
+       "prob": 0.7241251813861505,
+       "detail": "VISITANTE OVER 1.5 goles 72%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Latvia",
+     "away": "Armenia",
+     "home_logo": "data/logos/70ba7dac70205895.png",
+     "away_logo": "data/logos/df6164f75d1d06ca.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Latvia",
+       "prob": 0.3534595447076234,
+       "detail": "Local 35% · Empate 31% · Visitante 34%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.6933188383963214,
+       "detail": "1X 66% · X2 65% · 12 69%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "UNDER",
+       "prob": 0.564703528450024,
+       "detail": "UNDER 2.5 goles · 44%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.6937373420564522,
+       "detail": "OVER 1.5 goles · 69%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "NO",
+       "prob": 0.5439233724164292,
+       "detail": "BTTS Sí 46%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 2.46",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.8900989309452445,
+       "detail": "Línea +1.5 · AWAY 89%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL UNDER",
+       "prob": 0.771037725472837,
+       "detail": "LOCAL UNDER 1.5 goles 77%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Belarus",
+     "away": "Albania",
+     "home_logo": "data/logos/298d2a7625c6a3fb.png",
+     "away_logo": "data/logos/d647e5f480c8dd97.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Belarus",
+       "prob": 0.5600977953840808,
+       "detail": "Local 56% · Empate 27% · Visitante 17%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "1X",
+       "prob": 0.8293424871085504,
+       "detail": "1X 83% · X2 44% · 12 73%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5504940973814189,
+       "detail": "OVER 2.5 goles · 55%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.7576947278923094,
+       "detail": "OVER 1.5 goles · 76%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.504588720085184,
+       "detail": "BTTS Sí 50%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 2.86",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.6390347716082541,
+       "detail": "Línea +1.5 · AWAY 64%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "VISITANTE UNDER",
+       "prob": 0.776047638271324,
+       "detail": "VISITANTE UNDER 1.5 goles 78%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Finland",
+     "away": "San Marino",
+     "home_logo": "data/logos/3ab04ce72b11cb97.png",
+     "away_logo": "data/logos/dd9ef748dfcd592d.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Finland",
+       "prob": 0.8527582484945468,
+       "detail": "Local 85% · Empate 10% · Visitante 5%",
+       "strong": true
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "1X",
+       "prob": 0.9496037325708537,
+       "detail": "1X 95% · X2 15% · 12 90%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.7244990661036518,
+       "detail": "OVER 2.5 goles · 72%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.864790800225621,
+       "detail": "OVER 1.5 goles · 86%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "NO",
+       "prob": 0.5247217895340749,
+       "detail": "BTTS Sí 48%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.84",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "HOME -0.5",
+       "prob": 0.9482612479468214,
+       "detail": "Línea -0.5 · HOME 95%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.9408828968067963,
+       "detail": "LOCAL OVER 1.5 goles 94%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Belgium",
+     "away": "Italy",
+     "home_logo": "data/logos/b157190a5c355d6a.png",
+     "away_logo": "data/logos/cc7e7778598dc684.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Belgium",
+       "prob": 0.5522929995904877,
+       "detail": "Local 55% · Empate 21% · Visitante 24%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7886175632873369,
+       "detail": "1X 76% · X2 45% · 12 79%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.5833640557136387,
+       "detail": "OVER 2.5 goles · 58%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.7854319677762058,
+       "detail": "OVER 1.5 goles · 79%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5331655265307598,
+       "detail": "BTTS Sí 53%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.23",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "HOME -0.5",
+       "prob": 0.7879608673156984,
+       "detail": "Línea -0.5 · HOME 79%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.8294372827102217,
+       "detail": "LOCAL OVER 1.5 goles 83%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Croatia",
+     "away": "Czechia",
+     "home_logo": "data/logos/38a05bc31789a3b6.png",
+     "away_logo": "data/logos/ab2da29a1096ffe3.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Croatia",
+       "prob": 0.4526302143778383,
+       "detail": "Local 45% · Empate 24% · Visitante 31%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7604759675677477,
+       "detail": "1X 69% · X2 55% · 12 76%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.6564861402092237,
+       "detail": "OVER 2.5 goles · 66%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8122559986441417,
+       "detail": "OVER 1.5 goles · 81%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5985447971919314,
+       "detail": "BTTS Sí 60%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.37",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.7480278552616285,
+       "detail": "Línea +1.5 · AWAY 75%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.6297075606868798,
+       "detail": "LOCAL OVER 1.5 goles 63%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "France",
+     "away": "Türkiye",
+     "home_logo": "data/logos/17f6f72c7e1b2016.png",
+     "away_logo": "data/logos/3a7c201d11964015.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "France",
+       "prob": 0.6826993534889324,
+       "detail": "Local 68% · Empate 18% · Visitante 13%",
+       "strong": true
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "1X",
+       "prob": 0.8655622974478099,
+       "detail": "1X 87% · X2 32% · 12 82%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.6693657992892788,
+       "detail": "OVER 2.5 goles · 67%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8409552436720638,
+       "detail": "OVER 1.5 goles · 84%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5276685196192468,
+       "detail": "BTTS Sí 53%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.45",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "HOME -0.5",
+       "prob": 0.8189828328063267,
+       "detail": "Línea -0.5 · HOME 82%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.8398228032960954,
+       "detail": "LOCAL OVER 1.5 goles 84%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Spain",
+     "away": "England",
+     "home_logo": "data/logos/1f53bc2bf314729d.png",
+     "away_logo": "data/logos/e74aec4a31b8d956.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "UNL",
+     "league_label": "UEFA Nations League",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Spain",
+       "prob": 0.6096567776056648,
+       "detail": "Local 61% · Empate 18% · Visitante 21%",
+       "strong": true
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.8192721733602407,
+       "detail": "1X 79% · X2 39% · 12 82%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.634894638429691,
+       "detail": "OVER 2.5 goles · 63%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8507017557531877,
+       "detail": "OVER 1.5 goles · 85%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.5471020419199112,
+       "detail": "BTTS Sí 55%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.44",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "HOME -0.5",
+       "prob": 0.7893214740153554,
+       "detail": "Línea -0.5 · HOME 79%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.8294372827102217,
+       "detail": "LOCAL OVER 1.5 goles 83%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Panama",
+     "away": "Curaçao",
+     "home_logo": "data/logos/808476e7249d7927.png",
+     "away_logo": "data/logos/848b0531ce3d7366.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "CNL",
+     "league_label": "Concacaf Nations League",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "1X2",
+       "pick": "Curaçao",
+       "prob": 0.44935845178239037,
+       "detail": "Local 30% · Empate 25% · Visitante 45%",
+       "strong": false
+      },
+      {
+       "label": "Doble Oportunidad",
+       "pick": "12",
+       "prob": 0.7479323231092168,
+       "detail": "1X 55% · X2 70% · 12 75%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 2.5",
+       "pick": "OVER",
+       "prob": 0.7933557840052898,
+       "detail": "OVER 2.5 goles · 79%",
+       "strong": false
+      },
+      {
+       "label": "Over/Under 1.5",
+       "pick": "OVER",
+       "prob": 0.8967614488541525,
+       "detail": "OVER 1.5 goles · 90%",
+       "strong": false
+      },
+      {
+       "label": "BTTS (Ambos marcan)",
+       "pick": "SÍ",
+       "prob": 0.7591803749072522,
+       "detail": "BTTS Sí 76%",
+       "strong": false
+      },
+      {
+       "label": "Total Goles",
+       "pick": "-",
+       "prob": null,
+       "detail": "Goles esperados 3.73",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Asiático",
+       "pick": "AWAY +1.5",
+       "prob": 0.7844631416564455,
+       "detail": "Línea +1.5 · AWAY 78%",
+       "strong": true
+      },
+      {
+       "label": "Equipo O/U 1.5",
+       "pick": "LOCAL OVER",
+       "prob": 0.5842403944886354,
+       "detail": "LOCAL OVER 1.5 goles 58%",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    }
+   ],
+   "elapsed_s": 107.9,
+   "sport": "futbol",
+   "sport_name": "Fútbol",
+   "all_leagues": true,
+   "picks_total_brutos": 42,
+   "picks_policy": {
+    "mercados_excluidos": [
+     "BTTS"
+    ],
+    "min_prob": {
+     "AMI": 0.7,
+     "CDF": 0.7,
+     "CNL": 0.7,
+     "UNL": 0.7
+    },
+    "conservados": 37,
+    "descartados": 5
+   }
+  },
+  "amfut": {
+   "ok": true,
+   "date": "2026-11-15",
+   "league": "ALL",
+   "league_label": "Todas las ligas",
+   "n": 13,
+   "message": "13 partidos proyectados",
+   "picks": [
+    {
+     "match": "Los Angeles Rams @ Arizona Cardinals",
+     "market": "Moneyline",
+     "pick": "ML: AWAY (Los Angeles Rams)",
+     "prob": 0.8535,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=85% · momio 1.18692 · EV +1.3%",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "odds": 1.187,
+     "line": null,
+     "edge": null,
+     "ev": null
+    }
+   ],
+   "predictions": [
+    {
+     "home": "Detroit Lions",
+     "away": "New England Patriots",
+     "home_logo": "data/logos/a1b453ef9186235c.png",
+     "away_logo": "data/logos/08dfe9d60833754e.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Detroit Lions",
+       "prob": 0.6523973677157454,
+       "detail": "Local 65% · Visitante 35%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Detroit Lions",
+       "prob": 0.552813010028589,
+       "detail": "Detroit Lions -2.5 · 55%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5162466563434145,
+       "detail": "Línea 49.5 · OVER 48% / UNDER 52%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 48.3",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Atlanta Falcons",
+     "away": "Kansas City Chiefs",
+     "home_logo": "data/logos/38dbc91c3db2edde.png",
+     "away_logo": "data/logos/d524377b6ef93e0c.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Kansas City Chiefs",
+       "prob": 0.6126740527079111,
+       "detail": "Local 39% · Visitante 61%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Kansas City Chiefs",
+       "prob": 0.5070573861038536,
+       "detail": "Kansas City Chiefs -3 · 51%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5624837565639693,
+       "detail": "Línea 47.5 · OVER 44% / UNDER 56%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 43.0",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Cleveland Browns",
+     "away": "Houston Texans",
+     "home_logo": "data/logos/a8913d6a7bbd660d.png",
+     "away_logo": "data/logos/b4c9011c4a56706d.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Houston Texans",
+       "prob": 0.5658258896072759,
+       "detail": "Local 43% · Visitante 57%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "Cleveland Browns",
+       "prob": 0.5459648003993544,
+       "detail": "Cleveland Browns +4.5 · 55%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5726556238139932,
+       "detail": "Línea 40.5 · OVER 57% / UNDER 43%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 45.7",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Green Bay Packers",
+     "away": "Minnesota Vikings",
+     "home_logo": "data/logos/e179e44ea824cf06.png",
+     "away_logo": "data/logos/44a286659f493118.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Green Bay Packers",
+       "prob": 0.5869408026741924,
+       "detail": "Local 59% · Visitante 41%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "Green Bay Packers",
+       "prob": 0.5354490274078711,
+       "detail": "Green Bay Packers -2.5 · 54%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5170216349681235,
+       "detail": "Línea 42.5 · OVER 48% / UNDER 52%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 41.3",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Tennessee Titans",
+     "away": "Jacksonville Jaguars",
+     "home_logo": "data/logos/6cad43ad41bc3fae.png",
+     "away_logo": "data/logos/39c8331cc4baa8fe.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Jacksonville Jaguars",
+       "prob": 0.7512639156678088,
+       "detail": "Local 25% · Visitante 75%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Tennessee Titans",
+       "prob": 0.5039009843197662,
+       "detail": "Tennessee Titans +10.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5617454562012212,
+       "detail": "Línea 46.5 · OVER 44% / UNDER 56%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 42.1",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Indianapolis Colts",
+     "away": "Miami Dolphins",
+     "home_logo": "data/logos/7b22dcbaea265e2c.png",
+     "away_logo": "data/logos/65f1ed4333ea6929.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Indianapolis Colts",
+       "prob": 0.5640787593286096,
+       "detail": "Local 56% · Visitante 44%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "Miami Dolphins",
+       "prob": 0.5240573191251375,
+       "detail": "Miami Dolphins +4.5 · 52%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5841795539405188,
+       "detail": "Línea 37.5 · OVER 58% / UNDER 42%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 43.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "New Orleans Saints",
+     "away": "Carolina Panthers",
+     "home_logo": "data/logos/4558610b37782e65.png",
+     "away_logo": "data/logos/be529cc124bf0347.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Carolina Panthers",
+       "prob": 0.5317764640141025,
+       "detail": "Local 47% · Visitante 53%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "Carolina Panthers",
+       "prob": 0.5559174204360087,
+       "detail": "Carolina Panthers +2.5 · 56%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5105507101238221,
+       "detail": "Línea 48.5 · OVER 51% / UNDER 49%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 49.2",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "New York Jets",
+     "away": "Buffalo Bills",
+     "home_logo": "data/logos/02c5e4959c8eadc2.png",
+     "away_logo": "data/logos/1dd0113bc8df2093.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Buffalo Bills",
+       "prob": 0.7306161785711861,
+       "detail": "Local 27% · Visitante 73%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Buffalo Bills",
+       "prob": 0.5339863028346433,
+       "detail": "Buffalo Bills -7.5 · 53%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5484376948846431,
+       "detail": "Línea 50.5 · OVER 45% / UNDER 55%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 47.0",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Las Vegas Raiders",
+     "away": "Seattle Seahawks",
+     "home_logo": "data/logos/420cc9ec7fc40029.png",
+     "away_logo": "data/logos/f7b7dd6c04d91d29.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Seattle Seahawks",
+       "prob": 0.6078576547054335,
+       "detail": "Local 39% · Visitante 61%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Las Vegas Raiders",
+       "prob": 0.5403636779307321,
+       "detail": "Las Vegas Raiders +6.5 · 54%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5858932776949942,
+       "detail": "Línea 40.5 · OVER 59% / UNDER 41%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 46.7",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Arizona Cardinals",
+     "away": "Los Angeles Rams",
+     "home_logo": "data/logos/cf7f7fb9aa738e21.png",
+     "away_logo": "data/logos/fb791552a730b545.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Los Angeles Rams",
+       "prob": 0.8535407671554237,
+       "detail": "Local 15% · Visitante 85%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Los Angeles Rams",
+       "prob": 0.563757851655711,
+       "detail": "Los Angeles Rams -9.5 · 56%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.6354798805714506,
+       "detail": "Línea 39.5 · OVER 64% / UNDER 36%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 49.3",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Dallas Cowboys",
+     "away": "San Francisco 49ers",
+     "home_logo": "data/logos/1ec7f4135bac1fa7.png",
+     "away_logo": "data/logos/409917a8dacc6956.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "San Francisco 49ers",
+       "prob": 0.6295027942712096,
+       "detail": "Local 37% · Visitante 63%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "San Francisco 49ers",
+       "prob": 0.5337004568218202,
+       "detail": "San Francisco 49ers -3.5 · 53%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.587585912588516,
+       "detail": "Línea 55.5 · OVER 41% / UNDER 59%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 49.2",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Cincinnati Bengals",
+     "away": "Pittsburgh Steelers",
+     "home_logo": "data/logos/ded0e4d820ec4f53.png",
+     "away_logo": "data/logos/06f89573725b768a.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NFL",
+     "league_label": "NFL",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Cincinnati Bengals",
+       "prob": 0.6128602258773048,
+       "detail": "Local 61% · Visitante 39%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Pittsburgh Steelers",
+       "prob": 0.5152663580466902,
+       "detail": "Pittsburgh Steelers +3.5 · 52%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5393947086643653,
+       "detail": "Línea 49.5 · OVER 46% / UNDER 54%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 46.7",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Oklahoma Sooners",
+     "away": "Ole Miss Rebels",
+     "home_logo": "data/logos/b2563976410c3f3f.png",
+     "away_logo": "data/logos/72d186c5ed2d6d9a.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NCAAF",
+     "league_label": "NCAAF (College)",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Ole Miss Rebels",
+       "prob": 0.6919075084582257,
+       "detail": "Local 31% · Visitante 69%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Ole Miss Rebels",
+       "prob": 0.5977737312155331,
+       "detail": "Ole Miss Rebels +2.5 · 60%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5327784385604251,
+       "detail": "Línea 48.5 · OVER 53% / UNDER 47%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 51.1",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    }
+   ],
+   "elapsed_s": 22.8,
+   "sport": "amfut",
+   "sport_name": "NFL/NCAAF",
+   "all_leagues": true,
+   "picks_total_brutos": 4,
+   "picks_policy": {
+    "mercados_excluidos": [
+     "Spread",
+     "Totales"
+    ],
+    "min_prob": {
+     "NCAAF": 0.7,
+     "NFL": 0.7
+    },
+    "conservados": 1,
+    "descartados": 3
+   }
+  },
+  "basquet": {
+   "ok": true,
+   "date": "2026-11-15",
+   "league": "ALL",
+   "league_label": "Todas las ligas",
+   "n": 28,
+   "message": "28 partidos proyectados",
+   "picks": [
+    {
+     "match": "Syracuse Orange @ St. John's Red Storm",
+     "market": "Moneyline",
+     "pick": "ML: HOME (St. John's Red Storm)",
+     "prob": 0.9774,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=98%",
+     "league_code": "NCAA",
+     "league_label": "",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Baylor Bears @ Texas Longhorns",
+     "market": "Moneyline",
+     "pick": "ML: HOME (Texas Longhorns)",
+     "prob": 0.8891,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=89% · momio 1.44444 · EV +28.4%",
+     "league_code": "NCAA",
+     "league_label": "",
+     "odds": 1.444,
+     "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Oklahoma City Thunder @ Sacramento Kings",
+     "market": "Moneyline",
+     "pick": "ML: AWAY (Oklahoma City Thunder)",
+     "prob": 0.8544,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=85%",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Boise State Broncos @ Nebraska Cornhuskers",
+     "market": "Moneyline",
+     "pick": "ML: HOME (Nebraska Cornhuskers)",
+     "prob": 0.815,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=82% · momio 1.2439 · EV +1.4%",
+     "league_code": "NCAA",
+     "league_label": "",
+     "odds": 1.244,
+     "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "AO Mykonou @ Peristeri",
+     "market": "Moneyline",
+     "pick": "ML: HOME (Peristeri)",
+     "prob": 0.8138,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=81% · momio 1.2101 · EV -1.5% · sin historico · favorito del mercado",
+     "league_code": "GRE",
+     "league_label": "",
+     "odds": 1.21,
+     "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Houston Rockets @ Washington Wizards",
+     "market": "Moneyline",
+     "pick": "ML: AWAY (Houston Rockets)",
+     "prob": 0.8037,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=80%",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Indiana Pacers @ Philadelphia 76ers",
+     "market": "Moneyline",
+     "pick": "ML: HOME (Philadelphia 76ers)",
+     "prob": 0.7701,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=77% · momio 1.3704 · EV +5.5%",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "odds": 1.37,
+     "line": null,
+     "edge": null,
+     "ev": null
+    },
+    {
+     "match": "Atlanta Hawks @ Milwaukee Bucks",
+     "market": "Moneyline",
+     "pick": "ML: AWAY (Atlanta Hawks)",
+     "prob": 0.7565,
+     "tier": "TOP PICK",
+     "units": "2.0",
+     "note": ">=76%",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null
+    }
+   ],
+   "predictions": [
+    {
+     "home": "Philadelphia 76ers",
+     "away": "Indiana Pacers",
+     "home_logo": "data/logos/b982ee13feadb04f.png",
+     "away_logo": "data/logos/98a9908d06921fa5.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Philadelphia 76ers",
+       "prob": 0.7701182433367217,
+       "detail": "Local 77% · Visitante 23%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Indiana Pacers",
+       "prob": 0.50005985501824,
+       "detail": "Indiana Pacers +9.9 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.500617879290217,
+       "detail": "Línea 230.1 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 230.1",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Phoenix Suns",
+     "away": "Los Angeles Lakers",
+     "home_logo": "data/logos/9d9eacf3b681ebcc.png",
+     "away_logo": "data/logos/7b1221f5b1849373.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Los Angeles Lakers",
+       "prob": 0.6603685574011593,
+       "detail": "Local 34% · Visitante 66%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Los Angeles Lakers",
+       "prob": 0.500112309054289,
+       "detail": "Los Angeles Lakers -5.9 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5001532919038725,
+       "detail": "Línea 233.6 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 233.6",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "LA Clippers",
+     "away": "Charlotte Hornets",
+     "home_logo": "data/logos/6b5c1a1e16575564.png",
+     "away_logo": "data/logos/eaaa95dd61f91740.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "LA Clippers",
+       "prob": 0.6683123140123752,
+       "detail": "Local 67% · Visitante 33%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "LA Clippers",
+       "prob": 0.5003199530151553,
+       "detail": "LA Clippers -6.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5000464420302173,
+       "detail": "Línea 218.1 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 218.1",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Utah Jazz",
+     "away": "San Antonio Spurs",
+     "home_logo": "data/logos/77fc6906a5edd7c4.png",
+     "away_logo": "data/logos/052ffc1ace5ac424.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "San Antonio Spurs",
+       "prob": 0.8720486577628732,
+       "detail": "Local 13% · Visitante 87%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Utah Jazz",
+       "prob": 0.5005879202937586,
+       "detail": "Utah Jazz +13.3 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5003023267740431,
+       "detail": "Línea 231.7 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 231.7",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Boston Celtics",
+     "away": "Dallas Mavericks",
+     "home_logo": "data/logos/fa391ce671bc1351.png",
+     "away_logo": "data/logos/0c8e5563b51acd1e.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Boston Celtics",
+       "prob": 0.76228361222901,
+       "detail": "Local 76% · Visitante 24%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Dallas Mavericks",
+       "prob": 0.5000477148480207,
+       "detail": "Dallas Mavericks +13.1 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5007160535793098,
+       "detail": "Línea 225.7 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 225.7",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Toronto Raptors",
+     "away": "New York Knicks",
+     "home_logo": "data/logos/ddc2d6ce3c0f9989.png",
+     "away_logo": "data/logos/99a054408ada5a7b.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Toronto Raptors",
+       "prob": 0.5886038166797427,
+       "detail": "Local 59% · Visitante 41%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "Toronto Raptors",
+       "prob": 0.500992788385192,
+       "detail": "Toronto Raptors -3.3 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5004617840621078,
+       "detail": "Línea 229.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 229.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Washington Wizards",
+     "away": "Houston Rockets",
+     "home_logo": "data/logos/a49d3ec9895ef73a.png",
+     "away_logo": "data/logos/b37eb2777dae62f4.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Houston Rockets",
+       "prob": 0.8036807615196883,
+       "detail": "Local 20% · Visitante 80%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Houston Rockets",
+       "prob": 0.5002047596441892,
+       "detail": "Houston Rockets -10.2 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5002750053382119,
+       "detail": "Línea 227.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 227.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Milwaukee Bucks",
+     "away": "Atlanta Hawks",
+     "home_logo": "data/logos/3d0fe308fca1b8ff.png",
+     "away_logo": "data/logos/cf63c8f41affe6cc.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Atlanta Hawks",
+       "prob": 0.7565432112653052,
+       "detail": "Local 24% · Visitante 76%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Milwaukee Bucks",
+       "prob": 0.500867592909656,
+       "detail": "Milwaukee Bucks +9.7 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5005440660488443,
+       "detail": "Línea 236.9 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 236.9",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Sacramento Kings",
+     "away": "Oklahoma City Thunder",
+     "home_logo": "data/logos/11548867a1486368.png",
+     "away_logo": "data/logos/1e6beb962760cb41.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Oklahoma City Thunder",
+       "prob": 0.8544333100740322,
+       "detail": "Local 15% · Visitante 85%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Sacramento Kings",
+       "prob": 0.5011852612603507,
+       "detail": "Sacramento Kings +13.2 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5004088899957344,
+       "detail": "Línea 228.1 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 228.1",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Memphis Tigers",
+     "away": "Louisville Cardinals",
+     "home_logo": "data/logos/80b618efef015096.png",
+     "away_logo": "data/logos/970a162ff7145a8c.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NCAA",
+     "league_label": "Todas las ligas",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Louisville Cardinals",
+       "prob": 0.5466574538820039,
+       "detail": "Local 45% · Visitante 55%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "Louisville Cardinals",
+       "prob": 0.5006234138902564,
+       "detail": "Louisville Cardinals -2.6 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.564318024176164,
+       "detail": "Línea 163.5 · OVER 44% / UNDER 56%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 157.0",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Nebraska Cornhuskers",
+     "away": "Boise State Broncos",
+     "home_logo": "data/logos/8bb04bf4d33fec1d.png",
+     "away_logo": "data/logos/2d9e4a3bf925b397.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NCAA",
+     "league_label": "Todas las ligas",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Nebraska Cornhuskers",
+       "prob": 0.8150144408469171,
+       "detail": "Local 82% · Visitante 18%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Nebraska Cornhuskers",
+       "prob": 0.5009269690393323,
+       "detail": "Nebraska Cornhuskers -11.4 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.6211397512661825,
+       "detail": "Línea 158.5 · OVER 38% / UNDER 62%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 146.1",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Michigan Wolverines",
+     "away": "William & Mary Tribe",
+     "home_logo": "data/logos/b905de63bee5eeb9.png",
+     "away_logo": "data/logos/839fbb3b7fd76c26.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NCAA",
+     "league_label": "Todas las ligas",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Michigan Wolverines",
+       "prob": 0.917344644339442,
+       "detail": "Local 92% · Visitante 8%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "William & Mary Tribe",
+       "prob": 0.6464388960842085,
+       "detail": "William & Mary Tribe +29.5 · 65%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.9332783133051292,
+       "detail": "Línea 97.5 · OVER 93% / UNDER 7%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 157.7",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Texas Longhorns",
+     "away": "Baylor Bears",
+     "home_logo": "data/logos/78b0b4c8e7c45cbf.png",
+     "away_logo": "data/logos/113cbd8376e2d862.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NCAA",
+     "league_label": "Todas las ligas",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Texas Longhorns",
+       "prob": 0.8890670833397759,
+       "detail": "Local 89% · Visitante 11%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Baylor Bears",
+       "prob": 0.500939272432019,
+       "detail": "Baylor Bears +15.2 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5147600936154649,
+       "detail": "Línea 160.5 · OVER 49% / UNDER 51%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 159.0",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "St. John's Red Storm",
+     "away": "Syracuse Orange",
+     "home_logo": "data/logos/80e9c0f30936db87.png",
+     "away_logo": "data/logos/cf57e63a1415d3e3.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NCAA",
+     "league_label": "Todas las ligas",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "St. John's Red Storm",
+       "prob": 0.9773882873564554,
+       "detail": "Local 98% · Visitante 2%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Syracuse Orange",
+       "prob": 0.5008309852513149,
+       "detail": "Syracuse Orange +21.4 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "UNDER",
+       "prob": 0.5113819825173844,
+       "detail": "Línea 150.5 · OVER 49% / UNDER 51%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 149.4",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "USC Trojans",
+     "away": "Arkansas-Pine Bluff Golden Lions",
+     "home_logo": "data/logos/d03885289d750575.png",
+     "away_logo": "data/logos/725ba0ea99019323.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "NCAA",
+     "league_label": "Todas las ligas",
+     "context": "",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "USC Trojans",
+       "prob": 0.6060142716837779,
+       "detail": "Local 61% · Visitante 39%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Arkansas-Pine Bluff Golden Lions",
+       "prob": 0.5003093902853534,
+       "detail": "Arkansas-Pine Bluff Golden Lions +4.2 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5002240801058115,
+       "detail": "Línea 155.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 155.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Panathinaikos",
+     "away": "Kolossos Rhodes",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "GRE",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Panathinaikos",
+       "prob": 0.9686716097131951,
+       "detail": "Local 97% · Visitante 3%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Panathinaikos",
+       "prob": 0.5,
+       "detail": "Panathinaikos -23 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 166 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 166.0",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Peristeri",
+     "away": "AO Mykonou",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "GRE",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Peristeri",
+       "prob": 0.8137686263866917,
+       "detail": "Local 81% · Visitante 19%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Peristeri",
+       "prob": 0.5,
+       "detail": "Peristeri -9.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 161.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 161.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Vikos BC",
+     "away": "Marousi",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "GRE",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Marousi",
+       "prob": 0.5115788381208688,
+       "detail": "Local 49% · Visitante 51%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "Vikos BC",
+       "prob": 0.5,
+       "detail": "Vikos BC +1.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 161.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 161.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Aris",
+     "away": "Olympiacos",
+     "home_logo": "",
+     "away_logo": "",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "GRE",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Olympiacos",
+       "prob": 0.5896998777321579,
+       "detail": "Local 41% · Visitante 59%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "Aris",
+       "prob": 0.5,
+       "detail": "Aris +2.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 161.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 161.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "LG Sakers",
+     "away": "Suwon KT",
+     "home_logo": "data/logos/5707e2e61f6109c7.png",
+     "away_logo": "data/logos/588ecfc5c744729a.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "KOR",
+     "league_label": "KBL Corea",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "LG Sakers",
+       "prob": 0.5647598487657108,
+       "detail": "Local 56% · Visitante 44%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "LG Sakers",
+       "prob": 0.5,
+       "detail": "LG Sakers -2.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 170.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 170.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "KCC Egis",
+     "away": "KoGas",
+     "home_logo": "data/logos/c99eae5a989bb96c.png",
+     "away_logo": "data/logos/ffa7d0af327b9f44.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "KOR",
+     "league_label": "KBL Corea",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "KCC Egis",
+       "prob": 0.6253224601387393,
+       "detail": "Local 63% · Visitante 37%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "KCC Egis",
+       "prob": 0.5,
+       "detail": "KCC Egis -3.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 171.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 171.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Dubai",
+     "away": "Spartak Subotica",
+     "home_logo": "data/logos/cb5f8da4c48993a5.png",
+     "away_logo": "data/logos/b178dbc19fd3c1b3.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ABA",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Dubai",
+       "prob": 0.9343111710005878,
+       "detail": "Local 93% · Visitante 7%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Dubai",
+       "prob": 0.5,
+       "detail": "Dubai -12.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 169.75 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 169.8",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Zalgiris Kaunas",
+     "away": "Neptunas",
+     "home_logo": "data/logos/181172e253acc9cb.png",
+     "away_logo": "data/logos/0528e997a9f90229.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "LTU",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Zalgiris Kaunas",
+       "prob": 0.919947369342633,
+       "detail": "Local 92% · Visitante 8%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Zalgiris Kaunas",
+       "prob": 0.5,
+       "detail": "Zalgiris Kaunas -14.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 171.25 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 171.2",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "KK Bosna",
+     "away": "Mega Basket",
+     "home_logo": "data/logos/15c8b6f358410866.png",
+     "away_logo": "data/logos/76f751cff3853bec.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ABA",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "KK Bosna",
+       "prob": 0.905450646063899,
+       "detail": "Local 91% · Visitante 9%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "KK Bosna",
+       "prob": 0.5,
+       "detail": "KK Bosna -10.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 172.25 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 172.2",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Ironi Kiryat Ata",
+     "away": "Maccabi Ashdod",
+     "home_logo": "data/logos/a6c0d8dc6edc1fc3.png",
+     "away_logo": "data/logos/ffa680730bf2c2d6.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ISR",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Ironi Kiryat Ata",
+       "prob": 0.5388561733674607,
+       "detail": "Local 54% · Visitante 46%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "Ironi Kiryat Ata",
+       "prob": 0.5,
+       "detail": "Ironi Kiryat Ata -1.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 171.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 171.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Rytas",
+     "away": "Jonava",
+     "home_logo": "data/logos/a6da1c3e35bfe567.png",
+     "away_logo": "data/logos/87d240c2b8e0b863.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "LTU",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Rytas",
+       "prob": 0.9008399966332823,
+       "detail": "Local 90% · Visitante 10%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Rytas",
+       "prob": 0.5,
+       "detail": "Rytas -13.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 172.25 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 172.2",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Crvena Zvezda Meridianbet",
+     "away": "Cedevita Olimpija",
+     "home_logo": "data/logos/fedb40178df4236d.png",
+     "away_logo": "data/logos/38798c5f99600af9.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ABA",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Crvena Zvezda Meridianbet",
+       "prob": 0.9245123328866058,
+       "detail": "Local 92% · Visitante 8%",
+       "strong": true
+      },
+      {
+       "label": "Spread",
+       "pick": "Crvena Zvezda Meridianbet",
+       "prob": 0.5,
+       "detail": "Crvena Zvezda Meridianbet -11.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 169.25 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 169.2",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    },
+    {
+     "home": "Maccabi Ironi Ramat Gan",
+     "away": "Nes Ziona",
+     "home_logo": "data/logos/9b52efc21de0e594.png",
+     "away_logo": "data/logos/33d655e210bee326.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "ISR",
+     "league_label": "Todas las ligas",
+     "context": "Probabilidad implícita del mercado",
+     "extra": "Probabilidad implícita del mercado",
+     "markets": [
+      {
+       "label": "Moneyline",
+       "pick": "Nes Ziona",
+       "prob": 0.5567451480785004,
+       "detail": "Local 44% · Visitante 56%",
+       "strong": false
+      },
+      {
+       "label": "Spread",
+       "pick": "Maccabi Ironi Ramat Gan",
+       "prob": 0.5,
+       "detail": "Maccabi Ironi Ramat Gan +2.5 · 50%",
+       "strong": false
+      },
+      {
+       "label": "Totales",
+       "pick": "OVER",
+       "prob": 0.5,
+       "detail": "Línea 168.5 · OVER 50% / UNDER 50%",
+       "strong": false
+      },
+      {
+       "label": "Puntos esperados",
+       "pick": "-",
+       "prob": null,
+       "detail": "Total 168.5",
+       "strong": false
+      }
+     ],
+     "convergence": null,
+     "momentum_ok": false
+    }
+   ],
+   "elapsed_s": 122.3,
+   "sport": "basquet",
+   "sport_name": "Básquetbol",
+   "all_leagues": true,
+   "picks_total_brutos": 14,
+   "picks_policy": {
+    "mercados_excluidos": [
+     "Spread",
+     "Totales"
+    ],
+    "min_prob": {
+     "GRE": 0.75,
+     "KOR": 0.65,
+     "NBA": 0.75,
+     "NCAA": 0.75
+    },
+    "conservados": 8,
+    "descartados": 6
+   }
+  }
+ }
+}

@@ -1,15 +1,60 @@
 {
  "day": "2026-11-13",
- "generated_at": "2026-11-13T18:26:01",
+ "generated_at": "2026-11-14T18:28:25",
  "total": {
-  "ganados": 11,
-  "perdidos": 3,
+  "ganados": 18,
+  "perdidos": 2,
   "anulados": 0,
-  "pendientes": 6,
+  "pendientes": 0,
   "n": 20,
-  "win_pct": 0.786
+  "win_pct": 0.9
  },
  "picks": [
+  {
+   "fecha": "2026-11-13",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Illinois Fighting Illini",
+   "visitante": "Sam Houston Bearkats",
+   "partido": "Sam Houston Bearkats @ Illinois Fighting Illini",
+   "mercado": "ML",
+   "pick": "ML: HOME (Illinois Fighting Illini)",
+   "cuota": null,
+   "prob": 0.9682,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Duke Blue Devils",
+   "visitante": "SIU Edwardsville Cougars",
+   "partido": "SIU Edwardsville Cougars @ Duke Blue Devils",
+   "mercado": "ML",
+   "pick": "ML: HOME (Duke Blue Devils)",
+   "cuota": null,
+   "prob": 0.9305,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-13",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Florida Gators",
+   "visitante": "Merrimack Warriors",
+   "partido": "Merrimack Warriors @ Florida Gators",
+   "mercado": "ML",
+   "pick": "ML: HOME (Florida Gators)",
+   "cuota": null,
+   "prob": 0.9088,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
   {
    "fecha": "2026-11-13",
    "deporte": "futbol",
@@ -83,7 +128,7 @@
    "cuota": null,
    "prob": 0.8513867386979616,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -128,7 +173,7 @@
    "cuota": null,
    "prob": 0.8352552947637698,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -143,7 +188,7 @@
    "cuota": null,
    "prob": 0.8341145420034838,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -158,7 +203,7 @@
    "cuota": 1.214,
    "prob": 0.829,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -218,7 +263,7 @@
    "cuota": null,
    "prob": 0.8144235520753136,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-13",
@@ -262,51 +307,6 @@
    "pick": "1X2: HOME (1)",
    "cuota": null,
    "prob": 0.8019753852285914,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-13",
-   "deporte": "futbol",
-   "liga": "UNL",
-   "liga_nombre": "UEFA Nations League",
-   "local": "Netherlands",
-   "visitante": "Greece",
-   "partido": "Netherlands vs Greece",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.7996276644265641,
-   "tier": "BUENO",
-   "estado": "GANADO"
-  },
-  {
-   "fecha": "2026-11-13",
-   "deporte": "futbol",
-   "liga": "AFQ",
-   "liga_nombre": "Clasificatoria AFCON",
-   "local": "Mozambique",
-   "visitante": "Ethiopia",
-   "partido": "Mozambique vs Ethiopia",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.7973223763850262,
-   "tier": "BUENO",
-   "estado": "PERDIDO"
-  },
-  {
-   "fecha": "2026-11-13",
-   "deporte": "tenis",
-   "liga": "WTA",
-   "liga_nombre": "WTA Tour",
-   "local": "Aryna Sabalenka",
-   "visitante": "Elina Svitolina",
-   "partido": "Aryna Sabalenka vs Elina Svitolina",
-   "mercado": "ML",
-   "pick": "Aryna Sabalenka",
-   "cuota": null,
-   "prob": 0.772,
    "tier": "TOP PICK",
    "estado": "PERDIDO"
   }
