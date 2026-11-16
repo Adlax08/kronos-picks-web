@@ -358,7 +358,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Tigres UANL",
@@ -428,7 +430,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Toluca",
@@ -498,7 +502,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Pumas UNAM",
@@ -568,7 +574,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
    "elapsed_s": 145.8,
@@ -731,7 +739,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Kansas Jayhawks",
@@ -773,7 +783,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Mississippi State Bulldogs",
@@ -815,7 +827,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Wisconsin Badgers",
@@ -857,7 +871,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Tennessee Volunteers",
@@ -899,7 +915,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Notre Dame Fighting Irish",
@@ -941,7 +959,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Ole Miss Rebels",
@@ -983,7 +1003,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Northwestern Wildcats",
@@ -1025,7 +1047,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Arizona State Sun Devils",
@@ -1067,7 +1091,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Georgia Tech Yellow Jackets",
@@ -1109,7 +1135,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Michigan Wolverines",
@@ -1151,7 +1179,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Florida Gators",
@@ -1193,7 +1223,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Texas Tech Red Raiders",
@@ -1235,7 +1267,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
    "elapsed_s": 65.1,
@@ -1428,7 +1462,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Atlanta Hawks",
@@ -1470,7 +1506,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Cleveland Cavaliers",
@@ -1512,7 +1550,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Oklahoma City Thunder",
@@ -1554,7 +1594,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Golden State Warriors",
@@ -1596,7 +1638,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Phoenix Suns",
@@ -1638,7 +1682,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Portland Trail Blazers",
@@ -1680,7 +1726,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
    "elapsed_s": 30.2,

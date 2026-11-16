@@ -347,7 +347,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Claire Liu",
@@ -389,7 +391,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Kamilla Rakhimova",
@@ -431,7 +435,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Alycia Parks",
@@ -473,7 +479,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Bianca Andreescu",
@@ -515,7 +523,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Alicia Herrero Linana",
@@ -557,7 +567,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Darwin Blanch",
@@ -599,7 +611,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
    "elapsed_s": 131.9,
@@ -670,7 +684,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
    "elapsed_s": 15.0,
@@ -788,7 +804,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "New Orleans Pelicans",
@@ -830,7 +848,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Portland Trail Blazers",
@@ -872,7 +892,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
    "elapsed_s": 32.0,

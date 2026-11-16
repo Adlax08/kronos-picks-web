@@ -1074,7 +1074,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Hubert Hurkacz",
@@ -1123,7 +1125,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Ignacio Buse",
@@ -1172,7 +1176,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Luca Van Assche",
@@ -1221,7 +1227,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Alejandro Tabilo",
@@ -1270,7 +1278,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Cameron Norrie",
@@ -1319,7 +1329,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Casper Ruud",
@@ -1368,7 +1380,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Lorenzo Sonego",
@@ -1417,7 +1431,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Kyrian Jacquet",
@@ -1466,7 +1482,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Alex Molcan",
@@ -1515,7 +1533,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Denis Shapovalov",
@@ -1564,7 +1584,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Botic Van De Zandschulp",
@@ -1613,7 +1635,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Claire Liu",
@@ -1662,7 +1686,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Katie Boulter",
@@ -1711,7 +1737,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Aliaksandra Sasnovich",
@@ -1760,7 +1788,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Carol Young Suh Lee",
@@ -1809,7 +1839,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Mary Stoiana",
@@ -1858,7 +1890,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Mai Hontama",
@@ -1907,7 +1941,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Aliona Falei",
@@ -1956,7 +1992,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Mei Yamaguchi",
@@ -2005,7 +2043,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Linda Fruhvirtova",
@@ -2054,7 +2094,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Moyuka Uchijima",
@@ -2103,7 +2145,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Sahaja Yamalapalli",
@@ -2152,7 +2196,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Leolia Jeanjean",
@@ -2194,7 +2240,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Luisina Giovannini",
@@ -2236,7 +2284,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Carolina Alves",
@@ -2278,7 +2328,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Selena Janicijevic",
@@ -2320,7 +2372,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Leyre Romero Gormaz",
@@ -2362,7 +2416,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Laura Samson",
@@ -2404,7 +2460,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Masamichi Imamura",
@@ -2446,7 +2504,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Evan Zhu",
@@ -2488,7 +2548,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Christian Langmo",
@@ -2530,7 +2592,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Mitsuki Wei Kang Leong",
@@ -2572,7 +2636,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Kasidit Samrej",
@@ -2614,7 +2680,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "August Holmgren",
@@ -2663,7 +2731,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Jan Kumstat",
@@ -2712,7 +2782,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Leonardo Rossi",
@@ -2754,7 +2826,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Loann Massard",
@@ -2796,7 +2870,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Adrian Andreev",
@@ -2838,7 +2914,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Peter Makk",
@@ -2880,7 +2958,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Michal Krajci",
@@ -2922,7 +3002,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Lucas Poullain",
@@ -2964,7 +3046,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Marcus Walters",
@@ -3006,7 +3090,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Max Houkes",
@@ -3048,7 +3134,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Giovanni Mpetshi Perricard",
@@ -3090,7 +3178,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Hugo Grenier",
@@ -3139,7 +3229,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Carlo Alberto Caniato",
@@ -3188,7 +3280,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Calvin Hemery",
@@ -3230,7 +3324,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Eero Vasa",
@@ -3272,7 +3368,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Jonas Forejtek",
@@ -3314,7 +3412,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Federico Aguilar Cardozo",
@@ -3356,7 +3456,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Ryo Tabata",
@@ -3398,7 +3500,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Joao Victor Couto Loureiro",
@@ -3440,7 +3544,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Franco Ribero",
@@ -3482,7 +3588,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Daniel Milavsky",
@@ -3524,7 +3632,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Milos Karol",
@@ -3566,7 +3676,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Justin Boulais",
@@ -3608,7 +3720,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Bruno Fernandez",
@@ -3657,7 +3771,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Leonardo Storck Franca",
@@ -3699,7 +3815,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Daniel Elahi Galan",
@@ -3741,7 +3859,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Lucio Ratti",
@@ -3790,7 +3910,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Murphy Cassone",
@@ -3839,7 +3961,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Hynek Barton",
@@ -3888,7 +4012,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Paulo Andre Saraiva Dos Santos",
@@ -3930,7 +4056,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Filip Misolic",
@@ -3972,7 +4100,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Braden Shick",
@@ -4021,7 +4151,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Elmer Moller",
@@ -4070,7 +4202,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Carlos Maria Zarate",
@@ -4119,7 +4253,9 @@
       }
      ],
      "convergence": false,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Guido Ivan Justo",
@@ -4168,7 +4304,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": true
+     "momentum_ok": true,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Juan Carlos Prado Angelo",
@@ -4217,7 +4355,9 @@
       }
      ],
      "convergence": true,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
    "elapsed_s": 145.6,
@@ -4380,7 +4520,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Deportivo",
@@ -4450,7 +4592,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Sassuolo",
@@ -4520,7 +4664,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Atalanta",
@@ -4590,7 +4736,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Lorient",
@@ -4660,7 +4808,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Benfica",
@@ -4730,7 +4880,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Gil Vicente",
@@ -4800,7 +4952,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
    "elapsed_s": 67.8,
@@ -4857,7 +5011,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
    "elapsed_s": 10.1,
@@ -5140,7 +5296,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Charlotte Hornets",
@@ -5182,7 +5340,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Indiana Pacers",
@@ -5224,7 +5384,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "New York Knicks",
@@ -5266,7 +5428,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Orlando Magic",
@@ -5308,7 +5472,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Philadelphia 76ers",
@@ -5350,7 +5516,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Dallas Mavericks",
@@ -5392,7 +5560,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Memphis Grizzlies",
@@ -5434,7 +5604,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Minnesota Timberwolves",
@@ -5476,7 +5648,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Houston Rockets",
@@ -5518,7 +5692,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "San Antonio Spurs",
@@ -5560,7 +5736,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Denver Nuggets",
@@ -5602,7 +5780,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Golden State Warriors",
@@ -5644,7 +5824,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "LA Clippers",
@@ -5686,7 +5868,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     },
     {
      "home": "Los Angeles Lakers",
@@ -5728,7 +5912,9 @@
       }
      ],
      "convergence": null,
-     "momentum_ok": false
+     "momentum_ok": false,
+     "home_logo": "",
+     "away_logo": ""
     }
    ],
    "elapsed_s": 32.2,
