@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T00:06:06",
+ "generated_at": "2026-11-16T00:18:57",
  "sports_total": "49 partidos",
  "sports": [
   {
@@ -293,8 +293,8 @@
     {
      "home": "Carlos Alcaraz",
      "away": "Frances Tiafoe",
-     "home_logo": "",
-     "away_logo": "",
+     "home_logo": "data/logos/8f3178b9a4ba28dc.png",
+     "away_logo": "data/logos/5dbed0bdd29f1b6d.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "ATP",
@@ -337,8 +337,8 @@
     {
      "home": "Daniil Medvedev",
      "away": "Flavio Cobolli",
-     "home_logo": "",
-     "away_logo": "",
+     "home_logo": "data/logos/a17ad71b283a1fcf.png",
+     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/7602.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "ATP",
@@ -381,8 +381,8 @@
     {
      "home": "Diletta Cherubini",
      "away": "Rebeka Masarova",
-     "home_logo": "",
-     "away_logo": "",
+     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/11455.png",
+     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/2984.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
@@ -425,8 +425,8 @@
     {
      "home": "Guiomar Maristany Zuleta De Reales",
      "away": "Martina Trevisan",
-     "home_logo": "",
-     "away_logo": "",
+     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/12957.png",
+     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/1374.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
@@ -469,8 +469,8 @@
     {
      "home": "Nuria Brancaccio",
      "away": "Sofia Costoulas",
-     "home_logo": "",
-     "away_logo": "",
+     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/5168.png",
+     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/14562.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
@@ -513,8 +513,8 @@
     {
      "home": "Carole Monnet",
      "away": "Victoria Jimenez Kasintseva",
-     "home_logo": "",
-     "away_logo": "",
+     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/5299.png",
+     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/7778.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
@@ -557,8 +557,8 @@
     {
      "home": "Ipek Oz",
      "away": "Leyre Romero Gormaz",
-     "home_logo": "",
-     "away_logo": "",
+     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/10197.png",
+     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/10676.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
@@ -601,8 +601,8 @@
     {
      "home": "Anastasia Tikhonova",
      "away": "Valeriya Strakhova",
-     "home_logo": "",
-     "away_logo": "",
+     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/5626.png",
+     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/3042.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
@@ -645,8 +645,8 @@
     {
      "home": "Ariana Geerlings",
      "away": "Luisina Giovannini",
-     "home_logo": "",
-     "away_logo": "",
+     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/14607.png",
+     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/13950.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
@@ -687,7 +687,7 @@
      "momentum_ok": true
     }
    ],
-   "elapsed_s": 23.4,
+   "elapsed_s": 22.3,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true,
@@ -2536,7 +2536,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 79.6,
+   "elapsed_s": 80.3,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true,
@@ -3416,7 +3416,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 54.9,
+   "elapsed_s": 62.8,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true,
