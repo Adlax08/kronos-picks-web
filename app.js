@@ -62,6 +62,24 @@
     return t;
   }
 
+  // Bandera del pais de la liga (respaldo cuando no hay escudo de equipo).
+  const LEAGUE_FLAG = {
+    NBA: "usa", WNBA: "usa", NCAA: "usa", EUR: "eur", ESP: "esp", FRA: "fra",
+    GER: "ger", ITA: "ita", TUR: "tur", GRE: "gre", ISR: "isr", ABA: "srb",
+    LTU: "ltu", KOR: "kor", CHN: "chn",
+    ENG: "eng", NED: "ned", POR: "por", KSA: "ksa", MEX: "mex", BRA: "bra",
+    ARG: "arg", UCL: "eur", UEL: "eur", UECL: "eur", LIB: "bra", SUD: "bra",
+    UNL: "eur", CNL: "eur", AMI: "mex", AFQ: "eur", AFN: "eur", CDF: "eur",
+    FAC: "eng", CI: "eur", CAR: "eur", CDR: "esp", DFB: "ger", WCH: "eur",
+    MLB: "usa", KBO: "kor", NPB: "jpn",
+    NFL: "usa", NCAAF: "usa",
+  };
+
+  function flagFor(leagueCode) {
+    const iso = LEAGUE_FLAG[String(leagueCode || "").toUpperCase()];
+    return iso ? `https://a.espncdn.com/i/teamlogos/countries/500/${iso}.png` : "";
+  }
+
   function crestHTML(name, logo, size) {
     const cls = `crest crest-${size || "sm"}`;
     const hue = hueFor(name);
@@ -181,7 +199,7 @@
   }
   function pickCardHTML(p, estado) {
     const equipo = teamFromPick(p.pick);
-    const logo = LOGO_MAP[equipo] || "";
+    const logo = LOGO_MAP[equipo] || flagFor(p.league_code) || "";
     return `
       <div class="pick-crest">
         ${crestHTML(equipo, logo, "lg")}

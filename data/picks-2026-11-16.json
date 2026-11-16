@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-15T23:50:46",
+ "generated_at": "2026-11-16T00:06:06",
  "sports_total": "49 partidos",
  "sports": [
   {
@@ -247,7 +247,7 @@
    "n": 0,
    "picks": [],
    "predictions": [],
-   "message": "0 partidos proyectados · problemas: KBO: no se pudo contactar al worker: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto; NPB: no se pudo contactar al worker: <urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>;",
+   "message": "0 partidos proyectados",
    "elapsed_s": 0.0
   },
   "tenis": {
@@ -687,7 +687,7 @@
      "momentum_ok": true
     }
    ],
-   "elapsed_s": 30.4,
+   "elapsed_s": 23.4,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true,
@@ -2536,7 +2536,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 82.0,
+   "elapsed_s": 79.6,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true,
@@ -2624,7 +2624,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 11.5,
+   "elapsed_s": 11.4,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true,
@@ -3174,21 +3174,21 @@
        "label": "Spread",
        "pick": "Seoul Knights",
        "prob": 0.5,
-       "detail": "Seoul Knights -5.5 · 50%",
+       "detail": "Seoul Knights -5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
        "prob": 0.5,
-       "detail": "Línea 165.5 · OVER 50% / UNDER 50%",
+       "detail": "Línea 166.5 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 165.5",
+       "detail": "Total 166.5",
        "strong": false
       }
      ],
@@ -3210,15 +3210,15 @@
       {
        "label": "Moneyline",
        "pick": "Borac Mozzart",
-       "prob": 0.553394882123043,
-       "detail": "Local 55% · Visitante 45%",
+       "prob": 0.5309155199442814,
+       "detail": "Local 53% · Visitante 47%",
        "strong": false
       },
       {
        "label": "Spread",
        "pick": "Borac Mozzart",
        "prob": 0.5,
-       "detail": "Borac Mozzart -2.5 · 50%",
+       "detail": "Borac Mozzart -1.5 · 50%",
        "strong": false
       },
       {
@@ -3416,7 +3416,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 55.3,
+   "elapsed_s": 54.9,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true,
