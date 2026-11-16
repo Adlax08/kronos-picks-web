@@ -40,11 +40,14 @@
   }
   // ── Escudos ──────────────────────────────────────────────────────
   const LOGO_MAP = Object.create(null);
+  const FLAG_MAP = Object.create(null);
 
   function buildLogoMap(preds) {
     (preds || []).forEach((g) => {
       if (g.home && g.home_logo) LOGO_MAP[g.home] = g.home_logo;
       if (g.away && g.away_logo) LOGO_MAP[g.away] = g.away_logo;
+      if (g.home && g.home_flag) FLAG_MAP[g.home] = g.home_flag;
+      if (g.away && g.away_flag) FLAG_MAP[g.away] = g.away_flag;
     });
   }
 
@@ -80,18 +83,26 @@
     return iso ? `https://a.espncdn.com/i/teamlogos/countries/500/${iso}.png` : "";
   }
 
-  function crestHTML(name, logo, size) {
+  function crestHTML(name, logo, size, flag) {
     const cls = `crest crest-${size || "sm"}`;
     const hue = hueFor(name);
-    if (logo) {
-      const foto = /headshots/i.test(logo) ? " crest--photo" : "";
-      return `<span class="${cls}${foto}"><img src="${esc(logo)}" alt="" loading="lazy" decoding="async" data-name="${esc(name || "")}" onerror="window.__crestErr(this)"></span>`;
+    const respaldo = flag || FLAG_MAP[name] || "";
+    if (logo || respaldo) {
+      const src = logo || respaldo;
+      const foto = /headshots/i.test(src) ? " crest--photo" : "";
+      return `<span class="${cls}${foto}"><img src="${esc(src)}" alt="" loading="lazy" decoding="async" data-name="${esc(name || "")}" data-fallback="${esc(respaldo)}" onerror="window.__crestErr(this)"></span>`;
     }
     return `<span class="${cls} crest-fallback" style="--h:${hue}">${esc(initials(name))}</span>`;
   }
 
   window.__crestErr = function (img) {
     const name = img.getAttribute("data-name") || "";
+    const respaldo = img.getAttribute("data-fallback") || "";
+    if (respaldo && img.getAttribute("data-fb-used") !== "1" && img.src !== respaldo) {
+      img.setAttribute("data-fb-used", "1");
+      img.src = respaldo;
+      return;
+    }
     const span = document.createElement("span");
     span.className = "crest crest-sm crest-fallback";
     span.style.setProperty("--h", hueFor(name));
@@ -198,11 +209,17 @@
     return `<span class="inline-flex items-center gap-1 px-2 py-0.5 rounded border font-label-sm text-[10px] font-semibold uppercase tracking-wider ${cls}"><span class="w-1.5 h-1.5 rounded-full" style="background:${dot}"></span>${esc(tier)}</span>`;
   }
   function pickCardHTML(p, estado) {
-    const equipo = teamFromPick(p.pick);
-    const logo = LOGO_MAP[equipo] || flagFor(p.league_code) || "";
+    let equipo = teamFromPick(p.pick);
+    const partes = String(p.match || "").split(/\s+@\s+|\s+vs\s+/).map((x) => x.trim()).filter(Boolean);
+    if (!LOGO_MAP[equipo] && !FLAG_MAP[equipo]) {
+      const mencion = partes.find((n) => p.pick && p.pick.toLowerCase().includes(n.toLowerCase()));
+      equipo = mencion || partes[partes.length - 1] || partes[0] || equipo;
+    }
+    const logo = LOGO_MAP[equipo] || "";
+    const bandera = FLAG_MAP[equipo] || flagFor(p.league_code) || "";
     return `
       <div class="pick-crest">
-        ${crestHTML(equipo, logo, "lg")}
+        ${crestHTML(equipo, logo, "lg", bandera)}
         <span class="pick-crest-name">${esc(equipo)}</span>
       </div>
       <div class="flex items-center justify-between gap-2 mb-4">
@@ -230,12 +247,12 @@
         <div class="flex items-center gap-3 min-w-0">
           <div class="min-w-0 flex flex-col gap-1.5">
             <div class="flex items-center gap-2 min-w-0">
-              ${crestHTML(g.home, g.home_logo, "sm")}
+              ${crestHTML(g.home, g.home_logo, "sm", g.home_flag)}
               <span class="text-[15px] font-semibold text-primary truncate">${esc(g.home)}</span>
               ${g.league_label ? `<span class="hidden sm:inline px-2 py-0.5 rounded bg-surface-container font-label-sm text-[10px] text-on-surface-variant">${esc(g.league_label)}</span>` : ""}
             </div>
             <div class="flex items-center gap-2 min-w-0">
-              ${crestHTML(g.away, g.away_logo, "sm")}
+              ${crestHTML(g.away, g.away_logo, "sm", g.away_flag)}
               <span class="text-[15px] font-medium text-on-surface-variant truncate">${esc(g.away)}</span>
             </div>
           </div>
