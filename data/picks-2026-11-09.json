@@ -257,7 +257,72 @@
    "league_label": "Todas las ligas",
    "n": 3,
    "message": "3 partidos proyectados",
-   "picks": [],
+   "picks": [
+    {
+     "match": "Aryna Sabalenka vs Karolina Muchova",
+     "market": "ML",
+     "pick": "Aryna Sabalenka",
+     "prob": 0.8401,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    },
+    {
+     "match": "Leo Borg vs Toby Samuel",
+     "market": "ML",
+     "pick": "Toby Samuel",
+     "prob": 0.8297,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "ATP",
+     "league_label": "ATP Tour",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    },
+    {
+     "match": "Luisina Giovannini vs Tatjana Maria",
+     "market": "ML",
+     "pick": "Tatjana Maria",
+     "prob": 0.781,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    },
+    {
+     "match": "Max Dahlin vs Tomas Martin Etcheverry",
+     "market": "ML",
+     "pick": "Tomas Martin Etcheverry",
+     "prob": 0.8464,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "ATP",
+     "league_label": "ATP Tour",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    }
+   ],
    "predictions": [
     {
      "home": "Henrique Rocha",
@@ -404,7 +469,24 @@
    "league_label": "Todas las ligas",
    "n": 0,
    "message": "Sin partidos pendientes para esa liga y fecha.",
-   "picks": [],
+   "picks": [
+    {
+     "match": "Plymouth Parkway vs Berkhamsted",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8405292430780951,
+     "tier": "MUY BUENO",
+     "units": null,
+     "note": null,
+     "league_code": "FAC",
+     "league_label": "FA Cup",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    }
+   ],
    "predictions": [],
    "elapsed_s": 0.0,
    "sport": "futbol",
@@ -1458,5 +1540,6 @@
     "descartados": 9
    }
   }
- }
+ },
+ "historico": true
 }
