@@ -1,12 +1,12 @@
 {
  "day": "2026-11-16",
- "generated_at": "2026-11-15T18:31:45",
+ "generated_at": "2026-11-15T23:50:46",
  "total": {
   "ganados": 0,
   "perdidos": 0,
   "anulados": 0,
-  "pendientes": 20,
-  "n": 20,
+  "pendientes": 19,
+  "n": 19,
   "win_pct": null
  },
  "picks": [
@@ -36,7 +36,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: 1X",
    "cuota": null,
-   "prob": 0.870186334042517,
+   "prob": 0.8701846280574278,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -51,7 +51,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: 1X",
    "cuota": null,
-   "prob": 0.8632977255316285,
+   "prob": 0.8632976370919923,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -66,7 +66,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: 1X",
    "cuota": null,
-   "prob": 0.8575136597806581,
+   "prob": 0.857508815003264,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -87,16 +87,16 @@
   },
   {
    "fecha": "2026-11-16",
-   "deporte": "tenis",
-   "liga": "ATP",
-   "liga_nombre": "ATP Tour",
-   "local": "Carlos Alcaraz",
-   "visitante": "Frances Tiafoe",
-   "partido": "Carlos Alcaraz vs Frances Tiafoe",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Boston Celtics",
+   "visitante": "Orlando Magic",
+   "partido": "Orlando Magic @ Boston Celtics",
    "mercado": "ML",
-   "pick": "Carlos Alcaraz",
-   "cuota": null,
-   "prob": 0.8246,
+   "pick": "ML: HOME (Boston Celtics)",
+   "cuota": 1.265,
+   "prob": 0.8508,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -111,7 +111,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8184961137355217,
+   "prob": 0.8184549226109609,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -126,7 +126,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: 1X",
    "cuota": null,
-   "prob": 0.8153427847636525,
+   "prob": 0.8153421012907882,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -147,21 +147,6 @@
   },
   {
    "fecha": "2026-11-16",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Boston Celtics",
-   "visitante": "Orlando Magic",
-   "partido": "Orlando Magic @ Boston Celtics",
-   "mercado": "ML",
-   "pick": "ML: HOME (Boston Celtics)",
-   "cuota": null,
-   "prob": 0.801,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-16",
    "deporte": "futbol",
    "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
@@ -173,36 +158,6 @@
    "cuota": null,
    "prob": 0.7914176426724173,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-16",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Cleveland Cavaliers",
-   "visitante": "Chicago Bulls",
-   "partido": "Chicago Bulls @ Cleveland Cavaliers",
-   "mercado": "ML",
-   "pick": "ML: HOME (Cleveland Cavaliers)",
-   "cuota": null,
-   "prob": 0.7906,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-16",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Brooklyn Nets",
-   "visitante": "Philadelphia 76ers",
-   "partido": "Philadelphia 76ers @ Brooklyn Nets",
-   "mercado": "ML",
-   "pick": "ML: AWAY (Philadelphia 76ers)",
-   "cuota": null,
-   "prob": 0.7873,
-   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -246,7 +201,7 @@
    "mercado": "1X2",
    "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.7610493211354109,
+   "prob": 0.7610217354680383,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -261,7 +216,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.7602393224097979,
+   "prob": 0.7601623525485792,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -275,7 +230,7 @@
    "partido": "Nuria Brancaccio vs Sofia Costoulas",
    "mercado": "ML",
    "pick": "Sofia Costoulas",
-   "cuota": null,
+   "cuota": 2.53,
    "prob": 0.7558,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -307,6 +262,36 @@
    "pick": "ML: HOME (Baltimore Ravens)",
    "cuota": 1.444,
    "prob": 0.7359,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-16",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Ariana Geerlings",
+   "visitante": "Luisina Giovannini",
+   "partido": "Ariana Geerlings vs Luisina Giovannini",
+   "mercado": "ML",
+   "pick": "Ariana Geerlings",
+   "cuota": null,
+   "prob": 0.7255,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-16",
+   "deporte": "futbol",
+   "liga": "CNL",
+   "liga_nombre": "Concacaf Nations League",
+   "local": "Cuba",
+   "visitante": "Grenada",
+   "partido": "Cuba vs Grenada",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7009104652827907,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   }

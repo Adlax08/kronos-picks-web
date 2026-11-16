@@ -207,9 +207,9 @@
 .strong-dot.gold { background: #d4a017; }
 
 /* ── Tabla / rows expandibles ───────────────────────── */
-.game-row { transition: background 0.2s ease; cursor: pointer; }
-.game-row:hover { background: #f9fafb; }
-.game-row.open { background: #f8f9fa; }
+.game-row { transition: border-color 0.18s ease, box-shadow 0.18s ease; cursor: pointer; }
+.game-row.match-card:hover { background: #fff; }
+.game-row.open { border-color: #c9cdce; }
 
 .game-row .chevron { transition: transform 0.3s cubic-bezier(0.22,1,0.36,1); }
 .game-row.open .chevron { transform: rotate(180deg); }
@@ -451,7 +451,7 @@
   .pick-card .font-label-sm { font-size: 9.5px !important; }
 
   /* cartelera: filas compactas y nombres completos (máx. 2 líneas) */
-  .game-row > div:first-child { padding: 0.6rem 0.7rem !important; }
+  .match-card { padding: 0.7rem 0.8rem; }
   .game-row span.truncate {
     font-size: 13px !important;
     white-space: normal !important;
@@ -481,4 +481,38 @@
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }
+}
+
+/* ── Fotos de tenistas ──────────────────────────────────── */
+.crest--photo { background: #eef0f1; }
+.crest--photo img { object-fit: cover; border-radius: 9999px; }
+
+/* ── Cartelera: tarjetas con aire ───────────────────────── */
+.match-card {
+  background: #fff; border: 1px solid #e7e9ea; border-radius: .9rem;
+  padding: .8rem .95rem; transition: border-color .18s ease, box-shadow .18s ease;
+}
+.match-card + .match-card { margin-top: .6rem; }
+.match-card:hover { border-color: #cfd3d4; box-shadow: 0 4px 14px rgba(0,0,0,.05); }
+.match-head { display: flex; align-items: center; justify-content: space-between; gap: .75rem; cursor: pointer; }
+.match-teams { display: flex; flex-direction: column; gap: .5rem; min-width: 0; }
+.match-team { display: flex; align-items: center; gap: .55rem; min-width: 0; }
+.match-team .name {
+  font-size: 15px; font-weight: 600; color: #191c1d;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.match-team .name.away { font-weight: 500; color: #5f6368; }
+.match-meta { display: flex; align-items: center; gap: .5rem; flex: none; }
+.league-chip {
+  font-size: 10px; color: #5f6368; background: #f1f3f4; padding: .22rem .55rem;
+  border-radius: 999px; white-space: nowrap; max-width: 130px;
+  overflow: hidden; text-overflow: ellipsis;
+}
+.match-context {
+  margin: .45rem 0 0; font-size: 11px; color: #6b7280;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+@media (max-width: 480px) {
+  .match-team .name { font-size: 14px; }
+  .league-chip { max-width: 92px; }
 }

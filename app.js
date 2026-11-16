@@ -66,7 +66,8 @@
     const cls = `crest crest-${size || "sm"}`;
     const hue = hueFor(name);
     if (logo) {
-      return `<span class="${cls}"><img src="${esc(logo)}" alt="" loading="lazy" decoding="async" data-name="${esc(name || "")}" onerror="window.__crestErr(this)"></span>`;
+      const foto = /headshots/i.test(logo) ? " crest--photo" : "";
+      return `<span class="${cls}${foto}"><img src="${esc(logo)}" alt="" loading="lazy" decoding="async" data-name="${esc(name || "")}" onerror="window.__crestErr(this)"></span>`;
     }
     return `<span class="${cls} crest-fallback" style="--h:${hue}">${esc(initials(name))}</span>`;
   }
@@ -228,6 +229,7 @@
         </div>
         <span class="material-symbols-outlined chevron text-outline group-hover:text-primary transition-colors ml-3">expand_more</span>
       </div>
+      ${g.context ? `<p class="match-context">${esc(g.context)}</p>` : ""}
       <div class="markets-panel bg-surface-container-low/40">
         <div class="px-2 pb-2">
           ${g.extra ? `<div class="market-row" style="border-top:0"><span class="m-label">Alineación</span><span class="m-pick" style="grid-column: span 3">${esc(g.extra)}</span></div>` : ""}
@@ -255,7 +257,7 @@
     if (!predictions || !predictions.length) return 0;
     predictions.forEach((g) => {
       const row = document.createElement("div");
-      row.className = "game-row";
+      row.className = "game-row match-card";
       row.innerHTML = gameRowHTML(g);
       gameRowBind(row);
       container.appendChild(row);

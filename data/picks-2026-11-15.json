@@ -1,7 +1,7 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T18:26:59",
- "sports_total": "23 partidos",
+ "generated_at": "2026-11-15T22:10:58",
+ "sports_total": "15 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -259,7 +259,7 @@
    "message": "ATP: sin partidos pendientes · WTA: sin partidos pendientes · CHALLENGER: sin partidos pendientes",
    "picks": [],
    "predictions": [],
-   "elapsed_s": 83.9,
+   "elapsed_s": 92.9,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true
@@ -269,164 +269,24 @@
    "date": "2026-11-15",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 1,
-   "message": "1 partidos proyectados",
-   "picks": [
-    {
-     "match": "Panama vs Curaçao",
-     "market": "O/U 2.5",
-     "pick": "O/U 2.5: OVER",
-     "prob": 0.7924475498018606,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=70%",
-     "league_code": "CNL",
-     "league_label": "Concacaf Nations League"
-    }
-   ],
-   "predictions": [
-    {
-     "home": "Panama",
-     "away": "Curaçao",
-     "home_logo": "data/logos/808476e7249d7927.png",
-     "away_logo": "data/logos/848b0531ce3d7366.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "CNL",
-     "league_label": "Concacaf Nations League",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "1X2",
-       "pick": "Curaçao",
-       "prob": 0.44924248276132867,
-       "detail": "Local 30% · Empate 25% · Visitante 45%",
-       "strong": false
-      },
-      {
-       "label": "Doble Oportunidad",
-       "pick": "12",
-       "prob": 0.7477003850670934,
-       "detail": "1X 55% · X2 70% · 12 75%",
-       "strong": false
-      },
-      {
-       "label": "Over/Under 2.5",
-       "pick": "OVER",
-       "prob": 0.7924475498018606,
-       "detail": "OVER 2.5 goles · 79%",
-       "strong": false
-      },
-      {
-       "label": "Over/Under 1.5",
-       "pick": "OVER",
-       "prob": 0.8963271116850875,
-       "detail": "OVER 1.5 goles · 90%",
-       "strong": false
-      },
-      {
-       "label": "BTTS (Ambos marcan)",
-       "pick": "SÍ",
-       "prob": 0.7584882271848103,
-       "detail": "BTTS Sí 76%",
-       "strong": false
-      },
-      {
-       "label": "Total Goles",
-       "pick": "-",
-       "prob": null,
-       "detail": "Goles esperados 3.72",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Asiático",
-       "pick": "AWAY +1.5",
-       "prob": 0.7849297136692952,
-       "detail": "Línea +1.5 · AWAY 78%",
-       "strong": true
-      },
-      {
-       "label": "Equipo O/U 1.5",
-       "pick": "LOCAL OVER",
-       "prob": 0.582183678551314,
-       "detail": "LOCAL OVER 1.5 goles 58%",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    }
-   ],
-   "elapsed_s": 107.0,
+   "n": 0,
+   "message": "Sin partidos pendientes para esa liga y fecha.",
+   "picks": [],
+   "predictions": [],
+   "elapsed_s": 0.0,
    "sport": "futbol",
    "sport_name": "Fútbol",
-   "all_leagues": true,
-   "picks_total_brutos": 1,
-   "picks_policy": {
-    "mercados_excluidos": [
-     "BTTS"
-    ],
-    "min_prob": {
-     "CNL": 0.7
-    },
-    "conservados": 1,
-    "descartados": 0
-   }
+   "all_leagues": true
   },
   "amfut": {
    "ok": true,
    "date": "2026-11-15",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 2,
-   "message": "2 partidos proyectados",
+   "n": 1,
+   "message": "1 partidos proyectados",
    "picks": [],
    "predictions": [
-    {
-     "home": "Dallas Cowboys",
-     "away": "San Francisco 49ers",
-     "home_logo": "data/logos/1ec7f4135bac1fa7.png",
-     "away_logo": "data/logos/409917a8dacc6956.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NFL",
-     "league_label": "NFL",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "San Francisco 49ers",
-       "prob": 0.6295027942712096,
-       "detail": "Local 37% · Visitante 63%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "San Francisco 49ers",
-       "prob": 0.5337004568218202,
-       "detail": "San Francisco 49ers -3.5 · 53%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.587585912588516,
-       "detail": "Línea 55.5 · OVER 41% / UNDER 59%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 49.2",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
     {
      "home": "Cincinnati Bengals",
      "away": "Pittsburgh Steelers",
@@ -449,8 +309,8 @@
       {
        "label": "Spread",
        "pick": "Pittsburgh Steelers",
-       "prob": 0.5152663580466902,
-       "detail": "Pittsburgh Steelers +3.5 · 52%",
+       "prob": 0.5292498483743078,
+       "detail": "Pittsburgh Steelers +4.5 · 53%",
        "strong": false
       },
       {
@@ -472,7 +332,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 20.4,
+   "elapsed_s": 21.2,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true
@@ -482,247 +342,26 @@
    "date": "2026-11-15",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 20,
-   "message": "20 partidos proyectados",
+   "n": 14,
+   "message": "14 partidos proyectados",
    "picks": [
     {
-     "match": "Syracuse Orange @ St. John's Red Storm",
+     "match": "KoGas @ KCC Egis",
      "market": "Moneyline",
-     "pick": "ML: HOME (St. John's Red Storm)",
-     "prob": 0.9774,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=98% · momio 1.11111 · EV +8.6%",
-     "league_code": "NCAA",
-     "league_label": "",
-     "odds": 1.111,
-     "line": null,
-     "edge": null,
-     "ev": null
-    },
-    {
-     "match": "Oklahoma City Thunder @ Sacramento Kings",
-     "market": "Moneyline",
-     "pick": "ML: AWAY (Oklahoma City Thunder)",
-     "prob": 0.8563,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=86% · momio 1.21368 · EV +3.9%",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "odds": 1.214,
-     "line": null,
-     "edge": null,
-     "ev": null
-    },
-    {
-     "match": "AO Mykonou @ Peristeri",
-     "market": "Moneyline",
-     "pick": "ML: HOME (Peristeri)",
-     "prob": 0.8138,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=81% · momio 1.2101 · EV -1.5% · sin historico · favorito del mercado",
-     "league_code": "GRE",
-     "league_label": "",
-     "odds": 1.21,
-     "line": null,
-     "edge": null,
-     "ev": null
-    },
-    {
-     "match": "Houston Rockets @ Washington Wizards",
-     "market": "Moneyline",
-     "pick": "ML: AWAY (Houston Rockets)",
-     "prob": 0.8037,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=80% · momio 1.27855 · EV +2.8%",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "odds": 1.279,
+     "pick": "ML: HOME (KCC Egis)",
+     "prob": 0.6781,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=68%",
+     "league_code": "KOR",
+     "league_label": "KBL Corea",
+     "odds": null,
      "line": null,
      "edge": null,
      "ev": null
     }
    ],
    "predictions": [
-    {
-     "home": "Boston Celtics",
-     "away": "Dallas Mavericks",
-     "home_logo": "data/logos/fa391ce671bc1351.png",
-     "away_logo": "data/logos/0c8e5563b51acd1e.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Boston Celtics",
-       "prob": 0.7642538860315713,
-       "detail": "Local 76% · Visitante 24%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Dallas Mavericks",
-       "prob": 0.5007231342768597,
-       "detail": "Dallas Mavericks +12.6 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.5005851590976569,
-       "detail": "Línea 226 · OVER 50% / UNDER 50%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 226.0",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Toronto Raptors",
-     "away": "New York Knicks",
-     "home_logo": "data/logos/ddc2d6ce3c0f9989.png",
-     "away_logo": "data/logos/99a054408ada5a7b.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Toronto Raptors",
-       "prob": 0.5886089874572028,
-       "detail": "Local 59% · Visitante 41%",
-       "strong": false
-      },
-      {
-       "label": "Spread",
-       "pick": "Toronto Raptors",
-       "prob": 0.5009939430574852,
-       "detail": "Toronto Raptors -3.3 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5004891106837204,
-       "detail": "Línea 229.5 · OVER 50% / UNDER 50%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 229.5",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Washington Wizards",
-     "away": "Houston Rockets",
-     "home_logo": "data/logos/a49d3ec9895ef73a.png",
-     "away_logo": "data/logos/b37eb2777dae62f4.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Houston Rockets",
-       "prob": 0.8036891321446736,
-       "detail": "Local 20% · Visitante 80%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Houston Rockets",
-       "prob": 0.5002066020233932,
-       "detail": "Houston Rockets -10.2 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5248306428344852,
-       "detail": "Línea 224.5 · OVER 52% / UNDER 48%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 227.5",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Milwaukee Bucks",
-     "away": "Atlanta Hawks",
-     "home_logo": "data/logos/3d0fe308fca1b8ff.png",
-     "away_logo": "data/logos/cf63c8f41affe6cc.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Atlanta Hawks",
-       "prob": 0.7514371113290386,
-       "detail": "Local 25% · Visitante 75%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Atlanta Hawks",
-       "prob": 0.5008109267222131,
-       "detail": "Atlanta Hawks -9.4 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5279022725834476,
-       "detail": "Línea 233.5 · OVER 53% / UNDER 47%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 236.9",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
     {
      "home": "Sacramento Kings",
      "away": "Oklahoma City Thunder",
@@ -752,8 +391,8 @@
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5455539161897567,
-       "detail": "Línea 223.5 · OVER 55% / UNDER 45%",
+       "prob": 0.56186758510731,
+       "detail": "Línea 221.5 · OVER 56% / UNDER 44%",
        "strong": false
       },
       {
@@ -761,94 +400,6 @@
        "pick": "-",
        "prob": null,
        "detail": "Total 229.0",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "St. John's Red Storm",
-     "away": "Syracuse Orange",
-     "home_logo": "data/logos/80e9c0f30936db87.png",
-     "away_logo": "data/logos/cf57e63a1415d3e3.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "St. John's Red Storm",
-       "prob": 0.9774008301415682,
-       "detail": "Local 98% · Visitante 2%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Syracuse Orange",
-       "prob": 0.5008475007631364,
-       "detail": "Syracuse Orange +21.4 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5183688458296669,
-       "detail": "Línea 147.5 · OVER 52% / UNDER 48%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 149.4",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "USC Trojans",
-     "away": "Arkansas-Pine Bluff Golden Lions",
-     "home_logo": "data/logos/d03885289d750575.png",
-     "away_logo": "data/logos/725ba0ea99019323.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "USC Trojans",
-       "prob": 0.6565050594095759,
-       "detail": "Local 66% · Visitante 34%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "USC Trojans",
-       "prob": 0.5005809447905567,
-       "detail": "USC Trojans -4.4 · 50%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.5417643114874084,
-       "detail": "Línea 157.5 · OVER 46% / UNDER 54%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 153.3",
        "strong": false
       }
      ],
@@ -864,35 +415,35 @@
      "away_abbrev": "",
      "league_code": "GRE",
      "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
        "pick": "Panathinaikos",
-       "prob": 0.9686716097131951,
-       "detail": "Local 97% · Visitante 3%",
+       "prob": 0.6062963362447668,
+       "detail": "Local 61% · Visitante 39%",
        "strong": true
       },
       {
        "label": "Spread",
-       "pick": "Panathinaikos",
-       "prob": 0.5,
-       "detail": "Panathinaikos -23 · 50%",
+       "pick": "Kolossos Rhodes",
+       "prob": 0.5010261853358494,
+       "detail": "Kolossos Rhodes +4.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 166 · OVER 50% / UNDER 50%",
+       "prob": 0.5001130021944945,
+       "detail": "Línea 197.8 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 166.0",
+       "detail": "Total 197.8",
        "strong": false
       }
      ],
@@ -908,35 +459,35 @@
      "away_abbrev": "",
      "league_code": "GRE",
      "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
        "pick": "Peristeri",
-       "prob": 0.8137686263866917,
-       "detail": "Local 81% · Visitante 19%",
+       "prob": 0.6062963362447668,
+       "detail": "Local 61% · Visitante 39%",
        "strong": true
       },
       {
        "label": "Spread",
-       "pick": "Peristeri",
-       "prob": 0.5,
-       "detail": "Peristeri -9.5 · 50%",
+       "pick": "AO Mykonou",
+       "prob": 0.5010261853358494,
+       "detail": "AO Mykonou +4.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 161.5 · OVER 50% / UNDER 50%",
+       "prob": 0.5001130021944945,
+       "detail": "Línea 197.8 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 161.5",
+       "detail": "Total 197.8",
        "strong": false
       }
      ],
@@ -952,35 +503,35 @@
      "away_abbrev": "",
      "league_code": "GRE",
      "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
-       "pick": "Marousi",
-       "prob": 0.5115788381208688,
-       "detail": "Local 49% · Visitante 51%",
-       "strong": false
+       "pick": "Vikos BC",
+       "prob": 0.6062963362447668,
+       "detail": "Local 61% · Visitante 39%",
+       "strong": true
       },
       {
        "label": "Spread",
-       "pick": "Vikos BC",
-       "prob": 0.5,
-       "detail": "Vikos BC +1.5 · 50%",
+       "pick": "Marousi",
+       "prob": 0.5010261853358494,
+       "detail": "Marousi +4.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 161.5 · OVER 50% / UNDER 50%",
+       "prob": 0.5001130021944945,
+       "detail": "Línea 197.8 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 161.5",
+       "detail": "Total 197.8",
        "strong": false
       }
      ],
@@ -996,35 +547,35 @@
      "away_abbrev": "",
      "league_code": "GRE",
      "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
-       "pick": "Olympiacos",
-       "prob": 0.5896998777321579,
-       "detail": "Local 41% · Visitante 59%",
-       "strong": false
+       "pick": "Aris",
+       "prob": 0.6062963362447668,
+       "detail": "Local 61% · Visitante 39%",
+       "strong": true
       },
       {
        "label": "Spread",
-       "pick": "Aris",
-       "prob": 0.5,
-       "detail": "Aris +2.5 · 50%",
+       "pick": "Olympiacos",
+       "prob": 0.5010261853358494,
+       "detail": "Olympiacos +4.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 161.5 · OVER 50% / UNDER 50%",
+       "prob": 0.5001130021944945,
+       "detail": "Línea 197.8 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 161.5",
+       "detail": "Total 197.8",
        "strong": false
       }
      ],
@@ -1040,35 +591,35 @@
      "away_abbrev": "",
      "league_code": "KOR",
      "league_label": "KBL Corea",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
        "pick": "LG Sakers",
-       "prob": 0.5647598487657108,
-       "detail": "Local 56% · Visitante 44%",
-       "strong": false
+       "prob": 0.6479441290907999,
+       "detail": "Local 65% · Visitante 35%",
+       "strong": true
       },
       {
        "label": "Spread",
-       "pick": "LG Sakers",
-       "prob": 0.5,
-       "detail": "LG Sakers -2.5 · 50%",
+       "pick": "Suwon KT",
+       "prob": 0.5002712862597118,
+       "detail": "Suwon KT +7.6 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 170.5 · OVER 50% / UNDER 50%",
+       "pick": "UNDER",
+       "prob": 0.5006665055485278,
+       "detail": "Línea 156 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 170.5",
+       "detail": "Total 156.0",
        "strong": false
       }
      ],
@@ -1084,35 +635,35 @@
      "away_abbrev": "",
      "league_code": "KOR",
      "league_label": "KBL Corea",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
        "pick": "KCC Egis",
-       "prob": 0.6253224601387393,
-       "detail": "Local 63% · Visitante 37%",
+       "prob": 0.6781063675632376,
+       "detail": "Local 68% · Visitante 32%",
        "strong": true
       },
       {
        "label": "Spread",
        "pick": "KCC Egis",
-       "prob": 0.5,
-       "detail": "KCC Egis -3.5 · 50%",
+       "prob": 0.5001353618408051,
+       "detail": "KCC Egis -6.9 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 171.5 · OVER 50% / UNDER 50%",
+       "pick": "UNDER",
+       "prob": 0.5007791029628389,
+       "detail": "Línea 155.4 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 171.5",
+       "detail": "Total 155.4",
        "strong": false
       }
      ],
@@ -1128,35 +679,35 @@
      "away_abbrev": "",
      "league_code": "ABA",
      "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
        "pick": "Dubai",
-       "prob": 0.9343111710005878,
-       "detail": "Local 93% · Visitante 7%",
+       "prob": 0.6105772127007604,
+       "detail": "Local 61% · Visitante 39%",
        "strong": true
       },
       {
        "label": "Spread",
-       "pick": "Dubai",
-       "prob": 0.5,
-       "detail": "Dubai -12.5 · 50%",
+       "pick": "Spartak Subotica",
+       "prob": 0.5005991375248753,
+       "detail": "Spartak Subotica +4.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 169.75 · OVER 50% / UNDER 50%",
+       "prob": 0.500952013422211,
+       "detail": "Línea 199.4 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 169.8",
+       "detail": "Total 199.4",
        "strong": false
       }
      ],
@@ -1172,35 +723,35 @@
      "away_abbrev": "",
      "league_code": "LTU",
      "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
        "pick": "Zalgiris Kaunas",
-       "prob": 0.919947369342633,
-       "detail": "Local 92% · Visitante 8%",
+       "prob": 0.6723227799187617,
+       "detail": "Local 67% · Visitante 33%",
        "strong": true
       },
       {
        "label": "Spread",
-       "pick": "Zalgiris Kaunas",
-       "prob": 0.5,
-       "detail": "Zalgiris Kaunas -14.5 · 50%",
+       "pick": "Neptunas",
+       "prob": 0.5012440345253507,
+       "detail": "Neptunas +6.2 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 171.25 · OVER 50% / UNDER 50%",
+       "pick": "UNDER",
+       "prob": 0.5009412951933547,
+       "detail": "Línea 196.8 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 171.2",
+       "detail": "Total 196.8",
        "strong": false
       }
      ],
@@ -1216,35 +767,35 @@
      "away_abbrev": "",
      "league_code": "ABA",
      "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
        "pick": "KK Bosna",
-       "prob": 0.905450646063899,
-       "detail": "Local 91% · Visitante 9%",
+       "prob": 0.6702955694236549,
+       "detail": "Local 67% · Visitante 33%",
        "strong": true
       },
       {
        "label": "Spread",
-       "pick": "KK Bosna",
-       "prob": 0.5,
-       "detail": "KK Bosna -10.5 · 50%",
+       "pick": "Mega Basket",
+       "prob": 0.5001455475287786,
+       "detail": "Mega Basket +6.2 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 172.25 · OVER 50% / UNDER 50%",
+       "pick": "UNDER",
+       "prob": 0.5002816245066062,
+       "detail": "Línea 198.8 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 172.2",
+       "detail": "Total 198.8",
        "strong": false
       }
      ],
@@ -1260,35 +811,35 @@
      "away_abbrev": "",
      "league_code": "ISR",
      "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
        "pick": "Ironi Kiryat Ata",
-       "prob": 0.5388561733674607,
-       "detail": "Local 54% · Visitante 46%",
-       "strong": false
+       "prob": 0.6432869553620806,
+       "detail": "Local 64% · Visitante 36%",
+       "strong": true
       },
       {
        "label": "Spread",
        "pick": "Ironi Kiryat Ata",
-       "prob": 0.5,
-       "detail": "Ironi Kiryat Ata -1.5 · 50%",
+       "prob": 0.50085134223092,
+       "detail": "Ironi Kiryat Ata -6.7 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 171.5 · OVER 50% / UNDER 50%",
+       "prob": 0.5003781293136995,
+       "detail": "Línea 202.7 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 171.5",
+       "detail": "Total 202.7",
        "strong": false
       }
      ],
@@ -1304,35 +855,35 @@
      "away_abbrev": "",
      "league_code": "LTU",
      "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
        "pick": "Rytas",
-       "prob": 0.9008399966332823,
-       "detail": "Local 90% · Visitante 10%",
+       "prob": 0.6723227799187617,
+       "detail": "Local 67% · Visitante 33%",
        "strong": true
       },
       {
        "label": "Spread",
-       "pick": "Rytas",
-       "prob": 0.5,
-       "detail": "Rytas -13.5 · 50%",
+       "pick": "Jonava",
+       "prob": 0.5012440345253507,
+       "detail": "Jonava +6.2 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 172.25 · OVER 50% / UNDER 50%",
+       "pick": "UNDER",
+       "prob": 0.5009412951933547,
+       "detail": "Línea 196.8 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 172.2",
+       "detail": "Total 196.8",
        "strong": false
       }
      ],
@@ -1348,35 +899,35 @@
      "away_abbrev": "",
      "league_code": "ABA",
      "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
        "pick": "Crvena Zvezda Meridianbet",
-       "prob": 0.9245123328866058,
-       "detail": "Local 92% · Visitante 8%",
+       "prob": 0.6105772127007604,
+       "detail": "Local 61% · Visitante 39%",
        "strong": true
       },
       {
        "label": "Spread",
-       "pick": "Crvena Zvezda Meridianbet",
-       "prob": 0.5,
-       "detail": "Crvena Zvezda Meridianbet -11.5 · 50%",
+       "pick": "Cedevita Olimpija",
+       "prob": 0.5005991375248753,
+       "detail": "Cedevita Olimpija +4.5 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 169.25 · OVER 50% / UNDER 50%",
+       "prob": 0.500952013422211,
+       "detail": "Línea 199.4 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 169.2",
+       "detail": "Total 199.4",
        "strong": false
       }
      ],
@@ -1392,35 +943,35 @@
      "away_abbrev": "",
      "league_code": "ISR",
      "league_label": "Todas las ligas",
-     "context": "Probabilidad implícita del mercado",
-     "extra": "Probabilidad implícita del mercado",
+     "context": "Sin histórico de liga · probabilidad base",
+     "extra": "Sin histórico de liga · probabilidad base",
      "markets": [
       {
        "label": "Moneyline",
-       "pick": "Nes Ziona",
-       "prob": 0.5567451480785004,
-       "detail": "Local 44% · Visitante 56%",
-       "strong": false
+       "pick": "Maccabi Ironi Ramat Gan",
+       "prob": 0.6432869553620806,
+       "detail": "Local 64% · Visitante 36%",
+       "strong": true
       },
       {
        "label": "Spread",
        "pick": "Maccabi Ironi Ramat Gan",
-       "prob": 0.5,
-       "detail": "Maccabi Ironi Ramat Gan +2.5 · 50%",
+       "prob": 0.50085134223092,
+       "detail": "Maccabi Ironi Ramat Gan -6.7 · 50%",
        "strong": false
       },
       {
        "label": "Totales",
        "pick": "OVER",
-       "prob": 0.5,
-       "detail": "Línea 168.5 · OVER 50% / UNDER 50%",
+       "prob": 0.5003781293136995,
+       "detail": "Línea 202.7 · OVER 50% / UNDER 50%",
        "strong": false
       },
       {
        "label": "Puntos esperados",
        "pick": "-",
        "prob": null,
-       "detail": "Total 168.5",
+       "detail": "Total 202.7",
        "strong": false
       }
      ],
@@ -1428,24 +979,25 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 510.1,
+   "elapsed_s": 60.2,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true,
-   "picks_total_brutos": 6,
+   "picks_total_brutos": 13,
    "picks_policy": {
     "mercados_excluidos": [
      "Spread",
      "Totales"
     ],
     "min_prob": {
+     "ABA": 0.75,
      "GRE": 0.75,
+     "ISR": 0.75,
      "KOR": 0.65,
-     "NBA": 0.75,
-     "NCAA": 0.75
+     "LTU": 0.75
     },
-    "conservados": 4,
-    "descartados": 2
+    "conservados": 1,
+    "descartados": 12
    }
   }
  }
