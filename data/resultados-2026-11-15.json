@@ -1,15 +1,30 @@
 {
  "day": "2026-11-15",
- "generated_at": "2026-11-16T00:45:18",
+ "generated_at": "2026-11-16T18:20:51",
  "total": {
-  "ganados": 16,
+  "ganados": 17,
   "perdidos": 3,
   "anulados": 0,
-  "pendientes": 1,
+  "pendientes": 0,
   "n": 20,
-  "win_pct": 0.842
+  "win_pct": 0.85
  },
  "picks": [
+  {
+   "fecha": "2026-11-15",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "St. John's Red Storm",
+   "visitante": "Syracuse Orange",
+   "partido": "Syracuse Orange @ St. John's Red Storm",
+   "mercado": "ML",
+   "pick": "ML: HOME (St. John's Red Storm)",
+   "cuota": 1.111,
+   "prob": 0.9774,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
   {
    "fecha": "2026-11-15",
    "deporte": "basquet",
@@ -38,7 +53,7 @@
    "cuota": 1.214,
    "prob": 0.8563,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-15",
@@ -288,21 +303,6 @@
    "local": "Saint-Pauloise FC",
    "visitante": "La Tamponnaise",
    "partido": "Saint-Pauloise FC vs La Tamponnaise",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8408569923931621,
-   "tier": "MUY BUENO",
-   "estado": "GANADO"
-  },
-  {
-   "fecha": "2026-11-15",
-   "deporte": "futbol",
-   "liga": "CDF",
-   "liga_nombre": "Coupe de France",
-   "local": "Sedan",
-   "visitante": "Bourges Foot",
-   "partido": "Sedan vs Bourges Foot",
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,

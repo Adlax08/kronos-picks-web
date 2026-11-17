@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-16T00:45:17",
+ "generated_at": "2026-11-16T18:20:51",
  "days": 30,
  "solo_verificables": true,
  "total": {
-  "ganados": 301,
+  "ganados": 314,
   "perdidos": 89,
   "anulados": 2,
-  "pendientes": 45,
-  "n": 437,
-  "win_pct": 0.772
+  "pendientes": 33,
+  "n": 438,
+  "win_pct": 0.779
  },
  "by_sport": {
   "amfut": {
@@ -20,28 +20,28 @@
    "win_pct": 0.769
   },
   "basquet": {
-   "ganados": 30,
+   "ganados": 32,
    "perdidos": 9,
    "anulados": 0,
-   "pendientes": 2,
-   "n": 41,
-   "win_pct": 0.769
+   "pendientes": 4,
+   "n": 45,
+   "win_pct": 0.78
   },
   "futbol": {
-   "ganados": 193,
+   "ganados": 203,
    "perdidos": 53,
    "anulados": 0,
-   "pendientes": 35,
-   "n": 281,
-   "win_pct": 0.785
+   "pendientes": 23,
+   "n": 279,
+   "win_pct": 0.793
   },
   "tenis": {
-   "ganados": 68,
+   "ganados": 69,
    "perdidos": 24,
    "anulados": 2,
-   "pendientes": 2,
-   "n": 96,
-   "win_pct": 0.739
+   "pendientes": 0,
+   "n": 95,
+   "win_pct": 0.742
   }
  },
  "picks": [
@@ -5720,6 +5720,21 @@
    "deporte": "basquet",
    "liga": "NCAA",
    "liga_nombre": "Todas las ligas",
+   "local": "St. John's Red Storm",
+   "visitante": "Syracuse Orange",
+   "partido": "Syracuse Orange @ St. John's Red Storm",
+   "mercado": "ML",
+   "pick": "ML: HOME (St. John's Red Storm)",
+   "cuota": 1.111,
+   "prob": 0.9774,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-15",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
    "local": "Texas Longhorns",
    "visitante": "Baylor Bears",
    "partido": "Baylor Bears @ Texas Longhorns",
@@ -5743,7 +5758,7 @@
    "cuota": 1.214,
    "prob": 0.8563,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-15",
@@ -6001,21 +6016,6 @@
    "estado": "GANADO"
   },
   {
-   "fecha": "2026-11-15",
-   "deporte": "futbol",
-   "liga": "CDF",
-   "liga_nombre": "Coupe de France",
-   "local": "Sedan",
-   "visitante": "Bourges Foot",
-   "partido": "Sedan vs Bourges Foot",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8408569923931621,
-   "tier": "MUY BUENO",
-   "estado": "GANADO"
-  },
-  {
    "fecha": "2026-11-16",
    "deporte": "futbol",
    "liga": "AFQ",
@@ -6028,7 +6028,7 @@
    "cuota": null,
    "prob": 0.8821551307411472,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -6043,7 +6043,7 @@
    "cuota": null,
    "prob": 0.8701846280574278,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -6058,7 +6058,7 @@
    "cuota": null,
    "prob": 0.8632976370919923,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -6073,7 +6073,7 @@
    "cuota": null,
    "prob": 0.857508815003264,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -6088,7 +6088,7 @@
    "cuota": null,
    "prob": 0.8525560773159424,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -6101,7 +6101,7 @@
    "mercado": "ML",
    "pick": "ML: HOME (Boston Celtics)",
    "cuota": 1.265,
-   "prob": 0.8508,
+   "prob": 0.8507,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -6118,7 +6118,7 @@
    "cuota": null,
    "prob": 0.8184549226109609,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -6133,7 +6133,7 @@
    "cuota": null,
    "prob": 0.8153421012907882,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -6148,6 +6148,36 @@
    "cuota": null,
    "prob": 0.8153290275880767,
    "tier": "BUENO",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-16",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Cleveland Cavaliers",
+   "visitante": "Chicago Bulls",
+   "partido": "Chicago Bulls @ Cleveland Cavaliers",
+   "mercado": "ML",
+   "pick": "ML: HOME (Cleveland Cavaliers)",
+   "cuota": 1.306,
+   "prob": 0.8101,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-16",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Brooklyn Nets",
+   "visitante": "Philadelphia 76ers",
+   "partido": "Philadelphia 76ers @ Brooklyn Nets",
+   "mercado": "ML",
+   "pick": "ML: AWAY (Philadelphia 76ers)",
+   "cuota": 1.435,
+   "prob": 0.7971,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -6193,7 +6223,7 @@
    "cuota": null,
    "prob": 0.768739681400543,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -6208,7 +6238,7 @@
    "cuota": null,
    "prob": 0.7610217354680383,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -6223,6 +6253,21 @@
    "cuota": null,
    "prob": 0.7601623525485792,
    "tier": "BUENO",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-16",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "New Orleans Pelicans",
+   "visitante": "Golden State Warriors",
+   "partido": "Golden State Warriors @ New Orleans Pelicans",
+   "mercado": "ML",
+   "pick": "ML: AWAY (Golden State Warriors)",
+   "cuota": 1.645,
+   "prob": 0.759,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -6238,7 +6283,7 @@
    "cuota": 2.53,
    "prob": 0.7558,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -6271,36 +6316,6 @@
    "estado": "PENDIENTE"
   },
   {
-   "fecha": "2026-11-16",
-   "deporte": "tenis",
-   "liga": "WTA",
-   "liga_nombre": "WTA Tour",
-   "local": "Ariana Geerlings",
-   "visitante": "Luisina Giovannini",
-   "partido": "Ariana Geerlings vs Luisina Giovannini",
-   "mercado": "ML",
-   "pick": "Ariana Geerlings",
-   "cuota": null,
-   "prob": 0.7255,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-16",
-   "deporte": "futbol",
-   "liga": "CNL",
-   "liga_nombre": "Concacaf Nations League",
-   "local": "Cuba",
-   "visitante": "Grenada",
-   "partido": "Cuba vs Grenada",
-   "mercado": "O/U 2.5",
-   "pick": "O/U 2.5: OVER",
-   "cuota": null,
-   "prob": 0.7009104652827907,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
    "fecha": "2026-11-17",
    "deporte": "futbol",
    "liga": "AMI",
@@ -6311,8 +6326,23 @@
    "mercado": "1X2",
    "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.9400931604020104,
+   "prob": 0.9401129569237328,
    "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-17",
+   "deporte": "futbol",
+   "liga": "AMI",
+   "liga_nombre": "Amistosos Int. (Selecciones)",
+   "local": "Ecuador",
+   "visitante": "Bolivia",
+   "partido": "Ecuador vs Bolivia",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.905531035226134,
+   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -6326,7 +6356,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: 1X",
    "cuota": null,
-   "prob": 0.892038110901934,
+   "prob": 0.8920460061651472,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6356,7 +6386,7 @@
    "mercado": "1X2",
    "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.8699735694108445,
+   "prob": 0.8699679155177054,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -6371,7 +6401,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: 1X",
    "cuota": null,
-   "prob": 0.8468136926079659,
+   "prob": 0.846825578261299,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -6386,7 +6416,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8414936170861823,
+   "prob": 0.8420850264765315,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6401,7 +6431,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8407064055211344,
+   "prob": 0.8408953201475472,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6416,7 +6446,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: X2",
    "cuota": null,
-   "prob": 0.8398985360380467,
+   "prob": 0.839922233151496,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -6431,7 +6461,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8353904292038364,
+   "prob": 0.8354181441907607,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6446,7 +6476,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: X2",
    "cuota": null,
-   "prob": 0.8350615156467815,
+   "prob": 0.8350631558608366,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -6461,7 +6491,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.832346198760972,
+   "prob": 0.8329555155985136,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6476,7 +6506,7 @@
    "mercado": "1X2",
    "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.8314363932818908,
+   "prob": 0.8315205267814294,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -6491,7 +6521,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8291164197413485,
+   "prob": 0.829266377110661,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6506,7 +6536,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8288683107711112,
+   "prob": 0.8290113911793275,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6521,7 +6551,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8276788280641802,
+   "prob": 0.8273212240439048,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6536,7 +6566,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8206273239801517,
+   "prob": 0.8202354877757092,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6551,7 +6581,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: X2",
    "cuota": null,
-   "prob": 0.8164127509593136,
+   "prob": 0.8163863385421994,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -6566,7 +6596,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8108861206150052,
+   "prob": 0.8103684228956949,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6575,28 +6605,13 @@
    "deporte": "futbol",
    "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
-   "local": "Kuwait",
-   "visitante": "Honduras",
-   "partido": "Kuwait vs Honduras",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8094103790676532,
-   "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-17",
-   "deporte": "futbol",
-   "liga": "AFQ",
-   "liga_nombre": "Clasificatoria AFCON",
-   "local": "Sierra Leone",
-   "visitante": "Congo DR",
-   "partido": "Sierra Leone vs Congo DR",
+   "local": "China",
+   "visitante": "Bahrain",
+   "partido": "China vs Bahrain",
    "mercado": "Doble Oportunidad",
-   "pick": "DO: X2",
+   "pick": "DO: 1X",
    "cuota": null,
-   "prob": 0.8088878031510149,
+   "prob": 0.8099890755894841,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   }

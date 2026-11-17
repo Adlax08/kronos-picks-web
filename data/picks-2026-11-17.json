@@ -1,7 +1,7 @@
 {
  "date": "2026-11-17",
- "generated_at": "2026-11-16T00:32:49",
- "sports_total": "66 partidos",
+ "generated_at": "2026-11-16T18:20:47",
+ "sports_total": "64 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -255,8 +255,8 @@
    "date": "2026-11-17",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 10,
-   "message": "10 partidos proyectados",
+   "n": 8,
+   "message": "8 partidos proyectados",
    "picks": [
     {
      "match": "Alicia Herrero Linana vs Lucia Bronzetti",
@@ -275,98 +275,6 @@
     }
    ],
    "predictions": [
-    {
-     "home": "Daniil Medvedev",
-     "away": "Frances Tiafoe",
-     "home_logo": "data/logos/a17ad71b283a1fcf.png",
-     "away_logo": "data/logos/5dbed0bdd29f1b6d.png",
-     "home_flag": "https://a.espncdn.com/i/teamlogos/countries/500/rus.png",
-     "away_flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Nitto ATP Finals, Hard, Ronda: Group Stage, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Daniil Medvedev",
-       "prob": 0.6379,
-       "detail": "Daniil Medvedev 64% · Frances Tiafoe 36%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5006,
-       "detail": "OVER 23.5 · 50% · Proyectado 23.8",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Frances Tiafoe",
-       "prob": 0.5993999999999999,
-       "detail": "Hándicap Sets -1.5 · 40% · (+150)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.6024,
-       "detail": "OVER 9.5 · 60% · Proyectado 10.2",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": false
-    },
-    {
-     "home": "Flavio Cobolli",
-     "away": "Frances Tiafoe",
-     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/7602.png",
-     "away_logo": "data/logos/5dbed0bdd29f1b6d.png",
-     "home_flag": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
-     "away_flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "ATP",
-     "league_label": "ATP Tour",
-     "context": "Nitto ATP Finals, Hard, Ronda: Group Stage, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Frances Tiafoe",
-       "prob": 0.5109,
-       "detail": "Flavio Cobolli 49% · Frances Tiafoe 51%",
-       "strong": false
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5374,
-       "detail": "OVER 23.5 · 54% · Proyectado 24.2",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Frances Tiafoe",
-       "prob": 0.7445999999999999,
-       "detail": "Hándicap Sets -1.5 · 26% · (+292)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.6024,
-       "detail": "OVER 9.5 · 60% · Proyectado 10.0",
-       "strong": false
-      }
-     ],
-     "convergence": false,
-     "momentum_ok": false
-    },
     {
      "home": "Arthur Fils",
      "away": "Rafael Jodar",
@@ -392,7 +300,7 @@
        "label": "Total Juegos O/U",
        "pick": "UNDER",
        "prob": 0.5044,
-       "detail": "UNDER 23.5 · 50% · Proyectado 23.7",
+       "detail": "UNDER 22.5 · 50% · Proyectado 23.7",
        "strong": false
       },
       {
@@ -460,58 +368,12 @@
      "momentum_ok": true
     },
     {
-     "home": "Andrea Lazaro Garcia",
-     "away": "Barbara Gatica",
-     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/4291.png",
-     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/3291.png",
-     "home_flag": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-     "away_flag": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "WTA",
-     "league_label": "WTA Tour",
-     "context": "LP Open by IND, Hard, Ronda: Round 1, BO3",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Ganador del partido",
-       "pick": "Andrea Lazaro Garcia",
-       "prob": 0.6819,
-       "detail": "Andrea Lazaro Garcia 68% · Barbara Gatica 32%",
-       "strong": true
-      },
-      {
-       "label": "Total Juegos O/U",
-       "pick": "UNDER",
-       "prob": 0.5097,
-       "detail": "UNDER 21.5 · 51% · Proyectado 21.9",
-       "strong": false
-      },
-      {
-       "label": "Hándicap Sets",
-       "pick": "Barbara Gatica",
-       "prob": 0.5534,
-       "detail": "Hándicap Sets -1.5 · 45% · (+124)",
-       "strong": false
-      },
-      {
-       "label": "Juegos 1er Set O/U",
-       "pick": "OVER",
-       "prob": 0.5103,
-       "detail": "OVER 9.5 · 51% · Proyectado 9.4",
-       "strong": false
-      }
-     ],
-     "convergence": true,
-     "momentum_ok": true
-    },
-    {
-     "home": "Maria Lourdes Carle",
-     "away": "Veronika Erjavec",
-     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/3220.png",
-     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/5878.png",
+     "home": "Nadia Podoroska",
+     "away": "Varvara Lepchenko",
+     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/3256.png",
+     "away_logo": "data/logos/7afda3f08c235278.png",
      "home_flag": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-     "away_flag": "https://a.espncdn.com/i/teamlogos/countries/500/slo.png",
+     "away_flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
@@ -521,35 +383,35 @@
      "markets": [
       {
        "label": "Ganador del partido",
-       "pick": "Veronika Erjavec",
-       "prob": 0.5177,
-       "detail": "Maria Lourdes Carle 48% · Veronika Erjavec 52%",
+       "pick": "Nadia Podoroska",
+       "prob": 0.5406,
+       "detail": "Nadia Podoroska 54% · Varvara Lepchenko 46%",
        "strong": false
       },
       {
        "label": "Total Juegos O/U",
        "pick": "OVER",
-       "prob": 0.5113,
-       "detail": "OVER 21.5 · 51% · Proyectado 21.9",
+       "prob": 0.5374,
+       "detail": "OVER 19.5 · 54% · Proyectado 21.6",
        "strong": false
       },
       {
        "label": "Hándicap Sets",
-       "pick": "Veronika Erjavec",
-       "prob": 0.7102999999999999,
-       "detail": "Hándicap Sets -1.5 · 29% · (+245)",
+       "pick": "Varvara Lepchenko",
+       "prob": 0.6847,
+       "detail": "Hándicap Sets -1.5 · 32% · (+217)",
        "strong": false
       },
       {
        "label": "Juegos 1er Set O/U",
        "pick": "UNDER",
-       "prob": 0.5026999999999999,
-       "detail": "UNDER 9.5 · 50% · Proyectado 9.4",
+       "prob": 0.503,
+       "detail": "UNDER 9.5 · 50% · Proyectado 9.3",
        "strong": false
       }
      ],
-     "convergence": true,
-     "momentum_ok": false
+     "convergence": false,
+     "momentum_ok": true
     },
     {
      "home": "Alicia Herrero Linana",
@@ -591,6 +453,52 @@
        "pick": "OVER",
        "prob": 0.5011,
        "detail": "OVER 9.5 · 50% · Proyectado 9.3",
+       "strong": false
+      }
+     ],
+     "convergence": true,
+     "momentum_ok": false
+    },
+    {
+     "home": "Maria Lourdes Carle",
+     "away": "Veronika Erjavec",
+     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/3220.png",
+     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/5878.png",
+     "home_flag": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+     "away_flag": "https://a.espncdn.com/i/teamlogos/countries/500/slo.png",
+     "home_abbrev": "",
+     "away_abbrev": "",
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "context": "LP Open by IND, Hard, Ronda: Round 1, BO3",
+     "extra": "",
+     "markets": [
+      {
+       "label": "Ganador del partido",
+       "pick": "Veronika Erjavec",
+       "prob": 0.5177,
+       "detail": "Maria Lourdes Carle 48% · Veronika Erjavec 52%",
+       "strong": false
+      },
+      {
+       "label": "Total Juegos O/U",
+       "pick": "OVER",
+       "prob": 0.5113,
+       "detail": "OVER 21.5 · 51% · Proyectado 21.9",
+       "strong": false
+      },
+      {
+       "label": "Hándicap Sets",
+       "pick": "Veronika Erjavec",
+       "prob": 0.7102999999999999,
+       "detail": "Hándicap Sets -1.5 · 29% · (+245)",
+       "strong": false
+      },
+      {
+       "label": "Juegos 1er Set O/U",
+       "pick": "UNDER",
+       "prob": 0.5026999999999999,
+       "detail": "UNDER 9.5 · 50% · Proyectado 9.4",
        "strong": false
       }
      ],
@@ -644,12 +552,12 @@
      "momentum_ok": false
     },
     {
-     "home": "Nadia Podoroska",
-     "away": "Varvara Lepchenko",
-     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/3256.png",
-     "away_logo": "data/logos/7afda3f08c235278.png",
-     "home_flag": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-     "away_flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+     "home": "Andrea Lazaro Garcia",
+     "away": "Barbara Gatica",
+     "home_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/4291.png",
+     "away_logo": "https://a.espncdn.com/i/headshots/tennis/players/full/3291.png",
+     "home_flag": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+     "away_flag": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png",
      "home_abbrev": "",
      "away_abbrev": "",
      "league_code": "WTA",
@@ -659,34 +567,34 @@
      "markets": [
       {
        "label": "Ganador del partido",
-       "pick": "Nadia Podoroska",
-       "prob": 0.5406,
-       "detail": "Nadia Podoroska 54% · Varvara Lepchenko 46%",
-       "strong": false
+       "pick": "Andrea Lazaro Garcia",
+       "prob": 0.6819,
+       "detail": "Andrea Lazaro Garcia 68% · Barbara Gatica 32%",
+       "strong": true
       },
       {
        "label": "Total Juegos O/U",
-       "pick": "OVER",
-       "prob": 0.5374,
-       "detail": "OVER 19.5 · 54% · Proyectado 21.6",
+       "pick": "UNDER",
+       "prob": 0.5097,
+       "detail": "UNDER 21.5 · 51% · Proyectado 21.9",
        "strong": false
       },
       {
        "label": "Hándicap Sets",
-       "pick": "Varvara Lepchenko",
-       "prob": 0.6847,
-       "detail": "Hándicap Sets -1.5 · 32% · (+217)",
+       "pick": "Barbara Gatica",
+       "prob": 0.5534,
+       "detail": "Hándicap Sets -1.5 · 45% · (+124)",
        "strong": false
       },
       {
        "label": "Juegos 1er Set O/U",
-       "pick": "UNDER",
-       "prob": 0.503,
-       "detail": "UNDER 9.5 · 50% · Proyectado 9.3",
+       "pick": "OVER",
+       "prob": 0.5103,
+       "detail": "OVER 9.5 · 51% · Proyectado 9.4",
        "strong": false
       }
      ],
-     "convergence": false,
+     "convergence": true,
      "momentum_ok": true
     },
     {
@@ -736,11 +644,11 @@
      "momentum_ok": true
     }
    ],
-   "elapsed_s": 22.2,
+   "elapsed_s": 18.2,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true,
-   "picks_total_brutos": 4,
+   "picks_total_brutos": 3,
    "picks_policy": {
     "mercados_excluidos": [
      "HANDICAP JUEGOS",
@@ -751,7 +659,7 @@
      "WTA": 0.7
     },
     "conservados": 1,
-    "descartados": 3
+    "descartados": 2
    }
   },
   "futbol": {
@@ -766,7 +674,7 @@
      "match": "Argentina vs Costa Rica",
      "market": "1X2",
      "pick": "1X2: HOME (1)",
-     "prob": 0.9400931604020104,
+     "prob": 0.9401129569237328,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=70%",
@@ -774,10 +682,21 @@
      "league_label": "Amistosos Int. (Selecciones)"
     },
     {
+     "match": "Ecuador vs Bolivia",
+     "market": "Doble Oportunidad",
+     "pick": "DO: 1X",
+     "prob": 0.905531035226134,
+     "tier": "MUY BUENO",
+     "units": "1.5",
+     "note": ">=85%",
+     "league_code": "AMI",
+     "league_label": "Amistosos Int. (Selecciones)"
+    },
+    {
      "match": "Lebanon vs Palestine",
      "market": "Doble Oportunidad",
      "pick": "DO: 1X",
-     "prob": 0.892038110901934,
+     "prob": 0.8920460061651472,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=85%",
@@ -788,7 +707,7 @@
      "match": "Tahiti vs Cook Islands",
      "market": "1X2",
      "pick": "1X2: HOME (1)",
-     "prob": 0.8699735694108445,
+     "prob": 0.8699679155177054,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=70%",
@@ -799,7 +718,7 @@
      "match": "Japan vs Paraguay",
      "market": "Doble Oportunidad",
      "pick": "DO: 1X",
-     "prob": 0.8468136926079659,
+     "prob": 0.846825578261299,
      "tier": "BUENO",
      "units": "1.0",
      "note": ">=80%",
@@ -810,7 +729,7 @@
      "match": "Belize vs Sint Maarten",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8414936170861823,
+     "prob": 0.8420850264765315,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -821,7 +740,7 @@
      "match": "Kyrgyz Republic vs Vietnam",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8407064055211344,
+     "prob": 0.8408953201475472,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -832,7 +751,7 @@
      "match": "Malawi vs Egypt",
      "market": "Doble Oportunidad",
      "pick": "DO: X2",
-     "prob": 0.8398985360380467,
+     "prob": 0.839922233151496,
      "tier": "BUENO",
      "units": "1.0",
      "note": ">=80%",
@@ -843,7 +762,7 @@
      "match": "Bosnia-Herzegovina vs Romania",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8353904292038364,
+     "prob": 0.8354181441907607,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -854,7 +773,7 @@
      "match": "Wales vs Portugal",
      "market": "Doble Oportunidad",
      "pick": "DO: X2",
-     "prob": 0.8350615156467815,
+     "prob": 0.8350631558608366,
      "tier": "BUENO",
      "units": "1.0",
      "note": ">=80%",
@@ -865,7 +784,7 @@
      "match": "French Guiana vs St. Vincent and the Grenadines",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.832346198760972,
+     "prob": 0.8329555155985136,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -876,7 +795,7 @@
      "match": "United Arab Emirates vs Syria",
      "market": "1X2",
      "pick": "1X2: HOME (1)",
-     "prob": 0.8314363932818908,
+     "prob": 0.8315205267814294,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=70%",
@@ -887,7 +806,7 @@
      "match": "Uruguay vs Dominican Republic",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8291164197413485,
+     "prob": 0.829266377110661,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -898,7 +817,7 @@
      "match": "Saudi Arabia vs Uzbekistan",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8288683107711112,
+     "prob": 0.8290113911793275,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -909,7 +828,7 @@
      "match": "Niger vs Morocco",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8276788280641802,
+     "prob": 0.8273212240439048,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -920,7 +839,7 @@
      "match": "Togo vs Algeria",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8206273239801517,
+     "prob": 0.8202354877757092,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -931,7 +850,7 @@
      "match": "Tanzania vs Nigeria",
      "market": "Doble Oportunidad",
      "pick": "DO: X2",
-     "prob": 0.8164127509593136,
+     "prob": 0.8163863385421994,
      "tier": "BUENO",
      "units": "1.0",
      "note": ">=80%",
@@ -942,7 +861,7 @@
      "match": "Ethiopia vs Mozambique",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8108861206150052,
+     "prob": 0.8103684228956949,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -950,10 +869,21 @@
      "league_label": "Clasificatoria AFCON"
     },
     {
+     "match": "China vs Bahrain",
+     "market": "Doble Oportunidad",
+     "pick": "DO: 1X",
+     "prob": 0.8099890755894841,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": ">=80%",
+     "league_code": "AMI",
+     "league_label": "Amistosos Int. (Selecciones)"
+    },
+    {
      "match": "Kuwait vs Honduras",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8094103790676532,
+     "prob": 0.8095972186225378,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -964,7 +894,7 @@
      "match": "Sierra Leone vs Congo DR",
      "market": "Doble Oportunidad",
      "pick": "DO: X2",
-     "prob": 0.8088878031510149,
+     "prob": 0.8089067374232399,
      "tier": "BUENO",
      "units": "1.0",
      "note": ">=80%",
@@ -975,7 +905,7 @@
      "match": "El Salvador vs St. Martin",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.8071943247969364,
+     "prob": 0.8079251135879271,
      "tier": "MUY BUENO",
      "units": "1.5",
      "note": ">=80%",
@@ -983,10 +913,21 @@
      "league_label": "Concacaf Nations League"
     },
     {
+     "match": "Libya vs Tunisia",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.7968573431617917,
+     "tier": "BUENO",
+     "units": "1.0",
+     "note": ">=75%",
+     "league_code": "AFQ",
+     "league_label": "Clasificatoria AFCON"
+    },
+    {
      "match": "St. Kitts and Nevis vs Bonaire",
      "market": "O/U 2.5",
      "pick": "O/U 2.5: OVER",
-     "prob": 0.7916612399266294,
+     "prob": 0.7921654261344397,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=70%",
@@ -997,7 +938,7 @@
      "match": "Israel vs Austria",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.7888074028928153,
+     "prob": 0.7888756641386896,
      "tier": "BUENO",
      "units": "1.0",
      "note": ">=75%",
@@ -1008,7 +949,7 @@
      "match": "Nicaragua vs Montserrat",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.7875251667221823,
+     "prob": 0.7882943684944194,
      "tier": "BUENO",
      "units": "1.0",
      "note": ">=75%",
@@ -1019,7 +960,7 @@
      "match": "Republic of Ireland vs Kosovo",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.7780380295195533,
+     "prob": 0.7781047792725072,
      "tier": "BUENO",
      "units": "1.0",
      "note": ">=75%",
@@ -1027,54 +968,21 @@
      "league_label": "UEFA Nations League"
     },
     {
-     "match": "China vs Bahrain",
-     "market": "O/U 1.5",
-     "pick": "O/U 1.5: OVER",
-     "prob": 0.7631326584493103,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=75%",
-     "league_code": "AMI",
-     "league_label": "Amistosos Int. (Selecciones)"
-    },
-    {
      "match": "Jordan vs Australia",
      "market": "O/U 1.5",
      "pick": "O/U 1.5: OVER",
-     "prob": 0.7583217841301588,
+     "prob": 0.7585340992410441,
      "tier": "BUENO",
      "units": "1.0",
      "note": ">=75%",
      "league_code": "AMI",
      "league_label": "Amistosos Int. (Selecciones)"
-    },
-    {
-     "match": "Ecuador vs Bolivia",
-     "market": "1X2",
-     "pick": "1X2: HOME (1)",
-     "prob": 0.7582249188693377,
-     "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=70%",
-     "league_code": "AMI",
-     "league_label": "Amistosos Int. (Selecciones)"
-    },
-    {
-     "match": "Guinea-Bissau vs Madagascar",
-     "market": "O/U 1.5",
-     "pick": "O/U 1.5: OVER",
-     "prob": 0.7542602211131935,
-     "tier": "BUENO",
-     "units": "1.0",
-     "note": ">=75%",
-     "league_code": "AFQ",
-     "league_label": "Clasificatoria AFCON"
     },
     {
      "match": "Russia vs Venezuela",
      "market": "1X2",
      "pick": "1X2: HOME (1)",
-     "prob": 0.7343298802598079,
+     "prob": 0.7489080177270141,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=70%",
@@ -1085,7 +993,7 @@
      "match": "St. Lucia vs Barbados",
      "market": "O/U 2.5",
      "pick": "O/U 2.5: OVER",
-     "prob": 0.7318715803128624,
+     "prob": 0.7323646901888157,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=70%",
@@ -1096,7 +1004,7 @@
      "match": "United States vs Haiti",
      "market": "O/U 2.5",
      "pick": "O/U 2.5: OVER",
-     "prob": 0.7242454492913903,
+     "prob": 0.724963435226518,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=70%",
@@ -1107,7 +1015,7 @@
      "match": "Congo vs Comoros",
      "market": "O/U 2.5",
      "pick": "O/U 2.5: UNDER",
-     "prob": 0.705021629428535,
+     "prob": 0.7051389672070925,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=70%",
@@ -1118,7 +1026,7 @@
      "match": "Malaysia vs Yemen",
      "market": "O/U 2.5",
      "pick": "O/U 2.5: OVER",
-     "prob": 0.7025973467773924,
+     "prob": 0.7027621168171664,
      "tier": "TOP PICK",
      "units": "2.0",
      "note": ">=70%",
@@ -1142,7 +1050,7 @@
       {
        "label": "1X2",
        "pick": "Tahiti",
-       "prob": 0.8699735694108445,
+       "prob": 0.8699679155177054,
        "detail": "Local 87% · Empate 10% · Visitante 3%",
        "strong": true
       },
@@ -1156,22 +1064,22 @@
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6886155112803413,
+       "prob": 0.6886184110225174,
        "detail": "OVER 2.5 goles · 69%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8815782231050634,
+       "prob": 0.8779337174728077,
        "detail": "OVER 1.5 goles · 88%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
-       "pick": "SÍ",
-       "prob": 0.500789691838549,
-       "detail": "BTTS Sí 50%",
+       "pick": "NO",
+       "prob": 0.5153607703999139,
+       "detail": "BTTS Sí 48%",
        "strong": false
       },
       {
@@ -1184,7 +1092,7 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.9931722094135953,
+       "prob": 0.9931580746807473,
        "detail": "Línea -0.5 · HOME 99%",
        "strong": true
       },
@@ -1214,36 +1122,36 @@
       {
        "label": "1X2",
        "pick": "Yemen",
-       "prob": 0.4062039410055207,
-       "detail": "Local 40% · Empate 20% · Visitante 41%",
+       "prob": 0.4033751113837982,
+       "detail": "Local 40% · Empate 20% · Visitante 40%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.8048958225398405,
-       "detail": "1X 59% · X2 60% · 12 80%",
+       "prob": 0.8049797661857699,
+       "detail": "1X 60% · X2 60% · 12 80%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.7025973467773924,
+       "prob": 0.7027621168171664,
        "detail": "OVER 2.5 goles · 70%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8506842882440862,
+       "prob": 0.8507536945473181,
        "detail": "OVER 1.5 goles · 85%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6019307601023116,
-       "detail": "BTTS Sí 60%",
+       "prob": 0.5856716818241606,
+       "detail": "BTTS Sí 59%",
        "strong": false
       },
       {
@@ -1256,14 +1164,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.880670745117499,
+       "prob": 0.8809124818467807,
        "detail": "Línea +1.5 · AWAY 88%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE OVER",
-       "prob": 0.735186951052418,
+       "prob": 0.735832861677369,
        "detail": "VISITANTE OVER 1.5 goles 74%",
        "strong": false
       }
@@ -1286,36 +1194,36 @@
       {
        "label": "1X2",
        "pick": "Brazil",
-       "prob": 0.49029350683170014,
+       "prob": 0.48791852939609237,
        "detail": "Local 26% · Empate 25% · Visitante 49%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7477277296238303,
+       "prob": 0.7528533369798318,
        "detail": "1X 51% · X2 74% · 12 75%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6769575923475242,
+       "prob": 0.677188948717286,
        "detail": "OVER 2.5 goles · 68%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8422342003506238,
+       "prob": 0.8423210438053385,
        "detail": "OVER 1.5 goles · 84%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6385952458795865,
-       "detail": "BTTS Sí 64%",
+       "prob": 0.6275390201739396,
+       "detail": "BTTS Sí 63%",
        "strong": false
       },
       {
@@ -1328,14 +1236,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.818773987025681,
+       "prob": 0.8186807873486347,
        "detail": "Línea +1.5 · AWAY 82%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE OVER",
-       "prob": 0.7406987217820742,
+       "prob": 0.7413401546889442,
        "detail": "VISITANTE OVER 1.5 goles 74%",
        "strong": false
       }
@@ -1358,35 +1266,35 @@
       {
        "label": "1X2",
        "pick": "China",
-       "prob": 0.5274820308595721,
-       "detail": "Local 53% · Empate 25% · Visitante 22%",
+       "prob": 0.5561741787536804,
+       "detail": "Local 56% · Empate 25% · Visitante 19%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.7814001534043269,
-       "detail": "1X 78% · X2 47% · 12 75%",
+       "prob": 0.8099890755894841,
+       "detail": "1X 81% · X2 44% · 12 75%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5250740264776423,
+       "prob": 0.5254109197910917,
        "detail": "OVER 2.5 goles · 53%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7631326584493103,
+       "prob": 0.7633879859058847,
        "detail": "OVER 1.5 goles · 76%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5153647116305498,
+       "prob": 0.5185788255723713,
        "detail": "BTTS Sí 48%",
        "strong": false
       },
@@ -1400,14 +1308,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.624213716685498,
+       "prob": 0.6244992219786414,
        "detail": "Línea -0.5 · HOME 62%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.8290555892979736,
+       "prob": 0.8287162023604783,
        "detail": "VISITANTE UNDER 1.5 goles 83%",
        "strong": false
       }
@@ -1430,35 +1338,35 @@
       {
        "label": "1X2",
        "pick": "Kyrgyz Republic",
-       "prob": 0.5790912613759018,
-       "detail": "Local 58% · Empate 19% · Visitante 23%",
+       "prob": 0.5872351653154502,
+       "detail": "Local 59% · Empate 19% · Visitante 22%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.8066733240339996,
-       "detail": "1X 77% · X2 42% · 12 81%",
+       "prob": 0.8067684878348734,
+       "detail": "1X 78% · X2 41% · 12 81%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5973324032142757,
+       "prob": 0.5976694259989372,
        "detail": "OVER 2.5 goles · 60%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8407064055211344,
+       "prob": 0.8408953201475472,
        "detail": "OVER 1.5 goles · 84%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5874282940096613,
+       "prob": 0.5871987276175423,
        "detail": "BTTS Sí 41%",
        "strong": false
       },
@@ -1472,14 +1380,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.7129076834409472,
+       "prob": 0.7131944505890886,
        "detail": "Línea -0.5 · HOME 71%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.7671064312684714,
+       "prob": 0.7666734016077361,
        "detail": "VISITANTE UNDER 1.5 goles 77%",
        "strong": false
       }
@@ -1502,36 +1410,36 @@
       {
        "label": "1X2",
        "pick": "Lebanon",
-       "prob": 0.6205202427364331,
+       "prob": 0.6206718692447762,
        "detail": "Local 62% · Empate 27% · Visitante 11%",
        "strong": true
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.892038110901934,
+       "prob": 0.8920460061651472,
        "detail": "1X 89% · X2 38% · 12 73%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5734543492531823,
+       "prob": 0.5732405102730007,
        "detail": "UNDER 2.5 goles · 43%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.6692820920925302,
+       "prob": 0.6695507963851155,
        "detail": "OVER 1.5 goles · 67%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.6229543374175694,
-       "detail": "BTTS Sí 38%",
+       "prob": 0.6262883519094853,
+       "detail": "BTTS Sí 37%",
        "strong": false
       },
       {
@@ -1544,14 +1452,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.6615026728691702,
+       "prob": 0.661881739140028,
        "detail": "Línea -0.5 · HOME 66%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.9775188152632225,
+       "prob": 0.9774650476660884,
        "detail": "VISITANTE UNDER 1.5 goles 98%",
        "strong": false
       }
@@ -1574,35 +1482,35 @@
       {
        "label": "1X2",
        "pick": "Japan",
-       "prob": 0.5832676540502402,
+       "prob": 0.5833808508376691,
        "detail": "Local 58% · Empate 26% · Visitante 15%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.8468136926079659,
+       "prob": 0.846825578261299,
        "detail": "1X 85% · X2 42% · 12 74%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5579276814071965,
+       "prob": 0.5582705962777024,
        "detail": "OVER 2.5 goles · 56%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7946602891033204,
+       "prob": 0.794905706487699,
        "detail": "OVER 1.5 goles · 79%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5243206542694262,
+       "prob": 0.516744921242108,
        "detail": "BTTS Sí 52%",
        "strong": false
       },
@@ -1616,14 +1524,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.6318308079839364,
+       "prob": 0.6321137999525086,
        "detail": "Línea -0.5 · HOME 63%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.8114055039760276,
+       "prob": 0.8110380343328806,
        "detail": "VISITANTE UNDER 1.5 goles 81%",
        "strong": false
       }
@@ -1646,35 +1554,35 @@
       {
        "label": "1X2",
        "pick": "South Korea",
-       "prob": 0.5563325841381958,
+       "prob": 0.5564555901917899,
        "detail": "Local 20% · Empate 24% · Visitante 56%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7971538795026651,
+       "prob": 0.7971651247464574,
        "detail": "1X 44% · X2 80% · 12 76%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.503865579884132,
+       "prob": 0.5035554057999434,
        "detail": "UNDER 2.5 goles · 50%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7459870795280235,
+       "prob": 0.7462608546015931,
        "detail": "OVER 1.5 goles · 75%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5412517323014838,
+       "prob": 0.5444910727824938,
        "detail": "BTTS Sí 46%",
        "strong": false
       },
@@ -1682,20 +1590,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 2.53",
+       "detail": "Goles esperados 2.54",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9724583478335359,
+       "prob": 0.9724402953021697,
        "detail": "Línea +1.5 · AWAY 97%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.8891757035476722,
+       "prob": 0.888940689454652,
        "detail": "LOCAL UNDER 1.5 goles 89%",
        "strong": false
       }
@@ -1718,36 +1626,36 @@
       {
        "label": "1X2",
        "pick": "United Arab Emirates",
-       "prob": 0.8314363932818908,
+       "prob": 0.8315205267814294,
        "detail": "Local 83% · Empate 11% · Visitante 6%",
        "strong": true
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.9438190546700534,
+       "prob": 0.9382345369301331,
        "detail": "1X 94% · X2 17% · 12 89%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6176634815350754,
+       "prob": 0.6180009937884436,
        "detail": "OVER 2.5 goles · 62%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8216094162331966,
+       "prob": 0.821805058116823,
        "detail": "OVER 1.5 goles · 82%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.6266191811902861,
-       "detail": "BTTS Sí 37%",
+       "prob": 0.6380583083498808,
+       "detail": "BTTS Sí 36%",
        "strong": false
       },
       {
@@ -1760,14 +1668,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.927109829661661,
+       "prob": 0.9273201634105077,
        "detail": "Línea -0.5 · HOME 93%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.980511222350032,
+       "prob": 0.9804643373221475,
        "detail": "VISITANTE UNDER 1.5 goles 98%",
        "strong": false
       }
@@ -1790,35 +1698,35 @@
       {
        "label": "1X2",
        "pick": "Saudi Arabia",
-       "prob": 0.520124344359496,
+       "prob": 0.5201927476093231,
        "detail": "Local 52% · Empate 22% · Visitante 26%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7768906452267903,
+       "prob": 0.7769705806810416,
        "detail": "1X 74% · X2 48% · 12 78%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6054443016661228,
+       "prob": 0.6057483322213076,
        "detail": "OVER 2.5 goles · 61%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8288683107711112,
+       "prob": 0.8290113911793275,
        "detail": "OVER 1.5 goles · 83%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5851603378970833,
+       "prob": 0.5853930414362948,
        "detail": "BTTS Sí 59%",
        "strong": false
       },
@@ -1832,14 +1740,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.6941661439161911,
+       "prob": 0.6939159003162554,
        "detail": "Línea +1.5 · AWAY 69%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.6607206801827215,
+       "prob": 0.661408317811215,
        "detail": "LOCAL OVER 1.5 goles 66%",
        "strong": false
       }
@@ -1862,35 +1770,35 @@
       {
        "label": "1X2",
        "pick": "Australia",
-       "prob": 0.5441526671581715,
+       "prob": 0.5442470606210787,
        "detail": "Local 21% · Empate 25% · Visitante 54%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7935702118045578,
+       "prob": 0.7935728887814515,
        "detail": "1X 46% · X2 79% · 12 75%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5487933988498226,
+       "prob": 0.549139265903098,
        "detail": "OVER 2.5 goles · 55%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7583217841301588,
+       "prob": 0.7585340992410441,
        "detail": "OVER 1.5 goles · 76%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5231672587426958,
+       "prob": 0.5234170825893123,
        "detail": "BTTS Sí 52%",
        "strong": false
       },
@@ -1904,14 +1812,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9208240674905975,
+       "prob": 0.9207785102888341,
        "detail": "Línea +1.5 · AWAY 92%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.687361119873497,
+       "prob": 0.6868275362893806,
        "detail": "LOCAL UNDER 1.5 goles 69%",
        "strong": false
       }
@@ -1934,36 +1842,36 @@
       {
        "label": "1X2",
        "pick": "Russia",
-       "prob": 0.7343298802598079,
-       "detail": "Local 73% · Empate 24% · Visitante 3%",
+       "prob": 0.7489080177270141,
+       "detail": "Local 75% · Empate 23% · Visitante 2%",
        "strong": true
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
        "prob": 0.95,
-       "detail": "1X 95% · X2 27% · 12 76%",
+       "detail": "1X 95% · X2 25% · 12 77%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5128832597778834,
+       "prob": 0.5125636511367722,
        "detail": "UNDER 2.5 goles · 49%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7402310666803817,
+       "prob": 0.740501339309985,
        "detail": "OVER 1.5 goles · 74%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.6056941711056087,
-       "detail": "BTTS Sí 39%",
+       "prob": 0.6218714249488531,
+       "detail": "BTTS Sí 38%",
        "strong": false
       },
       {
@@ -1976,14 +1884,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.7507925979207876,
+       "prob": 0.7511268304776922,
        "detail": "Línea -0.5 · HOME 75%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.9454102807365968,
+       "prob": 0.9452861917591018,
        "detail": "VISITANTE UNDER 1.5 goles 95%",
        "strong": false
       }
@@ -2006,35 +1914,35 @@
       {
        "label": "1X2",
        "pick": "Iran",
-       "prob": 0.48489640883043483,
-       "detail": "Local 25% · Empate 27% · Visitante 48%",
+       "prob": 0.4808124259860067,
+       "detail": "Local 26% · Empate 26% · Visitante 48%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7504077393019806,
-       "detail": "1X 52% · X2 75% · 12 73%",
+       "prob": 0.7446489596463091,
+       "detail": "1X 52% · X2 74% · 12 74%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5411280049257204,
+       "prob": 0.5408004761637595,
        "detail": "UNDER 2.5 goles · 46%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.6988912154154805,
+       "prob": 0.6991558268400818,
        "detail": "OVER 1.5 goles · 70%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.556968232285969,
+       "prob": 0.5567569085704955,
        "detail": "BTTS Sí 44%",
        "strong": false
       },
@@ -2048,14 +1956,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9711298901264399,
+       "prob": 0.9711141411548793,
        "detail": "Línea +1.5 · AWAY 97%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.8723333565942293,
+       "prob": 0.8720677053798025,
        "detail": "LOCAL UNDER 1.5 goles 87%",
        "strong": false
       }
@@ -2078,36 +1986,36 @@
       {
        "label": "1X2",
        "pick": "Kuwait",
-       "prob": 0.5418349070982242,
-       "detail": "Local 54% · Empate 27% · Visitante 19%",
+       "prob": 0.5425311789264219,
+       "detail": "Local 54% · Empate 26% · Visitante 19%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.8076414966334748,
-       "detail": "1X 81% · X2 46% · 12 73%",
+       "prob": 0.8063361454818923,
+       "detail": "1X 81% · X2 46% · 12 74%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5495750028334199,
+       "prob": 0.5499115894536215,
        "detail": "OVER 2.5 goles · 55%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8094103790676532,
+       "prob": 0.8095972186225378,
        "detail": "OVER 1.5 goles · 81%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5567009433483638,
-       "detail": "BTTS Sí 56%",
+       "prob": 0.5535024912529183,
+       "detail": "BTTS Sí 55%",
        "strong": false
       },
       {
@@ -2120,14 +2028,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.6117266095359944,
+       "prob": 0.6113621394237809,
        "detail": "Línea +1.5 · AWAY 61%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.6634240570443813,
+       "prob": 0.6628646736418752,
        "detail": "VISITANTE UNDER 1.5 goles 66%",
        "strong": false
       }
@@ -2150,7 +2058,7 @@
       {
        "label": "1X2",
        "pick": "Argentina",
-       "prob": 0.9400931604020104,
+       "prob": 0.9401129569237328,
        "detail": "Local 94% · Empate 6% · Visitante 0%",
        "strong": true
       },
@@ -2164,21 +2072,21 @@
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.7536031255458723,
+       "prob": 0.7536583429704222,
        "detail": "OVER 2.5 goles · 75%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8963749964115911,
+       "prob": 0.8963885473373105,
        "detail": "OVER 1.5 goles · 90%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5006731436487191,
+       "prob": 0.50086189858271,
        "detail": "BTTS Sí 50%",
        "strong": false
       },
@@ -2192,14 +2100,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.9825312986785864,
+       "prob": 0.9825957559097993,
        "detail": "Línea -0.5 · HOME 98%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.9912479634950484,
+       "prob": 0.9913146428895838,
        "detail": "LOCAL OVER 1.5 goles 99%",
        "strong": false
       }
@@ -2222,35 +2130,35 @@
       {
        "label": "1X2",
        "pick": "Colombia",
-       "prob": 0.4097260869344543,
+       "prob": 0.4097923177083308,
        "detail": "Local 32% · Empate 27% · Visitante 41%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.729700359427996,
+       "prob": 0.7297911844590476,
        "detail": "1X 59% · X2 68% · 12 73%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5032245280833139,
+       "prob": 0.5035624756034587,
        "detail": "OVER 2.5 goles · 50%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7427235089707823,
+       "prob": 0.7429766035574936,
        "detail": "OVER 1.5 goles · 74%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5320131881665084,
+       "prob": 0.5322722351120104,
        "detail": "BTTS Sí 53%",
        "strong": false
       },
@@ -2264,14 +2172,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.880290344770585,
+       "prob": 0.8801805170765392,
        "detail": "Línea +1.5 · AWAY 88%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.6798598156146825,
+       "prob": 0.6793179277233816,
        "detail": "LOCAL UNDER 1.5 goles 68%",
        "strong": false
       }
@@ -2294,35 +2202,35 @@
       {
        "label": "1X2",
        "pick": "Ecuador",
-       "prob": 0.7582249188693377,
-       "detail": "Local 76% · Empate 13% · Visitante 11%",
+       "prob": 0.7725972383778199,
+       "detail": "Local 77% · Empate 13% · Visitante 9%",
        "strong": true
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.8912647338958021,
-       "detail": "1X 89% · X2 24% · 12 87%",
+       "prob": 0.905531035226134,
+       "detail": "1X 91% · X2 23% · 12 87%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5607083334190243,
+       "prob": 0.561049962946826,
        "detail": "OVER 2.5 goles · 56%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8076777417455314,
+       "prob": 0.807928644804536,
        "detail": "OVER 1.5 goles · 81%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5734760361554714,
+       "prob": 0.5733755425107357,
        "detail": "BTTS Sí 43%",
        "strong": false
       },
@@ -2330,20 +2238,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 2.93",
+       "detail": "Goles esperados 2.94",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.8674141490251961,
+       "prob": 0.8677046276914548,
        "detail": "Línea -0.5 · HOME 87%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.9802201017639405,
+       "prob": 0.9801725442507834,
        "detail": "VISITANTE UNDER 1.5 goles 98%",
        "strong": false
       }
@@ -2366,36 +2274,36 @@
       {
        "label": "1X2",
        "pick": "Uruguay",
-       "prob": 0.47834201100463014,
+       "prob": 0.48099056487443304,
        "detail": "Local 48% · Empate 23% · Visitante 29%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7694740539269458,
+       "prob": 0.772024909963855,
        "detail": "1X 71% · X2 52% · 12 77%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5903614035941985,
+       "prob": 0.5906716171042498,
        "detail": "OVER 2.5 goles · 59%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8291164197413485,
+       "prob": 0.829266377110661,
        "detail": "OVER 1.5 goles · 83%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6119758557400612,
-       "detail": "BTTS Sí 61%",
+       "prob": 0.6044028655046483,
+       "detail": "BTTS Sí 60%",
        "strong": false
       },
       {
@@ -2408,14 +2316,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.6283234991882705,
+       "prob": 0.6280033379474161,
        "detail": "Línea +1.5 · AWAY 63%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.6932742249706404,
+       "prob": 0.6939477289707889,
        "detail": "LOCAL OVER 1.5 goles 69%",
        "strong": false
       }
@@ -2438,35 +2346,35 @@
       {
        "label": "1X2",
        "pick": "Bosnia-Herzegovina",
-       "prob": 0.4889162412797326,
+       "prob": 0.48894474063376203,
        "detail": "Local 49% · Empate 25% · Visitante 26%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7518644446347886,
+       "prob": 0.7518875626145984,
        "detail": "1X 74% · X2 51% · 12 75%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6069019870033837,
+       "prob": 0.6069738610692115,
        "detail": "OVER 2.5 goles · 61%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8353904292038364,
+       "prob": 0.8354181441907607,
        "detail": "OVER 1.5 goles · 84%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6111020295620739,
+       "prob": 0.6111640094497168,
        "detail": "BTTS Sí 61%",
        "strong": false
       },
@@ -2480,14 +2388,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.6515968936167331,
+       "prob": 0.6516681420018068,
        "detail": "Línea -0.5 · HOME 65%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.8125481901198746,
+       "prob": 0.8127179773040524,
        "detail": "LOCAL OVER 1.5 goles 81%",
        "strong": false
       }
@@ -2510,35 +2418,35 @@
       {
        "label": "1X2",
        "pick": "Denmark",
-       "prob": 0.5103704587754003,
+       "prob": 0.5103961588548327,
        "detail": "Local 51% · Empate 20% · Visitante 29%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7979599440600189,
+       "prob": 0.7979806841467046,
        "detail": "1X 71% · X2 49% · 12 80%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6530445685121716,
+       "prob": 0.6531011454386195,
        "detail": "OVER 2.5 goles · 65%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8434383399473446,
+       "prob": 0.8434573255142483,
        "detail": "OVER 1.5 goles · 84%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6447231440775356,
+       "prob": 0.6447772917951881,
        "detail": "BTTS Sí 64%",
        "strong": false
       },
@@ -2546,20 +2454,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 3.71",
+       "detail": "Goles esperados 3.72",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.6291557319451947,
+       "prob": 0.6292199821437748,
        "detail": "Línea -0.5 · HOME 63%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.8446427100591506,
+       "prob": 0.8447974869787944,
        "detail": "LOCAL OVER 1.5 goles 84%",
        "strong": false
       }
@@ -2582,35 +2490,35 @@
       {
        "label": "1X2",
        "pick": "Northern Ireland",
-       "prob": 0.3942733469571925,
+       "prob": 0.39428816800869904,
        "detail": "Local 31% · Empate 29% · Visitante 39%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7085379234024203,
+       "prob": 0.7085663099226376,
        "detail": "1X 61% · X2 69% · 12 71%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5876233076473191,
+       "prob": 0.58753262895172,
        "detail": "UNDER 2.5 goles · 41%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.6995280039428505,
+       "prob": 0.6996113815043036,
        "detail": "OVER 1.5 goles · 70%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.523501829205236,
+       "prob": 0.5234267373011743,
        "detail": "BTTS Sí 48%",
        "strong": false
       },
@@ -2624,14 +2532,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8640662086356844,
+       "prob": 0.8640194399264327,
        "detail": "Línea +1.5 · AWAY 86%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.7108038970413845,
+       "prob": 0.7106511615854856,
        "detail": "LOCAL UNDER 1.5 goles 71%",
        "strong": false
       }
@@ -2654,35 +2562,35 @@
       {
        "label": "1X2",
        "pick": "Austria",
-       "prob": 0.5365815480474192,
+       "prob": 0.5366073648234999,
        "detail": "Local 22% · Empate 24% · Visitante 54%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7799899798035766,
+       "prob": 0.7799882990420088,
        "detail": "1X 46% · X2 78% · 12 76%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5412281648308759,
+       "prob": 0.5413328895909757,
        "detail": "OVER 2.5 goles · 54%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7888074028928153,
+       "prob": 0.7888756641386896,
        "detail": "OVER 1.5 goles · 79%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.518130327051874,
+       "prob": 0.5182071328002023,
        "detail": "BTTS Sí 52%",
        "strong": false
       },
@@ -2696,14 +2604,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9071306875657514,
+       "prob": 0.9071111368890359,
        "detail": "Línea +1.5 · AWAY 91%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.680758095348903,
+       "prob": 0.6805949302912335,
        "detail": "LOCAL UNDER 1.5 goles 68%",
        "strong": false
       }
@@ -2726,35 +2634,35 @@
       {
        "label": "1X2",
        "pick": "Sweden",
-       "prob": 0.4332315004670513,
+       "prob": 0.43322806778749184,
        "detail": "Local 36% · Empate 20% · Visitante 43%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7978944836005663,
+       "prob": 0.7979117979231798,
        "detail": "1X 57% · X2 64% · 12 80%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6812485299211254,
+       "prob": 0.6812851538768419,
        "detail": "OVER 2.5 goles · 68%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.86158031401765,
+       "prob": 0.8615904623267439,
        "detail": "OVER 1.5 goles · 86%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6446053007568522,
+       "prob": 0.6446467754007013,
        "detail": "BTTS Sí 64%",
        "strong": false
       },
@@ -2768,14 +2676,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.5865928165926754,
+       "prob": 0.5866446840981084,
        "detail": "Línea -0.5 · HOME 59%",
        "strong": false
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.8806241748114134,
+       "prob": 0.8807580697196995,
        "detail": "LOCAL OVER 1.5 goles 88%",
        "strong": false
       }
@@ -2798,35 +2706,35 @@
       {
        "label": "1X2",
        "pick": "Republic of Ireland",
-       "prob": 0.4471414672760297,
+       "prob": 0.4471691617536349,
        "detail": "Local 45% · Empate 24% · Visitante 31%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7618564343472187,
+       "prob": 0.7618841910619508,
        "detail": "1X 69% · X2 55% · 12 76%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5004526596361716,
+       "prob": 0.5003479518475864,
        "detail": "UNDER 2.5 goles · 50%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7780380295195533,
+       "prob": 0.7781047792725072,
        "detail": "OVER 1.5 goles · 78%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5183812709041542,
+       "prob": 0.5184572356440476,
        "detail": "BTTS Sí 52%",
        "strong": false
       },
@@ -2834,20 +2742,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 2.77",
+       "detail": "Goles esperados 2.78",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.6726442661290033,
+       "prob": 0.6725444138769288,
        "detail": "Línea +1.5 · AWAY 67%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.6924131084618691,
+       "prob": 0.6922538749007319,
        "detail": "VISITANTE UNDER 1.5 goles 69%",
        "strong": false
       }
@@ -2870,35 +2778,35 @@
       {
        "label": "1X2",
        "pick": "Georgia",
-       "prob": 0.4210331135445536,
+       "prob": 0.4210621211022088,
        "detail": "Local 30% · Empate 27% · Visitante 42%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7252240767635761,
+       "prob": 0.725253193776018,
        "detail": "1X 58% · X2 70% · 12 73%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5154852933144141,
+       "prob": 0.5153829038688965,
        "detail": "UNDER 2.5 goles · 48%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7499137391915609,
+       "prob": 0.7499896383811928,
        "detail": "OVER 1.5 goles · 75%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5016492088230163,
+       "prob": 0.5015745780152033,
        "detail": "BTTS Sí 50%",
        "strong": false
       },
@@ -2912,14 +2820,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9309407729396366,
+       "prob": 0.9309255688744663,
        "detail": "Línea +1.5 · AWAY 93%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.7598740867152021,
+       "prob": 0.7597404458307594,
        "detail": "LOCAL UNDER 1.5 goles 76%",
        "strong": false
       }
@@ -2942,35 +2850,35 @@
       {
        "label": "1X2",
        "pick": "Portugal",
-       "prob": 0.5918178785331651,
+       "prob": 0.5918519954149213,
        "detail": "Local 16% · Empate 24% · Visitante 59%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.8350615156467815,
+       "prob": 0.8350631558608366,
        "detail": "1X 41% · X2 84% · 12 76%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5166765067651942,
+       "prob": 0.5165846165118779,
        "detail": "UNDER 2.5 goles · 48%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7133118321741871,
+       "prob": 0.7133949601076992,
        "detail": "OVER 1.5 goles · 71%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5607901397015672,
+       "prob": 0.5607245741973987,
        "detail": "BTTS Sí 44%",
        "strong": false
       },
@@ -2984,14 +2892,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9604501405758732,
+       "prob": 0.9604406810385939,
        "detail": "Línea +1.5 · AWAY 96%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.8624293066127339,
+       "prob": 0.862343913093265,
        "detail": "LOCAL UNDER 1.5 goles 86%",
        "strong": false
       }
@@ -3014,35 +2922,35 @@
       {
        "label": "1X2",
        "pick": "Belize",
-       "prob": 0.6458335427129074,
+       "prob": 0.6461764073309383,
        "detail": "Local 65% · Empate 19% · Visitante 16%",
        "strong": true
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.8389332587395363,
+       "prob": 0.8389900025061929,
        "detail": "1X 84% · X2 35% · 12 81%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6261390478267843,
+       "prob": 0.62714661525236,
        "detail": "OVER 2.5 goles · 63%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8414936170861823,
+       "prob": 0.8420850264765315,
        "detail": "OVER 1.5 goles · 84%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5491233244972086,
+       "prob": 0.5497916447669045,
        "detail": "BTTS Sí 55%",
        "strong": false
       },
@@ -3050,20 +2958,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 3.25",
+       "detail": "Goles esperados 3.26",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.7156068746850818,
+       "prob": 0.7164640362301591,
        "detail": "Línea -0.5 · HOME 72%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.7923356558597312,
+       "prob": 0.7911664663114396,
        "detail": "VISITANTE UNDER 1.5 goles 79%",
        "strong": false
       }
@@ -3086,35 +2994,35 @@
       {
        "label": "1X2",
        "pick": "Dominica",
-       "prob": 0.3935793571963458,
+       "prob": 0.39376653553360375,
        "detail": "Local 39% · Empate 30% · Visitante 31%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7023756237841046,
+       "prob": 0.7026941102454981,
        "detail": "1X 69% · X2 61% · 12 70%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5821607089507908,
+       "prob": 0.5816149129576239,
        "detail": "UNDER 2.5 goles · 42%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.6722752421002633,
+       "prob": 0.6730393769756834,
        "detail": "OVER 1.5 goles · 67%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5364522152662133,
+       "prob": 0.5358892670260625,
        "detail": "BTTS Sí 46%",
        "strong": false
       },
@@ -3128,14 +3036,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8913593048243377,
+       "prob": 0.8908860330412778,
        "detail": "Línea +1.5 · AWAY 89%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.8523434315028093,
+       "prob": 0.8514569946093687,
        "detail": "VISITANTE UNDER 1.5 goles 85%",
        "strong": false
       }
@@ -3158,35 +3066,35 @@
       {
        "label": "1X2",
        "pick": "St. Kitts and Nevis",
-       "prob": 0.7405569888226333,
-       "detail": "Local 74% · Empate 16% · Visitante 10%",
+       "prob": 0.7339133338652837,
+       "detail": "Local 73% · Empate 16% · Visitante 10%",
        "strong": true
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.9044688676347152,
-       "detail": "1X 90% · X2 26% · 12 84%",
+       "prob": 0.8976203599879256,
+       "detail": "1X 90% · X2 27% · 12 84%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.7916612399266294,
+       "prob": 0.7921654261344397,
        "detail": "OVER 2.5 goles · 79%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8956205470704804,
+       "prob": 0.8957858601654108,
        "detail": "OVER 1.5 goles · 90%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6642405469961932,
+       "prob": 0.6648059530995369,
        "detail": "BTTS Sí 66%",
        "strong": false
       },
@@ -3194,20 +3102,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 4.22",
+       "detail": "Goles esperados 4.23",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.8040422828418002,
+       "prob": 0.804770356821842,
        "detail": "Línea -0.5 · HOME 80%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.910438255188615,
+       "prob": 0.9115324133952596,
        "detail": "LOCAL OVER 1.5 goles 91%",
        "strong": false
       }
@@ -3230,35 +3138,35 @@
       {
        "label": "1X2",
        "pick": "Barbados",
-       "prob": 0.4483093643349009,
+       "prob": 0.44849012110637815,
        "detail": "Local 35% · Empate 20% · Visitante 45%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7954128063396348,
+       "prob": 0.7955971874653727,
        "detail": "1X 55% · X2 65% · 12 80%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.7318715803128624,
+       "prob": 0.7323646901888157,
        "detail": "OVER 2.5 goles · 73%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8839561781729253,
+       "prob": 0.884112014747683,
        "detail": "OVER 1.5 goles · 88%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.7091840066759012,
+       "prob": 0.7096589624954278,
        "detail": "BTTS Sí 71%",
        "strong": false
       },
@@ -3266,20 +3174,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 4.18",
+       "detail": "Goles esperados 4.19",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.831280954479488,
+       "prob": 0.8310930144472995,
        "detail": "Línea +1.5 · AWAY 83%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE OVER",
-       "prob": 0.8225241933047802,
+       "prob": 0.8241351728602649,
        "detail": "VISITANTE OVER 1.5 goles 82%",
        "strong": false
       }
@@ -3302,35 +3210,35 @@
       {
        "label": "1X2",
        "pick": "St. Vincent and the Grenadines",
-       "prob": 0.5751513037371726,
+       "prob": 0.5754166141622781,
        "detail": "Local 19% · Empate 23% · Visitante 58%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.8064773229561025,
+       "prob": 0.8064770349095969,
        "detail": "1X 42% · X2 81% · 12 77%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6350418331052827,
+       "prob": 0.6360565913190954,
        "detail": "OVER 2.5 goles · 64%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.832346198760972,
+       "prob": 0.8329555155985136,
        "detail": "OVER 1.5 goles · 83%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6173118231480057,
+       "prob": 0.6180504496907417,
        "detail": "BTTS Sí 62%",
        "strong": false
       },
@@ -3338,20 +3246,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 3.39",
+       "detail": "Goles esperados 3.40",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9119990631555572,
+       "prob": 0.9118448600352906,
        "detail": "Línea +1.5 · AWAY 91%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.6641307730886696,
+       "prob": 0.6624843649327019,
        "detail": "LOCAL UNDER 1.5 goles 66%",
        "strong": false
       }
@@ -3374,35 +3282,35 @@
       {
        "label": "1X2",
        "pick": "United States",
-       "prob": 0.493147809876191,
-       "detail": "Local 49% · Empate 20% · Visitante 30%",
+       "prob": 0.46348074846822085,
+       "detail": "Local 46% · Empate 20% · Visitante 33%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.796012984644112,
-       "detail": "1X 70% · X2 51% · 12 80%",
+       "prob": 0.7962379868175241,
+       "detail": "1X 67% · X2 54% · 12 80%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.7242454492913903,
+       "prob": 0.724963435226518,
        "detail": "OVER 2.5 goles · 72%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8738231196739503,
+       "prob": 0.874103912343829,
        "detail": "OVER 1.5 goles · 87%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.6584546539902677,
+       "prob": 0.6590630237955907,
        "detail": "BTTS Sí 66%",
        "strong": false
       },
@@ -3416,14 +3324,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.6256678785999423,
+       "prob": 0.6263347214120981,
        "detail": "Línea -0.5 · HOME 63%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.7959997644037344,
+       "prob": 0.7977178101715301,
        "detail": "LOCAL OVER 1.5 goles 80%",
        "strong": false
       }
@@ -3446,35 +3354,35 @@
       {
        "label": "1X2",
        "pick": "St. Martin",
-       "prob": 0.5534566137149708,
-       "detail": "Local 26% · Empate 18% · Visitante 55%",
+       "prob": 0.5437108999073323,
+       "detail": "Local 26% · Empate 19% · Visitante 54%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.8169943855818839,
-       "detail": "1X 45% · X2 74% · 12 82%",
+       "prob": 0.8083179070151805,
+       "detail": "1X 46% · X2 74% · 12 81%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6282311300076814,
+       "prob": 0.6292379121417999,
        "detail": "OVER 2.5 goles · 63%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8071943247969364,
+       "prob": 0.8079251135879271,
        "detail": "OVER 1.5 goles · 81%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.597398906384448,
+       "prob": 0.5979961095290074,
        "detail": "BTTS Sí 60%",
        "strong": false
       },
@@ -3488,14 +3396,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9794038724436842,
+       "prob": 0.979387293177293,
        "detail": "Línea +1.5 · AWAY 98%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.8823443586655108,
+       "prob": 0.8816141648585057,
        "detail": "LOCAL UNDER 1.5 goles 88%",
        "strong": false
       }
@@ -3518,35 +3426,35 @@
       {
        "label": "1X2",
        "pick": "Mexico",
-       "prob": 0.5437462241421666,
+       "prob": 0.5440686867922645,
        "detail": "Local 54% · Empate 24% · Visitante 21%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.7862700591624598,
+       "prob": 0.7862769354843573,
        "detail": "1X 79% · X2 46% · 12 76%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5038123353431434,
+       "prob": 0.5046831241268261,
        "detail": "OVER 2.5 goles · 50%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7484752950033813,
+       "prob": 0.7492924595391781,
        "detail": "OVER 1.5 goles · 75%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5125670546597617,
+       "prob": 0.5119252915751228,
        "detail": "BTTS Sí 49%",
        "strong": false
       },
@@ -3554,20 +3462,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 2.75",
+       "detail": "Goles esperados 2.76",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.7059084729995846,
-       "detail": "Línea +1.5 · AWAY 71%",
+       "prob": 0.7048089879473575,
+       "detail": "Línea +1.5 · AWAY 70%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.8606023281551276,
+       "prob": 0.8597578836067294,
        "detail": "VISITANTE UNDER 1.5 goles 86%",
        "strong": false
       }
@@ -3590,35 +3498,35 @@
       {
        "label": "1X2",
        "pick": "Montserrat",
-       "prob": 0.508184449585025,
-       "detail": "Local 29% · Empate 21% · Visitante 51%",
+       "prob": 0.508490101122052,
+       "detail": "Local 29% · Empate 20% · Visitante 51%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7949481198632831,
-       "detail": "1X 49% · X2 71% · 12 79%",
+       "prob": 0.795243589661202,
+       "detail": "1X 49% · X2 71% · 12 80%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5558974692469352,
+       "prob": 0.5568719826388194,
        "detail": "OVER 2.5 goles · 56%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7875251667221823,
+       "prob": 0.7882943684944194,
        "detail": "OVER 1.5 goles · 79%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5162241704764048,
+       "prob": 0.5169251972851373,
        "detail": "BTTS Sí 52%",
        "strong": false
       },
@@ -3626,20 +3534,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 2.93",
+       "detail": "Goles esperados 2.94",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.944902760775867,
+       "prob": 0.9447847759433222,
        "detail": "Línea +1.5 · AWAY 94%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.8032653615069383,
+       "prob": 0.8021447987170087,
        "detail": "LOCAL UNDER 1.5 goles 80%",
        "strong": false
       }
@@ -3662,35 +3570,35 @@
       {
        "label": "1X2",
        "pick": "Burundi",
-       "prob": 0.5180249796425387,
+       "prob": 0.5176364485781835,
        "detail": "Local 52% · Empate 24% · Visitante 24%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.7600614263924516,
+       "prob": 0.7600294190680141,
        "detail": "1X 76% · X2 48% · 12 76%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5594979753651104,
+       "prob": 0.5602463260474644,
        "detail": "UNDER 2.5 goles · 44%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.712439752507322,
+       "prob": 0.7116609562418517,
        "detail": "OVER 1.5 goles · 71%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.6044640915338798,
+       "prob": 0.604882094095114,
        "detail": "BTTS Sí 40%",
        "strong": false
       },
@@ -3704,14 +3612,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.6754055849749957,
-       "detail": "Línea -0.5 · HOME 68%",
+       "prob": 0.6744342573141074,
+       "detail": "Línea -0.5 · HOME 67%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.9520646808946304,
+       "prob": 0.9523698825904254,
        "detail": "VISITANTE UNDER 1.5 goles 95%",
        "strong": false
       }
@@ -3734,35 +3642,35 @@
       {
        "label": "1X2",
        "pick": "Ethiopia",
-       "prob": 0.40928889256194745,
+       "prob": 0.4090855143676953,
        "detail": "Local 41% · Empate 23% · Visitante 36%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7687678667993222,
+       "prob": 0.7685305444350757,
        "detail": "1X 64% · X2 59% · 12 77%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5813950897834402,
+       "prob": 0.5804578804094893,
        "detail": "OVER 2.5 goles · 58%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8108861206150052,
+       "prob": 0.8103684228956949,
        "detail": "OVER 1.5 goles · 81%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5534779019391576,
+       "prob": 0.5527818685085225,
        "detail": "BTTS Sí 55%",
        "strong": false
       },
@@ -3770,20 +3678,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 3.18",
+       "detail": "Goles esperados 3.16",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.7089790939603342,
+       "prob": 0.7097116164478172,
        "detail": "Línea +1.5 · AWAY 71%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL OVER",
-       "prob": 0.5947171900271231,
+       "prob": 0.5927701644952995,
        "detail": "LOCAL OVER 1.5 goles 59%",
        "strong": false
       }
@@ -3806,35 +3714,35 @@
       {
        "label": "1X2",
        "pick": "Gabon",
-       "prob": 0.4839707482811579,
+       "prob": 0.48369263036374227,
        "detail": "Local 26% · Empate 25% · Visitante 48%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.7482904595401574,
+       "prob": 0.7480294046866061,
        "detail": "1X 52% · X2 74% · 12 75%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5300123487561207,
+       "prob": 0.5290464004702934,
        "detail": "OVER 2.5 goles · 53%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7434807631339668,
+       "prob": 0.7428730008482092,
        "detail": "OVER 1.5 goles · 74%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5147177363773018,
+       "prob": 0.5140285584464637,
        "detail": "BTTS Sí 51%",
        "strong": false
       },
@@ -3842,20 +3750,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 2.80",
+       "detail": "Goles esperados 2.79",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9315605923333252,
+       "prob": 0.9316641312848135,
        "detail": "Línea +1.5 · AWAY 93%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.7158886613518237,
+       "prob": 0.7172789706586807,
        "detail": "LOCAL UNDER 1.5 goles 72%",
        "strong": false
       }
@@ -3878,35 +3786,35 @@
       {
        "label": "1X2",
        "pick": "Egypt",
-       "prob": 0.5602599638020335,
+       "prob": 0.5599973436979314,
        "detail": "Local 16% · Empate 28% · Visitante 56%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.8398985360380467,
+       "prob": 0.839922233151496,
        "detail": "1X 44% · X2 84% · 12 72%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.55184779794096,
+       "prob": 0.5526466075446124,
        "detail": "UNDER 2.5 goles · 45%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.6805118225918756,
+       "prob": 0.6797347736668427,
        "detail": "OVER 1.5 goles · 68%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5573671071259344,
+       "prob": 0.5580018142894044,
        "detail": "BTTS Sí 44%",
        "strong": false
       },
@@ -3920,14 +3828,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9393456249797829,
+       "prob": 0.9395137776755387,
        "detail": "Línea +1.5 · AWAY 94%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.8309451549571713,
+       "prob": 0.8318792475575542,
        "detail": "LOCAL UNDER 1.5 goles 83%",
        "strong": false
       }
@@ -3950,35 +3858,35 @@
       {
        "label": "1X2",
        "pick": "Angola",
-       "prob": 0.4086143386418709,
+       "prob": 0.40851074090814476,
        "detail": "Local 29% · Empate 30% · Visitante 41%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7066835360775391,
+       "prob": 0.7068433359369866,
        "detail": "1X 59% · X2 71% · 12 70%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.540968910862853,
+       "prob": 0.5418027615137837,
        "detail": "UNDER 2.5 goles · 46%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7060375894236661,
+       "prob": 0.705266970471168,
        "detail": "OVER 1.5 goles · 71%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5361661488563475,
+       "prob": 0.5368562080583148,
        "detail": "BTTS Sí 46%",
        "strong": false
       },
@@ -3992,14 +3900,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8387256216112715,
+       "prob": 0.8392548034571582,
        "detail": "Línea +1.5 · AWAY 84%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.7313046098311791,
+       "prob": 0.7326412971194844,
        "detail": "VISITANTE UNDER 1.5 goles 73%",
        "strong": false
       }
@@ -4022,35 +3930,35 @@
       {
        "label": "1X2",
        "pick": "Nigeria",
-       "prob": 0.5408770485454366,
+       "prob": 0.5405844669430807,
        "detail": "Local 18% · Empate 28% · Visitante 54%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.8164127509593136,
+       "prob": 0.8163863385421994,
        "detail": "1X 46% · X2 82% · 12 72%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.547742240966412,
-       "detail": "OVER 2.5 goles · 55%",
+       "prob": 0.5558531476868181,
+       "detail": "OVER 2.5 goles · 56%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7903818655452437,
+       "prob": 0.7897653713350894,
        "detail": "OVER 1.5 goles · 79%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5069404805497068,
+       "prob": 0.5062613986113256,
        "detail": "BTTS Sí 51%",
        "strong": false
       },
@@ -4058,20 +3966,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 2.91",
+       "detail": "Goles esperados 2.90",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9414181668242221,
+       "prob": 0.9414991867734933,
        "detail": "Línea +1.5 · AWAY 94%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.7417295843562234,
+       "prob": 0.7430286997818065,
        "detail": "LOCAL UNDER 1.5 goles 74%",
        "strong": false
       }
@@ -4094,35 +4002,35 @@
       {
        "label": "1X2",
        "pick": "Ivory Coast",
-       "prob": 0.39016446976705155,
+       "prob": 0.39001152135443795,
        "detail": "Local 30% · Empate 31% · Visitante 39%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7004040149013679,
+       "prob": 0.7004977525005077,
        "detail": "1X 61% · X2 70% · 12 69%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5071852509787089,
+       "prob": 0.5081441549556871,
        "detail": "UNDER 2.5 goles · 49%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7317549833400037,
+       "prob": 0.7310829399562073,
        "detail": "OVER 1.5 goles · 73%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5263741352104785,
+       "prob": 0.5256449557573528,
        "detail": "BTTS Sí 53%",
        "strong": false
       },
@@ -4130,20 +4038,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 2.71",
+       "detail": "Goles esperados 2.70",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8520489500055474,
+       "prob": 0.8524268611166403,
        "detail": "Línea +1.5 · AWAY 85%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.622686279863802,
+       "prob": 0.6243510938005563,
        "detail": "LOCAL UNDER 1.5 goles 62%",
        "strong": false
       }
@@ -4166,36 +4074,36 @@
       {
        "label": "1X2",
        "pick": "Guinea-Bissau",
-       "prob": 0.3890133429381883,
+       "prob": 0.38882690877794646,
        "detail": "Local 39% · Empate 31% · Visitante 30%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.6978733130059124,
+       "prob": 0.6979464817006371,
        "detail": "1X 70% · X2 61% · 12 69%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5657807900664886,
+       "prob": 0.5666745265063127,
        "detail": "UNDER 2.5 goles · 43%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7542602211131935,
+       "prob": 0.7497629393652705,
        "detail": "OVER 1.5 goles · 75%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
-       "pick": "SÍ",
-       "prob": 0.5052942976375578,
-       "detail": "BTTS Sí 51%",
+       "pick": "NO",
+       "prob": 0.5013942330138786,
+       "detail": "BTTS Sí 50%",
        "strong": false
       },
       {
@@ -4208,14 +4116,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8003895357939207,
+       "prob": 0.8010204919421078,
        "detail": "Línea +1.5 · AWAY 80%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.7206705403657312,
+       "prob": 0.7220444640723418,
        "detail": "VISITANTE UNDER 1.5 goles 72%",
        "strong": false
       }
@@ -4238,56 +4146,56 @@
       {
        "label": "1X2",
        "pick": "South Africa",
-       "prob": 0.45830846225009597,
+       "prob": 0.4581105046452221,
        "detail": "Local 23% · Empate 31% · Visitante 46%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7689161706752095,
+       "prob": 0.7689849475744335,
        "detail": "1X 54% · X2 77% · 12 69%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5451096380636555,
+       "prob": 0.5459527803646977,
        "detail": "UNDER 2.5 goles · 45%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.6903684081067252,
+       "prob": 0.6875512020452887,
        "detail": "OVER 1.5 goles · 69%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5248504597463333,
-       "detail": "BTTS Sí 48%",
+       "prob": 0.5255355105660808,
+       "detail": "BTTS Sí 47%",
        "strong": false
       },
       {
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 2.49",
+       "detail": "Goles esperados 2.48",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9024346392048018,
+       "prob": 0.9027199385297354,
        "detail": "Línea +1.5 · AWAY 90%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.7589477035276772,
+       "prob": 0.7601824495817745,
        "detail": "LOCAL UNDER 1.5 goles 76%",
        "strong": false
       }
@@ -4310,35 +4218,35 @@
       {
        "label": "1X2",
        "pick": "Libya",
-       "prob": 0.6046324094234576,
-       "detail": "Local 60% · Empate 18% · Visitante 21%",
-       "strong": true
+       "prob": 0.5821189218590788,
+       "detail": "Local 58% · Empate 19% · Visitante 23%",
+       "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "12",
-       "prob": 0.8167973775631621,
-       "detail": "1X 79% · X2 40% · 12 82%",
+       "prob": 0.8114166893385677,
+       "detail": "1X 77% · X2 42% · 12 81%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5714745582343664,
+       "prob": 0.5705089110344943,
        "detail": "OVER 2.5 goles · 57%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.79750513171712,
+       "prob": 0.7968573431617917,
        "detail": "OVER 1.5 goles · 80%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5041194337172451,
+       "prob": 0.5047483908756306,
        "detail": "BTTS Sí 50%",
        "strong": false
       },
@@ -4352,14 +4260,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "HOME -0.5",
-       "prob": 0.6821851918228361,
+       "prob": 0.6813641262006295,
        "detail": "Línea -0.5 · HOME 68%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.8218771261708043,
+       "prob": 0.8228519186645218,
        "detail": "VISITANTE UNDER 1.5 goles 82%",
        "strong": false
       }
@@ -4382,35 +4290,35 @@
       {
        "label": "1X2",
        "pick": "Congo DR",
-       "prob": 0.5106377419987902,
+       "prob": 0.5104039891791944,
        "detail": "Local 19% · Empate 30% · Visitante 51%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.8088878031510149,
+       "prob": 0.8089067374232399,
        "detail": "1X 49% · X2 81% · 12 70%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5355526153922214,
-       "detail": "OVER 2.5 goles · 54%",
+       "prob": 0.5345856919004354,
+       "detail": "OVER 2.5 goles · 53%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7994676724388441,
+       "prob": 0.7988401643745189,
        "detail": "OVER 1.5 goles · 80%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5317160510847936,
+       "prob": 0.5310054948599985,
        "detail": "BTTS Sí 53%",
        "strong": false
       },
@@ -4418,20 +4326,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 2.83",
+       "detail": "Goles esperados 2.82",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9037858633330205,
+       "prob": 0.9039748279208695,
        "detail": "Línea +1.5 · AWAY 90%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.6730773023641929,
+       "prob": 0.6746043590389169,
        "detail": "LOCAL UNDER 1.5 goles 67%",
        "strong": false
       }
@@ -4454,35 +4362,35 @@
       {
        "label": "1X2",
        "pick": "Algeria",
-       "prob": 0.5307999996901166,
+       "prob": 0.5306354871752713,
        "detail": "Local 21% · Empate 26% · Visitante 53%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7902453651810373,
+       "prob": 0.7903001529304425,
        "detail": "1X 47% · X2 79% · 12 74%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.6113566516848551,
+       "prob": 0.6105160983773443,
        "detail": "OVER 2.5 goles · 61%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8206273239801517,
+       "prob": 0.8202354877757092,
        "detail": "OVER 1.5 goles · 82%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5966022245285051,
+       "prob": 0.5959574240872817,
        "detail": "BTTS Sí 60%",
        "strong": false
       },
@@ -4490,20 +4398,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 3.22",
+       "detail": "Goles esperados 3.21",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8335619733258485,
+       "prob": 0.8338525443351616,
        "detail": "Línea +1.5 · AWAY 83%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE OVER",
-       "prob": 0.64487395365483,
+       "prob": 0.6429440280181627,
        "detail": "VISITANTE OVER 1.5 goles 64%",
        "strong": false
       }
@@ -4526,35 +4434,35 @@
       {
        "label": "1X2",
        "pick": "Uganda",
-       "prob": 0.3956854133490181,
+       "prob": 0.3955670816675879,
        "detail": "Local 30% · Empate 31% · Visitante 40%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7020466431052181,
+       "prob": 0.7021836476361212,
        "detail": "1X 60% · X2 70% · 12 69%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.516306391727283,
+       "prob": 0.5172050354656046,
        "detail": "UNDER 2.5 goles · 48%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7484096188282946,
+       "prob": 0.7476654178000346,
        "detail": "OVER 1.5 goles · 75%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5040514074102918,
+       "prob": 0.504767045067388,
        "detail": "BTTS Sí 50%",
        "strong": false
       },
@@ -4568,14 +4476,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8399782995159408,
+       "prob": 0.8404605401975255,
        "detail": "Línea +1.5 · AWAY 84%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.6730773023641929,
+       "prob": 0.6746043590389169,
        "detail": "VISITANTE UNDER 1.5 goles 67%",
        "strong": false
       }
@@ -4598,35 +4506,35 @@
       {
        "label": "1X2",
        "pick": "Empate",
-       "prob": 0.41326732971330177,
+       "prob": 0.41361610756435374,
        "detail": "Local 23% · Empate 41% · Visitante 36%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7695562389289425,
+       "prob": 0.769704878586734,
        "detail": "1X 64% · X2 77% · 12 59%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.705021629428535,
+       "prob": 0.7051389672070925,
        "detail": "UNDER 2.5 goles · 29%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "UNDER",
-       "prob": 0.5115773775323078,
-       "detail": "UNDER 1.5 goles · 49%",
+       "prob": 0.515356806626365,
+       "detail": "UNDER 1.5 goles · 48%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.6800505736474443,
+       "prob": 0.6802671217779426,
        "detail": "BTTS Sí 32%",
        "strong": false
       },
@@ -4640,14 +4548,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9716787513372749,
+       "prob": 0.9718307913015389,
        "detail": "Línea +1.5 · AWAY 97%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.9602894709756253,
+       "prob": 0.9605453975059617,
        "detail": "LOCAL UNDER 1.5 goles 96%",
        "strong": false
       }
@@ -4670,35 +4578,35 @@
       {
        "label": "1X2",
        "pick": "Cape Verde",
-       "prob": 0.43003377840304613,
+       "prob": 0.42715082192627174,
        "detail": "Local 28% · Empate 29% · Visitante 43%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.7239902082160055,
+       "prob": 0.7213734189617707,
        "detail": "1X 57% · X2 72% · 12 71%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5091582524960141,
+       "prob": 0.5081916320300072,
        "detail": "OVER 2.5 goles · 51%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.736423410314497,
+       "prob": 0.7357875183289955,
        "detail": "OVER 1.5 goles · 74%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5042858139365002,
+       "prob": 0.5036014918285548,
        "detail": "BTTS Sí 50%",
        "strong": false
       },
@@ -4712,14 +4620,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.937568018064153,
+       "prob": 0.937664898582084,
        "detail": "Línea +1.5 · AWAY 94%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.7417295843562234,
+       "prob": 0.7430286997818065,
        "detail": "LOCAL UNDER 1.5 goles 74%",
        "strong": false
       }
@@ -4742,35 +4650,35 @@
       {
        "label": "1X2",
        "pick": "Burkina Faso",
-       "prob": 0.37791936687585614,
+       "prob": 0.3829869998257744,
        "detail": "Local 30% · Empate 32% · Visitante 38%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.6980987920493468,
+       "prob": 0.6981685522673815,
        "detail": "1X 62% · X2 70% · 12 68%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.54949567733999,
+       "prob": 0.5503889967187424,
        "detail": "UNDER 2.5 goles · 45%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.7050669648245586,
-       "detail": "OVER 1.5 goles · 71%",
+       "prob": 0.7043194240709589,
+       "detail": "OVER 1.5 goles · 70%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5088439510857563,
+       "prob": 0.5095496938948727,
        "detail": "BTTS Sí 49%",
        "strong": false
       },
@@ -4784,15 +4692,15 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.8919906731111417,
+       "prob": 0.8922893501672574,
        "detail": "Línea +1.5 · AWAY 89%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "LOCAL UNDER",
-       "prob": 0.7244978445079309,
-       "detail": "LOCAL UNDER 1.5 goles 72%",
+       "prob": 0.7258584931960241,
+       "detail": "LOCAL UNDER 1.5 goles 73%",
        "strong": false
       }
      ],
@@ -4814,35 +4722,35 @@
       {
        "label": "1X2",
        "pick": "Rwanda",
-       "prob": 0.40257770623102296,
+       "prob": 0.40227044548463,
        "detail": "Local 40% · Empate 31% · Visitante 29%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "1X",
-       "prob": 0.7115515792971201,
+       "prob": 0.7115605411166745,
        "detail": "1X 71% · X2 60% · 12 69%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "UNDER",
-       "prob": 0.5893270006010397,
+       "prob": 0.5900078801966182,
        "detail": "UNDER 2.5 goles · 41%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.6426044312668298,
+       "prob": 0.6418315764647503,
        "detail": "OVER 1.5 goles · 64%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "NO",
-       "prob": 0.5916459057105641,
+       "prob": 0.5921898873548068,
        "detail": "BTTS Sí 41%",
        "strong": false
       },
@@ -4856,14 +4764,14 @@
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.7549994980132899,
-       "detail": "Línea +1.5 · AWAY 75%",
+       "prob": 0.7559523124815624,
+       "detail": "Línea +1.5 · AWAY 76%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE UNDER",
-       "prob": 0.8953690685155216,
+       "prob": 0.895989435705361,
        "detail": "VISITANTE UNDER 1.5 goles 90%",
        "strong": false
       }
@@ -4886,35 +4794,35 @@
       {
        "label": "1X2",
        "pick": "Morocco",
-       "prob": 0.559450945857608,
+       "prob": 0.5591993018755367,
        "detail": "Local 18% · Empate 26% · Visitante 56%",
        "strong": false
       },
       {
        "label": "Doble Oportunidad",
        "pick": "X2",
-       "prob": 0.8206784288630888,
+       "prob": 0.8206537832992784,
        "detail": "1X 44% · X2 82% · 12 74%",
        "strong": false
       },
       {
        "label": "Over/Under 2.5",
        "pick": "OVER",
-       "prob": 0.5975143557754543,
+       "prob": 0.5967124799160319,
        "detail": "OVER 2.5 goles · 60%",
        "strong": false
       },
       {
        "label": "Over/Under 1.5",
        "pick": "OVER",
-       "prob": 0.8276788280641802,
+       "prob": 0.8273212240439048,
        "detail": "OVER 1.5 goles · 83%",
        "strong": false
       },
       {
        "label": "BTTS (Ambos marcan)",
        "pick": "SÍ",
-       "prob": 0.5796309199783867,
+       "prob": 0.5790030978829483,
        "detail": "BTTS Sí 58%",
        "strong": false
       },
@@ -4922,20 +4830,20 @@
        "label": "Total Goles",
        "pick": "-",
        "prob": null,
-       "detail": "Goles esperados 3.31",
+       "detail": "Goles esperados 3.30",
        "strong": false
       },
       {
        "label": "Hándicap Asiático",
        "pick": "AWAY +1.5",
-       "prob": 0.9044199380396603,
+       "prob": 0.9045127927168249,
        "detail": "Línea +1.5 · AWAY 90%",
        "strong": true
       },
       {
        "label": "Equipo O/U 1.5",
        "pick": "VISITANTE OVER",
-       "prob": 0.7397292759690328,
+       "prob": 0.737937208214458,
        "detail": "VISITANTE OVER 1.5 goles 74%",
        "strong": false
       }
@@ -4944,11 +4852,11 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 103.8,
+   "elapsed_s": 110.9,
    "sport": "futbol",
    "sport_name": "Fútbol",
    "all_leagues": true,
-   "picks_total_brutos": 42,
+   "picks_total_brutos": 41,
    "picks_policy": {
     "mercados_excluidos": [
      "BTTS"
@@ -4960,7 +4868,7 @@
      "UNL": 0.7
     },
     "conservados": 33,
-    "descartados": 9
+    "descartados": 8
    }
   },
   "amfut": {

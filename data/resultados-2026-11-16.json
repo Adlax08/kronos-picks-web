@@ -1,13 +1,13 @@
 {
  "day": "2026-11-16",
- "generated_at": "2026-11-16T00:45:18",
+ "generated_at": "2026-11-16T18:20:51",
  "total": {
-  "ganados": 0,
+  "ganados": 12,
   "perdidos": 0,
   "anulados": 0,
-  "pendientes": 19,
-  "n": 19,
-  "win_pct": null
+  "pendientes": 8,
+  "n": 20,
+  "win_pct": 1.0
  },
  "picks": [
   {
@@ -23,7 +23,7 @@
    "cuota": null,
    "prob": 0.8821551307411472,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -38,7 +38,7 @@
    "cuota": null,
    "prob": 0.8701846280574278,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -53,7 +53,7 @@
    "cuota": null,
    "prob": 0.8632976370919923,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -68,7 +68,7 @@
    "cuota": null,
    "prob": 0.857508815003264,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -83,7 +83,7 @@
    "cuota": null,
    "prob": 0.8525560773159424,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -96,7 +96,7 @@
    "mercado": "ML",
    "pick": "ML: HOME (Boston Celtics)",
    "cuota": 1.265,
-   "prob": 0.8508,
+   "prob": 0.8507,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -113,7 +113,7 @@
    "cuota": null,
    "prob": 0.8184549226109609,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -128,7 +128,7 @@
    "cuota": null,
    "prob": 0.8153421012907882,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -143,6 +143,36 @@
    "cuota": null,
    "prob": 0.8153290275880767,
    "tier": "BUENO",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-16",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Cleveland Cavaliers",
+   "visitante": "Chicago Bulls",
+   "partido": "Chicago Bulls @ Cleveland Cavaliers",
+   "mercado": "ML",
+   "pick": "ML: HOME (Cleveland Cavaliers)",
+   "cuota": 1.306,
+   "prob": 0.8101,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-16",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Brooklyn Nets",
+   "visitante": "Philadelphia 76ers",
+   "partido": "Philadelphia 76ers @ Brooklyn Nets",
+   "mercado": "ML",
+   "pick": "ML: AWAY (Philadelphia 76ers)",
+   "cuota": 1.435,
+   "prob": 0.7971,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -188,7 +218,7 @@
    "cuota": null,
    "prob": 0.768739681400543,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -203,7 +233,7 @@
    "cuota": null,
    "prob": 0.7610217354680383,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -218,6 +248,21 @@
    "cuota": null,
    "prob": 0.7601623525485792,
    "tier": "BUENO",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-16",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "New Orleans Pelicans",
+   "visitante": "Golden State Warriors",
+   "partido": "Golden State Warriors @ New Orleans Pelicans",
+   "mercado": "ML",
+   "pick": "ML: AWAY (Golden State Warriors)",
+   "cuota": 1.645,
+   "prob": 0.759,
+   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -233,7 +278,7 @@
    "cuota": 2.53,
    "prob": 0.7558,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -262,36 +307,6 @@
    "pick": "ML: HOME (Baltimore Ravens)",
    "cuota": 1.444,
    "prob": 0.7359,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-16",
-   "deporte": "tenis",
-   "liga": "WTA",
-   "liga_nombre": "WTA Tour",
-   "local": "Ariana Geerlings",
-   "visitante": "Luisina Giovannini",
-   "partido": "Ariana Geerlings vs Luisina Giovannini",
-   "mercado": "ML",
-   "pick": "Ariana Geerlings",
-   "cuota": null,
-   "prob": 0.7255,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-16",
-   "deporte": "futbol",
-   "liga": "CNL",
-   "liga_nombre": "Concacaf Nations League",
-   "local": "Cuba",
-   "visitante": "Grenada",
-   "partido": "Cuba vs Grenada",
-   "mercado": "O/U 2.5",
-   "pick": "O/U 2.5: OVER",
-   "cuota": null,
-   "prob": 0.7009104652827907,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   }
