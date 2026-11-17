@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:20:51",
+ "generated_at": "2026-11-16T20:50:13",
  "days": 30,
  "solo_verificables": true,
  "total": {
@@ -23,16 +23,16 @@
    "ganados": 32,
    "perdidos": 9,
    "anulados": 0,
-   "pendientes": 4,
-   "n": 45,
+   "pendientes": 5,
+   "n": 46,
    "win_pct": 0.78
   },
   "futbol": {
    "ganados": 203,
    "perdidos": 53,
    "anulados": 0,
-   "pendientes": 23,
-   "n": 279,
+   "pendientes": 22,
+   "n": 278,
    "win_pct": 0.793
   },
   "tenis": {
@@ -6326,23 +6326,8 @@
    "mercado": "1X2",
    "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.9401129569237328,
+   "prob": 0.9400931604020104,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-17",
-   "deporte": "futbol",
-   "liga": "AMI",
-   "liga_nombre": "Amistosos Int. (Selecciones)",
-   "local": "Ecuador",
-   "visitante": "Bolivia",
-   "partido": "Ecuador vs Bolivia",
-   "mercado": "Doble Oportunidad",
-   "pick": "DO: 1X",
-   "cuota": null,
-   "prob": 0.905531035226134,
-   "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
   {
@@ -6356,7 +6341,22 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: 1X",
    "cuota": null,
-   "prob": 0.8920460061651472,
+   "prob": 0.892038110901934,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-17",
+   "deporte": "futbol",
+   "liga": "AMI",
+   "liga_nombre": "Amistosos Int. (Selecciones)",
+   "local": "Ecuador",
+   "visitante": "Bolivia",
+   "partido": "Ecuador vs Bolivia",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: 1X",
+   "cuota": null,
+   "prob": 0.8912647338958021,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6386,7 +6386,22 @@
    "mercado": "1X2",
    "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.8699679155177054,
+   "prob": 0.8699735694108445,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-17",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Los Angeles Lakers",
+   "visitante": "Charlotte Hornets",
+   "partido": "Charlotte Hornets @ Los Angeles Lakers",
+   "mercado": "ML",
+   "pick": "ML: HOME (Los Angeles Lakers)",
+   "cuota": 1.262,
+   "prob": 0.8698,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -6401,7 +6416,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: 1X",
    "cuota": null,
-   "prob": 0.846825578261299,
+   "prob": 0.8468136926079659,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -6416,7 +6431,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8420850264765315,
+   "prob": 0.8414936170861823,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6431,7 +6446,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8408953201475472,
+   "prob": 0.8407064055211344,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6446,7 +6461,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: X2",
    "cuota": null,
-   "prob": 0.839922233151496,
+   "prob": 0.8398985360380467,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -6461,7 +6476,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8354181441907607,
+   "prob": 0.8353904292038364,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6476,7 +6491,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: X2",
    "cuota": null,
-   "prob": 0.8350631558608366,
+   "prob": 0.8350615156467815,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -6491,7 +6506,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8329555155985136,
+   "prob": 0.832346198760972,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6506,7 +6521,7 @@
    "mercado": "1X2",
    "pick": "1X2: HOME (1)",
    "cuota": null,
-   "prob": 0.8315205267814294,
+   "prob": 0.8314363932818908,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -6521,7 +6536,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.829266377110661,
+   "prob": 0.8291164197413485,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6536,7 +6551,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8290113911793275,
+   "prob": 0.8288683107711112,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6551,7 +6566,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8273212240439048,
+   "prob": 0.8276788280641802,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6566,7 +6581,7 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8202354877757092,
+   "prob": 0.8206273239801517,
    "tier": "MUY BUENO",
    "estado": "PENDIENTE"
   },
@@ -6581,7 +6596,7 @@
    "mercado": "Doble Oportunidad",
    "pick": "DO: X2",
    "cuota": null,
-   "prob": 0.8163863385421994,
+   "prob": 0.8164127509593136,
    "tier": "BUENO",
    "estado": "PENDIENTE"
   },
@@ -6596,23 +6611,8 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8103684228956949,
+   "prob": 0.8108861206150052,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-17",
-   "deporte": "futbol",
-   "liga": "AMI",
-   "liga_nombre": "Amistosos Int. (Selecciones)",
-   "local": "China",
-   "visitante": "Bahrain",
-   "partido": "China vs Bahrain",
-   "mercado": "Doble Oportunidad",
-   "pick": "DO: 1X",
-   "cuota": null,
-   "prob": 0.8099890755894841,
-   "tier": "BUENO",
    "estado": "PENDIENTE"
   }
  ]
