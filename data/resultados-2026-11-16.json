@@ -1,15 +1,30 @@
 {
  "day": "2026-11-16",
- "generated_at": "2026-11-16T18:20:51",
+ "generated_at": "2026-11-17T18:22:14",
  "total": {
-  "ganados": 12,
-  "perdidos": 0,
+  "ganados": 18,
+  "perdidos": 2,
   "anulados": 0,
-  "pendientes": 8,
+  "pendientes": 0,
   "n": 20,
-  "win_pct": 1.0
+  "win_pct": 0.9
  },
  "picks": [
+  {
+   "fecha": "2026-11-16",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "UCLA Bruins",
+   "visitante": "Long Beach State Beach",
+   "partido": "Long Beach State Beach @ UCLA Bruins",
+   "mercado": "ML",
+   "pick": "ML: HOME (UCLA Bruins)",
+   "cuota": null,
+   "prob": 0.9022,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
   {
    "fecha": "2026-11-16",
    "deporte": "futbol",
@@ -98,7 +113,7 @@
    "cuota": 1.265,
    "prob": 0.8507,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-16",
@@ -158,7 +173,7 @@
    "cuota": 1.306,
    "prob": 0.8101,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -173,7 +188,7 @@
    "cuota": 1.435,
    "prob": 0.7971,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -188,7 +203,7 @@
    "cuota": null,
    "prob": 0.7914176426724173,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -203,7 +218,7 @@
    "cuota": null,
    "prob": 0.775235059069131,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-16",
@@ -263,7 +278,7 @@
    "cuota": 1.645,
    "prob": 0.759,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-16",
@@ -293,22 +308,7 @@
    "cuota": null,
    "prob": 0.7442105369901512,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-16",
-   "deporte": "amfut",
-   "liga": "NFL",
-   "liga_nombre": "NFL",
-   "local": "Baltimore Ravens",
-   "visitante": "Los Angeles Chargers",
-   "partido": "Los Angeles Chargers @ Baltimore Ravens",
-   "mercado": "ML",
-   "pick": "ML: HOME (Baltimore Ravens)",
-   "cuota": 1.444,
-   "prob": 0.7359,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   }
  ]
 }

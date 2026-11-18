@@ -1,30 +1,15 @@
 {
  "day": "2026-11-17",
- "generated_at": "2026-11-16T20:50:13",
+ "generated_at": "2026-11-17T18:22:14",
  "total": {
-  "ganados": 0,
-  "perdidos": 0,
+  "ganados": 11,
+  "perdidos": 4,
   "anulados": 0,
-  "pendientes": 20,
+  "pendientes": 5,
   "n": 20,
-  "win_pct": null
+  "win_pct": 0.733
  },
  "picks": [
-  {
-   "fecha": "2026-11-17",
-   "deporte": "futbol",
-   "liga": "AMI",
-   "liga_nombre": "Amistosos Int. (Selecciones)",
-   "local": "Argentina",
-   "visitante": "Costa Rica",
-   "partido": "Argentina vs Costa Rica",
-   "mercado": "1X2",
-   "pick": "1X2: HOME (1)",
-   "cuota": null,
-   "prob": 0.9400931604020104,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
   {
    "fecha": "2026-11-17",
    "deporte": "futbol",
@@ -38,7 +23,7 @@
    "cuota": null,
    "prob": 0.892038110901934,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -83,7 +68,7 @@
    "cuota": null,
    "prob": 0.8699735694108445,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-17",
@@ -113,7 +98,7 @@
    "cuota": null,
    "prob": 0.8468136926079659,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-17",
@@ -128,7 +113,7 @@
    "cuota": null,
    "prob": 0.8414936170861823,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -143,7 +128,7 @@
    "cuota": null,
    "prob": 0.8407064055211344,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -158,7 +143,7 @@
    "cuota": null,
    "prob": 0.8398985360380467,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -173,7 +158,7 @@
    "cuota": null,
    "prob": 0.8353904292038364,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -188,7 +173,7 @@
    "cuota": null,
    "prob": 0.8350615156467815,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -218,7 +203,7 @@
    "cuota": null,
    "prob": 0.8314363932818908,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -248,7 +233,7 @@
    "cuota": null,
    "prob": 0.8288683107711112,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -263,7 +248,7 @@
    "cuota": null,
    "prob": 0.8276788280641802,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-17",
@@ -278,7 +263,7 @@
    "cuota": null,
    "prob": 0.8206273239801517,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -293,7 +278,7 @@
    "cuota": null,
    "prob": 0.8164127509593136,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -308,7 +293,22 @@
    "cuota": null,
    "prob": 0.8108861206150052,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-17",
+   "deporte": "futbol",
+   "liga": "AMI",
+   "liga_nombre": "Amistosos Int. (Selecciones)",
+   "local": "Kuwait",
+   "visitante": "Honduras",
+   "partido": "Kuwait vs Honduras",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8094103790676532,
+   "tier": "MUY BUENO",
+   "estado": "GANADO"
   }
  ]
 }
