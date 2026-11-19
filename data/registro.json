@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-17T18:22:14",
+ "generated_at": "2026-11-18T21:21:19",
  "days": 30,
  "solo_verificables": true,
  "total": {
-  "ganados": 331,
-  "perdidos": 95,
+  "ganados": 344,
+  "perdidos": 100,
   "anulados": 2,
-  "pendientes": 25,
-  "n": 453,
-  "win_pct": 0.777
+  "pendientes": 16,
+  "n": 462,
+  "win_pct": 0.775
  },
  "by_sport": {
   "amfut": {
@@ -20,28 +20,28 @@
    "win_pct": 0.769
   },
   "basquet": {
-   "ganados": 35,
-   "perdidos": 11,
+   "ganados": 40,
+   "perdidos": 12,
    "anulados": 0,
-   "pendientes": 3,
-   "n": 49,
-   "win_pct": 0.761
+   "pendientes": 2,
+   "n": 54,
+   "win_pct": 0.769
   },
   "futbol": {
-   "ganados": 217,
-   "perdidos": 57,
+   "ganados": 224,
+   "perdidos": 60,
    "anulados": 0,
-   "pendientes": 13,
-   "n": 287,
-   "win_pct": 0.792
+   "pendientes": 6,
+   "n": 290,
+   "win_pct": 0.789
   },
   "tenis": {
-   "ganados": 69,
-   "perdidos": 24,
+   "ganados": 70,
+   "perdidos": 25,
    "anulados": 2,
-   "pendientes": 2,
-   "n": 97,
-   "win_pct": 0.742
+   "pendientes": 1,
+   "n": 98,
+   "win_pct": 0.737
   }
  },
  "picks": [
@@ -6317,6 +6317,21 @@
   },
   {
    "fecha": "2026-11-17",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Vanderbilt Commodores",
+   "visitante": "Eastern Illinois Panthers",
+   "partido": "Eastern Illinois Panthers @ Vanderbilt Commodores",
+   "mercado": "ML",
+   "pick": "ML: HOME (Vanderbilt Commodores)",
+   "cuota": null,
+   "prob": 0.961,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-17",
    "deporte": "futbol",
    "liga": "AMI",
    "liga_nombre": "Amistosos Int. (Selecciones)",
@@ -6343,7 +6358,7 @@
    "cuota": null,
    "prob": 0.8912647338958021,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -6388,7 +6403,7 @@
    "cuota": 1.262,
    "prob": 0.8698,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -6482,6 +6497,21 @@
   },
   {
    "fecha": "2026-11-17",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Miami Hurricanes",
+   "visitante": "Rider Broncs",
+   "partido": "Rider Broncs @ Miami Hurricanes",
+   "mercado": "ML",
+   "pick": "ML: HOME (Miami Hurricanes)",
+   "cuota": null,
+   "prob": 0.8338,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-17",
    "deporte": "futbol",
    "liga": "CNL",
    "liga_nombre": "Concacaf Nations League",
@@ -6493,7 +6523,7 @@
    "cuota": null,
    "prob": 0.832346198760972,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-17",
@@ -6523,7 +6553,7 @@
    "cuota": null,
    "prob": 0.8291164197413485,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-17",
@@ -6586,36 +6616,6 @@
    "estado": "GANADO"
   },
   {
-   "fecha": "2026-11-17",
-   "deporte": "futbol",
-   "liga": "AFQ",
-   "liga_nombre": "Clasificatoria AFCON",
-   "local": "Ethiopia",
-   "visitante": "Mozambique",
-   "partido": "Ethiopia vs Mozambique",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8108861206150052,
-   "tier": "MUY BUENO",
-   "estado": "PERDIDO"
-  },
-  {
-   "fecha": "2026-11-17",
-   "deporte": "futbol",
-   "liga": "AMI",
-   "liga_nombre": "Amistosos Int. (Selecciones)",
-   "local": "Kuwait",
-   "visitante": "Honduras",
-   "partido": "Kuwait vs Honduras",
-   "mercado": "O/U 1.5",
-   "pick": "O/U 1.5: OVER",
-   "cuota": null,
-   "prob": 0.8094103790676532,
-   "tier": "MUY BUENO",
-   "estado": "GANADO"
-  },
-  {
    "fecha": "2026-11-18",
    "deporte": "amfut",
    "liga": "NCAAF",
@@ -6626,7 +6626,7 @@
    "mercado": "ML",
    "pick": "ML: HOME (Massachusetts Minutemen)",
    "cuota": null,
-   "prob": 0.899,
+   "prob": 0.9224,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -6640,10 +6640,25 @@
    "partido": "Utah Jazz @ Los Angeles Lakers",
    "mercado": "ML",
    "pick": "ML: HOME (Los Angeles Lakers)",
-   "cuota": null,
-   "prob": 0.8755,
+   "cuota": 1.183,
+   "prob": 0.9012,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-18",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "Texas Tech Red Raiders",
+   "visitante": "LSU New Orleans Privateers",
+   "partido": "LSU New Orleans Privateers @ Texas Tech Red Raiders",
+   "mercado": "ML",
+   "pick": "ML: HOME (Texas Tech Red Raiders)",
+   "cuota": null,
+   "prob": 0.8756,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-18",
@@ -6658,7 +6673,22 @@
    "cuota": null,
    "prob": 0.8433508940125581,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
+  },
+  {
+   "fecha": "2026-11-18",
+   "deporte": "basquet",
+   "liga": "NCAA",
+   "liga_nombre": "Todas las ligas",
+   "local": "St. John's Red Storm",
+   "visitante": "Siena Saints",
+   "partido": "Siena Saints @ St. John's Red Storm",
+   "mercado": "ML",
+   "pick": "ML: HOME (St. John's Red Storm)",
+   "cuota": null,
+   "prob": 0.8201,
+   "tier": "TOP PICK",
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-18",
@@ -6673,7 +6703,7 @@
    "cuota": null,
    "prob": 0.8103455724085817,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-18",
@@ -6688,7 +6718,7 @@
    "cuota": null,
    "prob": 0.8090724895914885,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-18",
@@ -6703,7 +6733,7 @@
    "cuota": null,
    "prob": 0.7943352333649766,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-18",
@@ -6718,7 +6748,7 @@
    "cuota": null,
    "prob": 0.7782020355639685,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-18",
@@ -6733,7 +6763,7 @@
    "cuota": null,
    "prob": 0.7733427125981394,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-18",
@@ -6748,7 +6778,7 @@
    "cuota": null,
    "prob": 0.7728,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-18",
@@ -6763,7 +6793,7 @@
    "cuota": null,
    "prob": 0.7654041771958633,
    "tier": "BUENO",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-18",
@@ -6778,7 +6808,7 @@
    "cuota": null,
    "prob": 0.7508252766060007,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "PERDIDO"
   },
   {
    "fecha": "2026-11-18",
@@ -6791,7 +6821,7 @@
    "mercado": "ML",
    "pick": "ML: HOME (Buffalo Bulls)",
    "cuota": null,
-   "prob": 0.7375,
+   "prob": 0.7376,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
@@ -6808,7 +6838,7 @@
    "cuota": null,
    "prob": 0.7354,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-18",
@@ -6823,7 +6853,7 @@
    "cuota": null,
    "prob": 0.7247297202065083,
    "tier": "TOP PICK",
-   "estado": "PENDIENTE"
+   "estado": "GANADO"
   },
   {
    "fecha": "2026-11-18",
@@ -6837,6 +6867,111 @@
    "pick": "Sofia Costoulas",
    "cuota": null,
    "prob": 0.7214,
+   "tier": "TOP PICK",
+   "estado": "PERDIDO"
+  },
+  {
+   "fecha": "2026-11-19",
+   "deporte": "futbol",
+   "liga": "WCH",
+   "liga_nombre": "Champions Femenina",
+   "local": "Barcelona (W)",
+   "visitante": "Servette (W)",
+   "partido": "Barcelona (W) vs Servette (W)",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.9944577719220744,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-19",
+   "deporte": "futbol",
+   "liga": "WCH",
+   "liga_nombre": "Champions Femenina",
+   "local": "Austria Vienna (W)",
+   "visitante": "Bayern Munich (W)",
+   "partido": "Austria Vienna (W) vs Bayern Munich (W)",
+   "mercado": "Doble Oportunidad",
+   "pick": "DO: X2",
+   "cuota": null,
+   "prob": 0.8792592670167677,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-19",
+   "deporte": "basquet",
+   "liga": "NBA",
+   "liga_nombre": "NBA",
+   "local": "Milwaukee Bucks",
+   "visitante": "Portland Trail Blazers",
+   "partido": "Portland Trail Blazers @ Milwaukee Bucks",
+   "mercado": "ML",
+   "pick": "ML: AWAY (Portland Trail Blazers)",
+   "cuota": null,
+   "prob": 0.8756,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-19",
+   "deporte": "futbol",
+   "liga": "WCH",
+   "liga_nombre": "Champions Femenina",
+   "local": "Arsenal (W)",
+   "visitante": "OL Lyonnes (W)",
+   "partido": "Arsenal (W) vs OL Lyonnes (W)",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8297493056767442,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-19",
+   "deporte": "futbol",
+   "liga": "WCH",
+   "liga_nombre": "Champions Femenina",
+   "local": "Benfica (W)",
+   "visitante": "Roma (W)",
+   "partido": "Benfica (W) vs Roma (W)",
+   "mercado": "O/U 1.5",
+   "pick": "O/U 1.5: OVER",
+   "cuota": null,
+   "prob": 0.8289130381180547,
+   "tier": "MUY BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-19",
+   "deporte": "tenis",
+   "liga": "WTA",
+   "liga_nombre": "WTA Tour",
+   "local": "Valeriya Strakhova",
+   "visitante": "Veronika Erjavec",
+   "partido": "Valeriya Strakhova vs Veronika Erjavec",
+   "mercado": "ML",
+   "pick": "Veronika Erjavec",
+   "cuota": null,
+   "prob": 0.7972,
+   "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-19",
+   "deporte": "futbol",
+   "liga": "WCH",
+   "liga_nombre": "Champions Femenina",
+   "local": "Paris FC (W)",
+   "visitante": "HB Køge (W)",
+   "partido": "Paris FC (W) vs HB Køge (W)",
+   "mercado": "O/U 2.5",
+   "pick": "O/U 2.5: OVER",
+   "cuota": null,
+   "prob": 0.7200163629502904,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
   }
