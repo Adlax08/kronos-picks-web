@@ -1,7 +1,7 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T21:17:42",
- "sports_total": "14 partidos",
+ "generated_at": "2026-11-18T22:11:11",
+ "sports_total": "9 partidos",
  "sports": [
   {
    "key": "beisbol",
@@ -257,9 +257,42 @@
    "league_label": "Todas las ligas",
    "n": 0,
    "message": "ATP: sin partidos pendientes · WTA: sin partidos pendientes · CHALLENGER: sin partidos pendientes",
-   "picks": [],
+   "picks": [
+    {
+     "match": "Ariana Geerlings vs Laura Samson",
+     "market": "ML",
+     "pick": "Laura Samson",
+     "prob": 0.7354,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    },
+    {
+     "match": "Guiomar Maristany Zuleta De Reales vs Sofia Costoulas",
+     "market": "ML",
+     "pick": "Sofia Costoulas",
+     "prob": 0.7214,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "WTA",
+     "league_label": "WTA Tour",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "PERDIDO"
+    }
+   ],
    "predictions": [],
-   "elapsed_s": 12.5,
+   "elapsed_s": 12.7,
    "sport": "tenis",
    "sport_name": "Tenis",
    "all_leagues": true
@@ -271,7 +304,152 @@
    "league_label": "Todas las ligas",
    "n": 0,
    "message": "Sin partidos pendientes para esa liga y fecha.",
-   "picks": [],
+   "picks": [
+    {
+     "match": "Alcoyano vs Mallorca",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8090724895914885,
+     "tier": "MUY BUENO",
+     "units": null,
+     "note": null,
+     "league_code": "CDR",
+     "league_label": "Copa del Rey",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    },
+    {
+     "match": "BK Häcken (W) vs Manchester City (W)",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8433508940125581,
+     "tier": "MUY BUENO",
+     "units": null,
+     "note": null,
+     "league_code": "WCH",
+     "league_label": "Champions Femenina",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    },
+    {
+     "match": "Badajoz vs Tenerife",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.7782020355639685,
+     "tier": "BUENO",
+     "units": null,
+     "note": null,
+     "league_code": "CDR",
+     "league_label": "Copa del Rey",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    },
+    {
+     "match": "CD Minera vs FC Cartagena",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.7654041771958633,
+     "tier": "BUENO",
+     "units": null,
+     "note": null,
+     "league_code": "CDR",
+     "league_label": "Copa del Rey",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    },
+    {
+     "match": "Chelsea (W) vs Paris Saint Germain (W)",
+     "market": "1X2",
+     "pick": "1X2: HOME (1)",
+     "prob": 0.7943352333649766,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "WCH",
+     "league_label": "Champions Femenina",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    },
+    {
+     "match": "Juventus (W) vs OH Leuven (W)",
+     "market": "O/U 2.5",
+     "pick": "O/U 2.5: OVER",
+     "prob": 0.7733427125981394,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "WCH",
+     "league_label": "Champions Femenina",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "PERDIDO"
+    },
+    {
+     "match": "Portugalete vs Real Unión Irun",
+     "market": "O/U 1.5",
+     "pick": "O/U 1.5: OVER",
+     "prob": 0.8103455724085817,
+     "tier": "MUY BUENO",
+     "units": null,
+     "note": null,
+     "league_code": "CDR",
+     "league_label": "Copa del Rey",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "PERDIDO"
+    },
+    {
+     "match": "Reus FC Reddis vs Barakaldo",
+     "market": "O/U 2.5",
+     "pick": "O/U 2.5: OVER",
+     "prob": 0.7508252766060007,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "CDR",
+     "league_label": "Copa del Rey",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "PERDIDO"
+    },
+    {
+     "match": "Utebo vs CD Sabadell",
+     "market": "O/U 2.5",
+     "pick": "O/U 2.5: OVER",
+     "prob": 0.7247297202065083,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "CDR",
+     "league_label": "Copa del Rey",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    }
+   ],
    "predictions": [],
    "elapsed_s": 0.0,
    "sport": "futbol",
@@ -407,7 +585,7 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 29.2,
+   "elapsed_s": 15.7,
    "sport": "amfut",
    "sport_name": "NFL/NCAAF",
    "all_leagues": true,
@@ -429,158 +607,75 @@
    "date": "2026-11-18",
    "league": "ALL",
    "league_label": "Todas las ligas",
-   "n": 12,
-   "message": "12 partidos proyectados",
+   "n": 7,
+   "message": "7 partidos proyectados",
    "picks": [
+    {
+     "match": "LSU New Orleans Privateers @ Texas Tech Red Raiders",
+     "market": "Moneyline",
+     "pick": "ML: HOME (Texas Tech Red Raiders)",
+     "prob": 0.8756,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "NCAA",
+     "league_label": "Todas las ligas",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    },
+    {
+     "match": "Siena Saints @ St. John's Red Storm",
+     "market": "Moneyline",
+     "pick": "ML: HOME (St. John's Red Storm)",
+     "prob": 0.8201,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "NCAA",
+     "league_label": "Todas las ligas",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "GANADO"
+    },
     {
      "match": "Utah Jazz @ Los Angeles Lakers",
      "market": "Moneyline",
      "pick": "ML: HOME (Los Angeles Lakers)",
      "prob": 0.9012,
      "tier": "TOP PICK",
-     "units": "2.0",
-     "note": ">=90% · momio 1.18349 · EV +6.7%",
+     "units": null,
+     "note": null,
      "league_code": "NBA",
      "league_label": "NBA",
      "odds": 1.183,
      "line": null,
      "edge": null,
-     "ev": null
+     "ev": null,
+     "estado": "PERDIDO"
+    },
+    {
+     "match": "Washington Wizards @ Toronto Raptors",
+     "market": "Moneyline",
+     "pick": "ML: HOME (Toronto Raptors)",
+     "prob": 0.7728,
+     "tier": "TOP PICK",
+     "units": null,
+     "note": null,
+     "league_code": "NBA",
+     "league_label": "NBA",
+     "odds": null,
+     "line": null,
+     "edge": null,
+     "ev": null,
+     "estado": "PERDIDO"
     }
    ],
    "predictions": [
-    {
-     "home": "New Orleans Pelicans",
-     "away": "Detroit Pistons",
-     "home_logo": "data/logos/3fdc0bc3d8301751.png",
-     "away_logo": "data/logos/28a3da947d54630b.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Detroit Pistons",
-       "prob": 0.7459371018502952,
-       "detail": "Local 25% · Visitante 75%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Detroit Pistons",
-       "prob": 0.5599844000896814,
-       "detail": "Detroit Pistons -4.5 · 56%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5690707205487364,
-       "detail": "Línea 224.5 · OVER 57% / UNDER 43%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 232.9",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Oklahoma City Thunder",
-     "away": "Atlanta Hawks",
-     "home_logo": "data/logos/1e6beb962760cb41.png",
-     "away_logo": "data/logos/cf63c8f41affe6cc.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Oklahoma City Thunder",
-       "prob": 0.6584394907319333,
-       "detail": "Local 66% · Visitante 34%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Atlanta Hawks",
-       "prob": 0.5205045198728705,
-       "detail": "Atlanta Hawks +6.5 · 52%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.5177128622579296,
-       "detail": "Línea 228.5 · OVER 48% / UNDER 52%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 226.4",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Dallas Mavericks",
-     "away": "Golden State Warriors",
-     "home_logo": "data/logos/0c8e5563b51acd1e.png",
-     "away_logo": "data/logos/e39f13a294c6c424.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NBA",
-     "league_label": "NBA",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Golden State Warriors",
-       "prob": 0.5728453603302112,
-       "detail": "Local 43% · Visitante 57%",
-       "strong": false
-      },
-      {
-       "label": "Spread",
-       "pick": "Golden State Warriors",
-       "prob": 0.6058943139776604,
-       "detail": "Golden State Warriors +5.5 · 61%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5239333554801626,
-       "detail": "Línea 223.5 · OVER 52% / UNDER 48%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 226.4",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
     {
      "home": "Denver Nuggets",
      "away": "Boston Celtics",
@@ -758,94 +853,6 @@
      "momentum_ok": false
     },
     {
-     "home": "BYU Cougars",
-     "away": "Northern Colorado Bears",
-     "home_logo": "data/logos/1c88b230f1facff9.png",
-     "away_logo": "data/logos/aafeba613d727f32.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "BYU Cougars",
-       "prob": 0.7098662480426284,
-       "detail": "Local 71% · Visitante 29%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "Northern Colorado Bears",
-       "prob": 0.7081450234395755,
-       "detail": "Northern Colorado Bears +28.5 · 71%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "UNDER",
-       "prob": 0.518950400365619,
-       "detail": "Línea 163.5 · OVER 48% / UNDER 52%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 161.6",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
-     "home": "Nebraska Cornhuskers",
-     "away": "South Dakota Coyotes",
-     "home_logo": "data/logos/8bb04bf4d33fec1d.png",
-     "away_logo": "data/logos/a9ccf135295c0e16.png",
-     "home_abbrev": "",
-     "away_abbrev": "",
-     "league_code": "NCAA",
-     "league_label": "Todas las ligas",
-     "context": "",
-     "extra": "",
-     "markets": [
-      {
-       "label": "Moneyline",
-       "pick": "Nebraska Cornhuskers",
-       "prob": 0.7349521271867804,
-       "detail": "Local 73% · Visitante 27%",
-       "strong": true
-      },
-      {
-       "label": "Spread",
-       "pick": "South Dakota Coyotes",
-       "prob": 0.7525290610200379,
-       "detail": "South Dakota Coyotes +32.5 · 75%",
-       "strong": false
-      },
-      {
-       "label": "Totales",
-       "pick": "OVER",
-       "prob": 0.5146600254934925,
-       "detail": "Línea 155.5 · OVER 51% / UNDER 49%",
-       "strong": false
-      },
-      {
-       "label": "Puntos esperados",
-       "pick": "-",
-       "prob": null,
-       "detail": "Total 157.0",
-       "strong": false
-      }
-     ],
-     "convergence": null,
-     "momentum_ok": false
-    },
-    {
      "home": "UCLA Bruins",
      "away": "Cal State Fullerton Titans",
      "home_logo": "data/logos/6d6b4326ee99d7db.png",
@@ -874,8 +881,8 @@
       {
        "label": "Totales",
        "pick": "UNDER",
-       "prob": 0.5572412039194,
-       "detail": "Línea 166.5 · OVER 44% / UNDER 56%",
+       "prob": 0.5670610701094496,
+       "detail": "Línea 167.5 · OVER 43% / UNDER 57%",
        "strong": false
       },
       {
@@ -978,11 +985,11 @@
      "momentum_ok": false
     }
    ],
-   "elapsed_s": 67.8,
+   "elapsed_s": 70.6,
    "sport": "basquet",
    "sport_name": "Básquetbol",
    "all_leagues": true,
-   "picks_total_brutos": 8,
+   "picks_total_brutos": 4,
    "picks_policy": {
     "mercados_excluidos": [
      "Spread",
@@ -991,12 +998,12 @@
     "min_prob": {
      "KOR": 0.65,
      "LTU": 0.75,
-     "NBA": 0.75,
-     "NCAA": 0.75
+     "NBA": 0.75
     },
     "conservados": 1,
-    "descartados": 7
+    "descartados": 3
    }
   }
- }
+ },
+ "historico": true
 }
