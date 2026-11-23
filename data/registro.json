@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-22T15:48:43",
+ "generated_at": "2026-11-22T23:10:53",
  "days": 30,
  "solo_verificables": true,
  "total": {
   "ganados": 376,
   "perdidos": 107,
   "anulados": 2,
-  "pendientes": 32,
-  "n": 517,
+  "pendientes": 30,
+  "n": 515,
   "win_pct": 0.778
  },
  "by_sport": {
@@ -23,8 +23,8 @@
    "ganados": 48,
    "perdidos": 14,
    "anulados": 0,
-   "pendientes": 6,
-   "n": 68,
+   "pendientes": 3,
+   "n": 65,
    "win_pct": 0.774
   },
   "futbol": {
@@ -39,8 +39,8 @@
    "ganados": 0,
    "perdidos": 0,
    "anulados": 0,
-   "pendientes": 5,
-   "n": 5,
+   "pendientes": 6,
+   "n": 6,
    "win_pct": null
   },
   "tenis": {
@@ -7629,21 +7629,6 @@
    "estado": "PENDIENTE"
   },
   {
-   "fecha": "2026-11-22",
-   "deporte": "marcadores",
-   "liga": "FRA",
-   "liga_nombre": "Ligue 1",
-   "local": "Marseille",
-   "visitante": "Le Mans",
-   "partido": "Marseille vs Le Mans",
-   "mercado": "Marcador exacto",
-   "pick": "Marcador: 2-1",
-   "cuota": null,
-   "prob": 0.10035,
-   "tier": "BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
    "fecha": "2026-11-23",
    "deporte": "basquet",
    "liga": "NBA",
@@ -7653,7 +7638,7 @@
    "partido": "San Antonio Spurs @ Sacramento Kings",
    "mercado": "ML",
    "pick": "ML: AWAY (San Antonio Spurs)",
-   "cuota": null,
+   "cuota": 1.207,
    "prob": 0.8988,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -7668,7 +7653,7 @@
    "partido": "Utah Jazz @ Los Angeles Lakers",
    "mercado": "ML",
    "pick": "ML: HOME (Los Angeles Lakers)",
-   "cuota": null,
+   "cuota": 1.125,
    "prob": 0.8924,
    "tier": "TOP PICK",
    "estado": "PENDIENTE"
@@ -7684,23 +7669,8 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.8373837963175428,
+   "prob": 0.8373631900258168,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-23",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Minnesota Timberwolves",
-   "visitante": "Brooklyn Nets",
-   "partido": "Brooklyn Nets @ Minnesota Timberwolves",
-   "mercado": "ML",
-   "pick": "ML: HOME (Minnesota Timberwolves)",
-   "cuota": null,
-   "prob": 0.8249,
-   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -7729,38 +7699,8 @@
    "mercado": "O/U 1.5",
    "pick": "O/U 1.5: OVER",
    "cuota": null,
-   "prob": 0.811132330286795,
+   "prob": 0.8110345447856608,
    "tier": "MUY BUENO",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-23",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Houston Rockets",
-   "visitante": "LA Clippers",
-   "partido": "LA Clippers @ Houston Rockets",
-   "mercado": "ML",
-   "pick": "ML: HOME (Houston Rockets)",
-   "cuota": null,
-   "prob": 0.8079,
-   "tier": "TOP PICK",
-   "estado": "PENDIENTE"
-  },
-  {
-   "fecha": "2026-11-23",
-   "deporte": "basquet",
-   "liga": "NBA",
-   "liga_nombre": "NBA",
-   "local": "Toronto Raptors",
-   "visitante": "Milwaukee Bucks",
-   "partido": "Milwaukee Bucks @ Toronto Raptors",
-   "mercado": "ML",
-   "pick": "ML: HOME (Toronto Raptors)",
-   "cuota": null,
-   "prob": 0.7962,
-   "tier": "TOP PICK",
    "estado": "PENDIENTE"
   },
   {
@@ -7791,6 +7731,36 @@
    "cuota": null,
    "prob": 0.7349,
    "tier": "TOP PICK",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-23",
+   "deporte": "marcadores",
+   "liga": "ENG",
+   "liga_nombre": "Premier League",
+   "local": "Brentford",
+   "visitante": "Everton",
+   "partido": "Brentford vs Everton",
+   "mercado": "Marcador exacto",
+   "pick": "Marcador: 1-0",
+   "cuota": null,
+   "prob": 0.1009,
+   "tier": "BUENO",
+   "estado": "PENDIENTE"
+  },
+  {
+   "fecha": "2026-11-23",
+   "deporte": "marcadores",
+   "liga": "LGF",
+   "liga_nombre": "Todas las ligas",
+   "local": "Espanyol (W)",
+   "visitante": "Valencia (W)",
+   "partido": "Espanyol (W) vs Valencia (W)",
+   "mercado": "Marcador exacto",
+   "pick": "Marcador: 2-1",
+   "cuota": null,
+   "prob": 0.10035,
+   "tier": "BUENO",
    "estado": "PENDIENTE"
   },
   {
