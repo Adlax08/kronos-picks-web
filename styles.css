@@ -519,6 +519,10 @@
 
 /* ── Picks IA experimentales ─────────────────────────────── */
 .ai-value-section { border-top: 2px solid #9C41C4; padding-top: 20px; }
+.ai-only-mode > section:not(#aiValueSection),
+.ai-only-mode > #liveDayResults,
+.ai-only-mode > #emptyState { display: none !important; }
+.ai-page-hidden { display: none !important; }
 .ai-value-badge, .ai-label-value, .ai-label-safe {
   display: inline-flex; align-items: center; border-radius: 999px; padding: 3px 8px;
   font-family: 'JetBrains Mono', monospace; font-size: 9px; font-weight: 700;

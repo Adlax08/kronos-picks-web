@@ -31,17 +31,24 @@
     </article>`;
   }
 
-  async function load(day) {
+  async function load(day, forceVisible) {
     const section = $("aiValueSection");
     const grid = $("aiValueGrid");
     if (!section || !grid || !day) return;
     try {
       const response = await fetch(`ai/ai-picks-${encodeURIComponent(day)}.json`, { cache: "no-store" });
-      if (!response.ok) return;
+      if (!response.ok) {
+        if (forceVisible) {
+          grid.innerHTML = `<p class="text-text-muted text-sm">No hay análisis IA publicado para ${esc(day)}.</p>`;
+          section.classList.remove("hidden");
+        }
+        return;
+      }
       const data = await response.json();
-      if (!Array.isArray(data.picks) || !data.picks.length) return;
-      grid.innerHTML = data.picks.map(card).join("");
-      $("aiValueCount").textContent = `(${data.picks.length})`;
+      grid.innerHTML = Array.isArray(data.picks) && data.picks.length
+        ? data.picks.map(card).join("")
+        : `<p class="text-text-muted text-sm">El análisis IA terminó sin picks aprobados para este día.</p>`;
+      $("aiValueCount").textContent = data.picks?.length ? `(${data.picks.length})` : "(0)";
       $("aiValueMeta").textContent = `${data.model || "Ollama"} · ${data.status || "ok"}`;
       section.classList.remove("hidden");
     } catch (_) {
@@ -49,12 +56,40 @@
     }
   }
 
+  function setAiMode(on) {
+    const results = $("resultsSection");
+    const section = $("aiValueSection");
+    ["heroHeader", "controlBar", "loadingSection", "errorSection", "auditPanel", "registroSection"].forEach((id) => {
+      $(id)?.classList.toggle("ai-page-hidden", on);
+    });
+    results?.classList.toggle("ai-only-mode", on);
+    document.querySelectorAll(".nav-link").forEach((link) => {
+      const active = on ? link.dataset.nav === "ia" : link.dataset.nav === "dashboard";
+      link.classList.toggle("border-b-2", active);
+      link.classList.toggle("border-primary", active);
+      link.classList.toggle("text-primary", active);
+    });
+    if (on) {
+      section?.classList.remove("hidden");
+      section?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  }
+
   function init() {
     const date = $("dateInput");
     if (!date) return;
-    const refresh = () => load(date.value);
+    const refresh = () => load(date.value, false);
     date.addEventListener("change", refresh);
     setTimeout(refresh, 900);
+    const ia = document.querySelector('[data-nav="ia"]');
+    ia?.addEventListener("click", (event) => {
+      event.preventDefault();
+      setAiMode(true);
+      load(date.value, true);
+    });
+    document.querySelectorAll(".nav-link:not([data-nav=ia])").forEach((link) => {
+      link.addEventListener("click", () => setAiMode(false));
+    });
   }
   document.addEventListener("DOMContentLoaded", init);
 })();
