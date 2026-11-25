@@ -1,79 +1,8 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T19:59:24.746127+00:00",
+  "generated_at": "2026-11-25T21:59:40.579866+00:00",
   "model": "qwen2.5:3b",
-  "status": "ok",
-  "candidates": 4,
-  "picks": [
-    {
-      "sport": "futbol",
-      "date": "2026-11-25",
-      "match": "Club Brugge vs Liverpool",
-      "market": "O/U 2.5",
-      "pick": "O/U 2.5: OVER",
-      "prob": 0.7467032764866917,
-      "odds": 1.7407407407407407,
-      "odds_provider": "draftkings",
-      "odds_checked_at": "2026-11-25T19:58:28.271569+00:00",
-      "line": null,
-      "league_code": "UCL",
-      "league_label": "Champions League",
-      "candidate_id": "futbol:Club Brugge vs Liverpool|O/U 2.5|O/U 2.5: OVER",
-      "ev": 0.299817,
-      "score_ia": 0.0,
-      "etiqueta": "SEGURO IA",
-      "unidades": 0.75,
-      "factores_positivos": [],
-      "riesgos": [],
-      "explicacion": "La probabilidad es de 0.7467, que supera el 70%, pero el EV es de 0.2998, que es menor que 5%. Por lo tanto, se clasifica como APROBAR_SEGURO.",
-      "fuentes": [
-        {
-          "name": "ESPN",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-          "type": "fixture"
-        }
-      ],
-      "modelo_ia": "qwen2.5:3b",
-      "generado_at": "2026-11-25T19:59:24.746127+00:00",
-      "estado": "PENDIENTE"
-    },
-    {
-      "sport": "futbol",
-      "date": "2026-11-25",
-      "match": "Atletico Madrid vs Viking FK",
-      "market": "O/U 2.5",
-      "pick": "O/U 2.5: OVER",
-      "prob": 0.8055645865987953,
-      "odds": 1.606060606060606,
-      "odds_provider": "draftkings",
-      "odds_checked_at": "2026-11-25T19:58:28.271569+00:00",
-      "line": null,
-      "league_code": "UCL",
-      "league_label": "Champions League",
-      "candidate_id": "futbol:Atletico Madrid vs Viking FK|O/U 2.5|O/U 2.5: OVER",
-      "ev": 0.293786,
-      "score_ia": 0.0,
-      "etiqueta": "SEGURO IA",
-      "unidades": 0.73,
-      "factores_positivos": [],
-      "riesgos": [],
-      "explicacion": "La probabilidad es de 0.8056, que supera el 70%, pero el EV es de 0.2938, que es menor que 5%. Por lo tanto, se clasifica como APROBAR_SEGURO.",
-      "fuentes": [
-        {
-          "name": "ESPN",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-          "type": "fixture"
-        }
-      ],
-      "modelo_ia": "qwen2.5:3b",
-      "generado_at": "2026-11-25T19:59:24.746127+00:00",
-      "estado": "PENDIENTE"
-    }
-  ],
-  "rules": {
-    "min_prob": 0.55,
-    "min_ev": 0.05,
-    "max_picks": 25,
-    "unit_max": 1.0
-  }
+  "status": "sin-candidatos",
+  "candidates": 0,
+  "picks": []
 }
