@@ -133,7 +133,6 @@
       <button data-nav="dashboard" class="nav-link border-b-2 border-primary text-primary font-label-md text-label-md pb-1 font-semibold">Predicciones</button>
       <button data-nav="cartelera" class="nav-link text-on-surface-variant font-label-md text-label-md hover:text-primary transition-colors pb-1">Cartelera</button>
       <button data-nav="registro" class="nav-link text-on-surface-variant font-label-md text-label-md hover:text-primary transition-colors pb-1">Registro</button>
-      <button data-nav="ia" class="nav-link text-on-surface-variant font-label-md text-label-md hover:text-primary transition-colors pb-1">Picks IA</button>
       <button data-nav="modelos" class="nav-link text-on-surface-variant font-label-md text-label-md hover:text-primary transition-colors pb-1">Modelos</button>
     </nav>
     <!-- Trailing Controls & Telemetry -->
@@ -272,20 +271,6 @@
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6" id="picksGrid"></div>
     </section>
 
-    <!-- Picks IA experimentales: solo se publica en kronos-picks-web -->
-    <section class="hidden mb-12 ai-value-section" id="aiValueSection">
-      <div class="flex items-center justify-between mb-4 gap-3">
-        <div class="flex items-baseline gap-2">
-          <h2 class="font-headline-lg text-headline-lg font-bold text-primary">Picks IA</h2>
-          <span class="ai-value-badge">EXPERIMENTAL</span>
-          <span class="font-label-md text-label-md text-on-surface-variant" id="aiValueCount"></span>
-        </div>
-        <span class="font-label-sm text-label-sm text-on-surface-variant" id="aiValueMeta"></span>
-      </div>
-      <p class="ai-value-disclaimer">El motor estadístico de Kronos genera los candidatos. Ollama solo analiza valor, contexto y riesgo; estos picks tienen registro separado.</p>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4" id="aiValueGrid"></div>
-    </section>
-
     <!-- Cartelera -->
     <section class="mb-12" id="carteleraSection">
       <div class="flex items-baseline gap-2 mb-4">
@@ -399,6 +384,5 @@
 </footer>
 
 <script src="app.js?v=5"></script>
-<script src="ai_value.js?v=1"></script>
 </body>
 </html>
